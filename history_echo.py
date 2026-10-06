@@ -213,7 +213,7 @@ def verify(stories: list[dict]) -> None:
 
 
 def render_markdown(day: datetime, stories: list[dict], headline_counts: dict[str, int]) -> str:
-    lines = [f"# History Echo ù {day:%A, %B %d, %Y}", "",
+    lines = [f"# History Echo \u2014 {day:%A, %B %d, %Y}", "",
              "_Today's news, and what happened the last time something like it happened._", ""]
     for category in CATEGORIES:
         cat = [s for s in stories if s["category"] == category]
@@ -227,14 +227,14 @@ def render_markdown(day: datetime, stories: list[dict], headline_counts: dict[st
                       "**Has it happened before?**", ""]
             for p in s.get("precedents", []):
                 w = p.get("wiki")
-                ref = f" ù [Wikipedia: {w['title']}]({w['url']})" if w and w.get("url") else " ù _(not verified)_"
-                lines += [f"- **{p.get('when', '')} ù {p.get('event', '')}**{ref}",
+                ref = f" \u2014 [Wikipedia: {w['title']}]({w['url']})" if w and w.get("url") else " \u2014 _(not verified)_"
+                lines += [f"- **{p.get('when', '')} \u2014 {p.get('event', '')}**{ref}",
                           f"  - What happened: {p.get('what_happened', '')}",
                           f"  - What followed: {p.get('what_followed', '')}",
                           f"  - Why comparable: {p.get('similarity', '')}"]
             lines += ["",
                       f"**Pattern:** {s.get('pattern', '')}", "",
-                      f"**Outlook:** {s.get('outlook', '')} ù **{s.get('probability', '?')}** within "
+                      f"**Outlook:** {s.get('outlook', '')} \u2014 **{s.get('probability', '?')}** within "
                       f"{s.get('timeframe', '?')} (confidence: {s.get('confidence', '?')})", "",
                       f"**Why this time could be different:** {s.get('different_this_time', '')}", "",
                       f"**Watch for:** {s.get('watch_for', '')}", "", "---", ""]
@@ -258,9 +258,9 @@ def render_html(md: str) -> str:
         elif line.startswith("# "):
             out.append(f"<h1>{esc[2:]}</h1>")
         elif line.startswith("  - "):
-            out.append(f"<div style='margin-left:28px'>ù {esc[4:]}</div>")
+            out.append(f"<div style='margin-left:28px'>\u2022 {esc[4:]}</div>")
         elif line.startswith("- "):
-            out.append(f"<div style='margin-left:12px;margin-top:6px'>? {esc[2:]}</div>")
+            out.append(f"<div style='margin-left:12px;margin-top:6px'>\u25b8 {esc[2:]}</div>")
         elif line == "---":
             out.append("<hr>")
         elif line:
@@ -359,7 +359,7 @@ def post_issue(title: str, body: str) -> None:
         requests.patch(f"{api}/issues/{issue['number']}", headers=h,
                        json={"state": "closed"}, timeout=30)
     if len(body) > 65000:
-        body = body[:65000] + "\n\n_(truncated ù see the full report in `reports/`)_"
+        body = body[:65000] + "\n\n_(truncated \u2014 see the full report in `reports/`)_"
     r = requests.post(f"{api}/issues", headers=h,
                       json={"title": title, "body": body, "labels": ["daily-echo"]}, timeout=30)
     r.raise_for_status()
@@ -408,7 +408,7 @@ def main() -> int:
     update_board(BOARD, day, stories)
     print(f"Saved report and board ({len(stories)} stories).")
 
-    title = f"History Echo ù {day:%a %b %d, %Y}"
+    title = f"History Echo \u2014 {day:%a %b %d, %Y}"
     try:
         post_issue(title, md)
     except Exception as exc:
