@@ -87,7 +87,7 @@ def parse_json(text: str) -> dict:
 PROVIDERS = [
     # (api key env var, OpenAI-compatible endpoint, models to try in order)
     ("GEMINI_API_KEY", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
-     ["gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-2.0-flash"]),
+     ["gemini-3.8-flash", "gemini-3.5-flash-lite", "gemini-flash-latest"]),
     ("GROQ_API_KEY", "https://api.groq.com/openai/v1/chat/completions",
      ["llama-3.3-70b-versatile", "openai/gpt-oss-120b"]),
     ("OPENROUTER_API_KEY", "https://openrouter.ai/api/v1/chat/completions",
