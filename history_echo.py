@@ -124,7 +124,7 @@ class LLM:
                                       }, timeout=180)
                     if r.status_code in (429, 503):
                         last_err = f"{model}: HTTP {r.status_code} (busy)"
-                        time.sleep(20 * (retry + 1))
+                        time.sleep(8)
                         continue
                     if r.status_code >= 400 or not r.text.strip():
                         last_err = f"{model}: HTTP {r.status_code} {r.text[:300]!r}"
@@ -340,18 +340,27 @@ def send_email(subject: str, html_body: str, text_body: str) -> None:
     msg["To"] = to
     msg.set_content(text_body)
     msg.add_alternative(html_body, subtype="html")
-    port = int(os.environ.get("SMTP_PORT", "").strip() or "587")
+    configured = os.environ.get("SMTP_PORT", "").strip()
+    ports = [int(configured)] if configured else [587, 465]
     ctx = ssl.create_default_context()
-    if port == 465:
-        with smtplib.SMTP_SSL(host, port, context=ctx) as s:
-            s.login(user, pwd)
-            s.send_message(msg)
-    else:
-        with smtplib.SMTP(host, port) as s:
-            s.starttls(context=ctx)
-            s.login(user, pwd)
-            s.send_message(msg)
-    print(f"  Email sent to {to}.")
+    last: Exception | None = None
+    for port in ports:
+        try:
+            if port == 465:
+                with smtplib.SMTP_SSL(host, port, context=ctx, timeout=30) as s:
+                    s.login(user, pwd)
+                    s.send_message(msg)
+            else:
+                with smtplib.SMTP(host, port, timeout=30) as s:
+                    s.starttls(context=ctx)
+                    s.login(user, pwd)
+                    s.send_message(msg)
+            print(f"  Email sent (port {port}).")
+            return
+        except Exception as exc:
+            last = exc
+            print(f"  ! email via port {port} failed: {type(exc).__name__}: {exc}")
+    raise RuntimeError(f"all SMTP ports failed: {last}")
 
 
 def post_issue(title: str, body: str) -> None:
