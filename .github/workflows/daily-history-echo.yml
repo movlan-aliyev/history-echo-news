@@ -1,0 +1,59 @@
+name: Daily History Echo
+
+on:
+  schedule:
+    # 11:15 UTC = 7:15 AM Boston (EDT) / 6:15 AM (EST)
+    - cron: "15 11 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: history-echo
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+  models: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Ensure issue label exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh label create daily-echo --color 1F4E79 --description "Daily History Echo report" -R "$GITHUB_REPOSITORY" 2>/dev/null || true
+
+      - name: Build today's History Echo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python history_echo.py
+
+      - name: Commit report and board
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports data
+          if git diff --staged --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "History Echo $(date -u +%Y-%m-%d)"
+            git push
+          fi
