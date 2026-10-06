@@ -122,8 +122,8 @@ class LLM:
                                           "messages": [{"role": "system", "content": system},
                                                        {"role": "user", "content": user}],
                                       }, timeout=180)
-                    if r.status_code == 429:
-                        last_err = f"{model}: rate limited"
+                    if r.status_code in (429, 503):
+                        last_err = f"{model}: HTTP {r.status_code} (busy)"
                         time.sleep(20 * (retry + 1))
                         continue
                     if r.status_code >= 400 or not r.text.strip():
@@ -340,7 +340,7 @@ def send_email(subject: str, html_body: str, text_body: str) -> None:
     msg["To"] = to
     msg.set_content(text_body)
     msg.add_alternative(html_body, subtype="html")
-    port = int(os.environ.get("SMTP_PORT", "587"))
+    port = int(os.environ.get("SMTP_PORT", "").strip() or "587")
     ctx = ssl.create_default_context()
     if port == 465:
         with smtplib.SMTP_SSL(host, port, context=ctx) as s:
