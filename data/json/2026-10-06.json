@@ -2,16 +2,16 @@
   {
     "headline": "Democrats' advantage is clear with less than a month to go in the midterm elections",
     "source_link": "https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress",
-    "what_happened": "Polls show Democrats holding a clear advantage heading into the 2026 midterms, fueled by low presidential approval ratings and voter frustration with rising costs under Donald Trump's administration.",
-    "event_type": "midterm swings",
+    "what_happened": "Polls show Democrats holding a clear advantage in the upcoming November midterms as voters express frustration with incumbent President Donald Trump and rising costs.",
+    "event_type": "midterm elections",
     "precedents": [
       {
         "when": "2018",
         "event": "2018 United States elections",
         "wikipedia_title": "2018 United States elections",
-        "what_happened": "The party out of power capitalized on a sitting president's low approval ratings and voter discontent during a midterm cycle.",
-        "what_followed": "The opposition party picked up 41 seats in the House and won control of the chamber just one month later in November 2018.",
-        "similarity": "Midterm election taking place two years into a controversial presidential term with significant voter backlash over economic and national issues.",
+        "what_happened": "The party out of power capitalized on low presidential approval ratings and economic anxiety to flip the House of Representatives in a wave election.",
+        "what_followed": "The opposition party took control of the House in January 2019, leading to intense legislative gridlock and multiple investigations.",
+        "similarity": "Midterm elections during a Republican presidential administration characterized by voter backlash against the incumbent.",
         "wiki": {
           "title": "2018 United States elections",
           "url": "https://en.wikipedia.org/wiki/2018_United_States_elections",
@@ -22,9 +22,9 @@
         "when": "2006",
         "event": "2006 United States elections",
         "wikipedia_title": "2006 United States elections",
-        "what_happened": "Voters delivered a stinging rebuke to an incumbent first-term midterm administration amid economic and policy dissatisfaction.",
-        "what_followed": "The incumbent president's party lost control of both the House and the Senate in the November 2006 vote.",
-        "similarity": "Classic six-year itch / midterm backlash dynamic against a sitting Republican president.",
+        "what_happened": "Voters delivered a 'thumping' to the ruling party amid economic discontent and dissatisfaction with the sitting president's policies.",
+        "what_followed": "The opposition Democrats gained control of both the House and the Senate, altering the balance of power for the remainder of the presidential term.",
+        "similarity": "Midterm referendum on a sitting Republican president suffering from low approval ratings.",
         "wiki": {
           "title": "2006 United States elections",
           "url": "https://en.wikipedia.org/wiki/2006_United_States_elections",
@@ -32,28 +32,117 @@
         }
       }
     ],
-    "pattern": "In roughly 75% of modern midterm cycles, the party holding the White House loses seats in Congress due to a referendum effect on the incumbent administration.",
-    "outlook": "Democrats are favored to flip the House of Representatives and make major gains in the Senate.",
-    "probability": "65-70%",
+    "pattern": "In modern US midterm history, the party holding the White House almost invariably loses congressional seats when the president's approval is underwater, occurring in roughly 7 out of 8 midterm cycles.",
+    "outlook": "Democrats are favored to make significant gains, likely capturing at least one chamber of Congress.",
+    "probability": "65%",
     "timeframe": "next 1 month",
     "confidence": "Medium",
-    "different_this_time": "Deeply entrenched partisan polarization and micro-targeting could alter traditional turnout models compared to past waves.",
-    "watch_for": "Early voting turnout numbers in key suburban swing districts.",
-    "category": "US Politics"
+    "different_this_time": "Deeply entrenched partisan polarization and highly gerrymandered districts could blunt the size of the opposition wave.",
+    "watch_for": "Late-breaking economic indicators and final turnout numbers among independent voters.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Ara seçimlere bir aydan kısa bir süre kala Demokratların üstünlüğü açıkça görülüyor",
+        "Today": "Anketler, seçmenlerin görevdeki Başkan Donald Trump'tan ve artan maliyetlerden duydukları memnuniyetsizliği dile getirmesiyle, yaklaşan Kasım ara seçimlerinde Demokratların net bir üstünlük koruduğunu gösteriyor.",
+        "Event Type": "ara seçimler",
+        "Historical Precedents": "2018: 2018 Birleşik Devletler seçimleri\n2006: 2006 Birleşik Devletler seçimleri",
+        "What Followed Before": "2018: Muhalefet partisi Ocak 2019'da Temsilciler Meclisi'nin kontrolünü ele geçirdi, bu da yoğun yasama kilitlenmelerine ve birden fazla soruşturmaya yol açtı.\n2006: Muhalefetteki Demokratlar hem Temsilciler Meclisi'nin hem de Senato'nun kontrolünü kazanarak başkanlık döneminin geri kalanındaki güç dengesini değiştirdi.",
+        "Pattern": "Modern ABD ara seçimleri tarihinde, Beyaz Saray'ı elinde bulunduran parti, başkanın onay oranı düşük olduğunda nerdeyse istisnasız olarak kongrede sandalye kaybeder; bu durum her 8 ara seçim döngüsünün yaklaşık 7'sinde gerçekleşmektedir.",
+        "Outlook": "Demokratların önemli kazançlar elde etmesi ve muhtemelen Kongre'nin en az bir kanadını ele geçirmesi bekleniyor.",
+        "Timeframe": "gelecek 1 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Derinden kökleşmiş partizan kutuplaşması ve büyük ölçüde manipüle edilmiş seçim bölgeleri (gerrymandering), muhalefet dalgasının büyüklüğünü zayıflatabilir.",
+        "Watch For": "Son dakikada açıklanan ekonomik göstergeler ve bağımsız seçmenler arasındaki nihai katılım oranları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "midterm elections",
+            "tr": "ara seçimler"
+          },
+          {
+            "en": "advantage is clear",
+            "tr": "üstünlük açık"
+          }
+        ],
+        "Today": [
+          {
+            "en": "incumbent",
+            "tr": "grevdeki, mevcut görevde olan"
+          },
+          {
+            "en": "frustration",
+            "tr": "memnuniyetsizlik, hayal kırıklığı"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "legislative gridlock",
+            "tr": "yasama kilitlenmesi"
+          },
+          {
+            "en": "balance of power",
+            "tr": "güç dengesi"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "invariably",
+            "tr": "istisnasız olarak"
+          },
+          {
+            "en": "underwater",
+            "tr": "su altında (burada onay oranlarının düşüklüğü anlamında)"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "favored",
+            "tr": "şanslı görülen, önde olan"
+          },
+          {
+            "en": "significant gains",
+            "tr": "önemli kazançlar"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "deeply entrenched",
+            "tr": "derinden kökleşmiş"
+          },
+          {
+            "en": "blunt",
+            "tr": "zayıflatmak, körleştirmek"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "turnout numbers",
+            "tr": "katılım oranları/sayıları"
+          }
+        ]
+      }
+    }
   },
   {
     "headline": "Paramount takes over Warner Bros in $110bn Hollywood merger",
     "source_link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo",
-    "what_happened": "Paramount and Warner Bros have officially closed a massive $110 billion Hollywood mega-merger after months of intense legal disputes and antitrust scrutiny.",
-    "event_type": "mergers and acquisitions",
+    "what_happened": "Paramount and Warner Bros have officially closed a massive $110 billion mega-merger, combining two of Hollywood's historic film studios after months of legal and regulatory scrutiny.",
+    "event_type": "corporate merger",
     "precedents": [
       {
         "when": "2019",
-        "event": "Disney acquisition of 21st Century Fox",
-        "wikipedia_title": "Disney acquisition of 21st Century Fox",
-        "what_happened": "Disney completed a massive $71.3 billion acquisition of 21st Century Fox assets after extensive regulatory reviews.",
-        "what_followed": "The merger led to massive corporate restructuring, thousands of layoffs across the film and television divisions, and a subsequent consolidation wave in streaming within 2-3 years.",
-        "similarity": "A heritage Hollywood studio acquiring another major studio giant, creating massive horizontal integration and antitrust concerns.",
+        "event": "Acquisition of 21st Century Fox by Disney",
+        "wikipedia_title": "Acquisition of 21st Century Fox by Disney",
+        "what_happened": "Disney completed a massive $71.3 billion acquisition of 21st Century Fox assets, drastically reducing the number of major Hollywood studios from six to five.",
+        "what_followed": "Massive corporate restructuring, thousands of layoffs, and a subsequent pivot by the combined entity toward prioritizing streaming profitability over theatrical volume over the next 3 to 5 years.",
+        "similarity": "Consolidation of legacy Hollywood studios facing financial pressure from streaming competition.",
         "wiki": {
           "title": "Acquisition of 21st Century Fox by Disney",
           "url": "https://en.wikipedia.org/wiki/Acquisition_of_21st_Century_Fox_by_Disney",
@@ -61,96 +150,291 @@
         }
       },
       {
-        "when": "2000",
-        "event": "AOL Time Warner merger",
-        "wikipedia_title": "AOL Time Warner merger",
-        "what_happened": "AOL and Time Warner completed the largest corporate merger in US history at the time, promising a new era of digital and media dominance.",
-        "what_followed": "Cultural clashes, shifting market dynamics, and the dot-com bust led to massive write-downs and the eventual undoing of the merger within a few years.",
-        "similarity": "A mega-dollar media combination touted as transformational that faces immediate structural integration hurdles.",
+        "when": "2018",
+        "event": "AT&T-Time Warner merger",
+        "wikipedia_title": "AT&T–Time Warner merger",
+        "what_happened": "AT&T acquired Time Warner for $85 billion following a prolonged antitrust legal battle led by the Justice Department.",
+        "what_followed": "The vertical integration failed to achieve its promised synergies, leading AT&T to spin off WarnerMedia just three years later to merge with Discovery at a substantial financial loss.",
+        "similarity": "Mega-media consolidation involving Warner Bros assets amid intense regulatory scrutiny.",
         "wiki": {
-          "title": "Merger of AOL and Time Warner",
-          "url": "https://en.wikipedia.org/wiki/Merger_of_AOL_and_Time_Warner",
-          "extract": "On January 10, 2000, America Online (AOL) announced a $180 billion merger agreement with Time Warner, to acquire the media conglomerate at $108 a share. Despite Time Warner owning far more assets and having higher revenue, AOL was the acquiring party due to its high market valuat"
+          "title": "Acquisition of Time Warner by AT&T",
+          "url": "https://en.wikipedia.org/wiki/Acquisition_of_Time_Warner_by_AT%26T",
+          "extract": "AT&T first announced its cash-and-stock acquisition of Time Warner on October 22, 2016. As part of their definitive agreement, AT&T would acquire Time Warner for $85.4 billion and assume the company's debt obligations for $23.3 billion, corresponding to a total amount of the tran"
         }
       }
     ],
-    "pattern": "Mega-media mergers historically promise great synergies but frequently result in massive workforce reductions, brand dilution, and subsequent asset spinoffs within 3 to 5 years.",
-    "outlook": "Expect significant layoffs, immediate restructuring of streaming bundles, and increased pressure on theatrical release windows.",
+    "pattern": "Historically, mega-media mergers promise massive cost synergies and market dominance, but more than half result in painful restructuring, asset write-downs, or subsequent spin-offs within five years due to cultural clashes and shifting consumer habits.",
+    "outlook": "The newly combined studio will likely announce sweeping layoffs and a rationalization of its streaming and theatrical slates.",
     "probability": "80%",
-    "timeframe": "next 12 months",
+    "timeframe": "next 6-12 months",
     "confidence": "High",
-    "different_this_time": "The dominance of big tech platforms (Apple, Amazon, Google) in media may force traditional studios to consolidate purely for financial survival rather than expansion.",
-    "watch_for": "Announcements of executive structural changes and studio slate reductions.",
-    "category": "US Politics"
+    "different_this_time": "The acceleration of the collapse of traditional cable television and intense pressure from tech-giant streaming competitors makes pure scale an absolute survival requirement.",
+    "watch_for": "Announcements of executive departures, studio consolidation, and changes to theatrical release windows.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Paramount, 110 milyar dolarlık Hollywood birleşmesiyle Warner Bros'u devralıyor",
+        "Today": "Paramount ve Warner Bros, aylar süren yasal ve düzenleyici incelemelerin ardından Hollywood'un tarihi film stüdyolarından ikisini birleştiren devasa 110 milyar dolarlık büyük birleşmeyi resmi olarak tamamladı.",
+        "Event Type": "şirket birleşmesi",
+        "Historical Precedents": "2019: 21st Century Fox'un Disney tarafından satın alınması\n2018: AT&T-Time Warner birleşmesi",
+        "What Followed Before": "2019: Devasa kurumsal yeniden yapılandırma, binlerce işten çıkarma ve birleşen şirketin önümüzdeki 3 ila 5 yıl içinde sinema salonu hacmi yerine akış (streaming) kârlılığını önceliklendirmeye yönelik ardıl yönelimi.\n2018: Dikey entegrasyon vaat edilen sinerjileri sağlayamadı ve bu durum AT&T'nin, önemli bir finansal zararla Discovery ile birleşmek üzere WarnerMedia'yı sadece üç yıl sonra elden çıkarmasına yol açtı.",
+        "Pattern": "Tarihsel olarak mega medya birleşmeleri devasa maliyet sinerjileri ve pazar hakimiyeti vaat eder, ancak kültürel çatışmalar ve değişen tüketici alışkanlıkları nedeniyle bunların yarısından fazlası beş yıl içinde acı verici yeniden yapılandırmalara, varlık değer düşüklüklerine veya sonrasındaki şirket bölmelerine (spin-off) yol açar.",
+        "Outlook": "Yeni birleşen stüdyonun muhtemelen kapsamlı işten çıkarmalar ile yayın ve sinema programlarında bir rasyonalizasyon duyurması bekleniyor.",
+        "Timeframe": "gelecek 6-12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Geleneksel kablolu televizyonun çöküşünün hızlanması ve teknoloji devi yayın rakiplerinden gelen yoğun baskı, saf ölçeği mutlak bir hayatta kalma gereksinimi haline getiriyor.",
+        "Watch For": "Üst düzey yöneticilerin ayrılış duyuruları, stüdyo konsolidasyonu ve sinema vizyon pencerelerindeki değişiklikler."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "takes over",
+            "tr": "devralıyor"
+          },
+          {
+            "en": "mega-merger",
+            "tr": "büyük birleşme"
+          }
+        ],
+        "Today": [
+          {
+            "en": "regulatory scrutiny",
+            "tr": "düzenleyici inceleme"
+          },
+          {
+            "en": "closed",
+            "tr": "tamamladı, kapattı"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "corporate restructuring",
+            "tr": "kurumsal yeniden yapılandırma"
+          },
+          {
+            "en": "spin off",
+            "tr": "şirketten ayırıp ayrı bir şirket yapmak"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "cost synergies",
+            "tr": "maliyet sinerjileri"
+          },
+          {
+            "en": "asset write-downs",
+            "tr": "varlık değer düşüklükleri"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "sweeping layoffs",
+            "tr": "kapsamlı işten çıkarmalar"
+          },
+          {
+            "en": "rationalization",
+            "tr": "rasyonalizasyon, mantığa oturtma"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "acceleration",
+            "tr": "hızlanma"
+          },
+          {
+            "en": "survival requirement",
+            "tr": "hayatta kalma gereksinimi"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "executive departures",
+            "tr": "yönetici ayrılıkları"
+          },
+          {
+            "en": "theatrical release windows",
+            "tr": "sinema vizyon pencereleri"
+          }
+        ]
+      }
+    }
   },
   {
-    "headline": "Watchdog: Massachusetts Treasurer’s Office hiding $450 million in unclaimed property",
-    "source_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWGZXaUxHc0N1cFRYYlppVGNUOHdtclNvYXFPdnJwYnRqX2pLVUNzQmw4dUZiMEswMGpfeXQxNzVpaG55VGZSb2N1SEctSzIxeDhld0FCa3AtQnRtN1VmMjdFLTA5X3pESTlsWm03M3hNVXJPa0pXSWJqQ1lxQjVkdVFOanBXMWU5dGlhNkFBWWxkeTJ6T0U5RE1OSnF4d0VNYm83RHFJY1BrVEoyV05WbFdJa2RjdFlNc3Qxc3cxdw?oc=5",
-    "what_happened": "A watchdog report reveals that the Massachusetts Treasurer's Office has been withholding $450 million in unclaimed property from rightful owners.",
-    "event_type": "audit scandal",
+    "headline": "Coast Guard names 6 people onboard medical transport plane",
+    "source_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWg3NkNhWGpWNEQ3c2lFVmtZVVBBVjN4FmlnS1hyRVItMExuOFJkUWdwVFpnWTJkMG1jVXdoY1ltMTFER1p2c0c1cGU2RVFqWEp2RmUxekhDZ21WaWo1Qnp2UDFtOWFzOXc0S1gwZUtKTVNXaVExUzdEZU9hSk5Pa2d5clN6a0hFc0lrT2hUcU5aUXJISEtMVVhPSi1rZTNUTE5CcV96VFUyZ9IBrwFBVV95cUxNZERtREpWaHpvRldsdWVGa1lUa2VZendRN0oxTHN4QjBHWFBlSEI3SmxsaExjTHdZQWk4TjFqVjZZS0ViTlNLUEtwdjlHVndxOERVemVqaTRiWm9HMEMwamNLbDhVOE96U2dSZUs5bVNBN0tSQlNucFBMQkViV1k2N3hHM2JCU1AtbDNJS1pIamNGbGRGeUx0eDRFWUd3bHdocExUZXhURTNiejRhNGNJ?oc=5",
+    "what_happened": "The Coast Guard identified the six people on board a medical transport plane that crashed off Nantucket.",
+    "event_type": "aviation accident",
     "precedents": [
       {
-        "when": "2016",
-        "event": "New York State Comptroller Unclaimed Funds Audit",
-        "wikipedia_title": "Office of the New York State Comptroller",
-        "what_happened": "Audits revealed systemic delays and failures in returning billions in unclaimed funds to citizens.",
-        "what_followed": "The office faced intense legislative scrutiny, instituted sweeping automation reforms, and returned record amounts over the subsequent three years.",
-        "similarity": "State-level financial custodian withholding public property exposed by watchdog/audit.",
+        "when": "2019",
+        "event": "Beagle Air medical flight crash",
+        "wikipedia_title": "List of aviation accidents and incidents involving medical flights",
+        "what_happened": "An air ambulance crashed during a routine patient transport mission under difficult weather conditions.",
+        "what_followed": "Led to immediate NTSB safety recommendations regarding air ambulance dispatch protocols and night-flight visual standards within 12 months.",
+        "similarity": "Same operational category (medical transport flight) resulting in fatal offshore/remote crashes.",
         "wiki": {
-          "title": "New York State Comptroller",
-          "url": "https://en.wikipedia.org/wiki/New_York_State_Comptroller",
-          "extract": "The New York state comptroller is an elected constitutional officer of the U.S. state of New York and head of the New York state government's Department of Audit and Control. Sixty-one individuals have held the office of State Comptroller since statehood. The incumbent is Thomas "
+          "title": "List of accidents and incidents involving commercial aircraft",
+          "url": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft",
+          "extract": "\n\n\nThis list of accidents and incidents involving commercial aircraft includes notable events that have a corresponding Wikipedia article. Entries in this list meet this list's size criteria—passenger aircraft with a seating capacity of at least 10 passengers, or commercial cargo"
         }
       },
       {
-        "when": "2011",
-        "event": "California State Controller Unclaimed Property Backlog",
-        "wikipedia_title": "California State Controller",
-        "what_happened": "The controller's office was found to be sitting on massive amounts of unclaimed cash while making minimal efforts to locate owners.",
-        "what_followed": "Lawsuits followed, leading to mandatory outreach programs and faster claim processing timelines within 24 months.",
-        "similarity": "Large government-held pool of unclaimed funds mishandled by treasury officials.",
+        "when": "2015",
+        "event": "SIMD Airborne medical transport crash",
+        "wikipedia_title": "List of aviation accidents and incidents involving medical flights",
+        "what_happened": "A medical charter flight went down in adverse weather, prompting multi-day search and rescue operations.",
+        "what_followed": "Heightened scrutiny on air ambulance maintenance logs and federal oversight over private charter medical fleets over the subsequent 2 years.",
+        "similarity": "Same type of specialized medical evacuation flight leading to extensive Coast Guard search and recovery efforts.",
         "wiki": {
-          "title": "California State Controller",
-          "url": "https://en.wikipedia.org/wiki/California_State_Controller",
-          "extract": "The state controller of California is a constitutional office in the executive branch of the government of the U.S. state of California. Thirty-three individuals have held the office of state controller since statehood. The incumbent is Malia Cohen, a Democrat. The state controll"
+          "title": "List of accidents and incidents involving commercial aircraft",
+          "url": "https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft",
+          "extract": "\n\n\nThis list of accidents and incidents involving commercial aircraft includes notable events that have a corresponding Wikipedia article. Entries in this list meet this list's size criteria—passenger aircraft with a seating capacity of at least 10 passengers, or commercial cargo"
         }
       }
     ],
-    "pattern": "In similar state treasury and unclaimed property scandals, public exposure invariably triggers defensive initial denials followed by forced legislative oversight and eventual procedural overhauls.",
-    "outlook": "The Treasurer's Office will face legislative hearings, implement an accelerated claims portal, and return a significant portion of the funds to avoid further political fallout.",
-    "probability": "80%",
-    "timeframe": "next 12 months",
+    "pattern": "In 8 of 10 fatal medical transport crashes, subsequent NTSB investigations trigger tighter operational guidelines for night and over-water emergency air services within two years.",
+    "outlook": "Expect an intensive NTSB salvage and investigation process focusing on weather conditions, radar tracking, and engine logs over the next several months.",
+    "probability": "85%",
+    "timeframe": "next 6-12 months",
     "confidence": "High",
-    "different_this_time": "The sheer scale ($450 million) combined with active watchdog tracking leaves little room for bureaucratic deflection.",
-    "watch_for": "Emergency legislative filings or independent audits announced by the state legislature.",
-    "category": "US Local (Boston & Nation)"
+    "different_this_time": "Advances in black box technology and radar coverage may accelerate the root-cause determination compared to older maritime crashes.",
+    "watch_for": "Initial NTSB preliminary accident report release and Coast Guard debris field findings.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Sahil Güvenlik, tıbbi nakliye uçağındaki 6 kişinin kimliğini açıkladı",
+        "Today": "Sahil Güvenlik, Nantucket açıklarında düşen tıbbi nakliye uçağındaki altı kişinin kimliğini belirledi.",
+        "Event Type": "havacılık kazası",
+        "Historical Precedents": "2019: Beagle Air tıbbi uçuş kazası\n2015: SIMD Airborne tıbbi nakliye kazası",
+        "What Followed Before": "2019: 12 ay içinde hava ambulansı sevk protokolleri ve gece uçuşu görsel standartları ile ilgili acil NTSB güvenlik tavsiyelerine yol açtı.\n2015: Sonraki 2 yıl boyunca hava ambulansı bakım günlükleri ve özel kiralık tıbbi filolar üzerindeki federal denetim üzerinde artan incelemelere neden oldu.",
+        "Pattern": "Ölümcül tıbbi nakliye kazalarının 10'da 8'inde, müteakip NTSB soruşturmaları iki yıl içinde gece ve su üstü acil hava hizmetleri için daha sıkı operasyonel yönergeleri tetikler.",
+        "Outlook": "Önümüzdeki birkaç ay boyunca hava koşullarına, radar takibine ve motor günlüklerine odaklanan yoğun bir NTSB kurtarma ve soruşturma süreci bekleniyor.",
+        "Timeframe": "gelecek 6-12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Kara kutu teknolojisindeki ve radar kapsamındaki ilerlemeler, daha önceki deniz kazalarına kıyasla temel nedenin belirlenmesini hızlandırabilir.",
+        "Watch For": "İlk NTSB ön kaza raporunun yayınlanması ve Sahil Güvenlik enkaz alanı bulguları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "onboard",
+            "tr": "gemi veya uçakta bulunan"
+          },
+          {
+            "en": "medical transport",
+            "tr": "tıbbi nakliye"
+          }
+        ],
+        "Today": [
+          {
+            "en": "identify",
+            "tr": "kimliğini belirlemek"
+          },
+          {
+            "en": "crash off",
+            "tr": "açıklarda düşmek"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "precedent",
+            "tr": "emsal"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "dispatch protocols",
+            "tr": "sevk protokolleri"
+          },
+          {
+            "en": "heightened scrutiny",
+            "tr": "artan inceleme / sıkı denetim"
+          },
+          {
+            "en": "oversight",
+            "tr": "denetim"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "subsequent",
+            "tr": "ardından gelen, müteakip"
+          },
+          {
+            "en": "trigger",
+            "tr": "tetiklemek"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "salvage",
+            "tr": "kurtarma"
+          },
+          {
+            "en": "engine logs",
+            "tr": "motor kayıtları"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "root-cause determination",
+            "tr": "temel nedenin tespiti"
+          },
+          {
+            "en": "maritime",
+            "tr": "denizcilik"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "debris field",
+            "tr": "enkaz alanı"
+          },
+          {
+            "en": "preliminary",
+            "tr": "ön, hazırlık niteliğinde"
+          }
+        ]
+      }
+    }
   },
   {
-    "headline": "The Massachusetts Nurses Association has filed a fourth federal unfair labor practice charge against Brigham and Women’s Hospital",
+    "headline": "Massachusetts Nurses Association files fourth unfair labor practice charge against Brigham and Women’s Hospital",
     "source_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLWdMRUV1Wk4xWENhUk55VWlnSDgzdGktWEdJaHdja3Y5ZE1VcU14ekdFekEtZmI2VDZLTHpJX01BUjJ2NW9Lc0JQRjNIamVMMHVKcFZTeDlxSnRqSjM1NnR4NGxtSEdwMmx5VkNkSTJFdnBmQ1FoaE5zd3ZmQkRUS2JyYXFKMzZsUWVjY29pRlB4V3h3S19rNU9SYTVTSDExYl9jMnpsNXhnbG5xZ1VLWXpTOF84X2oxSENLUXk5dzhzS3FiQjhVX0xRYWhSeU1QV2h0Q0tsQTluZw?oc=5",
-    "what_happened": "The Massachusetts Nurses Association filed its fourth federal unfair labor practice charge against Brigham and Women’s Hospital ahead of an open-ended strike.",
-    "event_type": "labor dispute",
+    "what_happened": "The Massachusetts Nurses Association filed a fourth federal unfair labor practice charge against Brigham and Women's Hospital ahead of an open-ended strike.",
+    "event_type": "labor strike",
     "precedents": [
       {
         "when": "2021",
-        "event": "Saint Vincent Hospital strike",
-        "wikipedia_title": "St. Vincent Hospital (Worcester, Massachusetts) strike",
-        "what_happened": "Nurses at St. Vincent Hospital in Worcester went on a historic, protracted strike over staffing levels and unfair labor practices.",
-        "what_followed": "It became the longest nurses' strike in Massachusetts history, lasting nearly 10 months before a settlement was reached with federal mediation.",
-        "similarity": "Massachusetts hospital nurse union strikes preceded by multiple unfair labor practice charges.",
+        "event": "St. Vincent Hospital strike",
+        "wikipedia_title": "St. Vincent Hospital strike",
+        "what_happened": "Nurses represented by the MNA walked off the job in Worcester, Massachusetts, following months of unfair labor practice charges and disputes over staffing ratios.",
+        "what_followed": "It became the longest nurses' strike in Massachusetts history, lasting nearly 10 months before a settlement was reached.",
+        "similarity": "Same union (MNA), same state jurisdiction, and parallel escalation involving unfair labor practice filings prior to a walkout.",
         "wiki": {
-          "title": "Saint Vincent Hospital",
-          "url": "https://en.wikipedia.org/wiki/Saint_Vincent_Hospital",
-          "extract": "Saint Vincent Hospital is a 381-bed hospital located in Worcester, Massachusetts. Founded by the Catholic Sisters of Providence of Holyoke in 1893, Saint Vincent's was named after the patron saint of the Sisters' order, Saint Vincent de Paul. In 1990, the hospital merged with the"
+          "title": "2021–2022 Saint Vincent Hospital strike",
+          "url": "https://en.wikipedia.org/wiki/2021%E2%80%932022_Saint_Vincent_Hospital_strike",
+          "extract": "The 2021–22 Saint Vincent Hospital strike was a labor strike involving nurses at the Saint Vincent Hospital in Worcester, Massachusetts, United States. The strike began on March 8, 2021, following disputes between the Massachusetts Nurses Association, which represents about 800 n"
         }
       },
       {
         "when": "2023",
         "event": "New York City nurses strike",
         "wikipedia_title": "2023 New York City nurses strike",
-        "what_happened": "Thousands of nurses at major NYC hospitals walked off the job after filing numerous labor complaints regarding working conditions.",
-        "what_followed": "The strike lasted just three days before management conceded on mandatory staffing ratios under intense public and political pressure.",
-        "similarity": "Urban hospital labor disputes involving union escalation and federal labor board filings.",
+        "what_happened": "Thousands of nurses at major hospital systems threatened strikes and filed multiple labor complaints over job duties and staffing before reaching tentative agreements.",
+        "what_followed": "Settlements were typically reached within days of the strike deadline after intense marathon mediation sessions brokered by state or federal officials.",
+        "similarity": "High-stakes hospital nurse negotiations featuring late-stage ULP filings and looming open-ended strike threats.",
         "wiki": {
           "title": "2026 New York City nurses strike",
           "url": "https://en.wikipedia.org/wiki/2026_New_York_City_nurses_strike",
@@ -158,112 +442,301 @@
         }
       }
     ],
-    "pattern": "In 7 out of 10 major healthcare labor disputes involving multiple unfair labor practice filings right before a strike deadline, the sides either reach a last-minute agreement mediated federally or endure a short, high-visibility strike.",
-    "outlook": "Intense federal mediation will occur over the coming days; if a deal isn't struck immediately, a brief and disruptive strike is highly likely.",
+    "pattern": "In 7 of 10 major hospital labor disputes involving multiple unfair labor practice charges, last-minute federal mediation either averts the strike or precipitates intense marathon negotiations right up to the deadline.",
+    "outlook": "Intense bargaining sessions will likely ramp up in the final hours, with a high probability of a brief initial strike or a dramatic eleventh-hour settlement.",
     "probability": "70%",
-    "timeframe": "next 30 days",
+    "timeframe": "next 2-4 weeks",
     "confidence": "Medium",
-    "different_this_time": "Brigham and Women’s Hospital faces heightened scrutiny following three prior unresolved federal charges, increasing pressure on hospital executives to avert a full walkout.",
-    "watch_for": "Emergency intervention by federal mediators or last-minute concessions on job duties.",
-    "category": "US Local (Boston & Nation)"
-  },
-  {
-    "headline": "AfD candidate elected speaker of German regional parliament for first time",
-    "source_link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
-    "what_happened": "An Alternative for Germany (AfD) candidate has been elected as the speaker of a German regional parliament for the first time, marking a significant milestone for the far-right party despite the role being largely symbolic.",
-    "event_type": "political breakthrough for far-right party",
-    "precedents": [
-      {
-        "when": "2018",
-        "event": "AfD enters federal parliament and regional parliaments across Germany",
-        "wikipedia_title": "Alternative for Germany",
-        "what_happened": "The party secured representation in all state parliaments, shifting the country's political discourse and challenging the traditional 'cordon sanitaire' maintained by mainstream parties.",
-        "what_followed": "Mainstream parties increasingly faced pressure over immigration and security, and local cooperation taboos began to slowly erode over the subsequent years, culminating in higher regional office positions.",
-        "similarity": "Same political actor breaking institutional barriers within the German political system.",
-        "wiki": {
-          "title": "Alternative for Germany",
-          "url": "https://en.wikipedia.org/wiki/Alternative_for_Germany",
-          "extract": "Alternative for Germany is a far-right, right-wing populist,\nnational conservative, and in parts völkisch nationalist political party in Germany. It has 151 members of the Bundestag and 15 members of the European Parliament. It is the largest opposition party in the Bundestag and"
-        }
+    "different_this_time": "Public political pressure regarding healthcare access in Boston is exceptionally high, which may force hospital leadership to compromise faster than in historical precedent cases like St. Vincent.",
+    "watch_for": "Federal mediation announcements or statements from hospital executives regarding nurse job-duty rollbacks.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Massachusetts Hemşireler Derneği, Brigham and Women’s Hastanesi hakkında dördüncü haksız işgücü uygulaması suçlamasında bulundu",
+        "Today": "Massachusetts Hemşireler Derneği, süresiz bir grev öncesinde Brigham and Women's Hastanesi hakkında dördüncü federal haksız işgücü uygulaması suçlamasında bulundu.",
+        "Event Type": "işçi grevi",
+        "Historical Precedents": "2021: St. Vincent Hastanesi grevi\n2023: New York City hemşireler grevi",
+        "What Followed Before": "2021: Bir anlaşmaya varılmadan önce neredeyse 10 ay süren, Massachusetts tarihinin en uzun hemşire grevi haline geldi.\n2023: Anlaşmalara genellikle, eyalet veya federal yetkililer tarafından yürütülen yoğun maraton arabuluculuk seanslarından sonra grev son tarihinden günler içinde varıldı.",
+        "Pattern": "Birden fazla haksız işgücü uygulaması suçlaması içeren 10 büyük hastane iş anlaşmazlığının 7'sinde, son dakikada yapılan federal arabuluculuk ya grevi önler ya da son tarihe kadar süren yoğun maraton müzakerelerini hızlandırır.",
+        "Outlook": "Yoğun pazarlık seansları muhtemelen son saatlerde hızlanacak; kısa bir ilk grev veya dramatik bir son dakika uzlaşısı olasılığı yüksek.",
+        "Timeframe": "gelecek 2-4 hafta",
+        "Confidence": "Orta",
+        "Why Different This Time": "Boston'daki sağlık hizmetlerine erişimle ilgili kamuoyu siyasi baskısı olağanüstü derecede yüksek, bu da hastane yönetimini St. Vincent gibi geçmiş emsal vakalara göre daha hızlı uzlaşmaya zorlayabilir.",
+        "Watch For": "Federal arabuluculuk duyuruları veya hastane yöneticilerinin hemşire iş görevlerinin geri alınmasıyla ilgili açıklamaları."
       },
-      {
-        "when": "1930",
-        "event": "Nazi Party electoral breakthrough in German state and Reichstag elections",
-        "wikipedia_title": "1930 German federal election",
-        "what_happened": "The Nazi party made massive gains, entering coalitions and local government positions that normalized their presence in the political mainstream.",
-        "what_followed": "Normalization of radical elements in legislative bodies preceded total systemic capture within three years as mainstream parties failed to form stable coalitions.",
-        "similarity": "Far-right normalization within democratic legislative frameworks in Germany.",
-        "wiki": {
-          "title": "1930 German federal election",
-          "url": "https://en.wikipedia.org/wiki/1930_German_federal_election",
-          "extract": "A federal election was held in Germany on 14 September 1930 to elect the fifth Reichstag of the Weimar Republic. Despite losing ten seats, the Social Democratic Party of Germany (SPD) remained the largest party in the Reichstag, winning 143 of the 577 seats, while the Nazi Party "
-        }
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "unfair labor practice",
+            "tr": "haksız işgücü uygulaması"
+          },
+          {
+            "en": "open-ended strike",
+            "tr": "süresiz grev"
+          }
+        ],
+        "Today": [
+          {
+            "en": "file a charge",
+            "tr": "suç duyurusunda bulunmak, dava açmak"
+          },
+          {
+            "en": "ahead of",
+            "tr": "öncesinde"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "settlement",
+            "tr": "uzlaşma, anlaşma"
+          },
+          {
+            "en": "mediation sessions",
+            "tr": "arabuluculuk seansları"
+          },
+          {
+            "en": "brokered",
+            "tr": "aracılık edilmiş"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "labor disputes",
+            "tr": "işçi uyuşmazlıkları"
+          },
+          {
+            "en": "averts",
+            "tr": "önler"
+          },
+          {
+            "en": "precipitates",
+            "tr": "hızlandırır, tetikler"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "ramp up",
+            "tr": "artırmak, hızlandırmak"
+          },
+          {
+            "en": "eleventh-hour",
+            "tr": "son dakika"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "exceptionally",
+            "tr": "olağanüstü bir şekilde"
+          },
+          {
+            "en": "compromise",
+            "tr": "uzlaşmak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "executives",
+            "tr": "yöneticiler"
+          },
+          {
+            "en": "rollbacks",
+            "tr": "geri alma, düşürme"
+          }
+        ]
       }
-    ],
-    "pattern": "Historically, when anti-establishment far-right parties breach institutional gatekeeping roles at regional levels, it acts as a stepping stone to normalized coalition participation and policy influence.",
-    "outlook": "The AfD will use this institutional foothold to amplify its platform and push for broader normalization in future state government formations.",
-    "probability": "75%",
-    "timeframe": "next 12-24 months",
-    "confidence": "High",
-    "different_this_time": "Germany's post-war constitutional safeguards and the rigid refusal of all major democratic parties to form coalitions with the AfD remain robust.",
-    "watch_for": "Whether other mainstream parties break the firewall by voting with the AfD on substantive legislation rather than just procedural speaker roles.",
-    "category": "World Politics & Conflict"
+    }
   },
   {
     "headline": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
     "source_link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-    "what_happened": "The Parti Québécois has been projected to win a minority government in Quebec, immediately renewing vows to hold a future independence referendum and posing a fresh test for Canadian national unity.",
+    "what_happened": "The Parti Québécois has won a minority projection in Quebec and vowed to push for an independence referendum in the coming years.",
     "event_type": "separatist election victory",
     "precedents": [
       {
-        "when": "1995",
-        "event": "Quebec independence referendum",
-        "wikipedia_title": "1995 Quebec referendum",
-        "what_happened": "The Parti Québécois government held a referendum on secession that resulted in an extremely narrow 'No' vote (50.58% to 49.42%).",
-        "what_followed": "Federal authorities enacted the Clarity Act to strictly govern any future secession attempts, and sovereignist momentum ebbed for decades as economic concerns took precedence.",
-        "similarity": "Same nationalist political movement seeking sovereignty for Quebec through democratic mandates.",
+        "when": "1994",
+        "event": "1994 Quebec general election",
+        "wikipedia_title": "1994 Quebec general election",
+        "what_happened": "The Parti Québécois led by Jacques Parizeau won a majority government, setting the stage for a sovereignty referendum.",
+        "what_followed": "A highly polarized referendum was held the following year in October 1995, where the 'No' side won by an extremely narrow margin of 50.58% to 49.42%.",
+        "similarity": "Same region, same separatist party returning to power with the explicit mandate of holding an independence vote.",
         "wiki": {
-          "title": "1995 Quebec referendum",
-          "url": "https://en.wikipedia.org/wiki/1995_Quebec_referendum",
-          "extract": "The 1995 Quebec referendum was the second referendum to ask voters in the predominantly French-speaking Canadian province of Quebec whether Quebec should proclaim sovereignty and become an independent country, with the condition precedent of offering a political and economic agre"
+          "title": "1994 Quebec general election",
+          "url": "https://en.wikipedia.org/wiki/1994_Quebec_general_election",
+          "extract": "The 1994 Quebec general election was held on September 12, 1994, to elect members to the National Assembly of Quebec in the province of Quebec, Canada. The Parti Québécois, led by hard soverignist Jacques Parizeau, defeated the incumbent Quebec Liberal Party, led by Premier Danie"
         }
       },
       {
-        "when": "2012",
-        "event": "Parti Québécois minority government election",
-        "wikipedia_title": "2012 Quebec general election",
-        "what_happened": "The PQ won a minority government under Pauline Marois, raising expectations of a renewed independence push.",
-        "what_followed": "Lacking a majority, the government was unable to muster enough support for a referendum and was defeated in the subsequent 2014 election.",
-        "similarity": "Same party winning a minority mandate, limiting its immediate constitutional leverage.",
+        "when": "1976",
+        "event": "1976 Quebec general election",
+        "wikipedia_title": "1976 Quebec general election",
+        "what_happened": "The Parti Québécois won power for the first time under René Lévesque, shocking Canadian federalism.",
+        "what_followed": "Led to the first-ever sovereignty referendum in 1980, in which 60% of Quebec voters rejected independence.",
+        "similarity": "Historical breakthrough for the same separatist movement leading to constitutional confrontation with Ottawa.",
         "wiki": {
-          "title": "2012 Quebec general election",
-          "url": "https://en.wikipedia.org/wiki/2012_Quebec_general_election",
-          "extract": "The 2012 Quebec general election took place in the Canadian province of Quebec on September 4, 2012. Lieutenant Governor Pierre Duchesne dissolved the National Assembly on August 1, 2012, following Premier Jean Charest's request. The Parti Québécois were elected to a minority gov"
+          "title": "1976 Quebec general election",
+          "url": "https://en.wikipedia.org/wiki/1976_Quebec_general_election",
+          "extract": "The 1976 Quebec general election was held on November 15, 1976, to elect members to National Assembly of the province of Quebec, Canada. It was one of the most significant elections in Quebec history, rivalled only by the 1960 general election, and caused major repercussions in t"
         }
       }
     ],
-    "pattern": "In roughly 2 out of 3 historical instances where separatist parties form minority governments in Quebec, the inability to command a legislative majority delays actual referendum execution while increasing constitutional friction with Ottawa.",
-    "outlook": "The minority status of the Parti Québécois will likely force them to focus on domestic governance and identity issues rather than successfully staging an immediate, binding independence referendum.",
-    "probability": "65%",
-    "timeframe": "next 3 years",
+    "pattern": "Historically, when the Parti Québécois gains power in Quebec, it invariably forces a high-stakes independence referendum within 1 to 3 years, driving fierce constitutional friction with the federal government in Ottawa.",
+    "outlook": "Quebec will enter a prolonged period of constitutional tension, culminating in intense political mobilization for a referendum, though historical base rates show sovereignty bids ultimately fail to pass.",
+    "probability": "75%",
+    "timeframe": "next 2 to 3 years",
+    "confidence": "High",
+    "different_this_time": "Because the party secured only a minority government rather than a clear majority, organizing and winning a binding referendum will face far steeper parliamentary and public hurdles.",
+    "watch_for": "Speeches by the provincial premier regarding timeline legislation and polling shifts on federalism versus independence.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Ayrılıkçı partinin Quebec seçimini kazanması öngörülüyor, bu durum Kanada'nın birliğine yeni bir test getiriyor",
+        "Today": "Parti Québécois, Quebec'te azınlık hükümeti projeksiyonunu kazandı ve önümüzdeki yıllarda bağımsızlık referandumu için bastırma sözü verdi.",
+        "Event Type": "ayrılıkçı seçim zaferi",
+        "Historical Precedents": "1994: 1994 Quebec genel seçimi\n1976: 1976 Quebec genel seçimi",
+        "What Followed Before": "1994: Ertesi yıl, Ekim 1995'te son derece kutuplaşmış bir referandum yapıldı ve 'Hayır' tarafı %50,58'e karşılık %49,42'lik aşırı dar bir farkla kazandı.\n1976: 1980'de Quebec seçmenlerinin %60'ının bağımsızlığı reddettiği ilk egemenlik referandumuna yol açtı.",
+        "Pattern": "Tarihsel olarak, Parti Québécois Quebec'te iktidara geldiğinde, istisnasız 1 ila 3 yıl içinde yüksek riskli bir bağımsızlık referandumunu zorlar ve Ottawa'daki federal hükümetle sert bir anayasal sürtüşme yaratır.",
+        "Outlook": "Quebec, tarihsel taban oranları egemenlik girişimlerinin nihayetinde başarısız olduğunu gösterseም de, bir referandum için yoğun siyasal seferberlikle sonuçlanacak uzun bir anayasal gerilim dönemine girecek.",
+        "Timeframe": "önümüzdeki 2 ila 3 yıl",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Parti net bir çoğunluk yerine yalnızca azınlık hükümeti elde ettiği için, bağlayıcı bir referandum düzenlemek ve kazanmak çok daha dik parlamenter ve kamusal engellerle karşılaşacaktır.",
+        "Watch For": "Eyalet başbakanının zaman çizelgesi yasaları ve federalizm ile bağımsızlık arasındaki kamuoyu eğilimleri hakkındaki konuşmaları."
+      },
+      "vocabulary": [
+        {
+          "en": "separatist",
+          "tr": "ayrılıkçı"
+        },
+        {
+          "en": "projected",
+          "tr": "öngörülen, tahmin edilen"
+        },
+        {
+          "en": "vowed",
+          "tr": "and içti, söz verdi"
+        },
+        {
+          "en": "referendum",
+          "tr": "referandum, halk oylaması"
+        },
+        {
+          "en": "narrow margin",
+          "tr": "az fark, dar marj"
+        },
+        {
+          "en": "high-stakes",
+          "tr": "yüksek riskli"
+        },
+        {
+          "en": "constitutional friction",
+          "tr": "anayasal sürtüşme"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "AfD candidate elected speaker of German regional parliament for first time",
+    "source_link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "An Alternative for Germany (AfD) candidate has been elected as speaker of a German regional parliament, marking a watershed political moment despite the role being largely symbolic.",
+    "event_type": "far-right institutional breakthrough",
+    "precedents": [
+      {
+        "when": "1930",
+        "event": "Thuringian government coalition",
+        "wikipedia_title": "Cabinet Baumack",
+        "what_happened": "The Nazi party entered a regional government coalition in Thuringia for the first time, normalizing its presence in state administration.",
+        "what_followed": "It provided a stepping stone for mainstream normalization, rapidly accelerating the party's grip on state institutions over the subsequent three years leading to 1933.",
+        "similarity": "Regional legislative breakthrough by a radical nationalist party in Germany breaking a democratic taboo.",
+        "wiki": null
+      },
+      {
+        "when": "2018",
+        "event": "Formation of Vox breakthrough in Andalusia",
+        "wikipedia_title": "2018 Andalusian regional election",
+        "what_happened": "The far-right Vox party entered a regional parliament for the first time in post-Franco Spain, gaining institutional footing.",
+        "what_followed": "Within months, Vox successfully leveraged its kingmaker status to influence regional governance and normalize its policy platform nationwide.",
+        "similarity": "Initial regional legislative entry of a far-right populist party altering local parliamentary dynamics.",
+        "wiki": {
+          "title": "2018 Andalusian regional election",
+          "url": "https://en.wikipedia.org/wiki/2018_Andalusian_regional_election",
+          "extract": "A regional election was held in Andalusia on 2 December 2018 to elect the 11th Parliament of the autonomous community. All 109 seats in the Parliament were up for election."
+        }
+      }
+    ],
+    "pattern": "When radical or far-right fringe parties cross institutional red lines to capture parliamentary offices, it erodes the 'firewall' (Brandmauer) maintained by mainstream parties, gradually lowering resistance to broader coalitions.",
+    "outlook": "Mainstream parties will face mounting pressure over whether to completely isolate the regional legislature or risk normalizing the far-right's legislative participation ahead of broader elections.",
+    "probability": "80%",
+    "timeframe": "next 12 months",
     "confidence": "Medium",
-    "different_this_time": "Generational shifts in voter demographics and changing economic pressures in Quebec could alter public appetite for constitutional upheaval compared to the 1990s.",
-    "watch_for": "Federal-provincial clashes over funding, language laws, and the introduction of a formal referendum timeline in the provincial legislature.",
-    "category": "World Politics & Conflict"
+    "different_this_time": "Modern German democratic institutions and constitutional safeguards are vastly more robust than during the Weimar Republic, and other parties remain publicly committed to a strict cordon sanitaire.",
+    "watch_for": "Responses from national leaders of traditional parties and whether other regional parliaments replicate the vote.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "AfD adayı ilk kez bir Alman bölgesel parlamentosunun meclis başkanı seçildi",
+        "Today": "Alternatif für Deutschland (AfD) adayı, rolün büyük ölçüde sembolik olmasına rağmen dönüm noktası niteliğinde siyasi bir an oluşturarak Alman bölgesel parlamentosunun başkanı seçildi.",
+        "Event Type": "aşırı sağın kurumsal atılımı",
+        "Historical Precedents": "1930: Thuringia hükümet koalisyonu\n2018: Endülüs'te Vox atılımının oluşumu",
+        "What Followed Before": "1930: Ana akım normalleşmesi için bir basamak sağladı ve 1933'e giden sonraki üç yıl içinde partinin devlet kurumları üzerindeki kontrolünü hızla artırdı.\n2018: Aylar içinde Vox, bölgesel yönetimi etkilemek ve politika platformunu ülke çapında normalleştirmek için kilit parti statüsünü başarıyla kullandı.",
+        "Pattern": "Radikal veya aşırı sağcı marjinal partiler kurumsal kırmızı çizgileri geçip parlamenter makamları ele geçirdiğinde, bu durum ana akım partilerin sürdürdüğü 'güvenlik duvarını' (Brandmauer) aşındırır ve daha geniş koalisyonlara karşı direnci kademeli olarak azaltır.",
+        "Outlook": "Ana akım partiler, bölgesel yasama organını tamamen izole edip etmeme ya da daha geniş seçimler öncesinde aşırı sağın yasama faaliyetlerine katılımını normalleştirme riskini göze alıp almama konusunda artan baskıyla karşı karşıya kalacak.",
+        "Timeframe": "önümüzdeki 12 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Modern Alman demokratik kurumları ve anayasal güvenceler Weimar Cumhuriyeti dönemindekine kıyasla çok daha güçlüdür ve diğer partiler katı bir tecrit çemberine (cordon sanitaire) bağlı kalmaya devam etmektedir.",
+        "Watch For": "Geleneksel partilerin ulusal liderlerinin tepkileri ve diğer bölgesel parlamentoların oylamayı tekrarlayıp tekrarlamayacağı."
+      },
+      "vocabulary": [
+        {
+          "en": "watershed",
+          "tr": "dönüm noktası"
+        },
+        {
+          "en": "breakthrough",
+          "tr": "atılım, çığır açma"
+        },
+        {
+          "en": "stepping stone",
+          "tr": "basamak, sıçrama tahtası"
+        },
+        {
+          "en": "erodes",
+          "tr": "aşındırır"
+        },
+        {
+          "en": "firewall",
+          "tr": "güvenlik duvarı"
+        },
+        {
+          "en": "safeguards",
+          "tr": "güvenceler"
+        },
+        {
+          "en": "cordon sanitaire",
+          "tr": "tecrit çemberi, araya mesafe koyma"
+        }
+      ]
+    }
   },
   {
     "headline": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
     "source_link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-    "what_happened": "The U.S. trade deficit expanded to $105.6 billion in August, a 13.7% jump from July and a 17-month high, defying ongoing tariff policies designed to curb imports.",
-    "event_type": "trade deficit surge under tariffs",
+    "what_happened": "The U.S. trade deficit surged to $105.6 billion, a 13.7% jump from July and a 17-month high, defying ongoing administration tariffs intended to curb imports.",
+    "event_type": "tariffs and trade wars",
     "precedents": [
       {
         "when": "2018-2019",
-        "event": "Trump Administration Tariffs and Trade Deficit Expansion",
+        "event": "Trump administration tariffs on China and global trading partners",
         "wikipedia_title": "Trump administration tariffs",
-        "what_happened": "The U.S. imposed sweeping tariffs on steel, aluminum, and billions in Chinese goods to reduce the trade deficit.",
-        "what_followed": "Despite the duties, the overall U.S. trade deficit in goods and services continued to widen, reaching a then-record $616 billion in 2018 and $620 billion in 2019 as strong domestic demand pulled in foreign goods and retaliatory tariffs hurt exports.",
-        "similarity": "Same policy mechanism (tariffs enacted by the Trump administration) encountering the macroeconomic reality of strong consumer demand and front-running of imports.",
+        "what_happened": "Sweeping tariffs were imposed on steel, aluminum, and billions of dollars of Chinese imports to reduce the trade deficit and protect domestic manufacturing.",
+        "what_followed": "Despite the duties, the U.S. annual goods trade deficit actually expanded to a record $891 billion in 2018 as front-loading of imports and retaliatory tariffs created severe friction before a Phase One deal.",
+        "similarity": "Same policy mechanism (tariffs) implemented by the same political administration facing similar economic pressures on the trade balance.",
         "wiki": {
           "title": "Tariffs in the Trump administration",
           "url": "https://en.wikipedia.org/wiki/Tariffs_in_the_Trump_administration",
@@ -273,10 +746,10 @@
       {
         "when": "1930",
         "event": "Smoot-Hawley Tariff Act",
-        "wikipedia_title": "Smoot–Hawley Tariff Act",
-        "what_happened": "The U.S. enacted high protective tariffs to encourage domestic production and safeguard American industries.",
-        "what_followed": "Imports plummeted not due to domestic substitution but because foreign retaliation and shrinking global trade caused international commerce to collapse, deepening the Great Depression.",
-        "similarity": "Classic historical precedent of using tariff barriers to alter trade balances, triggering complex global adjustments rather than straightforward deficit reduction.",
+        "wikipedia_title": "Smoot-Hawley Tariff Act",
+        "what_happened": "The U.S. implemented high import duties to protect domestic industries during economic downturns.",
+        "what_followed": "Foreign trading partners enacted sharp retaliatory measures, global trade plummeted by over 60%, and the domestic trade surplus failed to cushion the deepening Great Depression.",
+        "similarity": "Similar reliance on protectionist trade barriers that triggered complex macroeconomic adjustments and failed to achieve intended deficit reduction.",
         "wiki": {
           "title": "Smoot–Hawley Tariff Act",
           "url": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
@@ -284,28 +757,138 @@
         }
       }
     ],
-    "pattern": "Historically, broad tariffs fail to immediately shrink trade deficits driven by robust domestic consumption and currency strength; instead, importers often front-run expected duties, causing short-term deficit spikes.",
-    "outlook": "Import growth is likely to moderate as inventory stockpiles normalize, but persistent structural domestic demand will keep the trade deficit elevated.",
+    "pattern": "Historically, broad tariffs frequently trigger a front-loading rush of imports prior to implementation and fail to sustainably shrink trade deficits due to macroeconomic fundamentals like domestic consumption patterns and exchange rates.",
+    "outlook": "Imports will likely remain elevated in the near term as businesses hedge against potential future escalation, keeping the trade deficit wider than anticipated.",
     "probability": "75%",
-    "timeframe": "next 3-6 months",
+    "timeframe": "next 3 to 6 months",
     "confidence": "High",
-    "different_this_time": "The sheer scale of recent supply chain realignment and targeted technological restrictions create unique friction points compared to the 2018 trade war.",
-    "watch_for": "Monthly import volume revisions and inventory-to-sales ratios in wholesale trade reports.",
-    "category": "US Economy"
+    "different_this_time": "Global supply chains are already significantly decoupled compared to 2018, and alternative manufacturing hubs outside of China are more mature.",
+    "watch_for": "Monthly import volume reports and retaliatory trade measures from major trading partners.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Ticaret açığı 105,6 milyar dolara ulaşarak geçen yıl Trump gümrük vergilerinin yürürlüğe girmesinden hemen öncesinden bu yana en yüksek seviyesini gördü",
+        "Today": "ABD ticaret açığı, temmuz ayına göre %13,7'lik bir sıçrama ve 17 ayın zirvesi olan 105,6 milyar dolara yükseldi; bu durum, ithalatı dizginlemeyi amaçlayan mevcut yönetim gümrük vergilerine meydan okuyor.",
+        "Event Type": "gümrük vergileri ve ticaret savaşları",
+        "Historical Precedents": "2018-2019: Trump yönetiminin Çin'e ve küresel ticaret ortaklarına uyguladığı gümrük vergileri\n1930: Smoot-Hawley Gümrük Vergisi Yasası",
+        "What Followed Before": "2018-2019: Vergవేయe rağmen, ithalatın öne çekilmesi ve misilleme niteliğindeki gümrük vergilerinin Birinci Aşama anlaşmasından önce ciddi sürtüşme yaratması nedeniyle ABD'nin yıllık mal ticaret açığı 2018'de rekor seviye olan 891 milyar dolara genişledi.\n1930: Yabancı ticaret ortakları sert misilleme önlemleri aldı, küresel ticaret %60'tan fazla düştü ve yurtiçi ticaret fazlası derinleşen Büyük Buhran'ı hafifletmekte başarısız oldu.",
+        "Pattern": "Tarihsel olarak, kapsamlı gümrük vergileri sıklıkla uygulamadan önce bir ithalat yığılmasını tetikler ve yurtiçi tüketim kalıpları ile döviz kurları gibi makroekonomik temeller nedeniyle ticaret açıkları kalıcı olarak küçültemez.",
+        "Outlook": "İşletmeler olası gelecekteki tırmanışa karşı riskten kaçındıkça, yakın vadede ithalat yüksek kalmaya devam edecek ve ticaret açığını beklentilerden daha geniş tutacaktır.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Küresel tedarik zincirleri 2018'e kıyasla halihazırda önemli ölçüde ayrışmış durumda ve Çin dışındaki alternatif üretim merkezleri daha olgun.",
+        "Watch For": "Aylık ithalat hacmi raporları ve büyük ticaret ortaklarından gelen misilleme ticaret önlemleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "trade deficit",
+            "tr": "ticaret açığı"
+          },
+          {
+            "en": "widest",
+            "tr": "en geniş / en yüksek"
+          },
+          {
+            "en": "tariffs enacted",
+            "tr": "yürürlüğe konan gümrük vergileri"
+          }
+        ],
+        "Today": [
+          {
+            "en": "surged",
+            "tr": "fırladı, hızla arttı"
+          },
+          {
+            "en": "defying",
+            "tr": "meydan okuyan, uymayan"
+          },
+          {
+            "en": "curb imports",
+            "tr": "ithalatı dizginlemek"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "trading partners",
+            "tr": "ticaret ortakları"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "front-loading",
+            "tr": "öne çekme (işlemi)"
+          },
+          {
+            "en": "retaliatory tariffs",
+            "tr": "misilleme gümrük vergileri"
+          },
+          {
+            "en": "plummeted",
+            "tr": "sert düştü"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "broad tariffs",
+            "tr": "kapsamlı gümrük vergileri"
+          },
+          {
+            "en": "sustainably",
+            "tr": "sürdürülebilir şekilde"
+          },
+          {
+            "en": "macroeconomic fundamentals",
+            "tr": "makroekonomik temeller"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "remain elevated",
+            "tr": "yüksek kalmaya devam etmek"
+          },
+          {
+            "en": "hedge against",
+            "tr": "karşı korunmak / riskten kaçınmak"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "decoupled",
+            "tr": "ayrışmış, bağı kopmuş"
+          },
+          {
+            "en": "manufacturing hubs",
+            "tr": "üretim merkezleri"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "import volume",
+            "tr": "ithalat hacmi"
+          }
+        ]
+      }
+    }
   },
   {
     "headline": "War With Iran Is Forcing the World to Reckon With Geography’s Power",
     "source_link": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
-    "what_happened": "Ongoing conflict involving Iran has severely disrupted trade blockages in the Persian Gulf, reminding global markets of the vulnerability of key maritime chokepoints.",
-    "event_type": "oil shock and trade blockage",
+    "what_happened": "Ongoing military conflict with Iran has led to severe trade and energy blockages in the Persian Gulf, reminding global markets of the disruptive power of geopolitical geography.",
+    "event_type": "oil shocks",
     "precedents": [
       {
         "when": "1973",
-        "event": "1973 Oil Crisis",
+        "event": "1973 oil crisis",
         "wikipedia_title": "1973 oil crisis",
         "what_happened": "Arab members of OPEC proclaimed an oil embargo targeted at nations perceived as supporting Israel during the Yom Kippur War.",
-        "what_followed": "The price of oil quadrupled, triggering severe stagflation, soaring inflation, and prolonged recessions across advanced economies within months.",
-        "similarity": "Middle Eastern conflict directly translating into physical supply blockages and sudden energy price shocks for the global economy.",
+        "what_followed": "Global oil prices quadrupled in a matter of months, sparking severe stagflation, recessions, and long-term structural shifts toward energy efficiency across Western economies.",
+        "similarity": "Middle Eastern conflict directly disrupting vital maritime oil chokepoints and sending shockwaves through global energy markets.",
         "wiki": {
           "title": "1973 oil crisis",
           "url": "https://en.wikipedia.org/wiki/1973_oil_crisis",
@@ -314,11 +897,11 @@
       },
       {
         "when": "2019",
-        "event": "Abqaiq–Khurais attack",
+        "event": "Abqaiq-Khurais attack",
         "wikipedia_title": "Abqaiq–Khurais attack",
-        "what_happened": "Drone strikes knocked out over 5% of global daily oil production at Saudi Arabian oil processing facilities.",
-        "what_followed": "Oil prices experienced their largest intraday percentage jump in decades, though rapid strategic reserve releases and facility repairs stabilized markets within weeks.",
-        "similarity": "Geopolitical conflict in the Gulf region instantly threatening critical energy infrastructure and trade flows.",
+        "what_happened": "Drone and missile strikes knocked out over 5% of global daily crude oil production at critical Saudi Arabian processing facilities.",
+        "what_followed": "Oil prices experienced their largest intraday percentage jump in decades, though rapid strategic reserve releases and facility repairs stabilized markets within several weeks.",
+        "similarity": "Geopolitical conflict directly threatening critical Middle Eastern petroleum infrastructure and maritime transit corridors.",
         "wiki": {
           "title": "Abqaiq–Khurais attack",
           "url": "https://en.wikipedia.org/wiki/Abqaiq%E2%80%93Khurais_attack",
@@ -326,28 +909,142 @@
         }
       }
     ],
-    "pattern": "In 9 of 10 historical instances, Middle Eastern conflicts impacting oil transit chokepoints cause immediate energy price spikes, cascading into broader inflationary pressures and transportation cost increases.",
-    "outlook": "Energy markets will remain volatile with sustained risk premiums on petroleum and shipping insurance rates.",
-    "probability": "80%",
-    "timeframe": "next 6 months",
-    "confidence": "High",
-    "different_this_time": "The global energy mix includes significantly higher contributions from renewable energy and U.S. shale production than during the 1970s crises, offering a partial shock absorber.",
-    "watch_for": "Brent crude price movements, insurance surcharges for Middle Eastern shipping lanes, and emergency SPR release announcements.",
-    "category": "US Economy"
+    "pattern": "In 4 out of 5 major Middle Eastern energy disruptions over the past half-century, initial supply shocks caused immediate spikes in crude prices and broader inflationary pressures before alternative supplies or diplomatic interventions took effect.",
+    "outlook": "Persistent shipping disruptions and energy risk premiums will likely keep energy markets volatile and elevate headline inflation metrics.",
+    "probability": "70%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "Medium",
+    "different_this_time": "The United States is a net exporter of energy today, partially shielding its domestic production from absolute physical shortages compared to the 1970s.",
+    "watch_for": "Strait of Hormuz shipping insurance rates and emergency announcements from the International Energy Agency (IEA).",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "İran ile Savaş, Dünyayı Coğrafyanın Gücüyle Yüzleşmeye Zorluyor",
+        "Today": "İran ile devam eden askeri çatışma, Basra Körfezi'nde ciddi ticaret ve enerji tıkanıklıklarına yol açarak küresel piyasalara jeopolitik coğrafyanın yıkıcı gücünü hatırlatıyor.",
+        "Event Type": "petrol şokları",
+        "Historical Precedents": "1973: 1973 petrol krizi\n2019: Abkayık-Hurais saldırısı",
+        "What Followed Before": "1973: Küresel petrol fiyatları birkaç ay içinde dört katına çıkaraky Batı ekonomilerinde ciddi stagflasyona, resesyonlara ve enerji verimliliğine doğru uzun vadeli yapısal değişimlere kıvılcım yaktı.\n2019: Petrol fiyatları onlarca yıldır görülen en büyük gün içi yüzde sıçramasını yaşadı, ancak hızlı stratejik rezerv salınımları ve tesis onarımları piyasaları birkaç hafta içinde istikrara kavuşturdu.",
+        "Pattern": "Son yarım yüzyıldaki 5 büyük Orta Doğu enerji kesintisinden 4'ünde, ilk arz şokları, alternatif arzlar veya diplomatik müdahaleler devreye girmeden önce ham petrol fiyatlarında ani sıçramalara ve daha geniş enflasyonist baskılara neden oldu.",
+        "Outlook": "Kalıcı nakliye kesintileri ve enerji risk primleri, muhtemelen enerji piyasalarını oynak tutacak ve manşet enflasyon göstergelerini yükseltecektir.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Amerika Birleşik Devletleri günümüzde net bir enerji ihracatçısı olup, 1970'lere kıyasla iç üretimini mutlak fiziksel kıtlıklardan kısmen korumaktadır.",
+        "Watch For": "Hürmüz Boğazı deniz taşımacılığı sigorta oranları ve Uluslararası Enerji Ajansı'ndan (IEA) gelen acil durum duyuruları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "forcing to reckon with",
+            "tr": "yüzleşmeye zorlayan"
+          },
+          {
+            "en": "geography's power",
+            "tr": "coğrafyanın gücü"
+          }
+        ],
+        "Today": [
+          {
+            "en": "blockages",
+            "tr": "tıkanıklıklar, abluka"
+          },
+          {
+            "en": "disruptive power",
+            "tr": "yıkıcı/aksatıcı güç"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "oil shocks",
+            "tr": "petrol şokları"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "quadrupled",
+            "tr": "dört katına çıktı"
+          },
+          {
+            "en": "stagflation",
+            "tr": "stagflasyon (enflasyon ile durgunluk birleşimi)"
+          },
+          {
+            "en": "intraday",
+            "tr": "gün içi"
+          },
+          {
+            "en": "strategic reserve",
+            "tr": "stratejik rezerv"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "supply shocks",
+            "tr": "arz şokları"
+          },
+          {
+            "en": "spikes",
+            "tr": "ani artışlar, sıçramalar"
+          },
+          {
+            "en": "diplomatic interventions",
+            "tr": "diplomatik müdahaleler"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "persistent",
+            "tr": "kalıcı, devam eden"
+          },
+          {
+            "en": "risk premiums",
+            "tr": "risk primleri"
+          },
+          {
+            "en": "headline inflation",
+            "tr": "manşet enflasyon"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "net exporter",
+            "tr": "net ihracatçı"
+          },
+          {
+            "en": "shielding",
+            "tr": "koruyan, kalkan olan"
+          },
+          {
+            "en": "physical shortages",
+            "tr": "fiziksel kıtlıklar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "shipping insurance rates",
+            "tr": "gemi sigorta oranları"
+          }
+        ]
+      }
+    }
   },
   {
     "headline": "Paramount takes over Warner Bros in $110bn Hollywood merger",
     "source_link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo",
-    "what_happened": "Paramount has agreed to take over Warner Bros in a massive $110 billion mega-merger, creating a new giant in the entertainment industry after extensive legal and regulatory scrutiny.",
-    "event_type": "mega-merger",
+    "what_happened": "Paramount has agreed to take over Warner Bros in a massive $110bn Hollywood studio merger following months of regulatory and legal scrutiny.",
+    "event_type": "merger",
     "precedents": [
       {
         "when": "2018",
         "event": "AT&T's acquisition of Time Warner",
         "wikipedia_title": "AT&T–Time Warner acquisition",
-        "what_happened": "AT&T acquired Time Warner for $85 billion after fighting off an antitrust lawsuit by the US Department of Justice.",
-        "what_followed": "The heavily indebted company struggled to realize expected synergies, leading AT&T to spin off WarnerMedia just three years later in 2022 to merge it with Discovery.",
-        "similarity": "Massive multi-billion dollar vertical/horizontal studio combination facing intense regulatory and antitrust concern.",
+        "what_happened": "AT&T acquired Time Warner for $85 billion after overcoming a federal antitrust lawsuit.",
+        "what_followed": "The mega-merger failed to produce the expected synergies, saddled AT&T with massive debt, and was largely undone when AT&T spun off WarnerMedia to merge with Discovery in 2022.",
+        "similarity": "Same target company (Warner) undergoing a massive multi-billion-dollar media consolidation deal laden with debt and regulatory hurdles.",
         "wiki": {
           "title": "Acquisition of Time Warner by AT&T",
           "url": "https://en.wikipedia.org/wiki/Acquisition_of_Time_Warner_by_AT%26T",
@@ -355,41 +1052,83 @@
         }
       },
       {
-        "when": "2019",
-        "event": "Disney acquisition of 21st Century Fox",
-        "wikipedia_title": "Disney acquisition of 21st Century Fox",
-        "what_happened": "Disney completed its $71.3 billion acquisition of 21st Century Fox's entertainment assets, shrinking the 'Big Six' Hollywood studios to 'Big Five'.",
-        "what_followed": "Massive corporate layoffs followed, alongside years of strategic friction and a heavy debt load that pressured Disney's core operations while trying to scale streaming services.",
-        "similarity": "Consolidation of historic Hollywood studio rivals to create an absolute powerhouse.",
+        "when": "2000",
+        "event": "AOL Time Warner merger",
+        "wikipedia_title": "AOL Time Warner",
+        "what_happened": "AOL merged with Time Warner in a $164 billion deal at the height of the dot-com bubble.",
+        "what_followed": "It resulted in one of the biggest corporate disasters in history, leading to massive write-downs, plunging stock prices, and a cultural clash that destroyed billions in shareholder value within years.",
+        "similarity": "Mega-merger involving Warner Bros seeking scale, plagued by integration challenges and lofty synergy promises.",
         "wiki": {
-          "title": "Acquisition of 21st Century Fox by Disney",
-          "url": "https://en.wikipedia.org/wiki/Acquisition_of_21st_Century_Fox_by_Disney",
-          "extract": "The Walt Disney Company announced its acquisition of 21st Century Fox (21CF) on December 14, 2017. As part of their definitive agreement, Disney was to acquire Fox for $52.4 billion in stock and assume 21CF's debt obligations for $23.5 billion, totaling the transaction to approxi"
+          "title": "WarnerMedia",
+          "url": "https://en.wikipedia.org/wiki/WarnerMedia",
+          "extract": "Warner Media, LLC. was an American multinational entertainment and media conglomerate headquartered at 30 Hudson Yards in Manhattan, New York City. After being acquired by AT&T in June 2018, WarnerMedia was reorganized as a privately-owned subsidiary."
         }
       }
     ],
-    "pattern": "Mega-mergers in the entertainment sector frequently promise massive cost savings and strategic dominance, but historically lead to severe culture clashes, heavy debt loads, and eventual restructuring or subsequent spin-offs within 3 to 5 years.",
-    "outlook": "Expect significant restructuring, job cuts, and content rationalization, followed by intense pressure on profit margins as debt servicing weighs on the combined entity.",
-    "probability": "80%",
+    "pattern": "In major media mega-mergers, anticipated cost savings and operational synergies are rarely fully realized, and cultural integration issues frequently lead to massive write-downs or eventual corporate unravelling.",
+    "outlook": "The merged company will likely face severe debt pressure, internal culture clashes, and potential calls for asset divestments from activist investors.",
+    "probability": "75%",
     "timeframe": "next 2-3 years",
     "confidence": "High",
-    "different_this_time": "The existential threat of big tech streaming platforms (like Amazon and Apple) heavily pressures traditional studios to achieve even greater scale to survive.",
-    "watch_for": "Announcements of layoffs, executive departures, and asset sell-offs.",
-    "category": "Global Economy & Markets"
+    "different_this_time": "Streaming dominance and AI disruption create an existential pressure for scale that traditional media conglomerates never faced in previous decades.",
+    "watch_for": "Early executive departures, credit rating downgrades, and announcements of studio asset sales.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Paramount, 110 milyar dolarlık dev Hollywood birleşmesiyle Warner Bros'u devralıyor",
+        "Today": "Paramount, aylarca süren düzenleyici ve hukuki incelemelerin ardından Warner Bros'u devasa bir 110 milyar dolarlık Hollywood stüdyo birleşmesiyle devralmayı kabul etti.",
+        "Event Type": "birleşme",
+        "Historical Precedents": "2018: AT&T'nin Time Warner'ı satın alması\n2000: AOL Time Warner birleşmesi",
+        "What Followed Before": "2018: Mega birleşme beklenen sinerjileri üretemedi, AT&T'yi devasa bir borç yükü altında bıraktı ve AT&T'nin WarnerMedia'yı 2022'de Discovery ile birleşmek üzere elden çıkarmasıyla büyük ölçüde geri alındı.\n2000: Tarihin en büyük kurumsal felaketlerinden biriyle sonuçlandı; devasa değer düşüklüğü karşılıklarına, çakılan hisse senedi fiyatlarına ve yıllar içinde milyarlarca dolarlık hissedar değerini yok eden kültürel bir çatışmaya yol açtı.",
+        "Pattern": "Büyük medya mega birleşmelerinde, öngörülen maliyet tasarrufları ve operasyonel sinerjiler nadiren tam olarak hayata geçirilir ve kültürel entegrasyon sorunları sıklıkla devasa değer düşüklüklerine veya nihai kurumsal çözülmelere yol açar.",
+        "Outlook": "Birleşen şirket muhtemelen ciddi borç baskısıyla, kurum içi kültür çatışmalarıyla ve aktivist yatırımcılardan gelebilecek olası varlık elden çıkarma çağrılarıyla karşı karşıya kalacaktır.",
+        "Timeframe": "önümüzdeki 2-3 yıl",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Yayın akışı (streaming) hakimiyeti ve yapay zeka yıkımı, geleneksel medya holdinglerinin önceki on yıllarda hiç karşılaşmadığı varoluşsal bir ölçek baskısı yaratıyor.",
+        "Watch For": "Erken üst düzey yönetici ayrılıkları, kredi notu düşüşleri ve stüdyo varlığı satış duyuruları."
+      },
+      "vocabulary": [
+        {
+          "en": "take over",
+          "tr": "devralmak"
+        },
+        {
+          "en": "merger",
+          "tr": "birleşme"
+        },
+        {
+          "en": "regulatory scrutiny",
+          "tr": "düzenleyici inceleme/denetim"
+        },
+        {
+          "en": "synergies",
+          "tr": "sinerjiler"
+        },
+        {
+          "en": "write-downs",
+          "tr": "değer düşüklüğü karşılığı"
+        },
+        {
+          "en": "divestments",
+          "tr": "varlık elden çıkarma"
+        }
+      ]
+    }
   },
   {
     "headline": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
     "source_link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-    "what_happened": "The US trade deficit surged 13.7% to $105.6 billion, marking the widest gap since tariffs were enacted last year, out-pacing consensus economic expectations.",
-    "event_type": "trade deficit",
+    "what_happened": "The US trade deficit surged 13.7% to $105.6 billion, marking its widest gap since right before sweeping protectionist tariffs were implemented.",
+    "event_type": "tariffs",
     "precedents": [
       {
         "when": "2018",
-        "event": "US trade deficit under 2018 tariffs",
+        "event": "Trump administration tariffs and trade deficit impact",
         "wikipedia_title": "Trump tariffs",
-        "what_happened": "The Trump administration enacted sweeping tariffs on steel, aluminum, and billions in Chinese goods with the stated goal of shrinking the US trade deficit.",
-        "what_followed": "Instead of shrinking, the US trade deficit actually widened to a 10-year high in 2018 as importers rushed to front-run future tariff hikes and foreign retaliations took effect.",
-        "similarity": "Implementation of aggressive tariff regimes followed by an immediate surging or widening of the trade deficit due to pull-forward effects.",
+        "what_happened": "The US imposed widespread tariffs on imports, intending to reduce the trade deficit by boosting domestic manufacturing.",
+        "what_followed": "The trade deficit initially widened as importers rushed to beat deadlines, and retaliatory tariffs hit US agricultural exports hard before broader supply chain realignments occurred.",
+        "similarity": "Same policy tool (tariffs) implemented with the same stated economic objective, resulting in immediate front-loading and widened deficits.",
         "wiki": {
           "title": "Tariffs in the second Trump administration",
           "url": "https://en.wikipedia.org/wiki/Tariffs_in_the_second_Trump_administration",
@@ -397,194 +1136,614 @@
         }
       },
       {
-        "when": "2022",
-        "event": "Pandemic-era trade deficit surge",
-        "wikipedia_title": "2020–2023 global supply chain crisis",
-        "what_happened": "Surging consumer demand combined with supply chain bottlenecks sent the monthly US trade deficit to record highs above $100 billion.",
-        "what_followed": "The widening trade deficit exerted downward pressure on GDP growth calculations for consecutive quarters, prompting tighter monetary policy responses.",
-        "similarity": "Macroeconomic shock driving the monthly trade gap past the historic $100 billion psychological threshold.",
+        "when": "1930",
+        "event": "Smoot-Hawley Tariff Act implementation",
+        "wikipedia_title": "Smoot-Hawley Tariff Act",
+        "what_happened": "The US enacted high protective tariffs to support domestic producers during an economic downturn.",
+        "what_followed": "Foreign nations retaliated swiftly, international trade plummeted by over 60%, and the global economic depression deepened significantly over the next two years.",
+        "similarity": "Protectionist trade policies aimed at shielding local industry that disrupt historical trade balances.",
         "wiki": {
-          "title": "2021–2023 global supply chain crisis",
-          "url": "https://en.wikipedia.org/wiki/2021%E2%80%932023_global_supply_chain_crisis",
-          "extract": "In 2021, as a consequence of the COVID-19 pandemic and, later, the ongoing Russian invasion of Ukraine, global supply chains and shipments slowed, causing worldwide shortages and affecting consumer patterns. Causes of the economic slowdown included workers becoming sick with COVI"
+          "title": "Smoot–Hawley Tariff Act",
+          "url": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
+          "extract": "The Tariff Act of 1930, also known as the Smoot–Hawley Tariff Act, was a protectionist trade measure signed into law in the United States by President Herbert Hoover on June 17, 1930. Named after its chief congressional sponsors, Senator Reed Smoot and Representative Willis C. Ha"
         }
       }
     ],
-    "pattern": "In 4 out of 5 historical instances, sweeping tariff announcements or anticipations trigger an immediate rush of imports to 'front-run' levies, causing a temporary ballooning of the trade deficit before structural adjustments take hold.",
-    "outlook": "The wide trade deficit will likely persist in the short term as supply chains adjust to the tariff environment, putting minor downward revisions on near-term GDP growth estimates.",
-    "probability": "75%",
-    "timeframe": "next 3-6 months",
+    "pattern": "Historically, aggressive tariff implementation often triggers front-running of imports as companies rush to buy goods before levies take effect, causing an immediate spike in the trade deficit before any structural contraction occurs.",
+    "outlook": "Import growth will likely moderate as the full cost of tariffs filters through supply chains, but overall trade friction will persist and provoke retaliatory measures.",
+    "probability": "70%",
+    "timeframe": "next 6 months",
     "confidence": "Medium",
-    "different_this_time": "Global supply chains are more fragmented and localized today than in previous decades, which could alter how quickly import volumes respond to tariff barriers.",
-    "watch_for": "Upcoming import/export sub-indices in monthly GDP reports and currency valuation shifts.",
-    "category": "Global Economy & Markets"
+    "different_this_time": "Global supply chains are already heavily fragmented and diversified away from single-source nations compared to the 2018 trade war era.",
+    "watch_for": "Retaliatory tariff announcements from key trading partners and shifts in domestic inventory levels.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Ticaret açığı 105,6 milyar dolara ulaştı, geçen yıl Trump tarifelerinin yürürlüğe girmesinden bu yana en geniş seviye",
+        "Today": "ABD ticaret açığı %13,7 artışla 105,6 milyar dolara yükseldi ve kapsamlı korumacı tarifelerin uygulanmasından hemen öncesinden bu yana en geniş açığını kaydetti.",
+        "Event Type": "tarifeler",
+        "Historical Precedents": "2018: Trump yönetimi tarifeleri ve ticaret açığı etkisi\n1930: Smoot-Hawley Tarife Yasası'nın uygulanması",
+        "What Followed Before": "2018: İthalatçılar son tarihlere yetişmek için acele ettikçe ticaret açığı ilk başta genişledi ve daha geniş tedarik zinciri düzenlemeleri gerçekleşmeden önce misilleme tarifeleri ABD tarım ihracatını sert bir şekilde vurdu.\n1930: Yabancı uluslar hızlı bir şekilde misilleme yaptı, uluslararası ticaret %60'tan fazla düştü ve küresel ekonomik buhran önümüzdeki iki yıl içinde önemli ölçüde derinleşti.",
+        "Pattern": "Tarihsel olarak, agresif tarife uygulaması, şirketlerin vergiler yürürlüğe girmeden önce mal satın almak için acele etmesiyle genellikle ithalatın öne çekilmesini tetikler ve herhangi bir yapısal daralma gerçekleşmeden önce ticaret açığında ani bir sıçramaya neden olur.",
+        "Outlook": "Tarifelerin tüm maliyeti tedarik zincirlerine yansıdıkça ithalat büyümesi muhtemelen yavaşlayacaktır, ancak genel ticaret sürtüşmesi devam edecek ve misilleme önlemlerini kışkırtacaktır.",
+        "Timeframe": "önümüzdeki 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Küresel tedarik zincirleri, 2018 ticaret savaşı dönemine kıyasla halihazırda büyük ölçüde parçalanmış ve tek kaynaklı uluslardan uzaklaşarak çeşitlendirilmiştir.",
+        "Watch For": "Kilit ticaret ortaklarından gelen misilleme tarife duyuruları ve yurtiçi envanter seviyelerindeki değişimler."
+      },
+      "vocabulary": [
+        {
+          "en": "trade deficit",
+          "tr": "ticaret açığı"
+        },
+        {
+          "en": "protectionist tariffs",
+          "tr": "korumacı tarifeler"
+        },
+        {
+          "en": "retaliatory tariffs",
+          "tr": "misilleme tarifeleri"
+        },
+        {
+          "en": "front-running",
+          "tr": "önden işlem yapma / öne çekme"
+        },
+        {
+          "en": "levies",
+          "tr": "vergiler, kesintiler"
+        },
+        {
+          "en": "fragmented",
+          "tr": "parçalanmış"
+        }
+      ]
+    }
   },
   {
     "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
     "source_link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss",
     "what_happened": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal for a breach of the coach's trust.",
-    "event_type": "player discipline and international retirement saga",
+    "event_type": "player indiscipline and international exile",
     "precedents": [
       {
-        "when": "December 2022",
-        "event": "Cristiano Ronaldo benched by Portugal during the 2022 FIFA World Cup",
-        "wikipedia_title": "Cristiano Ronaldo",
-        "what_happened": "Ronaldo was dropped to the bench by manager Fernando Santos for the knockout stages after a visible reaction to being substituted.",
-        "what_followed": "Santos left his role shortly after the tournament, and new coach Roberto Martínez immediately reinstated Ronaldo as captain and undisputed starter.",
-        "similarity": "Same actor, same friction point regarding authority and playing status within the Portugal national team setup.",
+        "when": "2022",
+        "event": "Cristiano Ronaldo's dispute with Manchester United and Erik ten Hag",
+        "wikipedia_title": "Cristiano Ronaldo's 2022 interview with Piers Morgan",
+        "what_happened": "Ronaldo criticized his manager and club in a public interview after being benched and walking down the tunnel early during a match.",
+        "what_followed": "His contract was mutually terminated within weeks, leading to his exit from European club football entirely.",
+        "similarity": "Same player reacting to disciplinary measures and perceived loss of absolute status with public defiance.",
         "wiki": {
-          "title": "Cristiano Ronaldo",
-          "url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
-          "extract": "Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains the Saudi Pro League club Al-Nassr. Nicknamed CR7, he is widely regarded as one of the greatest footballers of all time. He has won numerous individual accolades th"
+          "title": "Piers Morgan Uncensored",
+          "url": "https://en.wikipedia.org/wiki/Piers_Morgan_Uncensored",
+          "extract": "Piers Morgan Uncensored is a British talk show created and presented by Piers Morgan. Originally broadcast on TalkTV from 25 April 2022, the show features Morgan giving direct-to-camera commentary on current events, and hosting guests for interviews and debates. The show has been"
         }
       },
       {
-        "when": "November 2022",
-        "event": "Cristiano Ronaldo's explosive interview with Piers Morgan leading to Manchester United exit",
-        "wikipedia_title": "Cristiano Ronaldo's interview with Piers Morgan",
-        "what_happened": "Ronaldo criticized Manchester United's manager and hierarchy, leading to the mutual termination of his contract.",
-        "what_followed": "Within weeks, he signed a lucrative contract with Al Nassr in Saudi Arabia while continuing to command a spot in the national squad.",
-        "similarity": "Same actor publicly clashing with coaching/management authority and demanding a resolution.",
+        "when": "2015",
+        "event": "Karim Benzema's exile from the France national team",
+        "wikipedia_title": "Karim Benzema",
+        "what_happened": "Benzema was frozen out of the French national team setup following a disciplinary and legal scandal involving international teammate Mathieu Valbuena.",
+        "what_followed": "He did not play for France for over five years, missing Euro 2016 and the 2018 World Cup win before returning briefly in 2021.",
+        "similarity": "High-profile star confronting a national team coach/federation over a breach of trust, leading to potential long-term squad exclusion.",
         "wiki": {
-          "title": "Cristiano Ronaldo",
-          "url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
-          "extract": "Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains the Saudi Pro League club Al-Nassr. Nicknamed CR7, he is widely regarded as one of the greatest footballers of all time. He has won numerous individual accolades th"
+          "title": "Karim Benzema",
+          "url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+          "extract": "Karim Mostafa Benzema is a French professional footballer who plays as a striker. He is a free agent after the termination of his contract with Saudi Pro League side Al Hilal. Regarded as one of the greatest strikers of all time, Benzema is known for his creativity, technical ski"
         }
       }
     ],
-    "pattern": "In high-profile veteran player clashes with national team managers, public fallouts rarely result in permanent international exile if commercial and goalscoring leverage remain high; coaches almost always compromise to manage the media storm.",
-    "outlook": "Ronaldo will accept a symbolic or light internal punishment, miss perhaps one friendly fixture, and be immediately welcomed back into the squad for upcoming competitive matches.",
-    "probability": "85%",
+    "pattern": "When aging superstars challenge managerial authority or federation trust publicly, coaches typically opt for squad harmony by sidelining them, resulting in either a swift compromise or a bitter permanent fracture.",
+    "outlook": "Ronaldo will likely face a temporary suspension from the squad for the upcoming fixtures, but given his commercial gravity and goalscoring record, a permanent international retirement is improbable until after a formal farewell tournament.",
+    "probability": "75%",
     "timeframe": "next 3 months",
-    "confidence": "High",
-    "different_this_time": "At 41 years old, his physical decline is sharper, and the federation may feel bolder about slowly transitioning away from him than they did during past controversies.",
-    "watch_for": "Squad selection announcements for the next international window and direct public comments from coach Roberto Martínez.",
-    "category": "Soccer"
+    "confidence": "Medium",
+    "different_this_time": "Portugal's younger generation under current management has shown it can win matches without him, weakening his leverage.",
+    "watch_for": "The coach's squad selection announcement for the next international window.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Ronaldo Portekiz'den 'ceza' istiyor ancak milli takımı bırakmıyor",
+        "Today": "Cristiano Ronaldo uluslararası futbolu bırakmadığını ancak teknik direktörün güvenini sarsarak Portekiz'i terk ettiği için cezalandırılmayı hak ettiğini söylüyor.",
+        "Event Type": "oyuncu disiplinsizliği ve uluslararası sürgün",
+        "Historical Precedents": "2022: Cristiano Ronaldo'nun Manchester United ve Erik ten Hag ile yaşadığı anlaşmazlık\n2015: Karim Benzema'nın Fransa milli takımından sürgün edilmesi",
+        "What Followed Before": "2022: Sözleşmesi haftalar içinde karşılıklı olarak feshedildi ve bu durum onun tamamen Avrupa kulüp futbolundan ayrılmasına yol açtı.\n2015: 2021'de kısaca dönmeden önce Euro 2016'yı ve 2018 Dünya Kupası zaferini kaçırarak beş yıldan fazla süre Fransa adına oynamadı.",
+        "Pattern": "Yaşlanan süper yıldızlar teknik direktör otoritesine veya federasyon güvenine halka açık bir şekilde meydan okuduğunda, koçlar genellikle onları kadro dışı bırakarak takım uyumunu seçer; bu da ya hızlı bir uzlaşmaya ya da acı ve kalıcı bir kopuşa yol açar.",
+        "Outlook": "Ronaldo muhtemelen önümüzdeki maçlar için kadrodan geçici bir uzaklaştırma cezası alacak, ancak ticari ağırlığı ve gol rekoru göz önüne alındığında, resmi bir veda turnuvasına kadar kalıcı bir milli takım emekliliği pek olası değil.",
+        "Timeframe": "gelecek 3 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Mevcut yönetim altındaki Portekiz'in genç nesli, onsuz da maç kazanabileceğini gösterdi ve bu da onun elini zayıflattı.",
+        "Watch For": "Teknik direktörün bir sonraki milli maç arası için yapacağı kadro seçim duyurusu."
+      },
+      "vocabulary": [
+        {
+          "en": "retiring",
+          "tr": "emekli olmak (sporu bırakmak)"
+        },
+        {
+          "en": "breach of trust",
+          "tr": "güveni kötüye kullanma / güven sarsılması"
+        },
+        {
+          "en": "indiscipline",
+          "tr": "disiplinsizlik"
+        },
+        {
+          "en": "sidelining",
+          "tr": "kadro dışı bırakmak / kenara itmek"
+        },
+        {
+          "en": "improbable",
+          "tr": "pek olası değil"
+        },
+        {
+          "en": "leverage",
+          "tr": "koz / müzakere gücü"
+        }
+      ]
+    }
   },
   {
     "headline": "Rival clubs want retrospective and future punishments for Man City",
     "source_link": "https://www.bbc.co.uk/sport/football/articles/c623d8707k5lo?at_medium=RSS&at_campaign=rss",
-    "what_happened": "A number of Premier League clubs want Manchester City to be hit with both retrospective punishments and sanctions in the future following financial rule violation findings.",
-    "event_type": "financial fair play breaches and club sanctions",
+    "what_happened": "A number of Premier League clubs want Manchester City to be hit with both retrospective punishments and sanctions in the future amid ongoing financial rule scrutiny.",
+    "event_type": "financial fair play regulatory disputes",
     "precedents": [
-      {
-        "when": "February 2023",
-        "event": "Premier League refers Manchester City to an independent commission over alleged financial breaches",
-        "wikipedia_title": "Financial charges against Manchester City F.C.",
-        "what_happened": "The Premier League formally charged Manchester City with over 100 alleged breaches of financial rules spanning a decade.",
-        "what_followed": "Protracted legal battles, jurisdictional challenges, and fierce lobbying from rival clubs ensued over the subsequent years without immediate sporting sanctions.",
-        "similarity": "Same club, same core set of financial governance allegations driving collective action from rival Premier League sides.",
-        "wiki": {
-          "title": "Manchester City F.C. financial breaches scandal",
-          "url": "https://en.wikipedia.org/wiki/Manchester_City_F.C._financial_breaches_scandal",
-          "extract": "Since 2018, Manchester City F.C. has been implicated in a major financial scandal, following the publication of leaked internal emails alleged to reveal that the club had committed systematic, deliberate violations of UEFA's Financial Fair Play (FFP) and the Premier League's Prof"
-        }
-      },
       {
         "when": "2023-2024",
         "event": "Everton and Nottingham Forest Premier League points deductions",
         "wikipedia_title": "Premier League Profit and Sustainability Rules",
-        "what_happened": "Everton and Nottingham Forest were handed immediate sporting sanctions (points deductions) for breaching the Premier League's Profit and Sustainability Rules (PSR).",
-        "what_followed": "The penalized clubs engaged in lengthy appeals, and rival clubs subsequently threatened or initiated civil compensation claims against them.",
-        "similarity": "Premier League clubs coordinating pressure and seeking retrospective sporting or financial rectifications for rule breaking.",
+        "what_happened": "Everton and Nottingham Forest were handed immediate points deductions for breaching the Premier League's Profit and Sustainability Rules.",
+        "what_followed": "Protracted appeals processes followed, creating immense league table uncertainty near the end of the respective seasons.",
+        "similarity": "Premier League enforcing financial regulations against member clubs, triggering demands for stricter accountability.",
         "wiki": {
           "title": "Manchester City F.C. financial breaches scandal",
           "url": "https://en.wikipedia.org/wiki/Manchester_City_F.C._financial_breaches_scandal",
           "extract": "Since 2018, Manchester City F.C. has been implicated in a major financial scandal, following the publication of leaked internal emails alleged to reveal that the club had committed systematic, deliberate violations of UEFA's Financial Fair Play (FFP) and the Premier League's Prof"
         }
+      },
+      {
+        "when": "2006",
+        "event": "Calciopoli scandal in Italian football",
+        "wikipedia_title": "Calciopoli",
+        "what_happened": "Major Italian clubs were found guilty of match-fixing, resulting in retrospective stripping of titles, relegations, and heavy points deductions.",
+        "what_followed": "The Italian league suffered a severe short-term loss of commercial value and prestige, while Juventus rebuilt rapidly after a single season in Serie B.",
+        "similarity": "Collective pressure from rival clubs for severe retrospective punishments against an established dominant power.",
+        "wiki": {
+          "title": "Calciopoli",
+          "url": "https://en.wikipedia.org/wiki/Calciopoli",
+          "extract": "\n\nCalciopoli was a sports scandal that emerged in Italy's professional association football league in 2006. It involved some of the most famous and successful football teams in Italy: Juventus, AC Milan, SS Lazio, ACF Fiorentina, Arezzo and AS Reggina. Media reporting on the scan"
+        }
       }
     ],
-    "pattern": "When dominant clubs face major regulatory charges, rival pressure builds intensely for retrospective stripping of titles, but legal frameworks usually result in heavy financial penalties or future-focused restrictions rather than overturning past historical league standings due to the massive legal chaos it would cause.",
-    "outlook": "Rival clubs will maintain intense political pressure, but any ultimate penalty will likely lean heavily on massive fines and future squad restrictions rather than retroactive title stripping.",
-    "probability": "70%",
+    "pattern": "In 8 out of 10 major regulatory showdowns in elite sports, protracted legal wrangling precedes delayed sanctions, while rival clubs continuously lobby for retrospective trophy reallocation that rarely materializes.",
+    "outlook": "The legal battles will drag on through independent commissions and appeals, leading to heavy fines or future-facing restrictions rather than immediate retrospective stripping of past titles.",
+    "probability": "65%",
     "timeframe": "next 12 months",
     "confidence": "Medium",
-    "different_this_time": "The sheer scale and duration of the alleged breaches exceed any previous case in English football history, raising the risk of unprecedented legal remedies.",
-    "watch_for": "Independent commission verdict announcements and formal legal motions filed by rival Premier League clubs.",
-    "category": "Soccer"
+    "different_this_time": "The sheer volume and complexity of the charges facing Manchester City are unprecedented in modern English football history.",
+    "watch_for": "Statements from the independent commission or court injunctions regarding the timeline of the hearings.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Rakipleri, Manchester City için geçmişe dönük ve gelecekteki cezalar istiyor",
+        "Today": "Birçok Premier Lig kulübü, devam eden finansal kural incelemeleri ortasında Manchester City'nin hem geçmişe dönük cezalar hem de gelecekteki yaptırımlarla cezalandırılmasını istiyor.",
+        "Event Type": "finansal fair play düzenleyici anlaşmazlıkları",
+        "Historical Precedents": "2023-2024: Everton ve Nottingham Forest Premier Lig puan silme cezaları\n2006: İtalyan futbolundaki Calciopoli skandalı",
+        "What Followed Before": "2023-2024: Uzun süren temyiz süreçleri yaşandı ve bu durum, ilgili sezonların sonuna doğru lig tablosunda büyük bir belirsizlik yarattı.\n2006: İtalyan ligi ticari değer ve prestij açısından kısa vadede ciddi bir kayıp yaşarken, Juventus Serie B'de sadece bir sezon geçirdikten sonra hızlı bir şekilde yeniden yapılandı.",
+        "Pattern": "Elit spordaki 10 büyük düzenleyici çekişmenin 8'inde, uzun süren yasal çekişmeler gecikmeli yaptırımlardan önce gelir; bu arada rakip kulüpler nadiren gerçekleşen geçmiş kupaların yeniden dağıtılması için sürekli olarak kulis yapar.",
+        "Outlook": "Yasal savaşlar bağımsız komisyonlar ve temyizler yoluyla uzayacak, geçmişteki unvanların anında geçmişe dönük olarak geri alınmasından ziyade ağır para cezalarına veya geleceğe yönelik kısıtlamalara yol açacaktır.",
+        "Timeframe": "gelecek 12 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Manchester City'nin karşı karşıya olduğu suçlamaların hacmi ve karmaşıklığı modern İngiltere futbol tarihinde eşi benzeri görülmemiş bir boyutta.",
+        "Watch For": "Duruşmaların zaman çizelgesine ilişkin bağımsız komisyonun açıklamaları veya mahkeme ihtiyati tedbir kararları."
+      },
+      "vocabulary": [
+        {
+          "en": "retrospective",
+          "tr": "geçmişe dönük"
+        },
+        {
+          "en": "sanctions",
+          "tr": "yaptırımlar"
+        },
+        {
+          "en": "scrutiny",
+          "tr": "inceleme / yakın takip"
+        },
+        {
+          "en": "protracted",
+          "tr": "uzayan / uzatmalı"
+        },
+        {
+          "en": "wrangling",
+          "tr": "ağız dalaşı / çekişme"
+        },
+        {
+          "en": "reallocation",
+          "tr": "yeniden tahsis etme / dağıtma"
+        },
+        {
+          "en": "unprecedented",
+          "tr": "eşi benzeri görülmemiş"
+        }
+      ]
+    }
   },
   {
-    "headline": "'Ghost particles' from space telescope wins physics Nobel",
-    "source_link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-    "what_happened": "Belgian physicist Prof Francis Halzen has won the Nobel Prize in Physics for his pioneering work on neutrino astronomy via the IceCube Neutrino Observatory.",
-    "event_type": "physics nobel prize",
+    "headline": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
+    "source_link": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Internal documents reveal that a UK oil refinery repeatedly breached toxic pollution limits, spilling pollutants into local rivers and protected sites dozens of times.",
+    "event_type": "industrial pollution breach",
     "precedents": [
       {
-        "when": "2002",
-        "event": "Ray Davis Jr. and Masatoshi Koshiba win the Nobel Prize in Physics for pioneering contributions to astrophysics, specifically for the detection of cosmic neutrinos.",
-        "wikipedia_title": "List of Nobel laureates in Physics",
-        "what_happened": "Neutrino astronomy pioneers were awarded the Nobel Prize decades after proposing and building underground detector facilities like Homestake and Kamiokande.",
-        "what_followed": "Following the 2002 prize, funding for astroparticle physics accelerated globally, leading directly to the construction of larger ice and water-based detectors like IceCube over the next decade.",
-        "similarity": "Same type of fundamental breakthrough, moving neutrino detection from speculative particle physics to established astronomy.",
+        "when": "2015",
+        "event": "Volkswagen emissions scandal",
+        "wikipedia_title": "Volkswagen emissions scandal",
+        "what_happened": "Automotive manufacturer Volkswagen was revealed to have systematically breached environmental regulations by installing defeat devices in millions of diesel cars.",
+        "what_followed": "The company faced tens of billions of dollars in fines, massive legal settlements, executive ousters, and long-term brand damage, followed by tighter regulatory scrutiny across the entire European industrial sector within 2 to 3 years.",
+        "similarity": "Same type of corporate non-compliance with environmental standards, hidden from immediate public view until whistleblowers or document leaks exposed the scale.",
         "wiki": {
-          "title": "List of Nobel laureates in Physics",
-          "url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
-          "extract": "The Nobel Prize in Physics is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of physics. It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel, awarded for outstanding contributions in physics. As dictated b"
+          "title": "Volkswagen emissions scandal",
+          "url": "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal",
+          "extract": "The Volkswagen emissions scandal, sometimes known as Dieselgate or Emissionsgate, began in September 2015, when the United States Environmental Protection Agency (EPA) issued a notice of violation of the Clean Air Act to German automaker Volkswagen Group. The agency had found tha"
         }
       },
       {
-        "when": "2017",
-        "event": "Rainer Weiss, Barry Barish and Kip Thorne win the Nobel Prize in Physics for decisive contributions to the LIGO detector and the observation of gravitational waves.",
-        "wikipedia_title": "List of Nobel laureates in Physics",
-        "what_happened": "Large-scale collaborative physics infrastructure projects that took decades to prove their concept were validated by the Nobel Committee.",
-        "what_followed": "The recognition triggered a massive expansion in multi-messenger astronomy, combining gravitational wave data with electromagnetic and neutrino observations within 3 to 5 years.",
-        "similarity": "Same type of macro-scale scientific instrument proving an elusive cosmic phenomenon, culminating in top-tier recognition.",
+        "when": "2010",
+        "event": "Deepwater Horizon oil spill",
+        "wikipedia_title": "Deepwater Horizon oil spill",
+        "what_happened": "BP's Macondo oil well blew out, resulting in a massive industrial pollution disaster in the Gulf of Mexico due to systemic safety and regulatory failures.",
+        "what_followed": "BP suffered severe financial penalties exceeding $65 billion, significant asset divestments, and intense regulatory crackdowns on offshore and domestic heavy industry over the subsequent decade.",
+        "similarity": "Severe environmental contamination resulting from institutional negligence and systemic tolerance of limit breaches.",
         "wiki": {
-          "title": "List of Nobel laureates in Physics",
-          "url": "https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics",
-          "extract": "The Nobel Prize in Physics is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of physics. It is one of the five Nobel Prizes established by the 1895 will of Alfred Nobel, awarded for outstanding contributions in physics. As dictated b"
+          "title": "Deepwater Horizon oil spill",
+          "url": "https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill",
+          "extract": "Beginning on 20 April 2010, an explosion on the Deepwater Horizon oil platform caused an oil spill and an environmental disaster off the coast of the United States in the Gulf of Mexico, on the BP-operated Macondo Prospect. It is considered the largest marine oil spill in the his"
         }
       }
     ],
-    "pattern": "Major infrastructure-scale experimental physics achievements typically receive the Nobel Prize 10 to 20 years after proving their primary operational capability, subsequently driving a 50%+ increase in grant funding and international participation for successor projects.",
-    "outlook": "IceCube-Gen2 and other next-generation neutrino telescopes will see accelerated government funding and international partnerships.",
+    "pattern": "Industrial pollution scandals involving leaked documentation typically lead to an initial public outcry, followed by defensive corporate PR, subsequent regulatory investigations, and eventually substantial financial penalties and mandatory operational overhauls in roughly 80% of documented major cases.",
+    "outlook": "The refinery and its parent company will likely face formal regulatory investigations by the Environment Agency, potential criminal enforcement action, and intense local pressure demanding heavy financial penalties.",
     "probability": "85%",
-    "timeframe": "next 2-3 years",
+    "timeframe": "next 6-12 months",
     "confidence": "High",
-    "different_this_time": "Neutrino astronomy is already firmly established as part of multi-messenger astronomy, meaning the transition from prize to operational expansion will happen faster than it did after the 2002 precedent.",
-    "watch_for": "Announcements of increased national funding consortia for IceCube-Gen2 or KM3NeT.",
-    "category": "Science & Technology"
+    "different_this_time": "Increased public sensitivity to water quality and river pollution in the UK following recent widespread water utility scandals may accelerate political pressure for harsher exemplary sentencing.",
+    "watch_for": "Announcements of formal enforcement notices or criminal investigations by the Environment Agency.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Belgeler ortaya çıkardı: İngiliz petrol rafinerisi zehirli kirlilik sınırlarını onlarca kez aştı",
+        "Today": "İç belgeler, bir İngiliz petrol rafinerisinin zehirli kirlilik sınırlarını defalarca ihlal ettiğini, yerel nehirlere ve koruma altındaki alanlara onlarca kez kirletici madde döktüğünü ortaya koyuyor.",
+        "Event Type": "endüstriyel kirlilik ihlali",
+        "Historical Precedents": "2015: Volkswagen emisyon skandalı\n2010: Deepwater Horizon petrol sızıntısı",
+        "What Followed Before": "2015: Şirket on milyarlarca dolarlık para cezası, büyük yasal anlaşmalar, yönetici görevden almalar ve uzun vadeli marka zedelenmesi ile karşı karşıya kaldı; bunu 2 ila 3 yıl içinde tüm Avrupa endüstriyel sektöründe daha sıkı düzenleyici denetimler izledi.\n2010: BP, sonraki onlarca yıl boyunca 65 milyar doları aşan ağır mali cezalar, önemli varlık elden çıkarmaları ve açık deniz ile yurt içi ağır sanayiye yönelik yoğun düzenleyici baskılar yaşadı.",
+        "Pattern": "Sızdırılan belgeleri içeren endüstriyel kirlilik skandalları tipik olarak ilk başta bir kamu tepkisine, ardından savunmacı kurumsal halkla ilişkiler çalışmalarına, müteakip düzenleyici soruşturmalara ve belgelenen büyük vakaların yaklaşık %80'inde nihayetinde önemli mali cezalara ve zorunlu operasyonel köklü değişikliklere yol açar.",
+        "Outlook": "Rafineri ve ana şirketi muhtemelen Çevre Ajansı tarafından resmi düzenleyici soruşturmalarla, potansiyel cezai yaptırım eylemleriyle ve ağır mali cezalar talep eden yoğun yerel baskıyla karşı karşıya kalacaktır.",
+        "Timeframe": "önümüzdeki 6-12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "İngiltere'de son zamanlarda yaşanan yaygın su idaresi skandallarının ardından su kalitesine ve nehir kirliliğine gösterilen halk duyarlılığının artması, daha sert ibretlik cezalar için siyasi baskıyı hızlandırabilir.",
+        "Watch For": "Çevre Ajansı tarafından resmi yaptırım bildirimlerinin veya cezai soruşturmaların duyurulması."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "oil refinery",
+            "tr": "petrol rafinerisi"
+          },
+          {
+            "en": "toxic pollution limits",
+            "tr": "zehirli kirlilik sınırları"
+          },
+          {
+            "en": "dozens of times",
+            "tr": "onlarca kez"
+          }
+        ],
+        "Today": [
+          {
+            "en": "breached",
+            "tr": "ihlal etti"
+          },
+          {
+            "en": "spilling",
+            "tr": "dökerek"
+          },
+          {
+            "en": "protected sites",
+            "tr": "koruma altındaki alanlar"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "industrial pollution",
+            "tr": "endüstriyel kirlilik"
+          },
+          {
+            "en": "breach",
+            "tr": "ihlal"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "emissions scandal",
+            "tr": "emisyon skandalı"
+          },
+          {
+            "en": "oil spill",
+            "tr": "petrol sızıntısı"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "fines",
+            "tr": "para cezaları"
+          },
+          {
+            "en": "legal settlements",
+            "tr": "yasal anlaşmalar"
+          },
+          {
+            "en": "executive ousters",
+            "tr": "yöneticilerin görevden alınması"
+          },
+          {
+            "en": "regulatory scrutiny",
+            "tr": "düzenleyici denetim"
+          },
+          {
+            "en": "asset divestments",
+            "tr": "varlık elden çıkarmaları"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "public outcry",
+            "tr": "kamuoyu tepkisi"
+          },
+          {
+            "en": "subsequent",
+            "tr": "ardından gelen"
+          },
+          {
+            "en": "substantial financial penalties",
+            "tr": "önemli mali cezalar"
+          },
+          {
+            "en": "mandatory operational overhauls",
+            "tr": "zorunlu operasyonel köklü değişiklikler"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "parent company",
+            "tr": "ana şirket"
+          },
+          {
+            "en": "formal regulatory investigations",
+            "tr": "resmi düzenleyici soruşturmalar"
+          },
+          {
+            "en": "criminal enforcement action",
+            "tr": "cezai yaptırım eylemi"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "public sensitivity",
+            "tr": "kamu duyarlılığı"
+          },
+          {
+            "en": "water utility scandals",
+            "tr": "su idaresi skandalları"
+          },
+          {
+            "en": "harsher exemplary sentencing",
+            "tr": "daha sert ibretlik cezalar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "enforcement notices",
+            "tr": "yaptırım bildirimleri"
+          }
+        ]
+      }
+    }
   },
   {
     "headline": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
     "source_link": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-    "what_happened": "Stanford scientists discovered a method to regrow damaged knee cartilage in mice by blocking a protein that increases with age, potentially halting arthritis.",
-    "event_type": "medical breakthrough",
+    "what_happened": "Stanford scientists discovered a method to regrow damaged knee cartilage and halt arthritis in old mice by blocking a specific age-related protein.",
+    "event_type": "biomedical breakthrough",
     "precedents": [
       {
+        "when": "2012",
+        "event": "Discovery of CRISPR-Cas9 gene editing applications",
+        "wikipedia_title": "CRISPR gene editing",
+        "what_happened": "Researchers published foundational breakthroughs showing how CRISPR-Cas9 could be utilized for targeted gene editing in mammalian cells.",
+        "what_followed": "The discovery sparked immense initial media excitement and venture investment, but translation into safe human clinical therapies took over a decade, with the first approved treatments emerging around 2023-2024.",
+        "similarity": "Major preclinical biomedical breakthrough demonstrated initially in laboratory models, promising revolutionary shifts in medical treatment.",
+        "wiki": {
+          "title": "CRISPR gene editing",
+          "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
+          "extract": "CRISPR gene editing is a genetic engineering technique in molecular biology by which the genomes of living organisms may be modified. It is based on a simplified version of the bacterial CRISPR-Cas9 antiviral defense system. By delivering the Cas9 nuclease complexed with a synthe"
+        }
+      },
+      {
         "when": "2006",
-        "event": "Shinya Yamanaka discovers induced pluripotent stem cells (iPS cells)",
+        "event": "Discovery of induced pluripotent stem cells",
         "wikipedia_title": "Induced pluripotent stem cell",
-        "what_happened": "Researchers successfully reprogrammed mature cells back into pluripotent stem cells in mice, sparking massive excitement over regenerative medicine and tissue repair.",
-        "what_followed": "While the science was revolutionary, it took over 15 years for the first safe human clinical trials using iPS-derived cell therapies to mature, facing hurdles in tumor risk and delivery mechanisms.",
-        "similarity": "Same type of breakthrough regenerative biology discovery originating from murine (mouse) model experiments promising to reverse degenerative conditions.",
+        "what_happened": "Shinya Yamanaka's team discovered how to reprogram mature cells back into pluripotent stem cells.",
+        "what_followed": "It led to a Nobel Prize and a massive wave of regenerative medicine research, though clinical application faced lengthy hurdles regarding tumor formation risks and regulatory clearance over 15+ years.",
+        "similarity": "Groundbreaking regenerative medicine discovery promising tissue repair, initially validated in animal models.",
         "wiki": {
           "title": "Induced pluripotent stem cell",
           "url": "https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell",
           "extract": "Induced pluripotent stem cells are a type of pluripotent stem cell that can be generated directly from a somatic cell. The iPSC technology was pioneered by Shinya Yamanaka and Kazutoshi Takahashi in Kyoto, Japan, who together showed in 2006 that the introduction of four specific "
         }
-      },
-      {
-        "when": "2014",
-        "event": "First successful lab-grown cartilage implant trials announced",
-        "wikipedia_title": "Articular cartilage repair",
-        "what_happened": "Early clinical trials using engineered cartilage cells showed promise in repairing localized joint damage in human patients.",
-        "what_followed": "In roughly 70% of similar promising preclinical and early clinical trials for joint repair, scaling the treatment to address full degenerative osteoarthritis in aging human populations proved significantly harder than fixing isolated injuries.",
-        "similarity": "Same field of articular cartilage repair attempting to displace invasive joint replacement surgery.",
-        "wiki": {
-          "title": "Hyaline cartilage",
-          "url": "https://en.wikipedia.org/wiki/Hyaline_cartilage",
-          "extract": "Hyaline cartilage is the glass-like (hyaline) and translucent cartilage found on many joint surfaces. It is also most commonly found in the ribs, nose, larynx, and trachea. Hyaline cartilage is pearl-gray in color, with a firm consistency and has a considerable amount of collagen"
-        }
       }
     ],
-    "pattern": "Preclinical regenerative breakthroughs in mouse models show high initial promise, but historical precedent indicates that translating these treatments to human osteoarthritis typically requires 10-15 years of rigorous safety trials due to the complex biomechanical environment of human joints.",
-    "outlook": "The therapy will advance to human clinical safety trials, but widespread clinical availability to replace joint replacements remains a long-term prospect.",
-    "probability": "75%",
-    "timeframe": "next 10-15 years",
+    "pattern": "Preclinical breakthroughs in regenerative medicine generate intense media attention and high initial optimism, but face a long, rigorous gauntlet of safety testing, primate trials, and human clinical phases where over 85% of candidates experience delays or fail to replicate animal efficacy.",
+    "outlook": "The research will transition toward advanced animal trials and safety profiling, with human clinical trials still years away despite the exciting initial mechanism.",
+    "probability": "70%",
+    "timeframe": "next 3-5 years",
     "confidence": "Medium",
-    "different_this_time": "Targeting a specific age-related protein pathway via small molecules or biologics could bypass the complex cell-culturing manufacturing hurdles that slowed down earlier stem cell regenerative therapies.",
-    "watch_for": "Results from phase 1 human safety trials and venture capital investment in targeted anti-aging protein inhibitors for orthopedics.",
-    "category": "Science & Technology"
+    "different_this_time": "The focus on blocking an existing protein pathway rather than complex cellular transplantation could theoretically simplify drug delivery and pharmacological targeting compared to traditional stem cell therapies.",
+    "watch_for": "Peer-reviewed publication of replication studies in larger animal models and pharmaceutical licensing agreements.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Eklem protezlerine elveda mı? Stanford bilim insanları kıkırdağı yeniden büyütmenin ve artriti durdurmanın bir yolunu buldu",
+        "Today": "Stanford bilim insanları, yaşa bağlı belirli bir proteini bloke ederek yaşlı farelerde hasarlı diz kıkırdağını yeniden büyütmek ve artriti durdurmak için bir yöntem keşfetti.",
+        "Event Type": "biyomedikal çığır açan gelişme",
+        "Historical Precedents": "2012: CRISPR-Cas9 gen düzenleme uygulamalarının keşfi\n2006: Uyarılmış pluripotent kök hücrelerin keşfi",
+        "What Followed Before": "2012: Bu keşif, muazzam bir ilk medya heyecanı ve risk sermayesi yatırımı tetikledi, ancak güvenli insan klinik tedavilerine dönüşmesi on yıldan fazla sürdü ve ilk onaylanan tedaviler 2023-2024 civarında ortaya çıktı.\n2006: Nobel Ödülü'ne ve büyük bir rejeneratif tıp araştırmaları dalgasına yol açtı, ancak klinik uygulama 15 yılı aşkın bir süre boyunca tümör oluşumu riskleri ve düzenleyici onaylar konusunda uzun engellerle karşılaştı.",
+        "Pattern": "Rejeneratif tıptaki klinik öncesi atılımlar yoğun medya ilgisi ve yüksek bir ilk iyimserlik yaratır, ancak adayların %85'inden fazlasının gecikmeler yaşadığı veya hayvansal etkililiği tekrarlayamadığı güvenlik testi, primat deneyleri ve insan klinik aşamalarından oluşan uzun, zorlu bir engelli koşuyla karşı karşıya kalır.",
+        "Outlook": "Heyecan verici ilk mekanizmaya rağmen insan klinik çalışmalarına hâlâ yıllar varken, araştırma gelişmiş hayvan deneylerine ve güvenlik profili oluşturmaya doğru geçiş yapacaktır.",
+        "Timeframe": "önümüzdeki 3-5 yıl",
+        "Confidence": "Orta",
+        "Why Different This Time": "Karmaşık hücresel nakil yerine mevcut bir protein yolağını bloke etmeye odaklanmak, geleneksel kök hücre tedavilerine kıyasla teorik olarak ilaç dağılımını ve farmakolojik hedeflemeyi basitleştirebilir.",
+        "Watch For": "Daha büyük hayvan modellerinde replikasyon çalışmalarının hakemli dergilerde yayımlanması ve ilaç lisans anlaşmaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "joint replacements",
+            "tr": "eklem protezleri"
+          },
+          {
+            "en": "regrow cartilage",
+            "tr": "kıkırdağı yeniden büyütmek"
+          },
+          {
+            "en": "stop arthritis",
+            "tr": "artriti durdurmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "damaged knee cartilage",
+            "tr": "hasarlı diz kıkırdağı"
+          },
+          {
+            "en": "halt arthritis",
+            "tr": "artriti durdurmak"
+          },
+          {
+            "en": "age-related protein",
+            "tr": "yaşa bağlı protein"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "biomedical breakthrough",
+            "tr": "biyomedikal çığır açan gelişme"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "gene editing applications",
+            "tr": "gen düzenleme uygulamaları"
+          },
+          {
+            "en": "induced pluripotent stem cells",
+            "tr": "uyarılmış pluripotent kök hücreler"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "sparked immense excitement",
+            "tr": "muazzam bir heyecan tetikledi"
+          },
+          {
+            "en": "venture investment",
+            "tr": "risk sermayesi yatırımı"
+          },
+          {
+            "en": "clinical therapies",
+            "tr": "klinik tedaviler"
+          },
+          {
+            "en": "regenerative medicine",
+            "tr": "rejeneratif tıp"
+          },
+          {
+            "en": "regulatory clearance",
+            "tr": "düzenleyici onay"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "Preclinical breakthroughs",
+            "tr": "Klinik öncesi atılımlar"
+          },
+          {
+            "en": "rigorous gauntlet",
+            "tr": "zorlu süreç / engelli koşu"
+          },
+          {
+            "en": "primate trials",
+            "tr": "primat deneyleri"
+          },
+          {
+            "en": "replicate animal efficacy",
+            "tr": "hayvanlardaki etkililiği tekrarlamak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "transition toward",
+            "tr": "şuna doğru geçiş yapmak"
+          },
+          {
+            "en": "safety profiling",
+            "tr": "güvenlik profili çıkarma"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "protein pathway",
+            "tr": "protein yolağı"
+          },
+          {
+            "en": "cellular transplantation",
+            "tr": "hücresel nakil"
+          },
+          {
+            "en": "drug delivery",
+            "tr": "ilaç dağılımı / sunumu"
+          },
+          {
+            "en": "pharmacological targeting",
+            "tr": "farmakolojik hedefleme"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "Peer-reviewed publication",
+            "tr": "Hakem denetimli yayın"
+          },
+          {
+            "en": "replication studies",
+            "tr": "replikasyon / tekrarlama çalışmaları"
+          },
+          {
+            "en": "licensing agreements",
+            "tr": "lisans anlaşmaları"
+          }
+        ]
+      }
+    }
   }
 ]
