@@ -76,6 +76,14 @@ def fetch_headlines() -> dict[str, list[dict]]:
     return out
 
 
+def parse_json(text: str) -> dict:
+    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip())
+    start, end = text.find("{"), text.rfind("}")
+    if start == -1 or end == -1:
+        raise ValueError(f"no JSON object in model reply: {text[:200]!r}")
+    return json.loads(text[start:end + 1])
+
+
 class LLM:
     """GitHub Models (free via GITHUB_TOKEN in Actions) with OpenAI as optional fallback."""
 
@@ -114,12 +122,14 @@ class LLM:
                         last_err = f"{model}: rate limited"
                         time.sleep(20 * (retry + 1))
                         continue
-                    r.raise_for_status()
-                    content = r.json()["choices"][0]["message"]["content"]
+                    if r.status_code >= 400 or not r.text.strip():
+                        last_err = f"{model}: HTTP {r.status_code} {r.text[:300]!r}"
+                        break
+                    content = r.json()["choices"][0]["message"]["content"] or ""
                     print(f"    (model: {model})")
-                    return json.loads(content)
+                    return parse_json(content)
                 except Exception as exc:
-                    last_err = f"{model}: {exc}"
+                    last_err = f"{model}: {type(exc).__name__}: {exc}"
                     break
             print(f"    ! {last_err}; trying next model")
         raise RuntimeError(last_err)
@@ -203,7 +213,7 @@ def verify(stories: list[dict]) -> None:
 
 
 def render_markdown(day: datetime, stories: list[dict], headline_counts: dict[str, int]) -> str:
-    lines = [f"# History Echo ‚Äî {day:%A, %B %d, %Y}", "",
+    lines = [f"# History Echo ù {day:%A, %B %d, %Y}", "",
              "_Today's news, and what happened the last time something like it happened._", ""]
     for category in CATEGORIES:
         cat = [s for s in stories if s["category"] == category]
@@ -217,14 +227,14 @@ def render_markdown(day: datetime, stories: list[dict], headline_counts: dict[st
                       "**Has it happened before?**", ""]
             for p in s.get("precedents", []):
                 w = p.get("wiki")
-                ref = f" ‚Äî [Wikipedia: {w['title']}]({w['url']})" if w and w.get("url") else " ‚Äî _(not verified)_"
-                lines += [f"- **{p.get('when', '')} ‚Äî {p.get('event', '')}**{ref}",
+                ref = f" ù [Wikipedia: {w['title']}]({w['url']})" if w and w.get("url") else " ù _(not verified)_"
+                lines += [f"- **{p.get('when', '')} ù {p.get('event', '')}**{ref}",
                           f"  - What happened: {p.get('what_happened', '')}",
                           f"  - What followed: {p.get('what_followed', '')}",
                           f"  - Why comparable: {p.get('similarity', '')}"]
             lines += ["",
                       f"**Pattern:** {s.get('pattern', '')}", "",
-                      f"**Outlook:** {s.get('outlook', '')} ‚Äî **{s.get('probability', '?')}** within "
+                      f"**Outlook:** {s.get('outlook', '')} ù **{s.get('probability', '?')}** within "
                       f"{s.get('timeframe', '?')} (confidence: {s.get('confidence', '?')})", "",
                       f"**Why this time could be different:** {s.get('different_this_time', '')}", "",
                       f"**Watch for:** {s.get('watch_for', '')}", "", "---", ""]
@@ -248,7 +258,7 @@ def render_html(md: str) -> str:
         elif line.startswith("# "):
             out.append(f"<h1>{esc[2:]}</h1>")
         elif line.startswith("  - "):
-            out.append(f"<div style='margin-left:28px'>‚Ä¢ {esc[4:]}</div>")
+            out.append(f"<div style='margin-left:28px'>ù {esc[4:]}</div>")
         elif line.startswith("- "):
             out.append(f"<div style='margin-left:12px;margin-top:6px'>? {esc[2:]}</div>")
         elif line == "---":
@@ -349,7 +359,7 @@ def post_issue(title: str, body: str) -> None:
         requests.patch(f"{api}/issues/{issue['number']}", headers=h,
                        json={"state": "closed"}, timeout=30)
     if len(body) > 65000:
-        body = body[:65000] + "\n\n_(truncated ‚Äî see the full report in `reports/`)_"
+        body = body[:65000] + "\n\n_(truncated ù see the full report in `reports/`)_"
     r = requests.post(f"{api}/issues", headers=h,
                       json={"title": title, "body": body, "labels": ["daily-echo"]}, timeout=30)
     r.raise_for_status()
@@ -398,7 +408,7 @@ def main() -> int:
     update_board(BOARD, day, stories)
     print(f"Saved report and board ({len(stories)} stories).")
 
-    title = f"History Echo ‚Äî {day:%a %b %d, %Y}"
+    title = f"History Echo ù {day:%a %b %d, %Y}"
     try:
         post_issue(title, md)
     except Exception as exc:
