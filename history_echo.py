@@ -84,27 +84,31 @@ def parse_json(text: str) -> dict:
     return json.loads(text[start:end + 1])
 
 
-class LLM:
-    """GitHub Models (free via GITHUB_TOKEN in Actions) with OpenAI as optional fallback."""
+PROVIDERS = [
+    # (api key env var, OpenAI-compatible endpoint, models to try in order)
+    ("GEMINI_API_KEY", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+     ["gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-2.0-flash"]),
+    ("GROQ_API_KEY", "https://api.groq.com/openai/v1/chat/completions",
+     ["llama-3.3-70b-versatile", "openai/gpt-oss-120b"]),
+    ("OPENROUTER_API_KEY", "https://openrouter.ai/api/v1/chat/completions",
+     ["meta-llama/llama-3.3-70b-instruct:free", "deepseek/deepseek-chat-v3-0324:free"]),
+    ("OPENAI_API_KEY", "https://api.openai.com/v1/chat/completions",
+     [os.environ.get("OPENAI_MODEL") or "gpt-4.1-mini"]),
+]
 
-    def __init__(self) -> None:
-        self.openai_key = os.environ.get("OPENAI_API_KEY", "").strip()
-        self.gh_token = os.environ.get("GITHUB_TOKEN", "").strip()
-        self.models = [m for m in os.environ.get(
-            "LLM_MODELS", "openai/gpt-4.1,openai/gpt-4.1-mini,openai/gpt-4o-mini").split(",") if m]
+
+class LLM:
+    """Tries every provider whose API key is set, in the order of PROVIDERS."""
 
     def chat(self, system: str, user: str) -> dict:
         attempts: list[tuple[str, dict, str]] = []
-        if self.gh_token:
-            for m in self.models:
-                attempts.append(("https://models.github.ai/inference/chat/completions",
-                                 {"Authorization": f"Bearer {self.gh_token}"}, m))
-        if self.openai_key:
-            attempts.append(("https://api.openai.com/v1/chat/completions",
-                             {"Authorization": f"Bearer {self.openai_key}"},
-                             os.environ.get("OPENAI_MODEL", "gpt-4.1-mini")))
+        for env, url, models in PROVIDERS:
+            key = os.environ.get(env, "").strip()
+            if key:
+                attempts += [(url, {"Authorization": f"Bearer {key}"}, m) for m in models]
         if not attempts:
-            raise RuntimeError("No GITHUB_TOKEN or OPENAI_API_KEY available for the LLM.")
+            raise RuntimeError("No LLM API key set (GEMINI_API_KEY, GROQ_API_KEY, "
+                               "OPENROUTER_API_KEY or OPENAI_API_KEY).")
 
         last_err = ""
         for url, headers, model in attempts:
