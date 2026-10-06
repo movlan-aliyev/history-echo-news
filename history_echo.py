@@ -378,13 +378,21 @@ def update_board(path: Path, day: datetime, stories: list[dict]) -> None:
     for s in stories:
         s["date"] = today
         ws.append(board_row(s))
-        tr = s.get("tr") or {}
-        translation, vocab = tr.get("translation") or {}, tr.get("vocabulary") or {}
+        tr = s.get("tr") if isinstance(s.get("tr"), dict) else {}
+        translation = tr.get("translation") if isinstance(tr.get("translation"), dict) else {}
+        vocab = tr.get("vocabulary") or {}
         for i, c in enumerate(ws[ws.max_row]):
             c.alignment = Alignment(wrap_text=True, vertical="top")
             col = BOARD_COLUMNS[i]
-            if col in TRANSLATED_COLUMNS and c.value:
-                c.comment = turkish_note(translation.get(col, ""), vocab.get(col))
+            if col not in TRANSLATED_COLUMNS or not c.value:
+                continue
+            if isinstance(vocab, dict):
+                words = vocab.get(col)
+            else:
+                words = [v for v in vocab if isinstance(v, dict)
+                         and str(v.get("en", "")).lower() in str(c.value).lower()]
+            c.comment = turkish_note(str(translation.get(col, "") or ""),
+                                     words if isinstance(words, list) else None)
     wb.save(path)
 
 
