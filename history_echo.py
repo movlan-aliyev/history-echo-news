@@ -125,7 +125,12 @@ class LLM:
                     if r.status_code >= 400 or not r.text.strip():
                         last_err = f"{model}: HTTP {r.status_code} {r.text[:300]!r}"
                         break
-                    content = r.json()["choices"][0]["message"]["content"] or ""
+                    try:
+                        content = r.json()["choices"][0]["message"]["content"] or ""
+                    except ValueError:
+                        last_err = (f"{model}: HTTP {r.status_code} "
+                                    f"{r.headers.get('content-type')} {r.text[:300]!r}")
+                        break
                     print(f"    (model: {model})")
                     return parse_json(content)
                 except Exception as exc:
