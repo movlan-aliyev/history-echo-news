@@ -25,9 +25,11 @@ from zoneinfo import ZoneInfo
 import feedparser
 import requests
 from openpyxl import Workbook, load_workbook
+from openpyxl.comments import Comment
 from openpyxl.styles import Alignment, Font, PatternFill
 
 from feeds import CATEGORIES
+from turkish import HEADER_TR
 
 ROOT = Path(__file__).resolve().parent
 REPORTS = ROOT / "reports"
@@ -195,6 +197,35 @@ def analyze(llm: LLM, category: str, headlines: list[dict], guidance: str) -> li
     return stories
 
 
+TRANSLATE_PROMPT = """You translate English news analysis into natural Turkish for a
+Turkish speaker who is learning English. For every story you receive a JSON object
+whose keys are column names and whose values are English text.
+
+Return ONLY JSON: {"stories": [ {
+  "translation": {<same keys>: "<Turkish translation of that value>"},
+  "vocabulary": {<same keys>: [{"en": "english word or phrase", "tr": "Turkish meaning"}]}
+} ]}
+Keep the stories in the same order. Keep names, numbers and dates unchanged.
+For vocabulary give 3-8 of the most useful or difficult English words/phrases that
+appear in that value (skip very basic words); use [] for short values."""
+
+
+def translate_to_turkish(llm: "LLM", stories: list[dict]) -> None:
+    by_cat: dict[str, list[dict]] = {}
+    for s in stories:
+        by_cat.setdefault(s["category"], []).append(s)
+    for category, group in by_cat.items():
+        payload = [{col: board_row(s)[i] for i, col in enumerate(BOARD_COLUMNS)
+                    if col in TRANSLATED_COLUMNS and board_row(s)[i]} for s in group]
+        try:
+            data = llm.chat(TRANSLATE_PROMPT, json.dumps({"stories": payload}, ensure_ascii=False))
+            for s, t in zip(group, data.get("stories", [])):
+                s["tr"] = t
+            print(f"  Turkish: {category}")
+        except Exception as exc:
+            print(f"  ! Turkish translation failed for {category}: {exc}")
+
+
 def verify_on_wikipedia(title: str) -> dict | None:
     if not title:
         return None
@@ -282,6 +313,38 @@ BOARD_COLUMNS = ["Date", "Category", "Headline", "Today", "Event Type", "Histori
                  "What Followed Before", "Pattern", "Outlook", "Probability", "Timeframe",
                  "Confidence", "Why Different This Time", "Watch For", "Source", "Verified Links"]
 WIDTHS = [12, 22, 40, 50, 18, 50, 60, 50, 45, 12, 16, 12, 45, 40, 30, 50]
+TRANSLATED_COLUMNS = {"Category", "Headline", "Today", "Event Type", "Historical Precedents",
+                      "What Followed Before", "Pattern", "Outlook", "Timeframe", "Confidence",
+                      "Why Different This Time", "Watch For"}
+
+
+def board_row(s: dict) -> list:
+    precs = s.get("precedents", [])
+    return [
+        s.get("date", ""), s["category"], s.get("headline", ""), s.get("what_happened", ""),
+        s.get("event_type", ""),
+        "\n".join(f"{p.get('when', '')}: {p.get('event', '')}" for p in precs),
+        "\n".join(f"{p.get('when', '')}: {p.get('what_followed', '')}" for p in precs),
+        s.get("pattern", ""), s.get("outlook", ""), s.get("probability", ""),
+        s.get("timeframe", ""), s.get("confidence", ""), s.get("different_this_time", ""),
+        s.get("watch_for", ""), s.get("source_link", ""),
+        "\n".join(p["wiki"]["url"] for p in precs if p.get("wiki") and p["wiki"].get("url")),
+    ]
+
+
+def turkish_note(text: str, vocab: list | None) -> Comment | None:
+    parts = [f"T\u00fcrk\u00e7e:\n{text}"] if text else []
+    words = [f"\u2022 {v.get('en', '')} = {v.get('tr', '')}" for v in (vocab or [])
+             if isinstance(v, dict) and v.get("en")]
+    if words:
+        parts.append("Kelimeler:\n" + "\n".join(words))
+    if not parts:
+        return None
+    body = "\n\n".join(parts)
+    note = Comment(body, "History Echo")
+    note.width = 380
+    note.height = min(600, 60 + 16 * (body.count("\n") + len(body) // 48))
+    return note
 
 
 def update_board(path: Path, day: datetime, stories: list[dict]) -> None:
@@ -309,20 +372,19 @@ def update_board(path: Path, day: datetime, stories: list[dict]) -> None:
         if str(ws.cell(r, 1).value) == today:
             ws.delete_rows(r)
 
+    for i, col in enumerate(BOARD_COLUMNS, start=1):
+        ws.cell(1, i).comment = turkish_note(HEADER_TR.get(col, ""), None)
+
     for s in stories:
-        precs = s.get("precedents", [])
-        ws.append([
-            today, s["category"], s.get("headline", ""), s.get("what_happened", ""),
-            s.get("event_type", ""),
-            "\n".join(f"{p.get('when', '')}: {p.get('event', '')}" for p in precs),
-            "\n".join(f"{p.get('when', '')}: {p.get('what_followed', '')}" for p in precs),
-            s.get("pattern", ""), s.get("outlook", ""), s.get("probability", ""),
-            s.get("timeframe", ""), s.get("confidence", ""), s.get("different_this_time", ""),
-            s.get("watch_for", ""), s.get("source_link", ""),
-            "\n".join(p["wiki"]["url"] for p in precs if p.get("wiki") and p["wiki"].get("url")),
-        ])
-        for c in ws[ws.max_row]:
+        s["date"] = today
+        ws.append(board_row(s))
+        tr = s.get("tr") or {}
+        translation, vocab = tr.get("translation") or {}, tr.get("vocabulary") or {}
+        for i, c in enumerate(ws[ws.max_row]):
             c.alignment = Alignment(wrap_text=True, vertical="top")
+            col = BOARD_COLUMNS[i]
+            if col in TRANSLATED_COLUMNS and c.value:
+                c.comment = turkish_note(translation.get(col, ""), vocab.get(col))
     wb.save(path)
 
 
@@ -415,6 +477,8 @@ def main() -> int:
 
     print("Verifying precedents on Wikipedia...")
     verify(stories)
+    print("Translating to Turkish...")
+    translate_to_turkish(llm, stories)
 
     md = render_markdown(day, stories, counts)
     REPORTS.mkdir(exist_ok=True)
