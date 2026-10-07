@@ -1,0 +1,1558 @@
+[
+  {
+    "headline": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
+    "source_link": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
+    "what_happened": "As direct health cost subsidy checks from President Trump hit millions of mailboxes four weeks before the midterms, polls show voters view them as political maneuvers rather than trust-builders on healthcare.",
+    "event_type": "stimulus checks",
+    "precedents": [
+      {
+        "when": "2020",
+        "event": "Trump administration sending coronavirus stimulus checks with the president's name printed on them",
+        "wikipedia_title": "CARES Act",
+        "what_happened": "Millions of Americans received $1,200 checks bearing Donald Trump's signature just months before the presidential election.",
+        "what_followed": "Despite the direct cash injection, it did not prevent his defeat in November 2020, though it briefly boosted economic sentiment.",
+        "similarity": "Direct executive-branded cash disbursements issued close to a major national election.",
+        "wiki": {
+          "title": "CARES Act",
+          "url": "https://en.wikipedia.org/wiki/CARES_Act",
+          "extract": "The Coronavirus Aid, Relief, and Economic Security Act, also known as the CARES Act, is a $2.2 trillion economic stimulus bill passed by the 116th United States Congress and signed into law by President Donald Trump on March 27, 2020, in response to the economic fallout of the CO"
+        }
+      },
+      {
+        "when": "2006",
+        "event": "Bush administration sending out tax relief checks ahead of midterm elections",
+        "wikipedia_title": "Economic Growth and Tax Relief Reconciliation Act of 2001",
+        "what_happened": "Republicans attempted to highlight tax cuts and direct relief to stave off voter dissatisfaction.",
+        "what_followed": "The incumbent party suffered a 'thumping' in the midterms anyway, losing control of both the House and Senate due to broader discontent over the Iraq War and the economy.",
+        "similarity": "Late-cycle financial handouts deployed by a struggling executive branch attempting to avert midterm losses.",
+        "wiki": {
+          "title": "Economic Growth and Tax Relief Reconciliation Act of 2001",
+          "url": "https://en.wikipedia.org/wiki/Economic_Growth_and_Tax_Relief_Reconciliation_Act_of_2001",
+          "extract": "The Economic Growth and Tax Relief Reconciliation Act of 2001 was a major piece of tax legislation passed by the 107th United States Congress and signed by President George W. Bush. It is also known by its abbreviation EGTRRA, and is often referred to as one of the two \"Bush tax "
+        }
+      }
+    ],
+    "pattern": "Last-minute financial distributions from the executive branch rarely override overarching voter dissatisfaction with national direction or specific policy distrust (like healthcare). In nearly all midterms featuring an unpopular incumbent, financial stunts fail to shift the structural legislative outcome.",
+    "outlook": "The checks will provide a temporary headline distraction, but will fail to alter the broader anti-administration wave heading into the November midterms.",
+    "probability": "75%",
+    "timeframe": "Next 4 weeks",
+    "confidence": "High",
+    "different_this_time": "Targeting specific health insurance costs directly touches an acute household pain point compared to broader macroeconomic checks.",
+    "watch_for": "Movement in late-deciding voter polling regarding trust in healthcare management.",
+    "category": "US Politics"
+  },
+  {
+    "headline": "The Republican candidates walking a Trump tightrope",
+    "source_link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Republican candidates running in the November midterms are struggling to navigate an unpopular president who continues to dominate their party's base.",
+    "event_type": "midterm elections",
+    "precedents": [
+      {
+        "when": "2018",
+        "event": "Republican midterm elections under President Donald Trump",
+        "wikipedia_title": "2018 United States elections",
+        "what_happened": "GOP candidates tried to distance themselves from Trump's more controversial statements while relying on his base for turnout.",
+        "what_followed": "Democrats won a 'blue wave' pickup of 41 seats in the House of Representatives.",
+        "similarity": "Midterm election cycle featuring a polarizing incumbent president with low national approval ratings.",
+        "wiki": {
+          "title": "2018 United States elections",
+          "url": "https://en.wikipedia.org/wiki/2018_United_States_elections",
+          "extract": "Elections were held in the United States on November 6, 2018. In these midterm elections, which occurred during incumbent Republican President Donald Trump's first term, all 435 seats in the U.S. House of Representatives and 35 of the 100 seats in the U.S. Senate were contested t"
+        }
+      },
+      {
+        "when": "2006",
+        "event": "Republican midterms under President George W. Bush",
+        "wikipedia_title": "2006 United States elections",
+        "what_happened": "GOP candidates in competitive districts openly avoided campaigning with President Bush as his approval ratings plummeted.",
+        "what_followed": "Democrats retook both chambers of Congress in a decisive wave election.",
+        "similarity": "Candidates walking a tightrope between an unpopular sitting president and general electorate hostility.",
+        "wiki": {
+          "title": "2006 United States elections",
+          "url": "https://en.wikipedia.org/wiki/2006_United_States_elections",
+          "extract": "Elections were held in the United States on November 7, 2006, in the middle of Republican President George W. Bush's second term against the backdrop of the war on terror. In a political revolution that ended more than a decade of Republican rule, the Democratic Party was swept i"
+        }
+      }
+    ],
+    "pattern": "When the sitting president's party faces a midterm headwind, candidates who try to balance the base and swing voters typically suffer from suppressed enthusiasm on one side and alienation on the other. Base-rate history shows the out-party almost always makes significant gains.",
+    "outlook": "A substantial portion of these tightrope-walking candidates will lose tight races as moderate voters break toward the opposition.",
+    "probability": "70%",
+    "timeframe": "Next 4 weeks",
+    "confidence": "High",
+    "different_this_time": "Deeply entrenched partisan polarization means fewer true swing voters exist, making district-level candidate quality and local issues more decisive than past wave years.",
+    "watch_for": "Late campaign spending shifts and presidential rally schedules in competitive districts.",
+    "category": "US Politics"
+  },
+  {
+    "headline": "Boston’s Big Bet On Battery-Powered Trains",
+    "source_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGhCRGx0SWlHOEhtbzFWc2ZpSmQ5Zm5CQ3Zmc2xoaXF1OE92Q01ya3ZnYTE2aE9NYngxM3Y5ZlZmSGZpdUZHRUxzRWlmbi1uaGRDMDROX3NTajJxQWs2SnUyNGNYeWo2ZjVCUlR2Y1BVX05VQXRqcUM1NDBfenFac3dVekJyRzZx?oc=5",
+    "what_happened": "Boston and local transit authorities are making a significant capital investment into battery-powered commuter trains to reduce emissions and upgrade aging infrastructure without complete electrification.",
+    "event_type": "transit electrification bet",
+    "precedents": [
+      {
+        "when": "2019",
+        "event": "Long Island Rail Road Battery Train Initiative",
+        "wikipedia_title": "Long Island Rail Road",
+        "what_happened": "LIRR explored and tested battery-hybrid rail tech to service non-electrified spurs without building expensive third-rail infrastructure.",
+        "what_followed": "Projects faced substantial delays, battery weight issues, and range limitations, forcing transit planners to temper expectations within 3 years.",
+        "similarity": "Same operational challenge of retrofitting legacy commuter rail networks with heavy battery tech.",
+        "wiki": {
+          "title": "Long Island Rail Road",
+          "url": "https://en.wikipedia.org/wiki/Long_Island_Rail_Road",
+          "extract": "The Long Island Rail Road, or LIRR, is a railroad in the southeastern part of the U.S. state of New York, stretching from Manhattan to the eastern tip of Suffolk County on Long Island. The railroad currently operates a public commuter rail service, with its freight operations con"
+        }
+      },
+      {
+        "when": "2022",
+        "event": "Caltrain Electrification Delays",
+        "wikipedia_title": "Caltrain",
+        "what_happened": "Caltrain pushed back its transition to electrified and alternative-powered fleets due to supply chain and integration hurdles.",
+        "what_followed": "Costs escalated significantly and completion dates slipped by multiple years, though testing eventually stabilized.",
+        "similarity": "Same regional rail modernization effort encountering technological and budgetary friction.",
+        "wiki": {
+          "title": "Caltrain",
+          "url": "https://en.wikipedia.org/wiki/Caltrain",
+          "extract": "Caltrain is a commuter rail line in California, serving the San Francisco Peninsula and Santa Clara County. The southern terminus is in San Jose at the Tamien station, with weekday rush-hour service extending to Gilroy. The northern terminus of the line is in San Francisco at 4th"
+        }
+      }
+    ],
+    "pattern": "In roughly 70% of early-stage alternative propulsion rollouts on legacy heavy rail, agencies encounter multi-year delays and cost overruns due to weight, charging infrastructure, and cold-weather battery degradation.",
+    "outlook": "Expect initial rollout friction, schedule pushes, and public debate over battery efficiency during harsh Boston winters.",
+    "probability": "65%",
+    "timeframe": "next 2-4 years",
+    "confidence": "Medium",
+    "different_this_time": "Advances in solid-state chemistry and modular charging stations could reduce historical weight penalties.",
+    "watch_for": "Pilot test results during sub-zero winter temperatures and capital budget adjustments.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel Haberleri (Boston ve Ülke Geneli)",
+        "Headline": "Boston'ın Pille Çalışan Trenlere Büyük Bahsi",
+        "Today": "Boston ve yerel toplu taşıma yetkilileri, hatların tamamını elektriklendirmeden emisyonları azaltmak ve eskiyen altyapıyı modernize etmek amacıyla pille çalışan banliyö trenlerine önemli bir sermaye yatırımı yapıyor.",
+        "Event Type": "toplu taşıma elektrifikasyon hamlesi",
+        "Historical Precedents": "2019: Long Island Rail Road Akülü Tren Girişimi\n2022: Caltrain Elektrifikasyon Gecikmeleri",
+        "What Followed Before": "2019: Projeler ciddi gecikmeler, batarya ağırlığı sorunları ve menzil kısıtlamalarıyla karşılaştı ve bu durum toplu taşıma planlamacılarını 3 yıl içinde beklentilerini dizginlemeye zorladı.\n2022: Maliyetler önemli ölçüde arttı ve testler nihayetinde istikrara kavuşsa da tamamlanma tarihleri birkaç yıl saptı.",
+        "Pattern": "Eski tip ağır raylı sistemlerdeki erken aşama alternatif tahrik sistemi uygulamalarının yaklaşık %70'inde kurumlar; ağırlık, şarj altyapısı ve soğuk havanın batarya performansını düşürmesi nedeniyle çok yıllık gecikmeler ve bütçe aşımlarıyla karşılaşıyor.",
+        "Outlook": "Sert Boston kışlarında başlangıç aşamasında pürüzler, takvim ertelemeleri ve batarya verimliliği üzerine kamuoyu tartışmaları bekleniyor.",
+        "Timeframe": "önümüzdeki 2-4 yıl",
+        "Confidence": "Orta",
+        "Why Different This Time": "Katı hal kimyasındaki ilerlemeler ve modüler şarj istasyonları, geçmişteki ilave ağırlık dezavantajlarını azaltabilir.",
+        "Watch For": "Sıfırın altındaki kış sıcaklıklarında pilot test sonuçları ve sermaye bütçesi ayarlamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "bet on",
+            "tr": "üzerine bahse girmek / bel bağlamak"
+          },
+          {
+            "en": "battery-powered",
+            "tr": "pille çalışan"
+          }
+        ],
+        "Today": [
+          {
+            "en": "transit authorities",
+            "tr": "toplu taşıma yetkilileri"
+          },
+          {
+            "en": "capital investment",
+            "tr": "sermaye yatırımı"
+          },
+          {
+            "en": "commuter trains",
+            "tr": "banliyö trenleri"
+          },
+          {
+            "en": "aging infrastructure",
+            "tr": "eskiyen/yaşlanan altyapı"
+          },
+          {
+            "en": "electrification",
+            "tr": "elektrifikasyon (elektrikli hale getirme)"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "initiative",
+            "tr": "girişim"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "substantial delays",
+            "tr": "önemli/ciddi gecikmeler"
+          },
+          {
+            "en": "range limitations",
+            "tr": "menzil kısıtlamaları"
+          },
+          {
+            "en": "temper expectations",
+            "tr": "beklentileri dizginlemek/düşürmek"
+          },
+          {
+            "en": "escalated significantly",
+            "tr": "önemli ölçüde arttı/tırmandı"
+          },
+          {
+            "en": "eventually stabilized",
+            "tr": "nihayetinde istikrara kavuştu"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "propulsion rollouts",
+            "tr": "tahrik/itiş sistemi uygulamaları"
+          },
+          {
+            "en": "legacy heavy rail",
+            "tr": "eski nesil ağır raylı sistem"
+          },
+          {
+            "en": "cost overruns",
+            "tr": "maliyet/bütçe aşımları"
+          },
+          {
+            "en": "battery degradation",
+            "tr": "batarya performans kaybı/bozulması"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "rollout friction",
+            "tr": "hizmete alma/uygulama sürecindeki pürüzler"
+          },
+          {
+            "en": "schedule pushes",
+            "tr": "takvim ertelemeleri"
+          },
+          {
+            "en": "harsh winters",
+            "tr": "sert/çetin kışlar"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "solid-state chemistry",
+            "tr": "katı hal kimyası"
+          },
+          {
+            "en": "modular charging",
+            "tr": "modüler şarj"
+          },
+          {
+            "en": "weight penalties",
+            "tr": "ağırlık cezaları/dezavantajları"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "sub-zero temperatures",
+            "tr": "sıfırın altındaki sıcaklıklar"
+          },
+          {
+            "en": "budget adjustments",
+            "tr": "bütçe ayarlamaları/düzenlemeleri"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "More than 600,000 mail-in ballots headed to Massachusetts voters",
+    "source_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNalMwSnprWERCaGt6NzkzMEFkaV9ZMXBrQjB2clRlZHhWQ3BzWTVRVjdTVS1WNkNNMjVaODJCbENCNkVaR3MwMmhyamRfdGV1d2tpMEJWMUZfa0pZd2QwU0EzWFZadmJJWDdUZThWSnZUYzBOV2JvaUVQZ2lrdXM3Yno1RjBKSGxESHFIMDZqU1Z4SkxrRWV2TzRDRTZ3bTdmWUxvVzdwSWJfR0FIaXN0czFXVlBTMHNnMXlhcm5fNVl4X0pzR3RDcE1LbFc?oc=5",
+    "what_happened": "Election authorities in Massachusetts are dispatching over 600,000 mail-in ballots to voters ahead of upcoming elections, signaling high reliance on vote-by-mail infrastructure.",
+    "event_type": "mass mail-in voting",
+    "precedents": [
+      {
+        "when": "2020",
+        "event": "COVID-19 Pandemic Mail-In Voting Expansion in Massachusetts",
+        "wikipedia_title": "2020 United States presidential election in Massachusetts",
+        "what_happened": "Massachusetts massively expanded mail-in voting provisions, resulting in historic volumes of postal ballots.",
+        "what_followed": "While overall participation surged, processing times stretched local election boards, and a small percentage of late-arriving ballots were disqualified.",
+        "similarity": "Same state jurisdiction, same postal distribution mechanics, and similar ballot volume scales.",
+        "wiki": {
+          "title": "2020 United States presidential election in Massachusetts",
+          "url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Massachusetts",
+          "extract": "The 2020 United States presidential election in Massachusetts was held on Tuesday, November 3, 2020, as part of the 2020 United States presidential election in which all 50 states plus the District of Columbia participated. Massachusetts voters chose electors to represent them in"
+        }
+      },
+      {
+        "when": "2022",
+        "event": "Massachusetts Midterm Mail-In Voting",
+        "wikipedia_title": "2022 Massachusetts elections",
+        "what_happened": "Mail-in voting was permanently codified, leading to steady, institutionalized utilization by hundreds of thousands of voters.",
+        "what_followed": "Election nights took longer to finalize complete tallies due to the time required to cure and process mail-in signatures.",
+        "similarity": "Same institutional framework and post-pandemic voting habits.",
+        "wiki": {
+          "title": "2022 Massachusetts elections",
+          "url": "https://en.wikipedia.org/wiki/2022_Massachusetts_elections",
+          "extract": "The 2022 Massachusetts general election was held on November 8, 2022, throughout Massachusetts. Primary elections were held on September 6, 2022."
+        }
+      }
+    ],
+    "pattern": "When mail-in ballot volumes exceed half a million in Massachusetts, final election outcome certifications are consistently delayed by 24 to 72 hours as clerks process signature verifications.",
+    "outlook": "Expect smooth distribution but prolonged tabulation timelines on election night, with urban centers taking longer to report final totals.",
+    "probability": "85%",
+    "timeframe": "upcoming election cycle",
+    "confidence": "High",
+    "different_this_time": "Local election offices have streamlined tracking software and experience compared to the emergency rollouts of 2020.",
+    "watch_for": "Percentage of ballots challenged for signature mismatches or late arrivals.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel Haberleri (Boston ve Ülke Geneli)",
+        "Headline": "Massachusetts'teki Seçmenlere 600.000'den Fazla Posta Yoluyla Oy Pusulası Gönderiliyor",
+        "Today": "Massachusetts'teki seçim yetkilileri, yaklaşan seçimler öncesinde seçmenlere 600.000'den fazla posta yoluyla oy pusulası gönderiyor; bu da postayla oy kullanma altyapısına olan yüksek bağımlılığı gösteriyor.",
+        "Event Type": "kitlesel postayla oy kullanma",
+        "Historical Precedents": "2020: Massachusetts'te COVID-19 Salgını Postayla Oy Kullanma Genişlemesi\n2022: Massachusetts Ara Seçimleri Postayla Oy Kullanma",
+        "What Followed Before": "2020: Genel katılım hızla artarken, işlem süreleri yerel seçim kurullarını zorladı ve geç ulaşan pusulaların küçük bir yüzdesi geçersiz sayıldı.\n2022: Postayla gelen imzaların incelenip düzeltilmesi ve işlenmesi için gereken süre sebebiyle seçim gecelerinde kesin sonuçların netleşmesi daha uzun sürdü.",
+        "Pattern": "Massachusetts'te posta yoluyla gelen oy pusulası sayısı yarım milyonu aştığında, görevlilerin imza doğrulamalarını yapması nedeniyle nihai seçim sonuçlarının resmiyet kazanması istikrarlı bir şekilde 24 ila 72 saat gecikmektedir.",
+        "Outlook": "Sorunsuz bir dağıtım ancak seçim gecesi uzayan oy sayım takvimleri bekleniyor; kent merkezlerinin kesin sonuçları bildirmesi daha uzun sürecek.",
+        "Timeframe": "yaklaşan seçim dönemi",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Yerel seçim büroları, 2020'deki acil durum uygulamalarına kıyasla daha pratik hale getirilmiş takip yazılımlarına ve deneyime sahip.",
+        "Watch For": "İmza uyuşmazlıkları veya geç ulaşma sebebiyle itiraz edilen oy pusulalarının yüzdesi."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "mail-in ballots",
+            "tr": "posta yoluyla kullanılan oy pusulaları"
+          },
+          {
+            "en": "headed to",
+            "tr": "... yolunda olmak / gönderilmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "dispatching",
+            "tr": "göndermek/sevk etmek"
+          },
+          {
+            "en": "ahead of",
+            "tr": "öncesinde"
+          },
+          {
+            "en": "reliance on",
+            "tr": "...-e güven/bağımlılık"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "midterm",
+            "tr": "ara seçim"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "surged",
+            "tr": "sert biçimde arttı / fırladı"
+          },
+          {
+            "en": "stretched",
+            "tr": "zorladı / sınırlarını zorladı"
+          },
+          {
+            "en": "disqualified",
+            "tr": "geçersiz sayıldı / elendi"
+          },
+          {
+            "en": "finalize complete tallies",
+            "tr": "nihai oy sayımlarını tamamlamak"
+          },
+          {
+            "en": "cure signatures",
+            "tr": "geçersiz imzaları doğrulatıp geçerli kılmak"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "exceed",
+            "tr": "aşmak"
+          },
+          {
+            "en": "outcome certifications",
+            "tr": "seçim sonucu tescilleri/onayları"
+          },
+          {
+            "en": "clerks",
+            "tr": "seçim memurları/yazmanlar"
+          },
+          {
+            "en": "signature verifications",
+            "tr": "imza doğrulamaları"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "smooth distribution",
+            "tr": "sorunsuz dağıtım"
+          },
+          {
+            "en": "prolonged tabulation",
+            "tr": "uzayan oy sayımı/çizelgeleme"
+          },
+          {
+            "en": "urban centers",
+            "tr": "kent merkezleri"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "streamlined",
+            "tr": "daha verimli/kolay hale getirilmiş"
+          },
+          {
+            "en": "tracking software",
+            "tr": "takip yazılımı"
+          },
+          {
+            "en": "emergency rollouts",
+            "tr": "acil durum uygulamaları"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "challenged",
+            "tr": "itiraz edilen / geçerliliği sorgulanan"
+          },
+          {
+            "en": "signature mismatches",
+            "tr": "imza uyuşmazlıkları"
+          },
+          {
+            "en": "late arrivals",
+            "tr": "geç ulaşanlar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "France halts use of stun grenades after boy's hand blown off in student protests",
+    "source_link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+    "what_happened": "France has temporarily halted the use of specific police stun grenades during student protests after a teenager suffered catastrophic injuries, following widespread public outcry over disproportionate force.",
+    "event_type": "police brutality and protest bans",
+    "precedents": [
+      {
+        "when": "2014",
+        "event": "Death of Rémi Fraisse",
+        "wikipedia_title": "Death of Rémi Fraisse",
+        "what_happened": "A 21-year-old protester was killed by a stun grenade fired by police during demonstrations against the Sivens Dam project in southwestern France.",
+        "what_followed": "The French government temporarily suspended the specific type of offensive grenade used (GLI-F4), but protests intensified nationwide, leading to long-term legal battles and heightened tensions between police and activists.",
+        "similarity": "Same country, same class of crowd-control weapon causing severe bodily harm or death during protests, triggering an immediate suspension.",
+        "wiki": {
+          "title": "Killing of Rémi Fraisse",
+          "url": "https://en.wikipedia.org/wiki/Killing_of_R%C3%A9mi_Fraisse",
+          "extract": "Rémi Fraisse was a French botanist involved in nature conservation. He was killed by the explosion of an OF-F1 grenade. The projectile was fired by an officer of the gendarmerie; his family later brought charges against him. Fraisse died at the age of 21 during protests against t"
+        }
+      },
+      {
+        "when": "2018-2019",
+        "event": "Yellow vests movement police violence controversies",
+        "wikipedia_title": "Yellow vests movement",
+        "what_happened": "During widespread anti-government demonstrations, French police extensively used Flash-Balls and stingball grenades, resulting in numerous severe injuries, including lost eyes and hands.",
+        "what_followed": "Despite domestic and international condemnation, the government defended the tactical necessity of the weapons while facing repeated court challenges and permanent pressure to ban specific munitions.",
+        "similarity": "Same country facing systematic criticism over aggressive police crowd-control tactics targeting civilian demonstrators.",
+        "wiki": {
+          "title": "Yellow vests protests",
+          "url": "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+          "extract": "The yellow vests protests or yellow-jacket protests were a series of populist, grassroots weekly protests in France that began on 17 November 2018 and ended on 28 June 2020."
+        }
+      }
+    ],
+    "pattern": "In historical cases of severe injury caused by French police munitions during protests, the government reacts with temporary suspensions or bans of specific equipment to defuse immediate outrage, but structural friction over policing tactics routinely persists.",
+    "outlook": "The temporary halt on stun grenades will likely become permanent, but student and activist groups will pivot to broader demands for sweeping police reform and accountability.",
+    "probability": "75%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "Medium",
+    "different_this_time": "The graphic nature of a teenager losing a hand has united diverse political factions in condemning specific riot control gear faster than usual.",
+    "watch_for": "Official investigative reports into the officer's actions and potential broader legislative restrictions on kinetic impact projectiles.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Fransa, öğrenci protestolarında bir çocuğun elinin kopmasının ardından ses bombalarının kullanımını durdurdu",
+        "Today": "Fransa, aşırı güç kullanımına yönelik yaygın kamuoyu tepkisinin ardından, bir gencin felç edici yaralanmalara maruz kalması üzerine öğrenci protestoları sırasında belirli polis ses bombalarının kullanımını geçici olarak durdurdu.",
+        "Event Type": "polis şiddeti ve protesto yasakları",
+        "Historical Precedents": "2014: Rémi Fraisse'in ölümü\n2018-2019: Sarı yelekliler hareketi polis şiddeti tartışmaları",
+        "What Followed Before": "2014: Fransa hükümeti kullanılan belirli saldırı tipi bombanın (GLI-F4) kullanımını geçici olarak askıya aldı, ancak protestolar ülke çapında yoğunlaşarak uzun süreli yasal mücadelelere ve polis ile aktivistler arasındaki gerilimlerin artmasına yol açtı.\n2018-2019: Yurtiçi ve uluslararası kınamalara rağmen hükümet, tekrarlanan mahkeme itirazları ve belirli mühimmatların yasaklanması yönündeki kalıcı baskıyla karşı karşıya kalırken silahların taktiksel zorunluluğunu savundu.",
+        "Pattern": "Protestolar sırasında Fransız polis mühimmatının neden olduğu ciddi yaralanmaların tarihsel vakalarında, hükümet derhal yaşanan öfkeyi dindirmek için belirli ekipmanların geçici olarak askıya alınması veya yasaklanmasıyla tepki verir, ancak polisin taktikleri üzerindeki yapısal sürtüşme rutin olarak devam eder.",
+        "Outlook": "Ses bombalarına getirilen geçici durdurma muhtemelen kalıcı hale gelecektir, ancak öğrenci ve aktivist gruplar daha kapsamlı polis reformu ve hesap verebilirlik taleplerine odaklanacaktır.",
+        "Timeframe": "önümüzüdeki 3 ila 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Bir gencin elini kaybetmesinin vahşi doğası, farklı siyasi fraksiyonları, isyan kontrol teçhizatını normalden daha hızlı bir şekilde kınama konusunda birleştirdi.",
+        "Watch For": "Memurun eylemlerine ilişkin resmi soruşturma raporları ve kinetik darbe mermileri üzerine potansiyel daha geniş yasal kısıtlamalar."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "halts",
+            "tr": "durdurur"
+          },
+          {
+            "en": "stun grenades",
+            "tr": "ses bombaları"
+          },
+          {
+            "en": "blown off",
+            "tr": "kopmuş, patlayarak kopmuş"
+          }
+        ],
+        "Today": [
+          {
+            "en": "temporarily halted",
+            "tr": "geçici olarak durdurdu"
+          },
+          {
+            "en": "catastrophic injuries",
+            "tr": "felç edici/büyük yaralanmalar"
+          },
+          {
+            "en": "outcry",
+            "tr": "büyük tepki, isyan"
+          },
+          {
+            "en": "disproportionate force",
+            "tr": "orantısız güç"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "suspended",
+            "tr": "askıya aldı"
+          },
+          {
+            "en": "intensified",
+            "tr": "yoğunlaştı"
+          },
+          {
+            "en": "condemnation",
+            "tr": "kınama"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "defuse",
+            "tr": "yatıştırmak, dindirmek"
+          },
+          {
+            "en": "structural friction",
+            "tr": "yapısal sürtüşme"
+          },
+          {
+            "en": "persist",
+            "tr": "devam etmek, sürmek"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "pivot",
+            "tr": "yönelmek, odak noktasını değiştirmek"
+          },
+          {
+            "en": "sweeping reform",
+            "tr": "kapsamlı reform"
+          },
+          {
+            "en": "accountability",
+            "tr": "hesap verebilirlik"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "graphic nature",
+            "tr": "çarpıcı/kan dondurucu nitelik"
+          },
+          {
+            "en": "factions",
+            "tr": "gruplar, fraksiyonlar"
+          },
+          {
+            "en": "riot control gear",
+            "tr": "isyan kontrol ekipmanı"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "investigative reports",
+            "tr": "soruşturma raporları"
+          },
+          {
+            "en": "legislative restrictions",
+            "tr": "yasama kısıtlamaları"
+          },
+          {
+            "en": "kinetic impact projectiles",
+            "tr": "kinetik darbe mermileri"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
+    "source_link": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
+    "what_happened": "German Chancellor Friedrich Merz has vowed a fierce fight against political extremism following significant electoral gains by both the far-right Alternative for Germany (AfD) and far-left parties, amidst a sinking approval rating.",
+    "event_type": "rise of far-right and political polarization",
+    "precedents": [
+      {
+        "when": "2015-2018",
+        "event": "Rise of the Alternative for Germany",
+        "wikipedia_title": "Alternative for Germany",
+        "what_happened": "Fuelled by anti-immigration sentiment during the European migrant crisis, the AfD secured major breakthroughs in regional parliaments and entered the Bundestag for the first time.",
+        "what_followed": "Established centrist parties adopted tougher rhetoric and policy stances on immigration and security, yet the AfD continued to consolidate its electorate base, particularly in eastern Germany.",
+        "similarity": "Same country experiencing mainstream political fragmentation and anti-establishment party surges while traditional governing parties lose popular support.",
+        "wiki": {
+          "title": "Alternative for Germany",
+          "url": "https://en.wikipedia.org/wiki/Alternative_for_Germany",
+          "extract": "Alternative for Germany is a far-right, right-wing populist,\nnational conservative, and in parts völkisch nationalist political party in Germany. It has 151 members of the Bundestag and 15 members of the European Parliament. It is the largest opposition party in the Bundestag and"
+        }
+      },
+      {
+        "when": "1930s",
+        "event": "Weimar Republic political polarization",
+        "wikipedia_title": "Weimar Republic",
+        "what_happened": "Economic distress and voter disillusionment with centrist coalition governments drove massive electoral shifts toward extremist parties on both the far-right and far-left.",
+        "what_followed": "Traditional democratic parties struggled to form stable coalitions, progressively eroding democratic norms and parliamentary governance.",
+        "similarity": "Extreme polarization featuring simultaneous surges of both far-right and far-left factions testing the resilience of German democratic institutions.",
+        "wiki": {
+          "title": "Weimar Republic",
+          "url": "https://en.wikipedia.org/wiki/Weimar_Republic",
+          "extract": "The Weimar Republic was a historical period of the German state from 9 November 1918 to 23 March 1933, during which it was a constitutional republic for the first time in history. The state was officially named the German Reich, but was more commonly referred to, and unofficially"
+        }
+      }
+    ],
+    "pattern": "When mainstream German leaders face surging anti-establishment parties alongside declining personal approval, they typically respond by tightening security and anti-extremism rhetoric, but this rarely halts the momentum of populist movements without addressing underlying economic or social grievances.",
+    "outlook": "Mainstream parties will harden their policy platforms and attempt defensive coalitions, while political polarization in regional legislatures deepens.",
+    "probability": "80%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "Unlike past decades, the far-right is now firmly entrenched as a permanent structural fixture of the political landscape rather than a transient protest vote.",
+    "watch_for": "Regional coalition-building struggles and shifts in national immigration or economic policy designed to appease disaffected voters.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Almanya lideri Merz, AfD ve aşırı solun seçim kazançlarının ardından 'aşırı sağı' yenme sözü verdi",
+        "Today": "Almanya Şansölyesi Friedrich Merz, hem aşırı sağcı Almanya İçin Alternatif (AfD) hem de aşırı sol partilerin önemli seçim kazançlarının ve düşen onay oranlarının ardından siyasi aşırıcılığa karşı kıyasıya bir mücadele sözü verdi.",
+        "Event Type": "aşırı sa yükselişi ve siyasi kutuplaşma",
+        "Historical Precedents": "2015-2018: Almanya İçin Alternatif'in yükselişi\n1930'lar: Weimar Cumhuriyeti siyasi kutuplaşması",
+        "What Followed Before": "2015-2018: Kökleşmiş merkez partiler göç ve güvenlik konusunda daha sert söylem ve politika duruşları benimserken, AfD özellikle doğu Almanya'da seçmen tabanını pekiştirmeye devam etti.\n1930'lar: Geleneksel demokratik partiler istikrarlı koalisyonlar kurmakta zorlandı, bu da demokratik normları ve parlamenter yönetimi giderek aşındırdı.",
+        "Pattern": "Ana akım Alman liderler, düşen kişisel onay oranlarının yanı sıra rekor kıran sistem karşıtı partilerle karşılaştıklarında, tipik olarak güvenlik ve aşırıcılık karşıtı söylemleri sertleştirerek yanıt verirler, ancak bu durum alttan alta yatan ekonomik veya sosyal sıkıntılar ele alınmadığı sürece popülist hareketlerin ivmesini nadiren durdurur.",
+        "Outlook": "Ana akım partiler politika platformlarını sertleştirecek ve savunma koalisyonları deneyecek, bölge parlamentolarındaki siyasi kutuplaşma ise derinleşecek.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Geçmiş on yılların aksine, aşırı sağ artık geçici bir protesto oyunundan ziyade siyasi manzaranın kalıcı ve yapısal bir demirbaşı olarak sıkı bir şekilde yerleşmiştir.",
+        "Watch For": "Bölgesel koalisyon kurma mücadeleleri ve hoşnutsuz seçmenleri memnun etmek için tasarlanmış ulusal göç veya ekonomi politikasındaki kaymalar."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "vows",
+            "tr": "söz veriyor, yemin ediyor"
+          },
+          {
+            "en": "election gains",
+            "tr": "seçim kazançları"
+          }
+        ],
+        "Today": [
+          {
+            "en": "fierce fight",
+            "tr": "kıyasıya mücadele"
+          },
+          {
+            "en": "electoral gains",
+            "tr": "seçim kazançları"
+          },
+          {
+            "en": "amidst",
+            "tr": "ortasında"
+          },
+          {
+            "en": "approval rating",
+            "tr": "onay oranı"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "centrist parties",
+            "tr": "merkez partiler"
+          },
+          {
+            "en": "policy stances",
+            "tr": "politika duruşları"
+          },
+          {
+            "en": "consolidate",
+            "tr": "pekiştirmek, güçlendirmek"
+          },
+          {
+            "en": "eroding",
+            "tr": "aşındıran"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "anti-establishment",
+            "tr": "düzen/sistem karşıtı"
+          },
+          {
+            "en": "grievances",
+            "tr": "şikayetler, hoşnutsuzluklar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "harden",
+            "tr": "sertleştirmek"
+          },
+          {
+            "en": "legislatures",
+            "tr": "yasama meclisleri"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "entrenched",
+            "tr": "kökleşmiş, yerleşmiş"
+          },
+          {
+            "en": "structural fixture",
+            "tr": "yapısal demirbaş/unsur"
+          },
+          {
+            "en": "transient",
+            "tr": "geçici"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "coalition-building",
+            "tr": "koalisyon kurma"
+          },
+          {
+            "en": "disaffected voters",
+            "tr": "hoşnutsuz seçmenler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "U.S. Trade Deficit Hits 17-Month High Despite Trump’s Tariffs",
+    "source_link": "https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html",
+    "what_happened": "The U.S. trade deficit expanded to $105.6 billion, its widest level in 17 months, as imports surged despite newly enacted tariffs.",
+    "event_type": "tariffs and trade wars",
+    "precedents": [
+      {
+        "when": "2018-2019",
+        "event": "Trump administration tariffs",
+        "wikipedia_title": "Trump administration tariffs",
+        "what_happened": "Sweeping tariffs were placed on hundreds of billions of dollars of Chinese and global imports to shrink the trade deficit.",
+        "what_followed": "Rather than shrinking, the overall U.S. goods trade deficit hit a record high of $891 billion in 2018 as importers rushed to beat tariff deadlines and supply chains rerouted.",
+        "similarity": "Same policy tool (tariffs) applied by the same political administration facing a widening trade deficit.",
+        "wiki": {
+          "title": "Tariffs in the Trump administration",
+          "url": "https://en.wikipedia.org/wiki/Tariffs_in_the_Trump_administration",
+          "extract": "Tariffs in the Trump administration may refer to:Tariffs in the first Trump administration (2017–2021)\nTariffs in the second Trump administration (2025–present)"
+        }
+      },
+      {
+        "when": "1930",
+        "event": "Smoot-Hawley Tariff Act",
+        "wikipedia_title": "Smoot-Hawley Tariff Act",
+        "what_happened": "The U.S. enacted high import duties to protect domestic industries and correct trade imbalances.",
+        "what_followed": "Trading partners retaliated sharply, international trade plummeted by over 60%, and the global economic depression deepened severely within two years.",
+        "similarity": "Historical precedent of using aggressive import tariffs during periods of economic nationalism.",
+        "wiki": {
+          "title": "Smoot–Hawley Tariff Act",
+          "url": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
+          "extract": "The Tariff Act of 1930, also known as the Smoot–Hawley Tariff Act, was a protectionist trade measure signed into law in the United States by President Herbert Hoover on June 17, 1930. Named after its chief congressional sponsors, Senator Reed Smoot and Representative Willis C. Ha"
+        }
+      }
+    ],
+    "pattern": "In nearly all historical instances of broad unilateral tariffs (such as 2018 and 1930), imports initially surge as companies front-run duties, causing the short-term trade deficit to widen rather than narrow.",
+    "outlook": "The trade deficit is likely to remain elevated or continue hitting highs in the coming months as front-loading persists, before domestic demand adjustments take over.",
+    "probability": "75%",
+    "timeframe": "next 3-6 months",
+    "confidence": "High",
+    "different_this_time": "The sheer breadth of the new tariff schedules covers virtually all trading partners simultaneously, potentially altering global supply chain relocation speeds.",
+    "watch_for": "Monthly import volume changes and inventory accumulation reports from major retailers.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Trump'ın Tarifelerine Rağmen ABD Dış Ticaret Açığı 17 Ayın En Yüksek Seviyesine Ulaştı",
+        "Today": "Yeni yürürlüğe konulan tarifelere rağmen ithalatın hızla artmasıyla ABD dış ticaret açığı 105,6 milyar dolara genişleyerek son 17 ayın en yüksek seviyesine ulaştı.",
+        "Event Type": "tarifeler ve ticaret savaşları",
+        "Historical Precedents": "2018-2019: Trump yönetimi tarifeleri\n1930: Smoot-Hawley Tarife Kanunu",
+        "What Followed Before": "2018-2019: İthalatçıların tarife tarihlerini geçmeye çalışması ve tedarik zincirlerinin yön değiştirmesiyle, genel ABD mal ticaret açığı daralmak bir yana, 2018'de 891 milyar dolarla rekor bir seviyeye ulaştı.\n1930: Ticaret ortakları sert bir şekilde misilleme yaptı, uluslararası ticaret %60'tan fazla düştü ve küresel ekonomik bunalım iki yıl içinde ciddi şekilde derinleşti.",
+        "Pattern": "Geniş kapsamlı tek taraflı tarifelerin görüldüğü neredeyse tüm tarihi örneklerde (2018 ve 1930 gibi), şirketler vergilerden kaçınmak için öne geçerek alım yaptığından, ithalat başlangıçta hızla artar ve kısa vadeli ticaret açığının daralmak yerine genişlemesine neden olur.",
+        "Outlook": "İç talep ayarlamaları devreye girmeden önce, öne çekilen alımların devam etmesiyle birlikte ticaret açığının önümüzdeki aylarda yüksek kalmaya devam etmesi veya rekorlar kırmayı sürdürmesi muhtemeldir.",
+        "Timeframe": "önümüzdeki 3-6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Yeni tarife tarifelerinin mutlak kapsamı neredeyse tüm ticaret ortaklarını aynı anda kapsamakta olup, küresel tedarik zinciri yer değiştirme hızlarını potansiyel olarak değiştirmektedir.",
+        "Watch For": "Büyük perakendecilerden gelecekteki aylık ithalat hacmi değişimleri ve stok birikim raporları."
+      },
+      "vocabulary": [
+        {
+          "en": "trade deficit",
+          "tr": "dış ticaret açığı"
+        },
+        {
+          "en": "tariffs",
+          "tr": "tarifeler, gümrük vergileri"
+        },
+        {
+          "en": "surged",
+          "tr": "hızla arttı"
+        },
+        {
+          "en": "retaliated",
+          "tr": "misilleme yaptı"
+        },
+        {
+          "en": "plummeted",
+          "tr": "çakıldı, büyük ölçüde düştü"
+        },
+        {
+          "en": "front-run",
+          "tr": "önceden hareket etmek, öne geçmek"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+    "source_link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+    "what_happened": "The New York Fed's Survey of Consumer Expectations showed the median one-year inflation outlook rising to 3.9%, the highest mark since mid-2023.",
+    "event_type": "inflation expectations",
+    "precedents": [
+      {
+        "when": "2021-2022",
+        "event": "Inflation surge of 2021–2023",
+        "wikipedia_title": "2021–2023 inflation surge",
+        "what_happened": "Consumer inflation expectations unanchored upwards alongside supply chain disruptions and fiscal stimulus, prompting aggressive Federal Reserve rate hikes.",
+        "what_followed": "Headline inflation peaked near 9.1% in mid-2022, forcing the Fed to raise interest rates to a 22-year high of 5.25%-5.50% over the subsequent 18 months.",
+        "similarity": "Rising consumer inflation expectations breaking out of multi-year ranges while economic growth remains resilient.",
+        "wiki": {
+          "title": "2021–2023 inflation surge",
+          "url": "https://en.wikipedia.org/wiki/2021%E2%80%932023_inflation_surge",
+          "extract": "Following the start of the COVID-19 pandemic in 2020, a worldwide surge in inflation began in mid-2021 and lasted until mid-2022. Many countries saw their highest inflation rates in decades. It has been attributed to various causes, including pandemic-related economic dislocation"
+        }
+      },
+      {
+        "when": "1973-1974",
+        "event": "1973 oil crisis",
+        "wikipedia_title": "1973 oil crisis",
+        "what_happened": "A major supply shock caused energy prices to skyrocket, rapidly shifting public and business inflation psychology.",
+        "what_followed": "Inflation became entrenched in wage-price spirals, leading to a severe stagflationary recession that required Paul Volcker's drastic rate hikes years later.",
+        "similarity": "External cost pressures (such as trade frictions and supply constraints) feeding directly into consumer sentiment and expectations.",
+        "wiki": {
+          "title": "1973 oil crisis",
+          "url": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+          "extract": "In October 1973, the Organization of Arab Petroleum Exporting Countries (OAPEC) announced that it was implementing a total oil embargo against countries that had supported Israel at any point during the 1973 Yom Kippur War, which began after Egypt and Syria launched a large-scale"
+        }
+      }
+    ],
+    "pattern": "When consumer inflation expectations break upward out of a stable band, central banks typically feel compelled to maintain higher interest rates longer or resume tightening to prevent unanchoring.",
+    "outlook": "The Federal Reserve will likely pause any planned rate cuts and adopt a much more hawkish posture to signal commitment to price stability.",
+    "probability": "70%",
+    "timeframe": "next 3 months",
+    "confidence": "Medium",
+    "different_this_time": "Labor markets and productivity metrics driven by AI adoption currently show more resilience than during historical stagflation periods.",
+    "watch_for": "Upcoming Consumer Price Index (CPI) reports and upcoming Federal Open Market Committee (FOMC) meeting statements.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Fed anketindeki bir yıllık görünüm Mayıs 2023'ten bu yana en yüksek seviyesine ulaşırken enflasyon korkuları artıyor",
+        "Today": "New York Fed'in Tüketici Beklentileri Anketi, medyan bir yıllık enflasyon beklentisinin 2023 ortasından bu yana en yüksek oran olan %3,9'a yükseldiğini gösterdi.",
+        "Event Type": "enflasyon beklentileri",
+        "Historical Precedents": "2021-2022: 2021-2023 enflasyon dalgası\n1973-1974: 1973 petrol krizi",
+        "What Followed Before": "2021-2022: Manşet enflasyon 2022 ortalarında %9,1 sınırında zirve yaparak Fed'i takip eden 18 ay içinde faiz oranlarını 22 yılın en yüksek seviyesi olan %5,25-%5,50 aralığına çıkarmaya zorladı.\n1973-1974: Enflasyon ücret-fiyat sarmalında kalıcı hale geldi ve yıllar sonra Paul Volcker'ın sert faiz artışlarını gerektiren şiddetli bir stagflasyon resesyonuna yol açtı.",
+        "Pattern": "Tüketici enflasyon beklentileri istikrarlı bir bandın dışına çıkıp yukarı yönlü kırıldığında, merkez bankaları genellikle çıpanın kopmasını önlemek için daha yüksek faiz oranlarını daha uzun süre korumaya veya sıkılaştırmaya yeniden başlamaya mecbur hissederler.",
+        "Outlook": "Federal Rezerv muhtemelen planlanan faiz indirimlerini askıya alacak ve fiyat istikrarına olan bağlılığının sinyalini vermek için çok daha şahin bir tutum benimseyecektir.",
+        "Timeframe": "önümüzdeki 3 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Yapay zeka benimsenmesiyle desteklenen iş gücü piyasaları ve verimlilik metrikleri şu anda tarihsel stagflasyon dönemlerine göre daha fazla direnç göstermektedir.",
+        "Watch For": "Yaklaşan Tüketici Fiyat Endeksi (TÜFE) raporları ve Federal Açık Piyasa Komitesi (FOMC) toplantı açıklamaları."
+      },
+      "vocabulary": [
+        {
+          "en": "inflation expectations",
+          "tr": "enflasyon beklentileri"
+        },
+        {
+          "en": "entrenched",
+          "tr": "kökleşmiş, kalıcı hale gelmiş"
+        },
+        {
+          "en": "wage-price spirals",
+          "tr": "ücret-fiyat sarmalı"
+        },
+        {
+          "en": "stagflationary recession",
+          "tr": "stagflasyonist resesyon"
+        },
+        {
+          "en": "hawkish posture",
+          "tr": "şahin tutum"
+        },
+        {
+          "en": "resilience",
+          "tr": "dayanıklılık"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+    "source_link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Paramount has acquired Warner Bros in a massive $110bn mega-merger, combining two of Hollywood's biggest film and television studios despite regulatory and competition concerns.",
+    "event_type": "merger",
+    "precedents": [
+      {
+        "when": "2018",
+        "event": "AT&T's acquisition of Time Warner",
+        "wikipedia_title": "AT&T–Time Warner merger",
+        "what_happened": "AT&T acquired Time Warner for $85 billion after overcoming an antitrust lawsuit brought by the U.S. Department of Justice.",
+        "what_followed": "The combined entity struggled with massive debt, strategic misalignments, and cultural clashes, ultimately leading AT&T to spin off WarnerMedia to merge with Discovery just three years later in 2022.",
+        "similarity": "Massive multi-billion dollar vertical/horizontal media conglomerate mergers involving a historic Warner studio facing intense regulatory scrutiny.",
+        "wiki": {
+          "title": "Acquisition of Time Warner by AT&T",
+          "url": "https://en.wikipedia.org/wiki/Acquisition_of_Time_Warner_by_AT%26T",
+          "extract": "AT&T first announced its cash-and-stock acquisition of Time Warner on October 22, 2016. As part of their definitive agreement, AT&T would acquire Time Warner for $85.4 billion and assume the company's debt obligations for $23.3 billion, corresponding to a total amount of the tran"
+        }
+      },
+      {
+        "when": "2000",
+        "event": "AOL Time Warner merger",
+        "wikipedia_title": "AOL Time Warner",
+        "what_happened": "AOL and Time Warner completed a $164 billion mega-merger at the height of the dot-com bubble, promising a revolutionary fusion of internet and traditional media.",
+        "what_followed": "It became known as one of the worst corporate mergers in history, resulting in a record $99 billion loss in 2002 and eventual corporate decoupling as synergies failed to materialize.",
+        "similarity": "Mega-mergers combining massive legacy entertainment assets with immense financial scale and high expectations of operational synergy.",
+        "wiki": {
+          "title": "WarnerMedia",
+          "url": "https://en.wikipedia.org/wiki/WarnerMedia",
+          "extract": "Warner Media, LLC. was an American multinational entertainment and media conglomerate headquartered at 30 Hudson Yards in Manhattan, New York City. After being acquired by AT&T in June 2018, WarnerMedia was reorganized as a privately-owned subsidiary."
+        }
+      }
+    ],
+    "pattern": "In approximately 70% of mega-scale media and studio mergers, anticipated cost synergies and strategic dominance are undermined by culture clashes, heavy debt loads, and shifting market dynamics, leading to subsequent restructuring or divestment within 3 to 5 years.",
+    "outlook": "The newly merged Paramount-Warner Bros will face severe operational strain, heavy debt servicing burdens, and pressure to slash overhead, likely resulting in major asset sell-offs, extensive layoffs, and strategic pivoting within a few years.",
+    "probability": "75%",
+    "timeframe": "next 3 years",
+    "confidence": "High",
+    "different_this_time": "The streaming-dominated landscape forces immediate consolidation for survival against tech giants, potentially driving more aggressive cost-cutting than past analog-to-digital era mergers.",
+    "watch_for": "Early executive departures, unexpected debt write-downs, and major structural reorganizations or staff layoffs within the studio divisions.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Paramount, 110 milyar dolarlık dev Hollywood birleşmesiyle Warner Bros'u devraldı",
+        "Today": "Paramount, düzenleyici kurumlara ve rekabet endişelerine rağmen Hollywood'un en büyük iki film ve televizyon stüdyosunu bir araya getiren devasa 110 milyar dolarlık dev bir birleşmeyle Warner Bros'u satın aldı.",
+        "Event Type": "birleşme",
+        "Historical Precedents": "2018: AT&T'nin Time Warner'ı satın alması\n2000: AOL Time Warner birleşmesi",
+        "What Followed Before": "2018: Birleşen şirket devasa borçlar, stratejik uyumsuzluklar ve kültürel çatışmalarla mücadele etti; bu durum nihayetinde AT&T'nin WarnerMedia'yı elden çıkararak sadece üç yıl sonra 2022'de Discovery ile birleşmesine yol açtı.\n2000: Tarihin en kötü kurumsal birleşmelerinden biri olarak anıldı, 2002'de rekor düzeyde 99 milyar dolarlık zarara ve sinerjilerin gerçekleşmemesi nedeniyle nihai kurumsal ayrışmaya yol açtı.",
+        "Pattern": "Mega ölçekli medya ve stüdyo birleşmelerinin yaklaşık %70'inde, beklenen maliyet sinerjileri ve stratejik üstünlük; kültürel çatışmalar, ağır borç yükleri ve değişen piyasa dinamikleri nedeniyle zayıflamakta, bu da 3 ila 5 yıl içinde sonraki yeniden yapılandırma veya varlık satışlarına yol açmaktadır.",
+        "Outlook": "Yeni birleşen Paramount-Warner Bros, ciddi operasyonel baskı, ağır borç servisi yükleri ve genel giderleri kısma baskısı ile karşı karşıya kalacak; bu durum muhtemelen birkaç yıl içinde büyük varlık satışlarına, kapsamlı işten çıkarmalara ve stratejik yön değişikliklerine yol açacaktır.",
+        "Timeframe": "önümüzdeki 3 yıl",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Yayın (streaming) odaklı manzara, teknoloji devlerine karşı hayatta kalmak için acil konsolidasyonu zorunlu kılıyor ve potansiyel olarak geçmişteki analogdan dijitale geçiş dönemi birleşmelerinden daha agresif maliyet kesintilerini tetikliyor.",
+        "Watch For": "Stüdyo bölümlerinde erken dönem üst düzey yönetici ayrılıkları, beklenmeyen borç silmeleri ve büyük yapısal yeniden düzenlemeler veya personel çıkarımları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "takes over",
+            "tr": "devralır"
+          },
+          {
+            "en": "merger",
+            "tr": "birleşme"
+          }
+        ],
+        "Today": [
+          {
+            "en": "acquired",
+            "tr": "satın aldı"
+          },
+          {
+            "en": "regulatory concerns",
+            "tr": "düzenleyici endişeler"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "merger",
+            "tr": "birleşme"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "acquisition",
+            "tr": "satın alma"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "struggled with",
+            "tr": "mücadele etti"
+          },
+          {
+            "en": "spin off",
+            "tr": "şirketten ayırıp bağımsızlaştırmak"
+          },
+          {
+            "en": "materialize",
+            "tr": "gerçekleşmek"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "undermined by",
+            "tr": "tarafından zayıflatılmış / sekteye uğratılmış"
+          },
+          {
+            "en": "divestment",
+            "tr": "varlık elden çıkarma"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "operational strain",
+            "tr": "operasyonel baskı"
+          },
+          {
+            "en": "slash overhead",
+            "tr": "genel giderleri kısmak"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "consolidation",
+            "tr": "konsolidasyon / birleşme"
+          },
+          {
+            "en": "cost-cutting",
+            "tr": "maliyet kesintisi"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "write-downs",
+            "tr": "değer düşüklüğü karşılığı / borç silme"
+          },
+          {
+            "en": "layoffs",
+            "tr": "işten çıkarmalar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Boots sold in £7bn deal to Canadian billionaire family",
+    "source_link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "High Street pharmacy chain Boots has been sold in a £7 billion deal to a Canadian billionaire family, shifting ownership of the iconic British retailer.",
+    "event_type": "corporate buyout",
+    "precedents": [
+      {
+        "when": "2007",
+        "event": "Kohlberg Kravis Roberts buyout of Alliance Boots",
+        "wikipedia_title": "Alliance Boots",
+        "what_happened": "KKR took Alliance Boots private in a landmark £11.1 billion leveraged buyout, utilizing high debt levels backed by private equity.",
+        "what_followed": "The private equity ownership structure led to significant financial restructuring, corporate tax re-arrangements moving headquarters abroad, and eventual integration into Walgreens over the following decade.",
+        "similarity": "Massive high-profile corporate buyouts of the iconic Boots pharmacy chain involving intense financial structuring and private capital.",
+        "wiki": {
+          "title": "Alliance Boots",
+          "url": "https://en.wikipedia.org/wiki/Alliance_Boots",
+          "extract": "Alliance Boots was a multinational pharmacy-led health and beauty group with corporate headquarters in Bern, Switzerland and operational headquarters in Nottingham and Weybridge, United Kingdom."
+        }
+      },
+      {
+        "when": "2021",
+        "event": "Morrisons private equity takeover by Clayton, Dubilier & Rice",
+        "wikipedia_title": "Wm Morrison Supermarkets",
+        "what_happened": "UK supermarket chain Morrisons was acquired by private equity firm Clayton, Dubilier & Rice in a £7 billion bidding war.",
+        "what_followed": "The new owners faced pressure from high debt burdens amid rising interest rates, leading to asset sales, tighter operational cost controls, and challenges in maintaining market share against discount competitors.",
+        "similarity": "Multi-billion-pound takeovers of household-name British high street retailers by foreign or private capital buyers.",
+        "wiki": {
+          "title": "Morrisons",
+          "url": "https://en.wikipedia.org/wiki/Morrisons",
+          "extract": "Wm Morrison Supermarkets Limited, trading as Morrisons, is the fifth largest supermarket chain in the United Kingdom. As of 2021, the company had 497 supermarkets across Great Britain, and one in Gibraltar. The company is headquartered in Bradford, England."
+        }
+      }
+    ],
+    "pattern": "Large-scale acquisitions of traditional retail high-street chains by private capital or wealthy family offices frequently trigger aggressive debt-leveraging or rapid cost-cutting initiatives to recoup purchase premiums.",
+    "outlook": "The new ownership is likely to launch comprehensive supply chain optimizations, digital investments, and potential estate rationalizations to maximize the return on the £7 billion investment.",
+    "probability": "65%",
+    "timeframe": "next 18 months",
+    "confidence": "Medium",
+    "different_this_time": "Unlike traditional private equity firms relying strictly on debt-laden LBO models, backing from a billionaire family office may afford a longer-term investment horizon and more patient capital.",
+    "watch_for": "Announcements regarding store footprint optimization, corporate restructuring, or changes in supply chain and digital strategies.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Boots, Kanadalı milyarder bir aileye 7 milyar sterlinlik anlaşmayla satıldı",
+        "Today": "Yüksek cadde (High Street) eczane zinciri Boots, ikonik İngiliz perakendecinin mülkiyetini değiştirerek Kanadalı milyarder bir aileye 7 milyar sterlinlik bir anlaşmayla satıldı.",
+        "Event Type": "şirket satın alması",
+        "Historical Precedents": "2007: Kohlberg Kravis Roberts'ın Alliance Boots'u satın alması\n2021: Clayton, Dubilier & Rice tarafından Morrisons'ın özel sermaye fonuyla devralınması",
+        "What Followed Before": "2007: Özel sermaye mülkiyet yapısı, önemli finansal yeniden yapılandırmaya, genel merkezlerin yurt dışına taşındığı kurumsal vergi düzenlemelerine ve önümüzdeki on yılda Walgreens ile nihai entegrasyona yol açtı.\n2021: Yeni sahipler, yükselen faiz oranları ortasında yüksek borç yüklerinin baskısıyla karşı karşıya kaldı; bu durum varlık satışlarına, daha sıkı operasyonel maliyet kontrollerine ve indirimli rakiplere karşı pazar payını koruma konusunda zorluklara yol açtı.",
+        "Pattern": "Geleneksel perakende cadde zincirlerinin özel sermaye veya varlıklı aile ofisleri tarafından büyük ölçekli satın alımları, satın alma primlerini telafi etmek için genellikle agresif borçlanma (kaldıraç) veya hızlı maliyet kesintisi girişimlerini tetikler.",
+        "Outlook": "Yeni mülkiyetin, 7 milyar sterlinlik yatırımdan elde edilen getiriyi maksimize etmek için kapsamlı tedarik zinciri optimizasyonları, dijital yatırımlar ve potansiyel mağaza/mülk rasyonelleştirmeleri başlatması muhtemeldir.",
+        "Timeframe": "önümüzdeki 18 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Katı bir şekilde borç ağırlıklı kaldıraçlı satın alma (LBO) modellerine güvenen geleneksel özel sermaye şirketlerinin aksine, bir milyarder aile ofisinin desteği daha uzun vadeli bir yatırım ufkuna ve daha sabırlı bir sermayeye imkan tanıyabilir.",
+        "Watch For": "Mağaza ayak izi optimizasyonu, kurumsal yeniden yapılandırma veya tedarik zinciri ve dijital stratejilerdeki değişikliklerle ilgili duyurular."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "deal",
+            "tr": "anlaşma"
+          },
+          {
+            "en": "billionaire family",
+            "tr": "milyarder aile"
+          }
+        ],
+        "Today": [
+          {
+            "en": "pharmacy chain",
+            "tr": "eczane zinciri"
+          },
+          {
+            "en": "ownership",
+            "tr": "mülkiyet"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "corporate buyout",
+            "tr": "şirket satın alması"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "private equity takeover",
+            "tr": "özel sermaye şirketi devralması"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "restructuring",
+            "tr": "yeniden yapılandırma"
+          },
+          {
+            "en": "debt burdens",
+            "tr": "borç yükleri"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "debt-leveraging",
+            "tr": "borç kaldıracı kullanma"
+          },
+          {
+            "en": "recoup",
+            "tr": "telafi etmek / geri kazanmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "supply chain optimizations",
+            "tr": "tedarik zinciri optimizasyonları"
+          },
+          {
+            "en": "rationalizations",
+            "tr": "rasyonelleştirmeler / akılcılaştırma"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "debt-laden",
+            "tr": "borç yükü altında"
+          },
+          {
+            "en": "investment horizon",
+            "tr": "yatırım ufk / vadesi"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "store footprint",
+            "tr": "mağaza ağı / alanı"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Senior figures worried about Man City being in next season's Champions League",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/c9p8gxgm71zzo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Senior figures within the English game are concerned that Manchester City could play in the Champions League next season even if they are relegated for breaching financial regulations.",
+    "event_type": "financial regulation and relegation loophole",
+    "precedents": [
+      {
+        "when": "2006",
+        "event": "Calciopoli scandal",
+        "wikipedia_title": "Calciopoli",
+        "what_happened": "Italian clubs, most notably Juventus, were severely punished for match-fixing, resulting in Juventus being stripped of titles and relegated to Serie B.",
+        "what_followed": "Juventus spent only one season in Serie B before bouncing straight back to Serie A, immediately securing European qualification within two years.",
+        "similarity": "Massive institutional rule-breaking by a domestic titan leading to the threat or reality of relegation alongside European qualification questions.",
+        "wiki": {
+          "title": "Calciopoli",
+          "url": "https://en.wikipedia.org/wiki/Calciopoli",
+          "extract": "\n\nCalciopoli was a sports scandal that emerged in Italy's professional association football league in 2006. It involved some of the most famous and successful football teams in Italy: Juventus, AC Milan, SS Lazio, ACF Fiorentina, Arezzo and AS Reggina. Media reporting on the scan"
+        }
+      },
+      {
+        "when": "2023",
+        "event": "Everton points deduction for financial breaches",
+        "wikipedia_title": "Everton F.C. financial breaches",
+        "what_happened": "Everton were docked 10 points (later reduced to 8) for breaching Premier League Profit and Sustainability Rules.",
+        "what_followed": "Despite the severe sporting sanction, Everton successfully fought off relegation on the pitch through a strong run of form under Sean Dyche, avoiding the drop entirely.",
+        "similarity": "Premier League financial regulation enforcement creating unprecedented league table chaos and survival jeopardy.",
+        "wiki": {
+          "title": "2023–24 Everton F.C. season",
+          "url": "https://en.wikipedia.org/wiki/2023%E2%80%9324_Everton_F.C._season",
+          "extract": "The 2023–24 season was the 146th season in the history of Everton Football Club and their 70th consecutive season in the top flight of English football. In addition to the domestic league, the club participated in the FA Cup and the EFL Cup."
+        }
+      }
+    ],
+    "pattern": "When elite clubs face severe regulatory or sporting sanctions, complex legal frameworks and massive commercial leverage typically prevent catastrophic structural exclusion, though sporting relegation has occasionally occurred.",
+    "outlook": "Manchester City will likely fight any severe sporting sanction through prolonged legal challenges, keeping them clear of immediate European exclusion while legal battles drag on.",
+    "probability": "70%",
+    "timeframe": "next 12 months",
+    "confidence": "Medium",
+    "different_this_time": "The sheer scale of the 115 charges and direct coordination between domestic and UEFA rulebooks creates a legally uncharted territory.",
+    "watch_for": "Statements from UEFA legal teams regarding domestic relegation crossover rules.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Üst düzey yetkililer, Man City'nin önümüzdeki sezon Şampiyonlar Ligi'nde yer almasından endişe ediyor",
+        "Today": "İngiliz futbolunun içindeki üst düzey yetkililer, finansal düzenlemeleri ihlal ettikleri gerekçesiyle küme düşseler bile Manchester City'nin önümüzdeki sezon Şampiyonlar Ligi'nde oynayabileceğinden endişe ediyor.",
+        "Event Type": "finansal düzenleme ve küme düşme açığı",
+        "Historical Precedents": "2006: Calciopoli skandalı\n2023: Everton'ın finansal ihlaller nedeniyle puan silme cezası",
+        "What Followed Before": "2006: Juventus, Serie A'ya hemen geri dönmeden önce Serie B'de yalnızca bir sezon geçirdi ve iki yıl içinde derhal Avrupa kupalarına katılmaya hak kazandı.\n2023: Ağır sportif yaptırıma rağmen Everton, Sean Dyche yönetimindeki iyi bir form grafiğiyle sahada küme düşmekten başarıyla kurtuldu ve küme düşmekten tamamen kaçındı.",
+        "Pattern": "Elit kulüpler ağır düzenleyici veya sportif yaptırımlarla karşılaştığında, karmaşık yasal çerçeveler ve devasa ticari nüfuz tipik olarak felaket niteliğindeki yapısal dışlanmayı önler; ancak ara sıra sportif küme düşme gerçekleşmiştir.",
+        "Outlook": "Manchester City, her türlü ağır sportif yaptırıma karşı muhtemelen uzun süren yasal mücadelelerle direnecek ve hukuki süreçler uzarken onları acil bir Avrupa dışı kalma durumundan uzak tutacaktır.",
+        "Timeframe": "önümüzdeki 12 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "115 suçlamanın boyutu ve yerel ile UEFA kural kitapları arasındaki doğrudan koordinasyon, hukuki olarak keşfedilmemiş bir alan yaratıyor.",
+        "Watch For": "UEFA hukuk ekiplerinden yerel ligden küme düşme geçiş kurallarına ilişkin açıklamalar."
+      },
+      "vocabulary": [
+        {
+          "en": "senior figures",
+          "tr": "üst düzey yetkililer"
+        },
+        {
+          "en": "relegated",
+          "tr": "küme düşmüş"
+        },
+        {
+          "en": "breaching",
+          "tr": "ihlal eden"
+        },
+        {
+          "en": "loophole",
+          "tr": "yasal boşluk / açık"
+        },
+        {
+          "en": "sanction",
+          "tr": "yaptırım"
+        },
+        {
+          "en": "leverage",
+          "tr": "nüfuz / güç"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished for walking out on Portugal after head coach Jorge Jesus broke his word to him.",
+    "event_type": "player manager fallout",
+    "precedents": [
+      {
+        "when": "2010",
+        "event": "France national team 2010 World Cup strike",
+        "wikipedia_title": "2010 FIFA World Cup Group A",
+        "what_happened": "Anelka was sent home after a fallout with coach Raymond Domenech, leading to a player strike where the squad refused to train.",
+        "what_followed": "France crashed out of the tournament in the group stage, and a massive clear-out of the coaching staff and senior players followed immediately afterwards.",
+        "similarity": "High-profile player-manager friction spilling over into public walkouts and disciplinary crisis during an international setup.",
+        "wiki": {
+          "title": "2010 FIFA World Cup Group A",
+          "url": "https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_A",
+          "extract": "\nGroup A of the 2010 FIFA World Cup began on 11 June and ended on 22 June 2010. The group consisted of host nation South Africa, Mexico, Uruguay and the runners-up from 2006, France."
+        }
+      },
+      {
+        "when": "2022",
+        "event": "Cristiano Ronaldo Manchester United exit",
+        "wikipedia_title": "Cristiano Ronaldo",
+        "what_happened": "Ronaldo walked down the tunnel early during a Premier League match against Tottenham after refusing to come on as a substitute under Erik ten Hag.",
+        "what_followed": "After a subsequent explosive unauthorized interview, his contract was mutually terminated within weeks, leading to his move to Saudi Arabia.",
+        "similarity": "The same player reacting to perceived broken promises or lack of respect by walking out, forcing an institutional confrontation.",
+        "wiki": {
+          "title": "Cristiano Ronaldo",
+          "url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+          "extract": "Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains both the Saudi Pro League club Al-Nassr and the Portugal national team. Nicknamed CR7, he is widely regarded as one of the greatest footballers of all time. He has "
+        }
+      }
+    ],
+    "pattern": "Public player-manager fallouts involving aging megastars rarely resolve through internal compromise; they typically result in either the manager backing down to protect team harmony or the player being phased out of the squad entirely.",
+    "outlook": "Jorge Jesus and the Portuguese federation will likely navigate a temporary disciplinary suspension before quietly reintegrating or phasing him out ahead of major tournaments.",
+    "probability": "60%",
+    "timeframe": "next 3 months",
+    "confidence": "Medium",
+    "different_this_time": "Ronaldo's historical status as an untouchable national icon gives him unique leverage compared to standard squad members.",
+    "watch_for": "Squad selection announcements for Portugal's upcoming fixtures.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Ronaldo Portekiz'den 'ceza' istiyor ancak milli takımı bırakmıyor",
+        "Today": "Cristiano Ronaldo, uluslararası futbolu bırakmadığını ancak teknik direktör Jorge Jesus'un kendisine verdiği sözü tutmamasının ardından Portekiz kampını terk ettiği için cezalandırılmayı hak ettiğini söylüyor.",
+        "Event Type": "futbolcu teknik direktör anlaşmazlığı",
+        "Historical Precedents": "2010: Fransa millî takımının 2010 Dünya Kupası boykotu\n2022: Cristiano Ronaldo'nun Manchester United'dan ayrılışı",
+        "What Followed Before": "2010: Fransa turnuvadan grup aşamasında elendi ve hemen ardından teknik heyette ve yaşlı oyuncularda büyük bir tasfiye yaşandı.\n2022: Ardından gelen patlayıcı nitelikteki izinsiz röportajın ardından sözleşmesi haftalar içinde karşılıklı olarak feshedildi ve Suudi Arabistan'a transferine yol açtı.",
+        "Pattern": "Yaşlanan megastarları içeren halka açık futbolcu-teknik direktör anlaşmazlıkları nadiren iç uzlaşmayla çözülür; tipik olarak teknik direktörün takım uyumunu korumak için geri adım atmasıyla ya da oyuncunun kadrodan tamamen çıkarılmasıyla sonuçlanır.",
+        "Outlook": "Jorge Jesus ve Portekiz federasyonu, büyük turnuvalar öncesinde onu sessizce yeniden kadroya dahil etmeden veya kadrodan aşamalı olarak çıkarmadan önce muhtemelen geçici bir disiplin cezası süreci yürütecektir.",
+        "Timeframe": "önümüzdeki 3 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Ronaldo'nun dokunulmaz bir ulusal ikon olarak tarihi statüsü, sıradan kadro üyelerine kıyasla ona benzersiz bir nüfuz kazandırıyor.",
+        "Watch For": "Portekiz'in önümüzdeki maçları için kadro seçim duyuruları."
+      },
+      "vocabulary": [
+        {
+          "en": "retiring",
+          "tr": "emekli olmak / bırakmak"
+        },
+        {
+          "en": "walking out",
+          "tr": "terkedip gitmek"
+        },
+        {
+          "en": "broke his word",
+          "tr": "sözünü tutmadı"
+        },
+        {
+          "en": "fallout",
+          "tr": "anlaşmazlık / kavga"
+        },
+        {
+          "en": "phased out",
+          "tr": "aşama aşama kadrodan çıkarılmak"
+        },
+        {
+          "en": "untouchable",
+          "tr": "dokunulmaz"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026",
+    "source_link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "An unusually quiet start to the Atlantic hurricane season, driven by El Niño conditions, is coming to an end as Tropical Storm Isaias strengthens toward hurricane status to impact the southern USA.",
+    "event_type": "hurricane formation",
+    "precedents": [
+      {
+        "when": "1992",
+        "event": "Hurricane Andrew",
+        "wikipedia_title": "Hurricane Andrew",
+        "what_happened": "An El Niño-suppressed and late-starting Atlantic hurricane season produced a catastrophic Category 5 hurricane that devastated South Florida.",
+        "what_followed": "It caused $27 billion in damage and prompted sweeping overhauls of building codes and emergency management across the United States within months.",
+        "similarity": "A quiet or delayed early season caused by El Niño conditions abruptly transitioning into a destructive land-falling storm.",
+        "wiki": {
+          "title": "Hurricane Andrew",
+          "url": "https://en.wikipedia.org/wiki/Hurricane_Andrew",
+          "extract": "Hurricane Andrew was a compact but extremely powerful tropical cyclone that became the most destructive hurricane to ever hit Florida in terms of structures damaged or destroyed and remained the costliest in financial terms until Hurricane Irma surpassed it 25 years later. Andrew"
+        }
+      },
+      {
+        "when": "2005",
+        "event": "Hurricane Katrina",
+        "wikipedia_title": "Hurricane Katrina",
+        "what_happened": "A volatile Atlantic basin rapidly intensified late-season systems, culminating in one of the deadliest natural disasters in US history.",
+        "what_followed": "Widespread levee failures in New Orleans led to catastrophic flooding, prolonged displacement, and massive federal disaster response reform over the subsequent years.",
+        "similarity": "High sea-surface temperatures feeding rapid intensification near the southern USA.",
+        "wiki": {
+          "title": "Hurricane Katrina",
+          "url": "https://en.wikipedia.org/wiki/Hurricane_Katrina",
+          "extract": "Hurricane Katrina was an extremely powerful and catastrophic tropical cyclone that affected the Southeastern United States in late August 2005, particularly in and around the city of New Orleans. Katrina became the United States' costliest tropical cyclone, with an estimated $125"
+        }
+      }
+    ],
+    "pattern": "In historical seasons suppressed by El Niño, the eventual emergence of favorable tropical waves often leads to intense, rapid-onset hurricanes as stored ocean heat discharges.",
+    "outlook": "Rapid intensification upon reaching warm coastal waters, posing a severe threat of wind and flood damage to the southern US coastline.",
+    "probability": "75%",
+    "timeframe": "next 1-2 weeks",
+    "confidence": "High",
+    "different_this_time": "Advanced satellite monitoring and numerical weather prediction models allow for much earlier evacuation warnings than in past decades.",
+    "watch_for": "Rapid pressure drops and wind shear reductions as the storm approaches warm Gulf or Atlantic currents.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Tropikal Fırtına Isaias'ın 2026'nın ilk Atlantik kasırgası olması bekleniyor",
+        "Today": "El Niño koşullarının tetiklediği Atlantik kasırga sezonunun olağandışı sakin başlangıcı, Tropikal Fırtına Isaias'ın güney ABD'yi etkilemek üzere kasırga statüsüne doğru güçlenmesiyle sona eriyor.",
+        "Event Type": "kasırga oluşumu",
+        "Historical Precedents": "1992: Andrew Kasırgası\n2005: Katrina Kasırgası",
+        "What Followed Before": "1992: ABD genelinde aylar içinde 27 milyar dolarlık hasara yol açtı ve bina yönetmelikleri ile acil durum yönetiminde kapsamlı köklü değişiklikleri tetikledi.\n2005: New Orleans'ta yaygın sedye (set) arızaları, felaket niteliğinde su baskınlarına, uzun süreli yerinden edilmelere ve sonraki yıllarda devasa federal afet müdahale reformuna yol açtı.",
+        "Pattern": "El Niño nedeniyle baskılanan tarihsel sezonlarda, elverişli tropikal dalgaların nihai ortaya çıkışı, biriken okyanus ısısı boşaldıkça genellikle yoğun ve ani başlayan kasırgalara yol açar.",
+        "Outlook": "Ilık kıyı sularına ulaşıldığında hızlı şiddetlenme, güney ABD kıyı şeridi için şiddetli rüzgar ve sel hasarı tehlikesi oluşturmaktadır.",
+        "Timeframe": "gelecek 1-2 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Gelişmiş uydu izleme ve sayısal hava tahmin modelleri, geçmiş on yıllara göre çok daha erken tahliye uyarılarına imkan tanımaktadır.",
+        "Watch For": "Fırtına ılık Körfez veya Atlantik akıntilerine yaklaşırken hızlı basınç düşüşleri ve rüzgar kesmesi (shear) azalmaları."
+      },
+      "vocabulary": [
+        {
+          "en": "forecast",
+          "tr": "tahmin etmek / tahmin"
+        },
+        {
+          "en": "strengthens",
+          "tr": "güçleniyor"
+        },
+        {
+          "en": "sweeping overhauls",
+          "tr": "kapsamlı köklü değişiklikler"
+        },
+        {
+          "en": "rapid-onset",
+          "tr": "ani başlayan"
+        },
+        {
+          "en": "intensification",
+          "tr": "şiddetlenme"
+        },
+        {
+          "en": "wind shear",
+          "tr": "rüzgar kesmesi"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+    "source_link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "The 2026 Nobel Prize in Chemistry has been awarded to French and Japanese scientists for successfully solving the mystery of biological homochiral asymmetry.",
+    "event_type": "Nobel Prize announcement",
+    "precedents": [
+      {
+        "when": "1953",
+        "event": "Discovery of the structure of DNA",
+        "wikipedia_title": "Molecular structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+        "what_happened": "Watson and Crick elucidated the double helix structure of DNA, revolutionizing molecular biology and unlocking the mechanical basis of genetics.",
+        "what_followed": "Within a decade, it sparked the biotechnology industry, modern pharmaceuticals, and genetic engineering, fundamentally altering biological science.",
+        "similarity": "A foundational breakthrough in fundamental biological chemistry that redefines how scientists approach life's basic building blocks.",
+        "wiki": {
+          "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+          "url": "https://en.wikipedia.org/wiki/Molecular_Structure_of_Nucleic_Acids%3A_A_Structure_for_Deoxyribose_Nucleic_Acid",
+          "extract": "\n\n\"Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid\" was the first article published to describe the discovery of the double helix structure of DNA, using X-ray diffraction and the mathematics of a helix transform. It was published by Francis Crick a"
+        }
+      },
+      {
+        "when": "1996",
+        "event": "Discovery of catalytic RNA",
+        "wikipedia_title": "Nobel Prize in Chemistry",
+        "what_happened": "Recognition of fundamental biochemical mechanisms that reshaped theories regarding the origin of life.",
+        "what_followed": "Accelerated research into RNA-based therapies and synthetic biology over the following 10 to 20 years.",
+        "similarity": "Major fundamental chemistry/biology Nobel prizes that shift long-standing paradigms about prebiotic evolution.",
+        "wiki": {
+          "title": "Nobel Prize in Chemistry",
+          "url": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Chemistry",
+          "extract": "The Nobel Prize in Chemistry is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of chemistry. It is one of the five Nobel Prizes established by the will of Alfred Nobel in 1895, awarded for outstanding contributions in chemistry, phys"
+        }
+      }
+    ],
+    "pattern": "Major Nobel-winning breakthroughs in fundamental molecular origins typically trigger a 5-to-10-year surge in targeted pharmaceutical development, synthetic biology applications, and artificial synthesis of biomolecules.",
+    "outlook": "A significant increase in grant funding and commercial biotech investment aimed at manipulating chiral molecules for targeted drug delivery and pharmacology.",
+    "probability": "85%",
+    "timeframe": "next 3-5 years",
+    "confidence": "High",
+    "different_this_time": "Modern AI-driven protein and molecular folding models (such as advanced AlphaFold variants) will commercialize and apply these findings much faster than historical precedents.",
+    "watch_for": "New pharmaceutical patents utilizing chiral asymmetry to reduce drug side effects.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Yaşamın asimetrisi gizemini çözenlere Kimya Nobel Ödülü verildi",
+        "Today": "2026 Nobel Kimya Ödülü, biyolojik homokiral asimetri gizemini başarıyla çözen Fransız ve Japon bilim insanlarına verildi.",
+        "Event Type": "Nobel Ödülü duyurusu",
+        "Historical Precedents": "1953: DNA yapısının keşfi\n1996: Katalitik RNA'nın keşfi",
+        "What Followed Before": "1953: Bir onlar yıl içinde biyoteknoloji endüstrisini, modern eczacılığı ve genetik mühendisliğini tetikleyerek biyolojik bilimi kökten değiştirdi.\n1996: Sonraki 10 ila 20 yıl içinde RNA bazlı tedaviler ve sentetik biyoloji araştırmalarını hızlandırdı.",
+        "Pattern": "Temel moleküler kökenlerdeki büyük Nobel ödüllü çığırlar, tipik olarak hedefe yönelik ilaç geliştirmede, sentetik biyoloji uygulamalarında ve biyomoleküllerin yapay sentezinde 5 ila 10 yıllık bir artışı tetikler.",
+        "Outlook": "Hedefe yönelik ilaç dağıtımı ve farmakoloji için kiral molekülleri manipüle etmeyi amaçlayan hibe fonlarında ve ticari biyoteknoloji yatırımlarında belirgin bir artış.",
+        "Timeframe": "gelecek 3-5 yıl",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Modern yapay zeka destekli protein ve moleküler katlanma modelleri (gelişmiş AlphaFold varyantları gibi), bu bulguları tarihsel emsallerine göre çok daha hızlı bir şekilde ticarileştirecek ve uygulayacaktır.",
+        "Watch For": "İlaç yan etkilerini azaltmak için kiral asimetriden yararlanan yeni eczacılık patentleri."
+      },
+      "vocabulary": [
+        {
+          "en": "asymmetry",
+          "tr": "asimetri"
+        },
+        {
+          "en": "breakthroughs",
+          "tr": "çığır açan gelişmeler"
+        },
+        {
+          "en": "surge",
+          "tr": "ani artış"
+        },
+        {
+          "en": "grant funding",
+          "tr": "hibe finansmanı"
+        },
+        {
+          "en": "manipulating",
+          "tr": "manipüle etme, yönlendirerek işleme"
+        },
+        {
+          "en": "variants",
+          "tr": "varyantlar, türler"
+        }
+      ]
+    }
+  }
+]
