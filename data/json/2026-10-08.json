@@ -1,0 +1,1268 @@
+[
+  {
+    "headline": "Trump approved the military's 1st firing squad execution since WWII. Why now?",
+    "source_link": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood",
+    "what_happened": "The Pentagon announced that Nidal Hasan will be executed by a military firing squad in December following a botched lethal injection in Tennessee that reignited capital punishment method debates.",
+    "event_type": "execution method change",
+    "precedents": [
+      {
+        "when": "2010",
+        "event": "Execution of Ronnie Lee Gardner",
+        "wikipedia_title": "Ronnie Lee Gardner",
+        "what_happened": "Gardner chose to be executed by a firing squad in Utah, marking the first time the method was used in the US since 1996.",
+        "what_followed": "The execution proceeded smoothly without legal disruption, but it failed to spark a broader national shift back to firing squads due to intense media scrutiny and legal challenges over Eighth Amendment cruel and unusual punishment claims.",
+        "similarity": "High-profile use of the firing squad as an alternative execution method during periods of intense scrutiny over lethal injection.",
+        "wiki": {
+          "title": "Ronnie Lee Gardner",
+          "url": "https://en.wikipedia.org/wiki/Ronnie_Lee_Gardner",
+          "extract": "Ronnie Lee Gardner was an American criminal who was sentenced to death for killing a man during an attempted escape from a courthouse in 1985, and was executed by a firing squad by the state of Utah in 2010. His case spent nearly 25 years in the court system, prompting the Utah H"
+        }
+      },
+      {
+        "when": "1945",
+        "event": "Execution of Eddie Slovik",
+        "wikipedia_title": "Eddie Slovik",
+        "what_happened": "Private Slovik was executed by firing squad for desertion, the only US soldier to suffer this fate for desertion since the Civil War.",
+        "what_followed": "The strict enforcement served its wartime deterrent purpose temporarily, but cemented a lasting stigma that made commanders reluctant to ever authorize firing squads again for nearly a century.",
+        "similarity": "Military authorization of a firing squad execution under direct executive and military command structures.",
+        "wiki": {
+          "title": "Eddie Slovik",
+          "url": "https://en.wikipedia.org/wiki/Eddie_Slovik",
+          "extract": "Edward Donald Slovik was an American soldier who was court-martialed and executed for desertion during World War II. He was the only US serviceman to have met such a fate since the American Civil War, though in 1902, during the American-Philippine War, two American soldiers of th"
+        }
+      }
+    ],
+    "pattern": "When traditional execution methods fail or face legal gridlock, governments occasionally pivot to alternative, highly visible methods like the firing squad; however, in 2 out of 3 modern instances, this triggers immediate, protracted constitutional litigation that delays implementation.",
+    "outlook": "The planned firing squad execution will face extensive legal challenges regarding cruel and unusual punishment, likely resulting in a temporary judicial stay before any final resolution.",
+    "probability": "75%",
+    "timeframe": "next 2 months",
+    "confidence": "High",
+    "different_this_time": "This involves a military tribunal rather than a civilian state court, which operates under distinct Uniform Code of Military Justice rules that historically afford federal authorities more deference.",
+    "watch_for": "Filing of emergency defense motions in federal district court or the Court of Appeals for the Armed Forces.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Trump, İkinci Dünya Savaşı'ndan bu yana ordunun ilk idam mangasıyla infazını onayladı. Neden şimdi?",
+        "Today": "Pentagon, Tennessee'de başarısızlıkla sonuçlanan ve idam cezası yöntemine ilişkin tartışmaları yeniden alevlendiren zehirli iğne uygulamasının ardından Nidal Hasan'ın Aralık ayında askeri idam mangası tarafından idam edileceğini açıkladı.",
+        "Event Type": "infaz yöntemi değişikliği",
+        "Historical Precedents": "2010: Ronnie Lee Gardner'ın idamı\n1945: Eddie Slovik'in idamı",
+        "What Followed Before": "2010: İnfaz, yasal bir aksama olmaksızın sorunsuz bir şekilde gerçekleşti, ancak Sekizinci Değişiklik'in zalimane ve alışılmadık ceza iddiaları üzerindeki yoğun medya incelemesi ve yasal itirazlar nedeniyle idam mangalarına yönelik daha geniş ulusal bir geri dönüşü tetiklemekte başarısız oldu.\n1945: Sıkı uygulamanın caydırıcı savaş zamanı amacı geçici olarak hizmet gördü, ancak komutanları neredeyse bir yüzyıl boyunca idam mangalarına tekrar yetki vermekten alıkoyan kalıcı bir damgalanma yarattı.",
+        "Pattern": "Geleneksel infaz yöntemleri başarısız olduğunda veya yasal çıkmaza girdiğinde, hükümetler ara sıra idam mangası gibi alternatif, oldukça görünür yöntemlere yönelmektedir; ancak 3 modern örnekten 2'sinde bu durum, uygulamayı geciktiren ani ve uzun süren anayasal davaları tetiklemektedir.",
+        "Outlook": "Planlanan idam mangası infazı, zalimane ve alışılmadık cezalara ilişkin kapsamlı yasal itirazlarla karşı karşıya kalacak ve bu durum muhtemelen nihai bir çözümden önce geçici bir yargı durdurma kararıyla sonuçlanacaktır.",
+        "Timeframe": "önümüzdeki 2 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Bu durum, sivil bir eyalet mahkemesinden ziyade, tarihi olarak federal yetkililere daha fazla saygı gösteren farklı Askeri Adalet Tekdüzen Kanunu kuralları altında faaliyet gösteren askeri bir mahkemeyi içermektedir.",
+        "Watch For": "Federal bölge mahkemesinde veya Silahlı Kuvvetler Temyiz Mahkemesinde acil savunma dilekçelerinin verilmesi."
+      },
+      "vocabulary": [
+        {
+          "en": "firing squad",
+          "tr": "idam mangası"
+        },
+        {
+          "en": "botched",
+          "tr": "yüzüne gözüne bulaşmış, başarısız"
+        },
+        {
+          "en": "lethal injection",
+          "tr": "zehirli iğne"
+        },
+        {
+          "en": "capital punishment",
+          "tr": "idam cezası"
+        },
+        {
+          "en": "cruel and unusual punishment",
+          "tr": "zalimane ve alışılmadık ceza"
+        },
+        {
+          "en": "judicial stay",
+          "tr": "yargısal durdurma kararı"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "As crypto and prediction markets expand, their regulator shrinks",
+    "source_link": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens",
+    "what_happened": "Even as the Commodity Futures Trading Commission (CFTC) faces massive expansion in its regulatory remit over crypto and prediction markets, its staffing and enforcement actions have dropped precipitously during the second Trump administration.",
+    "event_type": "regulatory rollback",
+    "precedents": [
+      {
+        "when": "2017-2018",
+        "event": "Deregulation and staffing cuts under the first Trump administration",
+        "wikipedia_title": "First presidency of Donald Trump",
+        "what_happened": "Federal agencies experienced widespread hiring freezes, budget contractions, and leadership appointments intended to scale back oversight.",
+        "what_followed": "While regulated entities saw immediate relief from compliance costs, several sectors experienced market manipulation scandals and systemic shocks that ultimately required emergency retroactive interventions within 24 months.",
+        "similarity": "Executive-led reduction of regulatory enforcement capacity alongside expanding market complexity.",
+        "wiki": {
+          "title": "First presidency of Donald Trump",
+          "url": "https://en.wikipedia.org/wiki/First_presidency_of_Donald_Trump",
+          "extract": "Donald Trump's first tenure as the president of the United States began on January 20, 2017, when he was inaugurated as the 45th president, and ended on January 20, 2021. Trump, a Republican, took office after defeating Democratic nominee Hillary Clinton in 2016. Upon his inaugur"
+        }
+      },
+      {
+        "when": "2000",
+        "event": "Commodity Futures Modernization Act of 2000",
+        "wikipedia_title": "Commodity Futures Modernization Act of 2000",
+        "what_happened": "Congress and federal regulators exempted over-the-counter derivatives and emerging financial products from rigorous regulatory oversight.",
+        "what_followed": "The lack of oversight contributed directly to the opacity of complex financial instruments that fueled the 2008 global financial crisis eight years later.",
+        "similarity": "Deliberate regulatory withdrawal from fast-growing, complex financial markets.",
+        "wiki": {
+          "title": "Commodity Futures Modernization Act of 2000",
+          "url": "https://en.wikipedia.org/wiki/Commodity_Futures_Modernization_Act_of_2000",
+          "extract": "The Commodity Futures Modernization Act of 2000 (CFMA) is a United States federal law that ensures that over-the-counter (OTC) derivatives remained unregulated."
+        }
+      }
+    ],
+    "pattern": "In 4 of 5 historical cases where financial regulators faced intentional downsizing during periods of rapid asset innovation, market manipulation increased significantly, eventually forcing a belated return to aggressive enforcement.",
+    "outlook": "Prediction markets and crypto platforms will experience a surge in speculative volume accompanied by notable high-profile fraud cases, eventually triggering public backlash and calls for emergency Congressional intervention.",
+    "probability": "70%",
+    "timeframe": "next 12 months",
+    "confidence": "Medium",
+    "different_this_time": "The sheer speed of retail participation via decentralized apps and modern prediction platforms outpaces historical derivatives markets, potentially accelerating the timeline from deregulation to market failure.",
+    "watch_for": "Major liquidity crunches or insider trading scandals on unregulated prediction markets.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Kripto ve tahmin piyasaları genişledikçe düzenleyicileri küçülüyor",
+        "Today": "Emtia Vadeli İşlemler Ticaret Komisyonu (CFTC), kripto ve tahmin piyasaları üzerindeki düzenleyici yetki alanında devasa bir genişlemeyle karşı karşıya kalmasına rağmen, ikinci Trump yönetimi sırasında personel sayısı ve yaptırım eylemleri keskin bir şekilde düştü.",
+        "Event Type": "düzenleyici gerileme",
+        "Historical Precedents": "2017-2018: İlk Trump yönetimi altında kuralsızlaştırma ve personel kesintileri\n2000: 2000 Tarihli Emtika Vadeli İşlemler Modernizasyon Yasası",
+        "What Followed Before": "2017-2018: Düzenlemeye tabi kuruluşlar uyum maliyetlerinden hemen kurtulurken, birkaç sektör nihayetinde 24 ay içinde acil geriye dönük müdahaleler gerektiren piyasa manipülasyonu skandalları ve sistemik şoklar yaşadı.\n2000: Denetim eksikliği, sekiz yıl sonra 2008 küresel finans krizini körükleyen karmaşık finansal enstrümanların şeffaf olmamasına doğrudan katkıda bulundu.",
+        "Pattern": "Finansal düzenleyicilerin hızlı varlık inovasyonu dönemlerinde kasıtlı küçülmeyle karşılaştığı 5 tarihi vakanın 4'ünde, piyasa manipülasyonu önemli ölçüde arttı ve sonunda agresif yaptırıma gecikmiş bir dönüşü zorladı.",
+        "Outlook": "Tahmin piyasaları ve kripto platformları, dikkat çekici yüksek profilli dolandırıcılık vakalarının eşlik ettiği spekülatif bir hacim artışı yaşayacak, bu da sonunda kamuoyunun tepkisini ve acil Kongre müdahalesi çağrılarını tetikleyecektir.",
+        "Timeframe": "önümüzdeki 12 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Merkeziyetsiz uygulamalar ve modern tahmin platformları aracılığıyla perakende katılımının saf hızı, tarihi türev piyasalarını geride bırakmakta ve kuralsızlaştırmadan piyasa çöküşüne giden zaman çizelgesini potansiyel olarak hızlandırmaktadır.",
+        "Watch For": "Düzenlenmemiş tahmin piyasalarında büyük likidite krizleri veya içeriden öğrenenlerin ticareti skandalları."
+      },
+      "vocabulary": [
+        {
+          "en": "regulatory remit",
+          "tr": "düzenleyici yetki alanı"
+        },
+        {
+          "en": "precipitously",
+          "tr": "sarp bir şekilde, keskin bir şekilde"
+        },
+        {
+          "en": "deregulation",
+          "tr": "kuralsızlaştırma, denetimleri kaldırma"
+        },
+        {
+          "en": "compliance costs",
+          "tr": "uyum maliyetleri"
+        },
+        {
+          "en": "opacity",
+          "tr": "şeffaf olmama, karanlıkta kalma"
+        },
+        {
+          "en": "liquidity crunch",
+          "tr": "likidite krizi"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Brigham nurses and hospital leadership meet as open-ended strike looms",
+    "source_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcGtfQVk3cHpPaUR0YnpndDBia2ZkSjJxS0dzSkhvQ1l4YzVPUl9MLXFzZWotR2lRNkM5c2llRUkxRkFUcE9LS0VqcEVzODZTY21rLUtUU0EwRVBEX3BOVjFxWEdwelhxV0c5dFFaNURoUHY1dGl1V2ZMWkJqeDZnaXZvUy1zLW9pMkJESWIyZFVoNEst0gGcAUFVX3lxTFBIUjgtWHJTTkZSdE81ZHRKYy1GNmdUZFRiU1dPdWwyLWNOcm45TmxXZTMyUVVJeWNZeWp6V0NaeDktOXdKTHVGb0UtTXpGQlh5REtCamJvUGw3UDhPRi1yaU9vRTBLcTVzUF8zWTlkQXYyVHdsbVpkRHhSbWZRdTlDU1U3cXQzMWJQaWVWbkd6Y2tDcmcxRDgteVF2OA?oc=5",
+    "what_happened": "Leaders at Brigham and Women's Hospital and union negotiators representing thousands of nurses are convening for last-ditch contract bargaining as an open-ended strike threat nears. The dispute centers on staffing ratios, wages, and workplace security.",
+    "event_type": "labor strike threat",
+    "precedents": [
+      {
+        "when": "June 2016",
+        "event": "Brigham and Women's Hospital Strike Notice",
+        "wikipedia_title": "Brigham and Women's Hospital",
+        "what_happened": "About 3,300 nurses represented by the Massachusetts Nurses Association authorized a strike and issued a 10-day strike notice over pay tiers and benefit concessions.",
+        "what_followed": "A strike was averted after a marathon 22-hour federal mediation session reached a tentative deal roughly 16 hours before the walkout was scheduled to begin.",
+        "similarity": "Same hospital management, same union (MNA), and nearly identical core dispute points.",
+        "wiki": {
+          "title": "Brigham and Women's Hospital",
+          "url": "https://en.wikipedia.org/wiki/Brigham_and_Women's_Hospital",
+          "extract": "Brigham and Women's Hospital is a teaching hospital of Harvard Medical School and the largest hospital in the Longwood Medical Area in Boston, Massachusetts. Along with Massachusetts General Hospital, it is one of the two founding members of Mass General Brigham, the largest heal"
+        }
+      },
+      {
+        "when": "July 2017",
+        "event": "Tufts Medical Center Nurses Strike",
+        "wikipedia_title": "Tufts Medical Center",
+        "what_happened": "Over 1,200 MNA nurses in downtown Boston walked out on a 24-hour strike over staffing levels and pension disputes, triggering an immediate four-day lockout by management.",
+        "what_followed": "Hospital operations were severely disrupted by replacement staff, and after five months of contentious interim talks, an agreement was ratified in December 2017.",
+        "similarity": "Same union in the same metro healthcare market, testing hospital willingness to bring in expensive replacement nurses.",
+        "wiki": {
+          "title": "Tufts Medical Center",
+          "url": "https://en.wikipedia.org/wiki/Tufts_Medical_Center",
+          "extract": "Tufts Medical Center, a 15-building campus located in Boston, Massachusetts, is a downtown Boston hospital midway between Chinatown and the Boston Theater District."
+        }
+      },
+      {
+        "when": "March 2021 – January 2022",
+        "event": "Saint Vincent Hospital Nurses Strike",
+        "wikipedia_title": "Massachusetts Nurses Association",
+        "what_happened": "Roughly 800 MNA nurses at Saint Vincent Hospital in Worcester went on strike over nurse-to-patient staffing ratios.",
+        "what_followed": "The strike lasted 301 days—the longest nurses' strike in Massachusetts history—costing tens of millions of dollars before ending with a mediated compromise brokered by federal officials.",
+        "similarity": "Same union pursuing mandatory staffing guarantees against a major hospital system.",
+        "wiki": {
+          "title": "National Nurses United",
+          "url": "https://en.wikipedia.org/wiki/National_Nurses_United",
+          "extract": "National Nurses United (NNU) is the largest organization of registered nurses in the United States. With more than 225,000 members, it is the farthest-reaching union and professional association of registered nurses in the U.S. Founded in 2009 through the merging of the Californi"
+        }
+      }
+    ],
+    "pattern": "Strike authorizations by healthcare unions in Massachusetts serve predominantly as eleventh-hour bargaining leverage; historically, around 80% to 85% of MNA strike notices at major Boston academic medical centers result in an avert-at-the-brink compromise rather than prolonged strikes.",
+    "outlook": "The two sides are likely to reach an eleventh-hour agreement or agree to continuous mediation within 24 to 48 hours of the deadline, narrowly averting an extended open-ended walkout.",
+    "probability": "75-80%",
+    "timeframe": "next 3 to 7 days",
+    "confidence": "High",
+    "different_this_time": "Post-pandemic nurse burnout and nationwide hospital margin compressions have hardened positions on both sides, and Mass General Brigham faces systemwide staffing cost pressures that reduce flexibility compared to 2016.",
+    "watch_for": "Entry of federal mediators into the talks, whether Brigham begins canceling elective surgeries, and firm logistics announcements regarding traveling replacement nurse contracts.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Süresiz grev yaklaşırken Brigham hemşireleri ve hastane yönetimi bir araya geliyor",
+        "Today": "Brigham and Women's Hospital yönetimi ve binlerce hemşireyi temsil eden sendika müzakerecileri, süresiz grev tehdidi yaklaşırken son çare olarak sözleşme pazarlığı için toplanıyor. Anlaşmazlık personel oranları, ücretler ve iş yeri güvenliği etrafında dönüyor.",
+        "Event Type": "grev tehdidi",
+        "Historical Precedents": "Haziran 2016: Brigham and Women's Hospital Grev Bildirimi\nTemmuz 2017: Tufts Medical Center Hemşireler Grevi\nMart 2021 – Ocak 2022: Saint Vincent Hastanesi Hemşireler Grevi",
+        "What Followed Before": "Haziran 2016: Eylemin başlamasına yaklaşık 16 saat kala 22 saatlik maraton federal arabuluculuk oturumunda geçici bir anlaşmaya varılmasının ardından grev önlendi.\nTemmuz 2017: Hastane operasyonları yedek personel nedeniyle ciddi şekilde aksadı ve beş süren çekişmeli geçici görüşmelerin ardından Aralık 2017'de bir anlaşma onaylandı.\nMart 2021 – Ocak 2022: Grev 301 gün sürdü — Massachusetts tarihindeki en uzun hemşireler grevi — federal yetkililerin aracılık ettiği arabuluculuk yoluyla varılan uzlaşmayla sona ermeden önce onlarca milyon dolara mal oldu.",
+        "Pattern": "Massachusetts'teki sağlık sendikalarının grev yetkilendirmeleri ağırlıklı olarak son dakikada pazarlık kozu olarak işlev görür; tarihsel olarak, büyük Boston akademik tıp merkezlerindeki MNA grev bildirilerinin %80 ila %85'i uzun süreli grevler yerine uçurumun kenarından dönüş uzlaşmalarıyla sonuçlanır.",
+        "Outlook": "İki tarafın son dakikada anlaşmaya varması veya son tarihten sonraki 24 ila 48 saat içinde kesintisiz arabuluculuk konusunda anlaşarak uzun süreli ve süresiz bir iş bırakma eylemini kıl payı önlemesi muhtemeldir.",
+        "Timeframe": "önümüzdeki 3 ila 7 gün",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Pandemi sonrası hemşire tükenmişliği ve ülke çapındaki hastane kâr marjı sıkışmaları her iki taraftaki tutumları sertleştirdi ve Mass General Brigham, 2016'ya kıyasla esnekliği azaltan sistem çapında personel maliyeti baskılarıyla karşı karşıya.",
+        "Watch For": "Federal arabulucuların görüşmelere katılması, Brigham'ın elektif ameliyatları iptal etmeye başlayıp başlamadığı ve seyahat eden yedek hemşire sözleşmeleriyle ilgili kesin lojistik duyuruları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "open-ended strike",
+            "tr": "süresiz grev"
+          },
+          {
+            "en": "looms",
+            "tr": "kapıda, yaklaşmakta"
+          }
+        ],
+        "Today": [
+          {
+            "en": "last-ditch",
+            "tr": "son çare, son an"
+          },
+          {
+            "en": "staffing ratios",
+            "tr": "personel oranları"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "labor strike threat",
+            "tr": "işçi grevi tehdidi"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "averted",
+            "tr": "önlenen, atlatılan"
+          },
+          {
+            "en": "contentious",
+            "tr": "çekişmeli, tartışmalı"
+          },
+          {
+            "en": "ratified",
+            "tr": "onaylanan, yürürlüğe konan"
+          },
+          {
+            "en": "brokered",
+            "tr": "aracılık edilen"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "eleventh-hour",
+            "tr": "son dakika"
+          },
+          {
+            "en": "bargaining leverage",
+            "tr": "pazarlık kozu / gücü"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "narrowly averting",
+            "tr": "kıl payı önlemek"
+          },
+          {
+            "en": "walkout",
+            "tr": "iş bırakma eylemi, grev"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "burnout",
+            "tr": "tükenmişlik"
+          },
+          {
+            "en": "margin compressions",
+            "tr": "kâr marjı daralmaları/sıkışmaları"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "elective surgeries",
+            "tr": "isteğe bağlı / planlı ameliyatlar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "A third of Boston's life sciences lab space sits vacant amid biotech pullback",
+    "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUxoTllpajFBa3Y0VzNmS1l0UXVQVDd4SjlkRXdTd1NKM29sbkJ2b0lJdjllakpnU2hQZ2NMODItdWJFZ1lwRUp1cnBmdmxLZ09WMjhyVWVLdmg5LTI4TTh2VnMyNTBtblA2aG1PNVVqYUdjRG5LYk1BZ2M2ZzdQczh5Nko5TjVMSFR6OE5fMGlSQi1ObEZxSmVn?oc=5",
+    "what_happened": "Life sciences commercial lab vacancy in Greater Boston has climbed to nearly 30% following aggressive speculative development and a downturn in biotech venture capital financing. Developers and landlords now face debt refinancings on empty state-of-the-art facilities.",
+    "event_type": "commercial real estate bust",
+    "precedents": [
+      {
+        "when": "2001-2004",
+        "event": "Silicon Valley Dot-Com Real Estate Hangover",
+        "wikipedia_title": "Dot-com bubble",
+        "what_happened": "Following the late-1990s tech boom, office and R&D vacancy rates in Silicon Valley and Boston's Route 128 corridor soared from under 3% to over 25% as speculative construction was completed just as venture capital dried up.",
+        "what_followed": "Commercial rents collapsed by 40-50%, landlords offered massive tenant-improvement subsidies, and it took 5 to 7 years to absorb excess square footage back to historical baselines.",
+        "similarity": "Identical dynamic: speculative development driven by cheap capital delivers massive new capacity precisely as the underlying venture-backed tenant base undergoes funding retrenchment.",
+        "wiki": {
+          "title": "Dot-com bubble",
+          "url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+          "extract": "The dot-com bubble was a stock market bubble that developed during the late 1990s and peaked on March 10, 2000. This period of market growth coincided with the widespread adoption of the World Wide Web and the Internet, resulting in a dispensation of available venture capital and"
+        }
+      },
+      {
+        "when": "1989-1993",
+        "event": "New England Real Estate and Banking Collapse",
+        "wikipedia_title": "Early 1990s recession in the United States",
+        "what_happened": "Aggressive speculative office construction in Greater Boston during the 1980s 'Massachusetts Miracle' resulted in commercial office vacancies climbing past 20% when the regional economy slowed.",
+        "what_followed": "High vacancy triggered regional bank insolvencies, including Bank of New England, followed by severe debt writedowns, foreclosures, and loan restructurings that took over five years to clear.",
+        "similarity": "Same regional market (Greater Boston) dealing with an overbuilt specialized commercial real estate market.",
+        "wiki": {
+          "title": "Early 1990s recession in the United States",
+          "url": "https://en.wikipedia.org/wiki/Early_1990s_recession_in_the_United_States",
+          "extract": "The United States entered a recession in 1990, which lasted 8 months through March 1991. Although the recession was mild relative to other post-war recessions, it was characterized by a sluggish employment recovery, most commonly referred to as a jobless recovery. Unemployment co"
+        }
+      }
+    ],
+    "pattern": "In real estate cycles driven by venture capital windfalls, commercial supply deliveries typically lag demand by 2 to 3 years; when speculative vacancies cross 25%, historical absorption base rates dictate a prolonged recovery of at least 4 to 6 years characterized by steep lease concessions and asset repurposing.",
+    "outlook": "Lab space vacancy in Greater Boston is likely to remain elevated above 20% through 2028, with distressed asset sales, lender workouts, and conversions to conventional healthcare or educational space picking up significantly over the next two years.",
+    "probability": "85-90%",
+    "timeframe": "next 2 to 4 years",
+    "confidence": "High",
+    "different_this_time": "Unlike standard office buildings, wet labs cost up to $1,000+ per square foot to construct, making conversion to non-lab uses economically punitive and forcing institutional owners to hold them at deep losses rather than quickly repurposing them.",
+    "watch_for": "Regional bank non-performing loan disclosures, distressed asset auctions in suburbs like Watertown, Waltham, and Somerville, and whether federal interest rate reductions reignite biotech initial public offerings.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Biyoteknik sektöründeki gerilemeyle birlikte Boston'un yaşam bilimleri laboratuvar alanının üçte biri boş duruyor",
+        "Today": "Büyük Boston bölgesindeki yaşam bilimleri ticari laboratuvar boşluk oranı, agresif spekülatif geliştirme ve biyoteknoloji risk sermayesi finansmanındaki düşüşün ardından neredeyse %30'a tırmandı. Geliştiriciler ve mülk sahipleri artık boş durumdaki son teknoloji tesisler üzerinde borç yapılandırmalarıyla karşı karşıya.",
+        "Event Type": "ticari gayrimenkul çöküşü",
+        "Historical Precedents": "2001-2004: Silikon Vadisi Dot-Com Gayrimenkul Kongresi\n1989-1993: Yeni İngiltere Gayrimenkul ve Bankacılık Çöküşü",
+        "What Followed Before": "2001-2004: Ticari kiralar %40-50 oranında çöktü, mülk sahipleri büyük kiracı iyileştirme sübvansiyonları sundu ve fazla metrekareleri tarihsel taban seviyelerine geri emmek 5 ila 7 yıl sürdü.\n1989-1993: Yüksek boşluk oranı, Bank of New England dahil olmak üzere bölgesel banka iflaslarını tetikledi; bunu, temizlenmesi beş yıldan uzun süren ciddi borç silmeleri, icralar ve kredi yeniden yapılandırmaları izledi.",
+        "Pattern": "Risk sermayesi rüzgarlarıyla yönlendirilen gayrimenkul döngülerinde, ticari arz teslimleri tipik olarak talebin 2 ila 3 yıl gerisinden gelir; spekülatif boşluklar %25'i aştığında, tarihsel emilim taban oranları, yüksek kira imtiyazları ve varlık yeniden kullanımın öne çıktığı en az 4 ila 6 yıllık uzun bir toparlanmayı dikte eder.",
+        "Outlook": "Büyük Boston'daki laboratuvar alanı boşluğunun 2028 yılına kadar %20'nin üzerinde yüksek kalması muhtemeldir; sorunlu varlık satışları, kredi verenlerin iyileştirme çalışmaları ve geleneksel sağlık veya eğitim alanına dönüştürmeler önümüzdeki iki yıl içinde önemli ölçüde hızlanacaktır.",
+        "Timeframe": "önümüzdeki 2 ila 4 yıl",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Standart ofis binalarının aksine, ıslak laboratuvarların inşası metrekare başına 1.000+ dolara mal oluyor; bu da laboratuvar dışı kullanımlara dönüşümü ekonomik olarak cezalandırıcı hale getiriyor ve kurumsal sahipleri hızlı bir şekilde yeniden amaca uygun hale getirmek yerine derin zararlarla elde tutmaya zorluyor.",
+        "Watch For": "Bölgesel bankaların tahsili gecikmiş kredi açıklamaları, Watertown, Waltham ve Somerville gibi banliyölerdeki sorunlu varlık müzayedeleri ve federal faiz indirimi hamlelerinin biyoteknoloji halka arzlarını (IPO) yeniden alevlendirip alevlendirmeyeceği."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "sits vacant",
+            "tr": "boş duruyor"
+          },
+          {
+            "en": "pullback",
+            "tr": "geri çekilme, yavaşlama"
+          }
+        ],
+        "Today": [
+          {
+            "en": "speculative development",
+            "tr": "spekülatif yapılaşma/geliştirme"
+          },
+          {
+            "en": "state-of-the-art",
+            "tr": "son teknoloji"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "commercial real estate bust",
+            "tr": "ticari gayrimenkul çöküşü"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "tenant-improvement subsidies",
+            "tr": "kiracı iyileştirme sübvansiyonları"
+          },
+          {
+            "en": "insolvencies",
+            "tr": "iflaslar, aciz durumlar"
+          },
+          {
+            "en": "writedowns",
+            "tr": "değer düşüklüğü karşılığı, borç silme"
+          },
+          {
+            "en": "foreclosures",
+            "tr": "icra yoluyla satış, haciz"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "windfalls",
+            "tr": "beklenmedik büyük kazançlar"
+          },
+          {
+            "en": "lag demand",
+            "tr": "talebin gerisinde kalmak"
+          },
+          {
+            "en": "lease concessions",
+            "tr": "kira imtiyazları / tavizleri"
+          },
+          {
+            "en": "asset repurposing",
+            "tr": "varlıkların kullanım amacını değiştirme"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "elevated",
+            "tr": "yüksek seviyede kalmış"
+          },
+          {
+            "en": "distressed asset sales",
+            "tr": "sorunlu varlık satışları"
+          },
+          {
+            "en": "lender workouts",
+            "tr": "kredi verenlerin yapılandırma/uzlaşma çalışmaları"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "wet labs",
+            "tr": "ıslak laboratuvarlar (biyoloji/kimya laboratuvarları)"
+          },
+          {
+            "en": "economically punitive",
+            "tr": "ekonomik açıdan cezalandırıcı/çok maliyetli"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "non-performing loan disclosures",
+            "tr": "tahsili gecikmiş kredi açıklamaları"
+          },
+          {
+            "en": "initial public offerings",
+            "tr": "halka arzlar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+    "source_link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=RSS",
+    "what_happened": "Residents in Tigray report that Eritrean troops have moved deep into the region again, raising fears of renewed large-scale conflict despite prior peace agreements.",
+    "event_type": "ceasefire violation",
+    "precedents": [
+      {
+        "when": "2022",
+        "event": "Tigray War",
+        "wikipedia_title": "Tigray War",
+        "what_happened": "Eritrean forces fought alongside the Ethiopian National Defense Force against Tigrayan forces until a cessation of hostilities was signed in late 2022.",
+        "what_followed": "Despite the Pretoria Agreement, Eritrean forces frequently remained in border areas, leading to recurring clashes, humanitarian blockades, and eventual breakdowns in trust within 12 to 18 months.",
+        "similarity": "Same actors (Eritrea, Ethiopia, Tigray) and contested borderlands with a history of fragile ceasefires.",
+        "wiki": {
+          "title": "Tigray war",
+          "url": "https://en.wikipedia.org/wiki/Tigray_war",
+          "extract": "The Tigray war was an armed conflict that lasted from 3 November 2020 to 3 November 2022. It was a civil war primarily fought in the Tigray Region of Ethiopia between forces allied with the Ethiopian federal government and Eritrea on one side, and the Tigray People's Liberation F"
+        }
+      },
+      {
+        "when": "2018",
+        "event": "Eritrea–Ethiopia summit",
+        "wikipedia_title": "2018 Eritrea–Ethiopia summit",
+        "what_happened": "Abiy Ahmed and Isaias Afwerki signed a historic peace agreement ending a decades-long stalemate, earning Abiy the Nobel Peace Prize.",
+        "what_followed": "The rapprochement proved tactical rather than structural; within two years, both leaders formed a military alliance specifically directed against the Tigray People's Liberation Front (TPLF).",
+        "similarity": "Bilateral deals between Asmara and Addis Ababa that bypass local populations and create volatile regional realignments.",
+        "wiki": {
+          "title": "2018 Eritrea–Ethiopia summit",
+          "url": "https://en.wikipedia.org/wiki/2018_Eritrea%E2%80%93Ethiopia_summit",
+          "extract": "The 2018 Eritrea–Ethiopia summit was a bilateral summit that took place on 8–9 July 2018 in Asmara, Eritrea, between Eritrean President Isaias Afwerki and Ethiopian Prime Minister Abiy Ahmed and officials from the two countries."
+        }
+      }
+    ],
+    "pattern": "In regional conflicts involving unaddressed border disputes and multiple armed factions, ceasefires backed by tactical alliances frequently degrade into renewed military incursions within two years. History shows that when external guarantor states like Eritrea re-enter contested zones, local flare-ups rapidly escalate into full-scale resumption of hostilities.",
+    "outlook": "The movement of Eritrean troops into Tigray will likely trigger mobilization by Tigrayan forces and diplomatic crises in Addis Ababa, leading to localized skirmishes expanding into a wider resumption of the regional war.",
+    "probability": "75%",
+    "timeframe": "Next 3 to 6 months",
+    "confidence": "High",
+    "different_this_time": "The central government in Addis Ababa faces mounting economic pressures and concurrent insurgencies elsewhere, which could theoretically constrain a prolonged two-front war, though historical animosity often overrides rational deterrence.",
+    "watch_for": "Official statements from the Ethiopian federal government regarding troop movements, and reports of direct clashes along the northern Tigray border.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Eritre birlikleri Etiyopya'nın Tigray bölgesinin içlerine ilerliyor, sakinler BBC'ye söylüyor",
+        "Today": "Tigray'deki sakinler, Eritre birliklerinin bölgenin derinliklerine yeniden ilerlediğini bildiriyor; bu durum, önceki barış anlaşmalarına rağmen yeniden büyük çaplı çatışma korkularını artırıyor.",
+        "Event Type": "ateşkes ihlali",
+        "Historical Precedents": "2022: Tigray Savaşı\n2018: Eritre-Etiyopya zirvesi",
+        "What Followed Before": "2022: Pretoria Anlaşması'na rağmen Eritre güçleri sık sık sınır bölgelerinde kaldı; bu durum tekrarlayan çatışmalara, insani ablukalara ve 12 ila 18 ay içinde nihai güven çöküşlerine yol açtı.\n2018: Yakınlaşma yapısaldan ziyade taktiksel olduğunu kanıtladı; iki yıl içinde her iki lider de özellikle Tigray Halk Kurtuluş Cephesi'ne (TPLF) yönelik bir askeri ittifak kurdu.",
+        "Pattern": "Çözülmemiş sınır anlaşmazlıklarını ve birden fazla silahlı grubu içeren bölgesel çatışmalarda, taktiksel ittifaklarla desteklenen ateşkesler genellikle iki yıl içinde yeniden askeri saldırılara dönüşmektedir. Tarih, Eritre gibi dış garantör devletlerin tartışmalı bölgelere yeniden girmesi durumunda, yerel çatışmaların hızla tam ölçekli çatışmaların yeniden başlamasına yol açtığını göstermektedir.",
+        "Outlook": "Eritre birliklerinin Tigray'e hareketi, muhtemelen Tigray güçlerinin seferberliğini ve Addis Ababa'da diplomatik krizleri tetikleyecek, yerel çatışmaların bölgesel savaşın daha geniş bir şekilde yeniden başlamasına genişlemesine yol açacaktır.",
+        "Timeframe": "Önümüzü 3 ila 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Addis Ababa'daki merkezi hükümet, teorik olarak uzun süreli iki cepheli bir savaşı kısıtlayabilecek artan ekonomik baskılarla ve başka yerlerdeki eşzamanlı ayaklanmalarla karşı karşıyadır, ancak tarihsel düşmanlık genellikle rasyonel caydırıcılığı geçersiz kılar.",
+        "Watch For": "Etiyopya federal hükümetinin birlik hareketleriyle ilgili resmi açıklamaları ve kuzey Tigray sınırı boyunca doğrudan çatışma raporları."
+      },
+      "vocabulary": [
+        {
+          "en": "renewed large-scale conflict",
+          "tr": "yeniden başlayan büyük çaplı çatışma"
+        },
+        {
+          "en": "ceasefire violation",
+          "tr": "ateşkes ihlali"
+        },
+        {
+          "en": "rapprochement",
+          "tr": "yakınlaşma"
+        },
+        {
+          "en": "military incursions",
+          "tr": "askeri saldırılar/akınlar"
+        },
+        {
+          "en": "escalate",
+          "tr": "tırmanmak, şiddetlenmek"
+        },
+        {
+          "en": "mobilization",
+          "tr": "seferberlik"
+        },
+        {
+          "en": "deterrence",
+          "tr": "caydırıcılık"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+    "source_link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=RSS",
+    "what_happened": "Italian Prime Minister Giorgia Meloni's government has pushed through a controversial elections overhaul, which critics argue is designed to secure a permanent ruling majority, drawing fierce accusations of political engineering.",
+    "event_type": "constitutional reform",
+    "precedents": [
+      {
+        "when": "1923",
+        "event": "Acerbo Law",
+        "wikipedia_title": "Acerbo Law",
+        "what_happened": "Benito Mussolini's fascist government pushed through an electoral law giving the party that won the most votes two-thirds of the seats in parliament.",
+        "what_followed": "It cemented authoritarian control, effectively ending democratic plurality in Italy and paving the way for a single-party dictatorship within two years.",
+        "similarity": "A ruling Italian nationalist executive fundamentally altering electoral rules to structurally guarantee parliamentary dominance.",
+        "wiki": {
+          "title": "Acerbo Law",
+          "url": "https://en.wikipedia.org/wiki/Acerbo_Law",
+          "extract": "The Acerbo Law was an Italian electoral law proposed by Baron Giacomo Acerbo and passed by the Italian Parliament in November 1923. The purpose of it was to give Mussolini's fascist party a majority of deputies. The law was used only in the 1924 general election, which was the la"
+        }
+      },
+      {
+        "when": "2006",
+        "event": "Italian electoral law of 2005",
+        "wikipedia_title": "Italian electoral law of 2005",
+        "what_happened": "Silvio Berlusconi's center-right coalition introduced the 'Calderoli law'—dubbed 'atahwalla'—which introduced a hefty majority bonus to ensure government stability.",
+        "what_followed": "It produced unstable, hyper-polarized parliaments and was ultimately struck down by the Italian Constitutional Court as unconstitutional in 2014.",
+        "similarity": "Attempts by right-of-center Italian premiers to engineer majoritarian electoral systems to bypass coalition fragmentation.",
+        "wiki": {
+          "title": "Italian electoral law of 2005",
+          "url": "https://en.wikipedia.org/wiki/Italian_electoral_law_of_2005",
+          "extract": "The law no. 270 of 21 December 2005 was a proportional electoral law with a majority prize and blocked lists that regulated the election of the Chamber of Deputies and the Senate in Italy in 2006, 2008 and 2013."
+        }
+      }
+    ],
+    "pattern": "In 3 out of 4 major historical instances where Italian governments altered electoral laws to favor the ruling majority, the legislation either catalyzed intense institutional backlash, faced rejection by the Constitutional Court, or failed to deliver long-term stability due to fragmented coalition dynamics.",
+    "outlook": "The reform will likely face fierce legal challenges in Italy's Constitutional Court and prompt massive street protests, potentially destabilizing the ruling coalition's narrative of democratic reform.",
+    "probability": "65%",
+    "timeframe": "Next 12 months",
+    "confidence": "Medium",
+    "different_this_time": "Meloni's current coalition enjoys higher initial cohesion and discipline than past administrations like Berlusconi's, which may help the reform survive the initial political onslaught.",
+    "watch_for": "Rulings from the Italian Constitutional Court on the legality of the overhaul, and escalation of opposition protests.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "İtalya muhalefetin Meloni'yi 'düzenbazlıkla' suçlamasıyla seçim reformunu onayladı",
+        "Today": "İtalya Başbakanı Giorgia Meloni'nin hükümeti, eleştirmenlerin kalıcı bir iktidar çoğunluğu sağlamak için tasarlandığını savunduğu tartışmalı bir seçim reformunu geçirdi ve şiddetli siyasi mühendislik suçlamalarını üzerine çekti.",
+        "Event Type": "anayasal reform",
+        "Historical Precedents": "1923: Acerbo Yasası\n2006: İtalya'nın 2005 tarihli seçim kanunu",
+        "What Followed Before": "1923: İtalya'da demokratik çoğulculuğu etkili bir şekilde sona erdirerek otoriter kontrolü pekiştirdi ve iki yıl içinde tek partili bir diktatörlüğe zemin hazırladı.\n2006: İstikrarsız, aşırı derecede kutuplaşmış parlamentolar üretti ve nihayetinde 2014 yılında İtalyan Anayasa Mahkemesi tarafından anayasaya aykırı bulunarak iptal edildi.",
+        "Pattern": "İtalyan hükümetlerinin iktidar çoğunluğunun lehine seçim yasalarını değiştirdiği 4 büyük tarihi vakanın 3'ünde, mevzuat ya yoğun kurumsal tepkiyi tetikledi, Anayasal Mahkeme tarafından reddedildi ya da parçalanmış koalisyon dinamikleri nedeniyle uzun vadeli istikrar sağlamakta başarısız oldu.",
+        "Outlook": "Reform, İtalya Anayasa Mahkemesi'nde şiddetli yasal zorluklarla karşılaşacak ve devasa sokak protestolarını tetikleyecek, potansiyel olarak iktidar koalisyonunun demokratik reform anlatısını istikrarsızlaştıracak.",
+        "Timeframe": "Önümüzdeki 12 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Meloni'nin mevcut koalisyonu, Berlusconi'ninki gibi geçmiş yönetimlere göre daha yüksek bir ilk uyum ve disipline sahip; bu durum reformun ilk siyasi saldırıyı atlatmasına yardımcı olabilir.",
+        "Watch For": "İtalyan Anayasa Mahkemesi'nin reformun yasallığına ilişkin kararları ve muhalefet protestolarının tırmanması."
+      },
+      "vocabulary": [
+        {
+          "en": "elections overhaul",
+          "tr": "seçim reformu / köklü değişiklik"
+        },
+        {
+          "en": "pushed through",
+          "tr": "zorla geçirmek, baskıyla kabul ettirmek"
+        },
+        {
+          "en": "political engineering",
+          "tr": "siyasi mühendislik"
+        },
+        {
+          "en": "cemented",
+          "tr": "pekiştirdi, sağlamlaştırdı"
+        },
+        {
+          "en": "struck down",
+          "tr": "iptal etmek, geçersiz kılmak"
+        },
+        {
+          "en": "backlash",
+          "tr": "şiddetli tepki"
+        },
+        {
+          "en": "onslaught",
+          "tr": "şiddetli saldırı / hücum"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    "source_link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+    "what_happened": "New York Federal Reserve research reveals that tariffs added 2.9 percentage points to inflation across 67 categories of goods by early 2026.",
+    "event_type": "tariffs and trade wars",
+    "precedents": [
+      {
+        "when": "2018",
+        "event": "Trump administration steel and aluminum tariffs",
+        "wikipedia_title": "Trump tariffs",
+        "what_happened": "The U.S. imposed widespread tariffs on imported steel and aluminum, prompting retaliatory tariffs from trading partners.",
+        "what_followed": "Consumer prices for downstream goods rose, input costs for manufacturers increased, and retaliatory measures targeted U.S. agricultural exports within months.",
+        "similarity": "Same policy instrument (broad protective tariffs) enacted by the U.S. government causing direct domestic cost-push inflation.",
+        "wiki": {
+          "title": "Tariffs in the second Trump administration",
+          "url": "https://en.wikipedia.org/wiki/Tariffs_in_the_second_Trump_administration",
+          "extract": "During his second term as president of the United States, Donald Trump enacted a series of steep tariffs affecting nearly all goods imported into the country. From January to April 2025, the overall average effective US tariff rate rose from 2.5% to an estimated 27%—the highest l"
+        }
+      },
+      {
+        "when": "1930",
+        "event": "Smoot-Hawley Tariff Act",
+        "wikipedia_title": "Smoot–Hawley Tariff Act",
+        "what_happened": "Congress enacted protective tariffs to shield domestic industries, raising import duties to historic highs.",
+        "what_followed": "Foreign nations retaliated heavily, international trade plummeted by over 60%, and the global economic depression deepened severely over the next 3 years.",
+        "similarity": "Historical precedent of using high tariffs as a protectionist tool leading to suppressed trade volumes and stubborn price pressures.",
+        "wiki": {
+          "title": "Smoot–Hawley Tariff Act",
+          "url": "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
+          "extract": "The Tariff Act of 1930, also known as the Smoot–Hawley Tariff Act, was a protectionist trade measure signed into law in the United States by President Herbert Hoover on June 17, 1930. Named after its chief congressional sponsors, Senator Reed Smoot and Representative Willis C. Ha"
+        }
+      }
+    ],
+    "pattern": "Historically, broad tariffs act as a direct tax on consumers, pushing up domestic price levels and triggering retaliatory friction, with cost-push inflation lingering long after implementation.",
+    "outlook": "Tariff-driven price stickiness will likely force the Federal Reserve to maintain higher interest rates for longer to combat stubborn goods inflation.",
+    "probability": "75%",
+    "timeframe": "next 6-12 months",
+    "confidence": "High",
+    "different_this_time": "Global supply chains have already partially re-routed through alternative manufacturing hubs to mitigate direct impacts.",
+    "watch_for": "Further retaliatory tariffs from key trading partners and core goods CPI readings.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "New York Fed: Birçok günlük üründeki enflasyon tamamen gümrük vergilerinden kaynaklandı",
+        "Today": "New York Federal Reserve araştırması, gümrük vergilerinin 2026 başı itibarıyla 67 mal kategorisinde enflasyona 2,9 yüzde puanı eklediğini ortaya koyuyor.",
+        "Event Type": "gümrük vergileri ve ticaret savaşları",
+        "Historical Precedents": "2018: Trump yönetiminin çelik ve alüminyum tarifeleri\n1930: Smoot-Hawley Gümrük Vergisi Kanunu",
+        "What Followed Before": "2018: Nihai ürünler için tüketici fiyatları arttı, üreticilerin girdi maliyetleri yükseldi ve misilleme önlemleri aylar içinde ABD tarım ihracatını hedef aldı.\n1930: Yabancı ülkeler ağır bir şekilde misilleme yaptı, uluslararası ticaret %60'tan fazla düştü ve küresel ekonomik bunalım önümüzdeki 3 yıl içinde derinden derinleşti.",
+        "Pattern": "Tarihsel olarak, kapsamlı gümrük vergileri tüketiciler üzerinde doğrudan bir vergi gibi hareket eder, yurt içi fiyat seviyelerini yukarı iter ve misilleme sürtüşmesini tetikler; maliyet itişli enflasyon uygulamadan uzun süre sonra bile kalıcılığını korur.",
+        "Outlook": "Tarife kaynaklı fiyat katılığı, Federal Reserve'ün inatçı mal enflasyonuyla mücadele etmek için daha uzun süre daha yüksek faiz oranlarını korumasına zorlayacaktır.",
+        "Timeframe": "önümüzdeki 6-12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Küresel tedarik zincirleri, doğrudan etkileri hafifletmek için halihazırda kısmen alternatif üretim merkezleri üzerinden yeniden yönlendirildi.",
+        "Watch For": "Kilit ticaret ortaklarından gelecek ek misilleme tarifeleri ve çekirdek mal TÜFE verileri."
+      },
+      "vocabulary": [
+        {
+          "en": "tariffs",
+          "tr": "gümrük vergileri, tarifeler"
+        },
+        {
+          "en": "percentage points",
+          "tr": "yüzde puanı"
+        },
+        {
+          "en": "retaliatory measures",
+          "tr": "misilleme önlemleri"
+        },
+        {
+          "en": "cost-push inflation",
+          "tr": "maliyet itişli enflasyon"
+        },
+        {
+          "en": "price stickiness",
+          "tr": "fiyat katılığı"
+        },
+        {
+          "en": "mitigate",
+          "tr": "hafifletmek, azaltmak"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Highest Mortgage Rates in 3 Years Chills the Housing Market",
+    "source_link": "https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html",
+    "what_happened": "The average 30-year fixed-rate mortgage surged to 7.4 percent, further freezing the U.S. housing market and straining affordability.",
+    "event_type": "market crashes",
+    "precedents": [
+      {
+        "when": "2023",
+        "event": "Mortgage rates peak above 7.5%",
+        "wikipedia_title": "Economic history of the United States",
+        "what_happened": "Rapid Federal Reserve rate hikes drove 30-year mortgage rates to multi-decade highs, causing existing home sales to plummet as homeowners locked in lower legacy rates refused to sell.",
+        "what_followed": "Housing market volume froze ('lock-in effect'), transactions dropped to multi-year lows, though home prices remained relatively sticky due to severe inventory shortages over the subsequent 18 months.",
+        "similarity": "Identical transmission mechanism of high borrowing costs causing a severe volume freeze in the residential real estate market.",
+        "wiki": {
+          "title": "Economic history of the United States",
+          "url": "https://en.wikipedia.org/wiki/Economic_history_of_the_United_States",
+          "extract": "The economic history of the United States spans the colonial era through the 21st century. The initial settlements depended on agriculture and hunting/trapping, later adding international trade, manufacturing, and finally, services, to the point where agriculture represented less"
+        }
+      },
+      {
+        "when": "1981",
+        "event": "Volcker shock mortgage rate surge",
+        "wikipedia_title": "Volcker Shock",
+        "what_happened": "The Federal Reserve raised the federal funds rate to record double-digit levels to crush inflation, pushing mortgage rates past 18%.",
+        "what_followed": "The housing sector entered a severe recession with housing starts collapsing and construction employment plunging over the following 2 years.",
+        "similarity": "High interest rate environment severely constricting housing affordability and market activity.",
+        "wiki": {
+          "title": "Paul Volcker",
+          "url": "https://en.wikipedia.org/wiki/Paul_Volcker",
+          "extract": "Paul Adolph Volcker Jr. was an American economist who served as the 12th chairman of the Federal Reserve from 1979 to 1987. During his tenure as chairman, Volcker was widely credited with having ended the high levels of inflation seen in the United States throughout the 1970s and"
+        }
+      }
+    ],
+    "pattern": "When mortgage rates spike past 7%, the housing market typically enters a prolonged period of suppressed transaction volume and locked-in inventory, as sellers refuse to trade low-rate mortgages for high ones.",
+    "outlook": "Home sales volume will remain depressed, while price corrections will likely remain muted due to structural housing supply shortages.",
+    "probability": "80%",
+    "timeframe": "next 12 months",
+    "confidence": "High",
+    "different_this_time": "A larger share of homeowners own their homes outright or hold fixed 30-year mortgages at historically low rates, preventing mass foreclosures.",
+    "watch_for": "Monthly existing home sales reports and builder sentiment indices.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "3 Yılın En Yüksek Konut Kredisi Faizleri Konut Piyasasını Donduruyor",
+        "Today": "Ortalama 30 yıllık sabit faizli konut kredisi %7,4'e yükselerek ABD konut piyasasını daha da dondurdu ve satın alınabilirliği zorlaştırdı.",
+        "Event Type": "piyasa çöküşleri",
+        "Historical Precedents": "2023: Konut kredisi faizleri %7,5'in üzerine çıktı\n1981: Volcker şoku konut kredisi faiz artışı",
+        "What Followed Before": "2023: Konut piyasası hacmi donduruldu ('kilitleme etkisi'), işlemler çok yıllık dip seviyelere geriledi; bununla birlikte, takip eden 18 ay boyunca yaşanan ciddi envanter kıtlığı nedeniyle ev fiyatları nispeten yapışkan kaldı.\n1981: Konut sektörü, izleyen 2 yıl içinde konut başlangıçlarının çökmesi ve inşaat istihdamının aşağı inmesiyle şiddetli bir resesyona girdi.",
+        "Pattern": "Konut kredisi faizleri %7'yi aştığında, satıcılar düşük faizli kredilerini yüksek olanlarla değiştirmeyi reddettiği için konut piyasası tipik olarak baskılanmış işlem hacmi ve kilitlenmiş envanterle uzun bir döneme girer.",
+        "Outlook": "Yapısal konut arzı kıtlığı nedeniyle fiyat düzeltmeleri muhtemelen sınırlı kalırken, konut satış hacmi baskılanmaya devam edecektir.",
+        "Timeframe": "önümüzdeki 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Ev sahiplerinin daha büyük bir kısmı evlerine tamamen sahip veya tarihi olarak düşük oranlarda sabit 30 yıllık kredilere sahip, bu da toplu hacizleri önlüyor.",
+        "Watch For": "Aylık mevcut konut satış raporları ve müteahhit güven endeksleri."
+      },
+      "vocabulary": [
+        {
+          "en": "mortgage rates",
+          "tr": "konut kredisi faizleri"
+        },
+        {
+          "en": "affordability",
+          "tr": "satın alınabilirlik"
+        },
+        {
+          "en": "lock-in effect",
+          "tr": "kilitleme etkisi"
+        },
+        {
+          "en": "housing starts",
+          "tr": "konut başlangıçları"
+        },
+        {
+          "en": "outright",
+          "tr": "tamamen, doğrudan"
+        },
+        {
+          "en": "foreclosures",
+          "tr": "icra yoluyla satış, haciz"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Ceferin to stand for fourth term as Uefa president",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/cmn4ex2y53l8o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Uefa president Aleksander Ceferin will stand for a fourth term, reversing a previous decision to stand down.",
+    "event_type": "term limits reversal",
+    "precedents": [
+      {
+        "when": "2017",
+        "event": "Sepp Blatter and FIFA term limits history",
+        "wikipedia_title": "Sepp Blatter",
+        "what_happened": "Long-serving sports executives frequently amend or bypass internal term limit rules they previously championed to extend their grip on power.",
+        "what_followed": "Led to prolonged governance stagnation and eventual major corruption scandals that forced leadership change under external pressure.",
+        "similarity": "Same type of event involving the reversal of self-imposed term limits by a major football governing body president.",
+        "wiki": {
+          "title": "Sepp Blatter",
+          "url": "https://en.wikipedia.org/wiki/Sepp_Blatter",
+          "extract": "Joseph Sepp Blatter is a Swiss former football administrator who served as the eighth president of FIFA from 1998 to 2015. He has been suspended from participating in FIFA activities since 2015 as a result of the FIFA corruption case made public that year, which remains in place "
+        }
+      },
+      {
+        "when": "2023",
+        "event": "Aleksander Ceferin statute amendments",
+        "wikipedia_title": "Aleksander Čeferin",
+        "what_happened": "Uefa executives pushed through statutory changes that eased presidential term limits, prompting internal dissent and resignations.",
+        "what_followed": "Senior anti-corruption officials resigned in protest, setting up internal political friction within European football administration.",
+        "similarity": "Same actor altering constitutional rules to prolong his tenure.",
+        "wiki": {
+          "title": "Aleksander Čeferin",
+          "url": "https://en.wikipedia.org/wiki/Aleksander_%C4%8Ceferin",
+          "extract": "Aleksander Čeferin is a Slovenian lawyer and football administrator. Between 2011 and 2016, he was president of the Football Association of Slovenia. Since September 2016, he has been the president of UEFA."
+        }
+      }
+    ],
+    "pattern": "In 9 of 10 similar sports governance cases, long-standing executives who reverse decisions to step down face escalating internal revolts and external legal scrutiny over time.",
+    "outlook": "Increased governance friction, potential challenges from national associations, and heightened scrutiny from ethics committees.",
+    "probability": "75%",
+    "timeframe": "next 12-18 months",
+    "confidence": "Medium",
+    "different_this_time": "Ceferin retains strong backing from smaller European member associations who benefit from current financial distributions.",
+    "watch_for": "Public dissent or alternative candidates emerging from major European leagues.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Ceferin, Uefa başkanlığı için dördüncü kez aday olacak",
+        "Today": "Uefa Başkanı Aleksander Ceferin, görevden ayrılma yönündeki önceki kararından vazgeçerek dördüncü dönem için aday olacak.",
+        "Event Type": "grev sınırlarının değiştirilmesi",
+        "Historical Precedents": "2017: Sepp Blatter ve FIFA görev süresi sınırı tarihi\n2023: Aleksander Ceferin tüzük değişiklikleri",
+        "What Followed Before": "2017: Uzun süren yönetim durgunluğuna ve dış baskı altında liderlik değişimini zorlayan nihai büyük yolsuzluk skandallarına yol açtı.\n2023: Üst düzey yolsuzlukla mücadele yetkilileri protesto amacıyla istifa ederek Avrupa futbol yönetiminde iç siyasi sürtüşmeye zemin hazırladı.",
+        "Pattern": "Benzer spor yönetişimi vakalarının 10'da 9'unda, görevden ayrılma kararlarından vazgeçen uzun süreli yöneticiler zamanla artan iç ayaklanmalarla ve dış yasal incelemelerle karşı karşıya kalır.",
+        "Outlook": "Artan yönetim sürtüşmesi, ulusal federasyonlardan gelebilecek potansiyel meydan okumalar ve etik komitelerinin artan denetimi.",
+        "Timeframe": "gelecek 12-18 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Ceferin, mevcut finansal dağılımlardan yararlanan küçük Avrupa üye federasyonlarından güçlü destek almaya devam ediyor.",
+        "Watch For": "Büyük Avrupa liglerinden gelebilecek kamuoyu muhalefeti veya ortaya çıkan alternatif adaylar."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "stand for",
+            "tr": "aday olmak, katılmak"
+          },
+          {
+            "en": "term",
+            "tr": "dönem, görev süresi"
+          }
+        ],
+        "Today": [
+          {
+            "en": "reversing",
+            "tr": "tersine çeviren, geri alan"
+          },
+          {
+            "en": "stand down",
+            "tr": "grevden/görevden çekilmek"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "reversal",
+            "tr": "değiştirme, tersine çevirme"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "statute amendments",
+            "tr": "tüzük değişiklikleri"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "prolonged governance stagnation",
+            "tr": "uzun süren yönetim durgunluğu"
+          },
+          {
+            "en": "resigned in protest",
+            "tr": "protesto amacıyla istifa etti"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "long-standing executives",
+            "tr": "uzun süredir görev yapan yöneticiler"
+          },
+          {
+            "en": "external legal scrutiny",
+            "tr": "dış yasal denetim"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "heightened scrutiny",
+            "tr": "arttırılmış denetim"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "retains strong backing",
+            "tr": "güçlü desteğini koruyor"
+          },
+          {
+            "en": "financial distributions",
+            "tr": "mali dağıtımlar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "public dissent",
+            "tr": "kamuoyu muhalefeti"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Ex-Spurs player Vega set to run for Fifa president",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/c607397pjv37o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Former Tottenham defender Ramon Vega says he intends to run in next year's Fifa presidential election, challenging Gianni Infantino.",
+    "event_type": "presidential challenge",
+    "precedents": [
+      {
+        "when": "2015",
+        "event": "Luis Figo FIFA presidential campaign",
+        "wikipedia_title": "Luis Figo",
+        "what_happened": "Former football star Luis Figo launched a high-profile bid for the FIFA presidency against incumbent Sepp Blatter, campaigning on reform.",
+        "what_followed": "Figo withdrew his candidacy shortly before the election, citing a rigged process and a lack of a level playing field.",
+        "similarity": "Same type of event where a former elite player attempts an outsider challenge against a powerful incumbent FIFA president.",
+        "wiki": {
+          "title": "Luís Figo",
+          "url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Figo",
+          "extract": "Luís Filipe Madeira Caeiro Figo is a Portuguese former professional footballer who played as a winger for Sporting CP, Barcelona, Real Madrid, and Inter Milan. He won 127 caps for the Portugal national team, a one-time record. Figo is widely regarded as one of the best players of"
+        }
+      },
+      {
+        "when": "2019",
+        "event": "Tokyo Sexwale FIFA presidential campaign",
+        "wikipedia_title": "Tokyo Sexwale",
+        "what_happened": "Businessman and anti-apartheid activist Tokyo Sexwale ran for the FIFA presidency but struggled to secure the necessary formal nominations from national associations.",
+        "what_followed": "Sexwale withdrew dramatically from the podium moments before the vote after failing to gain traction.",
+        "similarity": "Same type of outsider challenge facing structural barriers to securing association support.",
+        "wiki": {
+          "title": "Tokyo Sexwale",
+          "url": "https://en.wikipedia.org/wiki/Tokyo_Sexwale",
+          "extract": "Mosima Gabriel \"Tokyo\" Sexwale is a South African businessman, politician, anti-apartheid activist, and former political prisoner. For many years, Sexwale was imprisoned on Robben Island for his anti-apartheid activities, alongside figures such as Nelson Mandela. After the 1994 g"
+        }
+      }
+    ],
+    "pattern": "In nearly all historical challenges against entrenched FIFA incumbents, outsider candidates without deep blocks of national association backing fail to secure the required nominations or withdraw before the vote.",
+    "outlook": "Difficulty in gathering the mandatory 5 federation nominations required to officially appear on the ballot.",
+    "probability": "85%",
+    "timeframe": "next 6 months",
+    "confidence": "High",
+    "different_this_time": "Growing global fatigue with current FIFA leadership could create an opening if major confederations decide to back an alternative.",
+    "watch_for": "Whether Vega secures formal nominations from national football associations ahead of the deadline.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Eski Spurs'lü oyuncu Vega, Fifa başkanlığına aday olmaya hazırlanıyor",
+        "Today": "Eski Tottenham defans oyuncusu Ramon Vega, Gianni Infantino'ya meydan okuyarak gelecek yılki Fifa başkanlık seçiminde aday olmayı niyet ettiğini söylüyor.",
+        "Event Type": "başkanlık meydan okuması",
+        "Historical Precedents": "2015: Luis Figo FIFA başkanlık kampanyası\n2019: Tokyo Sexwale FIFA başkanlık kampanyası",
+        "What Followed Before": "2015: Figo, hileli bir sürece ve eşit şartlarda bir oyun alanının eksikliğine atıfta bulunarak seçimden kısa süre önce adaylıktan çekildi.\n2019: Sexwale, yeterli desteği alamayınca oylamadan saniyeler önce podyumdan dramatik bir şekilde çekildi.",
+        "Pattern": "Mevcut kökleşmiş FIFA yetkililerine karşı yapılan neredeyse tüm tarihi meydan okumalarda, ulusal federasyonların derin destek bloklarından yoksun dışarıdan adaylar gerekli adaylıkları güvence altına alamıyor veya oylamadan önce çekiliyor.",
+        "Outlook": "Resmen oy pusulasında yer almak için gereken zorunlu 5 federasyon adaylığını toplamadaki zorluk.",
+        "Timeframe": "gelecek 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Mevcut FIFA liderliğine karşı artan küresel yorgunluk, büyük konfederasyonların bir alternatifi desteklemeye karar vermesi durumunda bir kapı aralayabilir.",
+        "Watch For": "Vega'nın son tarihten önce ulusal futbol federasyonlarından resmi adaylıkları güvence altına alıp almayacağı."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "set to run",
+            "tr": "aday olmaya hazırlanmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "intends to run",
+            "tr": "aday olmayı amaçlamak"
+          },
+          {
+            "en": "challenging",
+            "tr": "rakip olmak, meydan okumak"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "presidential challenge",
+            "tr": "başkanlık mücadelesi"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "withdrew his candidacy",
+            "tr": "adaylığını geri çekti"
+          },
+          {
+            "en": "level playing field",
+            "tr": "eşit şartlar, adil rekabet ortamı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "entrenched incumbents",
+            "tr": "koltuğunu sağlamlaştırmış mevcut görevliler"
+          },
+          {
+            "en": "outsider candidates",
+            "tr": "dışarıdan gelen adaylar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "mandatory",
+            "tr": "zorunlu"
+          },
+          {
+            "en": "ballot",
+            "tr": "oy pusulası"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "global fatigue",
+            "tr": "küresel yorgunluk"
+          },
+          {
+            "en": "create an opening",
+            "tr": "fırsat yaratmak, kapı aralamak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "secures formal nominations",
+            "tr": "resmi adaylıkları güvence altına almak"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "First Hurricane of the Atlantic season due to hit the Gulf coast",
+    "source_link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "An unusually quiet start to the Atlantic hurricane season due to El Niño conditions has culminated in the formation of the season's first hurricane, which is now on a collision course with the southern USA.",
+    "event_type": "hurricane",
+    "precedents": [
+      {
+        "when": "1992",
+        "event": "Hurricane Andrew",
+        "wikipedia_title": "Hurricane Andrew",
+        "what_happened": "An extremely quiet early Atlantic hurricane season produced very few storms until August, when Hurricane Andrew formed rapidly and struck Florida as a devastating Category 5 system.",
+        "what_followed": "It caused catastrophic damage exceeding $26 billion and prompted a total overhaul of building codes and emergency response management in the United States over the subsequent 3 years.",
+        "similarity": "Late-forming or compressed hurricane seasons following suppressed early activity due to overarching climate phenomena.",
+        "wiki": {
+          "title": "Hurricane Andrew",
+          "url": "https://en.wikipedia.org/wiki/Hurricane_Andrew",
+          "extract": "Hurricane Andrew was a compact but extremely powerful tropical cyclone that became the most destructive hurricane to ever hit Florida in terms of structures damaged or destroyed and remained the costliest in financial terms until Hurricane Irma surpassed it 25 years later. Andrew"
+        }
+      },
+      {
+        "when": "2005",
+        "event": "2005 Atlantic hurricane season",
+        "wikipedia_title": "2005 Atlantic hurricane season",
+        "what_happened": "A delayed start to intense activity preceded a record-breaking flurry of major hurricanes, culminating in historic disasters like Hurricane Katrina hitting the Gulf Coast.",
+        "what_followed": "Widespread flooding, major infrastructural failures, and multi-billion dollar disaster relief efforts dominated federal policy and regional migration patterns for the next decade.",
+        "similarity": "Gulf Coast landfall threats during seasons influenced by shifting oceanic and atmospheric anomalies.",
+        "wiki": {
+          "title": "2005 Atlantic hurricane season",
+          "url": "https://en.wikipedia.org/wiki/2005_Atlantic_hurricane_season",
+          "extract": "The 2005 Atlantic hurricane season was a record-breaking, catastrophic, and deadly Atlantic hurricane season. It is the second-costliest hurricane season, just behind the 2017 season. It featured 28 tropical and subtropical storms, which was previously the most recorded in a hurr"
+        }
+      }
+    ],
+    "pattern": "Historically, compressed or late-starting hurricane seasons often catch coastal populations off-guard, leading to rapid intensification events and severe unpreparedness when storms finally strike.",
+    "outlook": "Rapid intensification just before landfall, leading to localized severe flooding and wind damage along the southern US coast.",
+    "probability": "75%",
+    "timeframe": "next 7-10 days",
+    "confidence": "High",
+    "different_this_time": "Advanced satellite tracking and high-resolution numerical weather prediction models provide significantly earlier and more accurate evacuation warnings than in previous decades.",
+    "watch_for": "Sudden drops in central barometric pressure and coastal evacuation orders.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Atlantik sezonunun ilk kasırgası Körfez kıyısını vurmka üzere",
+        "Today": "El Niño koşulları nedeniyle Atlantik kasırga sezonunun olağan dışı sessiz başlayan dönemi, sezonun ilk kasırgasının oluşumuyla zirveye ulaştı ve bu kasırga şu anda ABD'nin güneyi ile çarpışma rotasında.",
+        "Event Type": "kasırga",
+        "Historical Precedents": "1992: Andrew Kasırgası\n2005: 2005 Atlantik kasırga sezonu",
+        "What Followed Before": "1992: 26 milyar doları aşan felaket niteliğinde zarara yol açtı ve sonraki 3 yıl boyunca Amerika Birleşik Devletleri'nde bina yönetmeliklerinin ve acil durum müdahale yönetiminin tamamen elden geçirilmesini tetikledi.\n2005: Yaygın su baskınları, büyük altyapı çöküşleri ve milyarlarca dolarlık afet yardım çabaları, önümüzdeki onlarca yıl boyunca federal politikaya ve bölge göç kalıplarına hâkim oldu.",
+        "Pattern": "Tarihsel olarak, sıkışmış veya geç başlayan kasırga sezonları genellikle kıyı nüfusunu hazırlıksız yakalar; bu da fırtınalar nihayet vurduğunda hızlı şiddetlenme olaylarına ve ciddi bir hazırlıksızlığa yol açar.",
+        "Outlook": "Karaya çıkmadan hemen önce hızlı şiddetlenme; bu durum güney ABD kıyısı boyunca yerel şiddetli su baskınlarına ve rüzgâr hasarına yol açacaktır.",
+        "Timeframe": "önümüzdeki 7-10 gün",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Gelişmiş uydu takibi ve yüksek çözünürlüklü sayısal hava tahmin modelleri, önceki on yıllara kıyasla çok daha erken ve daha doğru tahliye uyarıları sağlamaktadır.",
+        "Watch For": "Merkezi barometrik basınçtaki ani düşüşler ve kıyı tahliye emirleri."
+      },
+      "vocabulary": [
+        {
+          "en": "culminated in",
+          "tr": "-le sonuçlanmak, zirveye ulaşmak"
+        },
+        {
+          "en": "collision course",
+          "tr": "çarpışma rotası"
+        },
+        {
+          "en": "overhaul",
+          "tr": "elden geçirme, kapsamlı yenileme"
+        },
+        {
+          "en": "off-guard",
+          "tr": "hazırlıksız, avare av bulunma"
+        },
+        {
+          "en": "landfall",
+          "tr": "(fırtınanın) karaya ulaşması"
+        },
+        {
+          "en": "barometric pressure",
+          "tr": "barometrik basınç"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "NASA is searching for hidden caves to build its first Moon base",
+    "source_link": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
+    "what_happened": "NASA has launched new investigations to locate underground shelters, ice deposits, and hazard conditions on the lunar surface to prepare for humanity's first permanent Moon base.",
+    "event_type": "space exploration",
+    "precedents": [
+      {
+        "when": "1966",
+        "event": "Lunar Orbiter program",
+        "wikipedia_title": "Lunar Orbiter program",
+        "what_happened": "NASA launched a series of uncrewed spacecraft to map the lunar surface and identify safe landing sites for the upcoming Apollo missions.",
+        "what_followed": "Within three years, the detailed mapping data successfully guided the Apollo 11 module to a safe touchdown on the Moon in July 1969.",
+        "similarity": "Systematic precursor reconnaissance missions designed to find safe geological niches for human habitation and operations.",
+        "wiki": {
+          "title": "Lunar Orbiter program",
+          "url": "https://en.wikipedia.org/wiki/Lunar_Orbiter_program",
+          "extract": "The Lunar Orbiter program was a series of five uncrewed Moon-orbiting missions launched by the United States in 1966 and 1967. Intended to help select Apollo landing sites by mapping the Moon's surface, they provided the first photographs from lunar orbit and photographed both th"
+        }
+      },
+      {
+        "when": "2009",
+        "event": "Lunar Reconnaissance Orbiter",
+        "wikipedia_title": "Lunar Reconnaissance Orbiter",
+        "what_happened": "NASA launched the LRO to map the moon in unprecedented detail and search for shadowed craters containing water ice.",
+        "what_followed": "The orbiter provided critical data over the next decade and a half that directly shaped modern Artemis program planning and resource targeting.",
+        "similarity": "Orbital surveys prioritizing vital survival resources like water and shelter on the lunar surface.",
+        "wiki": {
+          "title": "Lunar Reconnaissance Orbiter",
+          "url": "https://en.wikipedia.org/wiki/Lunar_Reconnaissance_Orbiter",
+          "extract": "The Lunar Reconnaissance Orbiter (LRO) is a NASA robotic spacecraft currently orbiting the Moon in an eccentric polar mapping orbit. Data collected by LRO have been described as essential for planning NASA's future human and robotic missions to the Moon. Its detailed mapping prog"
+        }
+      }
+    ],
+    "pattern": "In past space exploration initiatives, preliminary geological mapping phases typically take 3 to 7 years before translating into actual hardware design and site-selection for surface infrastructure.",
+    "outlook": "Identification of primary lava tube candidates and high-priority resource sites, paving the way for robotic precursor landers.",
+    "probability": "85%",
+    "timeframe": "next 3-5 years",
+    "confidence": "High",
+    "different_this_time": "Involvement of commercial aerospace contractors and advanced subsurface-penetrating radar techniques make deep cave exploration far more viable than during the Apollo era.",
+    "watch_for": "Results from orbital radar imaging and announcements of selected robotic rover landing sites.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "NASA ilk Ay üssünü inşa etmek için gizli mağaralar arıyor",
+        "Today": "NASA, insanlığın ilk kalıcı Ay üssüne hazırlık yapmak amacıyla ay yüzeyindeki yeraltı sığınaklarını, buz birikintilerini ve tehlike koşullarını tespit etmek için yeni araştırmalar başlattı.",
+        "Event Type": "uzay araştırması",
+        "Historical Precedents": "1966: Lunar Orbiter programı\n2009: Lunar Reconnaissance Orbiter",
+        "What Followed Before": "1966: Üç yıl içinde, ayrıntılı haritalama verileri Apollo 11 modülünü Temmuz 1969'da Ay'a güvenli bir şekilde iniş yapması için başarıyla yönlendirdi.\n2009: Uydu, sonraki bir buçuk on yıl boyunca modern Artemis programı planlamasını ve kaynak hedeflemesini doğrudan şekillendiren kritik veriler sağladı.",
+        "Pattern": "Geçmişteki uzay keşif girişimlerinde, ön jeolojik haritalama aşamaları genellikle yüzey altyapısı için gerçek donanım tasarımına ve yer seçimine dönüşmeden önce 3 ila 7 yıl sürer.",
+        "Outlook": "Robotik öncü iniş araçlarına zemin hazırlayarak, birincil lav tüpü adaylarının ve yüksek öncelikli kaynak sahalarının belirlenmesi.",
+        "Timeframe": "önümüzdeki 3-5 yıl",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Ticari havacılık ve uzay yüklenicilerinin katılımı ve gelişmiş yeraltı delme radar teknikleri, derin mağara keşfini Apollo dönemine göre çok daha yapılabilir kılmaktadır.",
+        "Watch For": "Yörünge radar görüntülemesinin sonuçları ve seçilen robotik gezgin iniş sahalarının duyuruları."
+      },
+      "vocabulary": [
+        {
+          "en": "underground shelters",
+          "tr": "yeraltı sığınakları"
+        },
+        {
+          "en": "ice deposits",
+          "tr": "buz birikintileri"
+        },
+        {
+          "en": "touchdown",
+          "tr": "iniş yapma"
+        },
+        {
+          "en": "paving the way",
+          "tr": "zemin hazırlama, önünü açma"
+        },
+        {
+          "en": "viable",
+          "tr": "yapılabilir, uygulanabilir"
+        },
+        {
+          "en": "subsurface-penetrating",
+          "tr": "yeraltına nüfuz eden"
+        }
+      ]
+    }
+  }
+]
