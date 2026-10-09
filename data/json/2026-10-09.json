@@ -1,0 +1,2421 @@
+[
+  {
+    "headline": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+    "source_link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+    "what_happened": "Representative Mike Lawler (R-NY) faces an intense re-election battle in New York's 17th district as Democrats target vulnerable suburban Republicans to flip the House in the midterm elections.",
+    "event_type": "midterm election swing",
+    "precedents": [
+      {
+        "when": "November 2018",
+        "event": "2018 House elections suburban wipeout",
+        "wikipedia_title": "2018 United States House of Representatives elections",
+        "what_happened": "Moderate suburban Republican incumbents who attempted to stress local independence while distancing themselves from President Donald Trump lost heavily across suburban districts.",
+        "what_followed": "Democrats gained 41 seats, flipped the House majority in January 2019, and launched multiple oversight investigations that stymied the White House legislative agenda.",
+        "similarity": "Same president (Trump), identical suburban demographic terrain, and identical strategic dilemma for moderate GOP incumbents.",
+        "wiki": {
+          "title": "2018 United States House of Representatives elections",
+          "url": "https://en.wikipedia.org/wiki/2018_United_States_House_of_Representatives_elections",
+          "extract": "The 2018 United States House of Representatives elections were held on November 6, 2018. The 2018 House elections were midterm elections that occurred during President Donald Trump's first term in office. Early voting took place in some states in the weeks preceding Election Day."
+        }
+      },
+      {
+        "when": "November 2022",
+        "event": "2022 New York 17th congressional district election",
+        "wikipedia_title": "2022 United States House of Representatives elections in New York",
+        "what_happened": "Mike Lawler unseated DCCC chair Sean Patrick Maloney by 1.8 percentage points amid a localized New York GOP suburban surge, despite national Democratic resilience.",
+        "what_followed": "Lawler's upset win provided Republicans the margin to secure a razor-thin 222-213 majority, but left him defending one of the most Democratic-leaning GOP seats in the country.",
+        "similarity": "Same candidate (Mike Lawler) defending the identical Hudson Valley battleground seat.",
+        "wiki": {
+          "title": "2022 United States House of Representatives elections in New York",
+          "url": "https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_New_York",
+          "extract": "The 2022 United States House of Representatives elections in New York were held on November 8, 2022, to elect the 26 U.S. representatives from the State of New York, one from each of the state's 26 congressional districts. The elections coincided with elections for governor, U.S."
+        }
+      }
+    ],
+    "pattern": "In 38 of the last 40 midterms since the Civil War (95%), the president's party has lost House seats. Moderate incumbents in suburban crossover districts carried by the opposing party's presidential ticket survive midterm headwinds fewer than 20% of the time.",
+    "outlook": "Lawler is heavily favored to lose re-election, and suburban swing districts across New York and California are likely to flip, handing the House majority to Democrats.",
+    "probability": "75%",
+    "timeframe": "next 1 month",
+    "confidence": "High",
+    "different_this_time": "New York Republicans have maintained an unusually resilient suburban political infrastructure since 2022, and Lawler retains significant split-ticket personal popularity and fundraising power.",
+    "watch_for": "Suburban absentee ballot return rates in Westchester and Rockland counties and late campaign ad spending diverted away from NY-17 toward defensive holds.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Cumhuriyetçi kongre üyesi, New York'taki kritik sandalyede olası bir mavi dalgayı geride bırakmaya çalışıyor",
+        "Today": "Temsilci Mike Lawler (R-NY), Demokratların ara seçimlerde Temsilciler Meclisi'ni geri almak için banliyölerdeki savunmasız Cumhuriyetçileri hedef almasıyla New York'un 17. bölgesinde çetin bir yeniden seçilme mücadelesiyle karşı karşıya.",
+        "Event Type": "ara seçim dalgalanması",
+        "Historical Precedents": "Kasım 2018: 2018 Temsilciler Meclisi seçimleri banliyö hezimeti\nKasım 2022: 2022 New York 17. kongre bölgesi seçimi",
+        "What Followed Before": "Kasım 2018: Demokratlar 41 sandalye kazanarak Ocak 2019'da Temsilciler Meclisi çoğunluğunu ele geçirdi ve Beyaz Saray'ın yasama gündemini sekteye uğratan çok sayıda denetim soruşturması başlattı.\nKasım 2022: Lawler'ın sürpriz zaferi, Cumhuriyetçilere 222-213'lük kıl payı bir çoğunluk elde etme payı sağladı, ancak onu ülkedeki Demokrat eğilimli en kritik Cumhuriyetçi sandalyelerden birini savunmak zorunda bıraktı.",
+        "Pattern": "İç Savaş'tan bu yana yapılan son 40 ara seçimin 38'inde (%95), başkanın partisi Temsilciler Meclisi'nde sandalye kaybetti. Karşı partinin başkan adayının kazandığı banliyö geçiş bölgelerindeki ılımlı görevdeki vekiller, ara seçimlerin karşı rüzgarlarından %20'den daha az bir oranda sağ çıkabiliyor.",
+        "Outlook": "Lawler'ın yeniden seçilmeyi kaybetme ihtimali oldukça yüksek görülüyor; New York ve California genelindeki banliyö salıncak bölgelerinin el değiştirmesi ve Meclis çoğunluğunu Demokratlara devretmesi muhtemel.",
+        "Timeframe": "önümüzdeki 1 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "New York Cumhuriyetçileri 2022'den bu yana alışılmadık derecede dirençli bir banliyö siyasi altyapısını korudu ve Lawler, partiler arası oy alma potansiyeline sahip kişisel popülaritesini ve bağış toplama gücünü muhafaza ediyor.",
+        "Watch For": "Westchester ve Rockland ilçelerindeki banliyö posta yoluyla oy kullanma iade oranları ve NY-17'den savunma amaçlı tutulan bölgelere kaydırılan son dakika kampanya reklam harcamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "outrun",
+            "tr": "geride bırakmak, kaçıp kurtulmak"
+          },
+          {
+            "en": "blue wave",
+            "tr": "mavi dalga (Demokrat Parti zaferi)"
+          },
+          {
+            "en": "toss-up seat",
+            "tr": "sonucu belirsiz / başa baş sandalye"
+          }
+        ],
+        "Today": [
+          {
+            "en": "intense",
+            "tr": "yoğun, çetin"
+          },
+          {
+            "en": "suburban",
+            "tr": "banliyöye ait"
+          },
+          {
+            "en": "vulnerable",
+            "tr": "savunmasız, kırılgan"
+          },
+          {
+            "en": "flip",
+            "tr": "(taraf/çoğunluk) değiştirmek"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "midterm election",
+            "tr": "ara seçim"
+          },
+          {
+            "en": "swing",
+            "tr": "dalgalanma, yön değiştirme"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "wipeout",
+            "tr": "hezimet, silinip süpürülme"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "oversight investigations",
+            "tr": "denetim soruşturmaları"
+          },
+          {
+            "en": "stymie",
+            "tr": "engellemek, sekteye uğratmak"
+          },
+          {
+            "en": "legislative agenda",
+            "tr": "yasama gündemi"
+          },
+          {
+            "en": "upset win",
+            "tr": "sürpriz/beklenmedik galibiyet"
+          },
+          {
+            "en": "razor-thin",
+            "tr": "kıl payı, bıçak sırtı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "incumbent",
+            "tr": "görevde bulunan yetkili"
+          },
+          {
+            "en": "crossover districts",
+            "tr": "farklı partilere oy verebilen bölgeler"
+          },
+          {
+            "en": "headwinds",
+            "tr": "karşı rüzgarlar, olumsuz koşullar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "heavily favored to",
+            "tr": "büyük ölçüde olası görülmek"
+          },
+          {
+            "en": "swing districts",
+            "tr": "oy dengesi değişken bölgeler"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "resilient",
+            "tr": "dirençli, güçlü"
+          },
+          {
+            "en": "split-ticket",
+            "tr": "farklı partilerin adaylarına oy verme durumu"
+          },
+          {
+            "en": "fundraising",
+            "tr": "bağış toplama"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "absentee ballot",
+            "tr": "posta yoluyla kullanılan oy"
+          },
+          {
+            "en": "diverted away from",
+            "tr": "-den başka yöne kaydırılan"
+          },
+          {
+            "en": "defensive holds",
+            "tr": "savunma amaçlı elde tutulan yerler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+    "source_link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "The United States slapped sanctions on the International Criminal Court over jurisdictional disputes, drawing swift condemnation from the court and European allies.",
+    "event_type": "international sanctions",
+    "precedents": [
+      {
+        "when": "June 2020",
+        "event": "Executive Order 13928 ICC sanctions",
+        "wikipedia_title": "International Criminal Court and the United States",
+        "what_happened": "President Donald Trump issued an executive order placing asset freezes and travel bans on ICC prosecutor Fatou Bensouda and senior staff investigating US actions in Afghanistan.",
+        "what_followed": "The sanctions hindered the ICC's banking and operations for 10 months until the Biden administration rescinded them in April 2021 without the US ever ratifying the Rome Statute.",
+        "similarity": "Same presidential administration and target, employing identical economic and travel restrictions over sovereign immunity claims.",
+        "wiki": {
+          "title": "United States and the International Criminal Court",
+          "url": "https://en.wikipedia.org/wiki/United_States_and_the_International_Criminal_Court",
+          "extract": "The United States is not a state party to the Rome Statute, which founded the International Criminal Court (ICC) in 2002."
+        }
+      },
+      {
+        "when": "August 2002",
+        "event": "American Service-Members' Protection Act",
+        "wikipedia_title": "American Service-Members' Protection Act",
+        "what_happened": "President George W. Bush signed legislation banning US collaboration with the ICC and threatening to cut military assistance to treaty signatories.",
+        "what_followed": "Within four years, Congress and the Bush administration rolled back the aid restrictions after allied resistance harmed broader counterterrorism and security partnerships.",
+        "similarity": "Same institutional clash between US non-recognition of the ICC and multilateral treaty obligations of core Western allies.",
+        "wiki": {
+          "title": "American Service-Members' Protection Act",
+          "url": "https://en.wikipedia.org/wiki/American_Service-Members'_Protection_Act",
+          "extract": "The American Service-Members' Protection Act (ASPA), known as the Hague Invasion Act, is a United States federal law described as \"a bill to protect United States military personnel and other elected and appointed officials of the United States government against criminal prosecu"
+        }
+      }
+    ],
+    "pattern": "Unilateral US punitive sanctions against the ICC consistently chill formal institutional cooperation and create diplomatic friction with European allies, but historically fail to stop ICC proceedings or compel structural changes to the court's docket.",
+    "outlook": "The ICC will continue its investigations while operating through non-dollar jurisdictions, while European allies lodge formal protests but avoid direct retaliatory counter-sanctions against Washington.",
+    "probability": "85%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "If European signatories create blocking statutes to shield court personnel from US secondary sanctions, transatlantic judicial relations could suffer a permanent institutional rift not seen in 2020.",
+    "watch_for": "European Union activation of the EU Blocking Statute or formal non-compliance exemptions from allied defense ministries.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "ABD, UCM'ye yaptırım kararı aldı; mahkeme bu adımı 'hukukun üstünlüğüne saldırı' olarak kınadı",
+        "Today": "Amerika Birleşik Devletleri, yargı yetkisi anlaşmazlıkları nedeniyle Uluslararası Ceza Mahkemesi'ne yaptırım uyguladı ve bu durum mahkeme ile Avrupalı müttefiklerin sert kınamasına yol açtı.",
+        "Event Type": "uluslararası yaptırımlar",
+        "Historical Precedents": "Haziran 2020: 13928 sayılı Başkanlık Kararnamesi UCM yaptırımları\nAğustos 2002: Amerikan Hizmet Mensuplarını Koruma Yasası",
+        "What Followed Before": "Haziran 2020: Yaptırımlar, Biden yönetimi Nisan 2021'de ABD Roma Statüsü'nü hiçbir zaman onaylamamış olmasına rağmen bunları yürürlükten kaldırana kadar UCM'nin bankacılık ve operasyonel faaliyetlerini 10 ay boyunca engelledi.\nAğustos 2002: Dört yıl içinde Kongre ve Bush yönetimi, müttefiklerin gösterdiği direncin daha geniş kapsamlı terörle mücadele ve güvenlik ortaklıklarına zarar vermesinin ardından yardım kısıtlamalarını geri çekti.",
+        "Pattern": "ABD'nin UCM'ye yönelik tek taraflı cezalandırıcı yaptırımları, resmi kurumsal iş birliğini istikrarlı bir şekilde sekteye uğratmakta ve Avrupalı müttefiklerle diplomatik sürtüşme yaratmaktadır; ancak tarihsel olarak UCM davalarını durdurmada veya mahkemenin dava takviminde yapısal değişiklikler dayatmada başarısız olmaktadır.",
+        "Outlook": "UCM, dolar dışı yargı alanları üzerinden faaliyet göstererek soruşturmalarına devam edecek; Avrupalı müttefikler ise resmi protestolarda bulunacak ancak Washington'a karşı doğrudan misilleme amaçlı karşı yaptırımlardan kaçınacaktır.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Eğer Avrupalı imzacılar mahkeme personelini ABD'nin ikincil yaptırımlarından korumak için engelleyici yasalar çıkarırsa, transatlantik adli ilişkiler 2020'de görülmemiş kalıcı bir kurumsal çatlağa maruz kalabilir.",
+        "Watch For": "Avrupa Birliği'nin AB Engelleyici Tüzüğü'nü etkinleştirmesi veya müttefik savunma bakanlıklarının resmi uyumsuzluk muafiyetleri getirmesi."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "unveil",
+            "tr": "açıklamak, duyurmak"
+          },
+          {
+            "en": "condemn",
+            "tr": "kınamak"
+          },
+          {
+            "en": "assault on",
+            "tr": "-e saldırı"
+          },
+          {
+            "en": "rule of law",
+            "tr": "hukukun üstünlüğü"
+          }
+        ],
+        "Today": [
+          {
+            "en": "slap sanctions",
+            "tr": "yaptırım uygulamak"
+          },
+          {
+            "en": "jurisdictional disputes",
+            "tr": "yargı yetkisi anlaşmazlıkları"
+          },
+          {
+            "en": "swift condemnation",
+            "tr": "hızlı/sert kınama"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "sanctions",
+            "tr": "yaptırımlar"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "Executive Order",
+            "tr": "Başkanlık Kararnamesi"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "hinder",
+            "tr": "engellemek, aksatmak"
+          },
+          {
+            "en": "rescind",
+            "tr": "yürürlükten kaldırmak, feshetmek"
+          },
+          {
+            "en": "ratify",
+            "tr": "onaylamak (antlaşmayı)"
+          },
+          {
+            "en": "roll back",
+            "tr": "geri çekmek, eski haline getirmek"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "unilateral",
+            "tr": "tek taraflı"
+          },
+          {
+            "en": "chill",
+            "tr": "sekteye uğratmak, soğutmak"
+          },
+          {
+            "en": "compel",
+            "tr": "zorlamak, mecbur bırakmak"
+          },
+          {
+            "en": "docket",
+            "tr": "dava listesi, gündem"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "lodge formal protests",
+            "tr": "resmi protestoda bulunmak"
+          },
+          {
+            "en": "retaliatory",
+            "tr": "misilleme niteliğinde"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "blocking statutes",
+            "tr": "engelleyici yasalar"
+          },
+          {
+            "en": "shield",
+            "tr": "korumak, kalkan olmak"
+          },
+          {
+            "en": "secondary sanctions",
+            "tr": "ikincil yaptırımlar"
+          },
+          {
+            "en": "institutional rift",
+            "tr": "kurumsal çatlak/bölünme"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "activation",
+            "tr": "etkinleştirme, yürürlüğe koyma"
+          },
+          {
+            "en": "non-compliance",
+            "tr": "uyumsuzluk, uymama"
+          },
+          {
+            "en": "exemptions",
+            "tr": "muafiyetler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "What to know about Mass. Ballot Question 9, the effort to repeal a sweeping gun reform law",
+    "source_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRGZETm1zUU56ZVZNMXoyS2llN1QybmFtejJzR1R1b1dmV1ZlSU1NTFViN0hHVkJvZW1GZG4zcHBNSmgtWTdQakNBYndLSFpsWGRwdzJfeDhOeWV0UUpsR01vUUpQbTl6TkRtcFBaNDNxMGstZW1CQm03NWRta3JmRnZhVjBtUGxTVmNkYml0RUJyR3lhUktnczR0MFR4NmR1Rjk4R3pFVXZXems4Tk0xcXgySy1ZME45SWk4X21oUkVrT09fWmdDQ0lORnRQX042SFMw?oc=5",
+    "what_happened": "Gun rights advocates in Massachusetts organized a ballot referendum to repeal a newly enacted, comprehensive state firearm reform statute. The measure asks voters to overturn licensing updates, firearm definitions, and public carry restrictions passed by the state legislature.",
+    "event_type": "statute repeal veto referendum",
+    "precedents": [
+      {
+        "when": "2018",
+        "event": "Massachusetts Gender Identity Anti-Discrimination Veto Referendum",
+        "wikipedia_title": "2018 Massachusetts Question 3",
+        "what_happened": "Opponents forced a statewide referendum seeking to repeal Chapter 134 of the Acts of 2016, which banned discrimination based on gender identity in public accommodations.",
+        "what_followed": "Voters overwhelmingly rejected the repeal effort by 67.8% to 32.2%, upholding the legislature's statute intact.",
+        "similarity": "Same state and same mechanism: a citizen-led veto referendum aiming to overturn a contentious social policy statute passed by the Massachusetts Legislature.",
+        "wiki": {
+          "title": "Massachusetts question 3",
+          "url": "https://en.wikipedia.org/wiki/Massachusetts_question_3",
+          "extract": "Massachusetts question 3 may refer to:Question 3, 2002 ballot\nQuestion 3, 2006 ballot\nMassachusetts Greyhound Protection Act, 2008 ballot\nMassachusetts Sales Tax Relief Act, 2010 ballot\nMassachusetts Medical Marijuana Initiative, 2012 ballot\nMassachusetts Casino Repeal Initiative"
+        }
+      },
+      {
+        "when": "2014",
+        "event": "Referendum Challenge to the Massachusetts Expanded Gaming Act",
+        "wikipedia_title": "Expanded Gaming Act",
+        "what_happened": "Anti-casino advocates placed Question 3 on the statewide ballot attempting to repeal the 2011 law that legalized resort casinos and slots parlors.",
+        "what_followed": "Voters rejected the repeal measure by 60% to 40% in November 2014, enabling commercial casino construction to proceed across the state.",
+        "similarity": "Same state and legal structure: opponents attempted to utilize a statewide ballot question to undo major signature legislation.",
+        "wiki": {
+          "title": "List of integrated resorts",
+          "url": "https://en.wikipedia.org/wiki/List_of_integrated_resorts",
+          "extract": "An integrated resort is a type of casino hotel that features hotel space, a casino, convention or meeting space, retail, dining and entertainment options. This article lists integrated resorts by their locations. Integrated resorts which are currently in operation or are schedule"
+        }
+      }
+    ],
+    "pattern": "In modern Massachusetts politics, citizen-initiated veto referendums attempting to repeal statutes passed by the Democratic supermajority fail in over 75% of cases (at least 3 of 4 major statutory veto attempts failed decisively). The state's electorate consistently defaults to protecting legislative compromises on regulatory and civil matters.",
+    "outlook": "The repeal initiative is very likely to fail at the ballot box, leaving the comprehensive gun reform law fully enacted and enforced.",
+    "probability": "75%",
+    "timeframe": "next 1-2 months",
+    "confidence": "High",
+    "different_this_time": "Heightened national Second Amendment litigation following recent Supreme Court precedents could energize outside fundraising and conservative turnout beyond historic baseline levels for Massachusetts.",
+    "watch_for": "Independent public polling margins across suburban Boston districts and campaign expenditure disclosures from national firearm association PACs.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ülke Geneli)",
+        "Headline": "Kapsamlı bir silah reformu yasasını yürürlükten kaldırma girişimi olan Mass. Oy Pusulası Soru 9 hakkında bilinmesi gerekenler",
+        "Today": "Massachusetts'teki silah hakları savunucuları, yeni yürürlüğe giren kapsamlı bir eyalet ateşli silah reform yasasını yürürlükten kaldırmak için bir halk oylaması referandumu düzenledi. Bu girişim, seçmenlerden eyalet yasama meclisi tarafından kabul edilen ruhsatlandırma güncellemelerini, ateşli silah tanımlarını ve kamuya açık alanlarda silah taşıma kısıtlamalarını geçersiz kılmalarını istiyor.",
+        "Event Type": "yasa yürürlükten kaldırma veto referandumu",
+        "Historical Precedents": "2018: Massachusetts Cinsiyet Kimliği Ayrımcılık Karşıtı Veto Referandumu\n2014: Massachusetts Genişletilmiş Kumar Yasası Referandum İtirazı",
+        "What Followed Before": "2018: Seçmenler, yürürlükten kaldırma girişimini %67,8'e karşı %32,2 oyla ezici bir çoğunlukla reddederek yasama meclisinin kanununu aynen korudu.\n2014: Seçmenler, yürürlükten kaldırma girişimini Kasım 2014'te %60'a karşı %40 oyla reddederek eyalet genelinde ticari kumarhane inşaatlarının devam etmesini sağladı.",
+        "Pattern": "Modern Massachusetts siyasetinde, Demokratik süper çoğunluk tarafından kabul edilen yasaları yürürlükten kaldırmayı amaçlayan vatandaş kaynaklı veto referandumları vakaların %75'inden fazlasında başarısız olmaktadır (en az 4 büyük yasal veto girişiminden 3'ü kesin bir yenilgiye uğradı). Eyaletin seçmen kitlesi, düzenleyici ve sivil konulardaki yasama uzlaşmalarını koruma eğilimini istikrarlı bir şekilde sürdürmektedir.",
+        "Outlook": "Yürürlükten kaldırma girişiminin sandıkta başarısız olması ve kapsamlı silah reformu yasasının tamamen yürürlükte ve uygulanır kalması kuvvetle muhtemeldir.",
+        "Timeframe": "önümüzdeki 1-2 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Son Yüksek Mahkeme emsallerinin ardından ulusal düzeyde artan İkinci Değişiklik davaları, Massachusetts için geçmişteki taban seviyelerin ötesinde dış bağış toplamayı ve muhafazakar katılımı canlandırabilir.",
+        "Watch For": "Boston banliyö bölgelerindeki bağımsız kamuoyu yoklama marjları ve ulusal ateşli silah derneği PAC'lerinin (Siyasi Eylem Komiteleri) kampanya harcama bildirimleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "sweeping",
+            "tr": "kapsamlı, geniş çaplı"
+          },
+          {
+            "en": "repeal",
+            "tr": "yürürlükten kaldırmak, feshetmek"
+          },
+          {
+            "en": "ballot question",
+            "tr": "oy pusulası sorusu (referandum maddesi)"
+          }
+        ],
+        "Today": [
+          {
+            "en": "advocates",
+            "tr": "savunucular"
+          },
+          {
+            "en": "enacted",
+            "tr": "yasalaşmış, yürürlüğe girmiş"
+          },
+          {
+            "en": "statute",
+            "tr": "yasa, kanun"
+          },
+          {
+            "en": "overturn",
+            "tr": "bozmak, iptal etmek, geçersiz kılmak"
+          },
+          {
+            "en": "public carry",
+            "tr": "kamuya açık alanda silah taşıma"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "gender identity",
+            "tr": "cinsiyet kimliği"
+          },
+          {
+            "en": "anti-discrimination",
+            "tr": "ayrımcılık karşıtı"
+          },
+          {
+            "en": "expanded gaming",
+            "tr": "genişletilmiş kumar/şans oyunları"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "overwhelmingly",
+            "tr": "ezici çoğunlukla"
+          },
+          {
+            "en": "upholding",
+            "tr": "onaylayarak, destekleyerek, arkasında durarak"
+          },
+          {
+            "en": "intact",
+            "tr": "dokunulmamış, bozulmamış, aynen"
+          },
+          {
+            "en": "proceed",
+            "tr": "ilerlemek, devam etmek"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "citizen-initiated",
+            "tr": "vatandaş girişimiyle başlatılan"
+          },
+          {
+            "en": "supermajority",
+            "tr": "nitelikli/ezici çoğunluk"
+          },
+          {
+            "en": "decisively",
+            "tr": "kesin bir biçimde"
+          },
+          {
+            "en": "electorate",
+            "tr": "seçmen kitlesi"
+          },
+          {
+            "en": "defaults to",
+            "tr": "kendiliğinden -e yönelmek/tercih etmek"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "ballot box",
+            "tr": "sandık (oy sandığı)"
+          },
+          {
+            "en": "enforced",
+            "tr": "uygulanan, yürürlükte tutulan"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "heightened",
+            "tr": "artmış, yükselmiş"
+          },
+          {
+            "en": "litigation",
+            "tr": "dava açma, dava süreci"
+          },
+          {
+            "en": "precedents",
+            "tr": "emsal kararlar"
+          },
+          {
+            "en": "turnout",
+            "tr": "katılım oranı"
+          },
+          {
+            "en": "baseline",
+            "tr": "taban seviyesi, referans noktası"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "polling margins",
+            "tr": "anket farkları/marjları"
+          },
+          {
+            "en": "suburban",
+            "tr": "banliyöye ait"
+          },
+          {
+            "en": "expenditure",
+            "tr": "harcama, gider"
+          },
+          {
+            "en": "disclosures",
+            "tr": "kamuya açıklamalar/bildirimler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Hurricane Isaias nears landfall. Here's how its remnants could impact New England",
+    "source_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON2pmenpQX3pKdDdRaXhqdTRVOUR2dUM2ZGp4U2ctbFdMZERGbjA1VW5SeXNLSkl0RDFXZ1NwQmxUaXNhaDcyQWZZZFJnV1ZpNFJ2LW1YbFVmRXdXU1pUOE9mVzZ5dTIxYl9GRDl4UFcyaHk1aC1LNmI3Nng5ajN5RWVTMmdzMHJvQjJCbFEzTEMyM09NYjZKZUp1SDFRM0R0UnfSAaoBQVVfeXFMTmYxRlk1eURlVnZmVHh3T3FxeU1GdXVyZGI2aWJqRmlxX0V3bE42WXZpYm9zYXdQOUVDZkljQ3dhQUpFaXZRZUxqQ2wtLXc1MVRSNkt0cGdDRERwczhOc1pWOGZqbktlbWNOTXI1dWdSS1pmZ3dEUWxUS0xXdVJuaWkwVC11TVFDMGZlMGNnMVIxaFMybWJlamtlWEpKemd0REU5c2J0YlBYX1E?oc=5",
+    "what_happened": "Forecasters project that the remnants and outer circulation of Hurricane Isaias will track rapidly northeastward into New England, bringing squally winds, localized heavy rainfall, and potential coastal surf.",
+    "event_type": "tropical cyclone remnant impact",
+    "precedents": [
+      {
+        "when": "August 2020",
+        "event": "Tropical Storm Isaias Northeast Passage",
+        "wikipedia_title": "Hurricane Isaias",
+        "what_happened": "The fast-accelerating tropical system moved through the Mid-Atlantic into New England with high-end tropical storm wind gusts.",
+        "what_followed": "Within 24 hours, downbursts and tree falls knocked out power to over 3 million Northeast customers, with utility restorations taking up to a week in Massachusetts and Connecticut.",
+        "similarity": "Same storm system type and identical regional trajectory through southern and central New England.",
+        "wiki": {
+          "title": "Hurricane Isaias (2020)",
+          "url": "https://en.wikipedia.org/wiki/Hurricane_Isaias_(2020)",
+          "extract": "Hurricane Isaias was a destructive tropical cyclone that caused extensive damage across the Caribbean and the East Coast of the United States while also giving rise to the strongest tropical cyclone-spawned tornado since Hurricane Rita in 2005. The ninth named storm and second hu"
+        }
+      },
+      {
+        "when": "August 2011",
+        "event": "Hurricane Irene New England Landfall",
+        "wikipedia_title": "Hurricane Irene",
+        "what_happened": "Irene transitioned over New England as a tropical system, delivering intense rain bands across saturated soil.",
+        "what_followed": "Catastrophic river flooding devastated western Massachusetts and Vermont within 48 hours, leaving more than 700,000 customers without electricity and washing out major transit corridors.",
+        "similarity": "Same geographic region facing inland and coastal hazards from an accelerating tropical cyclone tracking up the Eastern Seaboard.",
+        "wiki": {
+          "title": "Hurricane Irene",
+          "url": "https://en.wikipedia.org/wiki/Hurricane_Irene",
+          "extract": "Hurricane Irene was a large and destructive tropical cyclone which affected much of the Caribbean and East Coast of the United States during late August 2011. The ninth named storm, first hurricane, and first major hurricane of the 2011 Atlantic hurricane season, Irene originated"
+        }
+      }
+    ],
+    "pattern": "When tropical cyclones track into New England while accelerating along an inland-adjacent vector, severe infrastructure disruption occurs in roughly 8 of 10 cases (e.g., Isaias 2020, Sandy 2012, Irene 2011), driven primarily by falling canopy knocking down power grids rather than sustained hurricane-force winds.",
+    "outlook": "Expect widespread electrical outages affecting hundreds of thousands of utility customers across Massachusetts and Connecticut, accompanied by flight cancellations and localized flash flooding.",
+    "probability": "80%",
+    "timeframe": "next 48 to 72 hours",
+    "confidence": "High",
+    "different_this_time": "If the storm's forward speed accelerates further eastward into open ocean waters, peak wind swaths will remain offshore, significantly blunting terrestrial tree damage and utility failure totals.",
+    "watch_for": "Pre-positioning declarations by utilities such as Eversource and National Grid, and whether flash flood watches shift east or west of the Connecticut River Valley.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ülke Geneli)",
+        "Headline": "Isaias Kasırgası karaya yaklaşıyor. İşte kalıntılarının New England'ı nasıl etkileyebileceği",
+        "Today": "Hava tahmincileri, Isaias Kasırgası'nın kalıntılarının ve dış dolaşımının hızla kuzeydoğuya, New England'a doğru ilerleyeceğini; sert rüzgarlar, yerel şiddetli yağışlar ve olası kıyı dalgaları getireceğini öngörüyor.",
+        "Event Type": "tropikal siklon kalıntısı etkisi",
+        "Historical Precedents": "Ağustos 2020: Isaias Tropikal Fırtınası Kuzeydoğu Geçişi\nAğustos 2011: Irene Kasırgası New England Karaya Çıkışı",
+        "What Followed Before": "Ağustos 2020: 24 saat içinde ani fırtına rüzgarları (downburst) ve devrilen ağaçlar Kuzeydoğu'daki 3 milyondan fazla abonenin elektriğini kesti; Massachusetts ve Connecticut'ta elektrik hatlarının onarımı bir haftayı buldu.\nAğustos 2011: Yıkıcı nehir taşkınları 48 saat içinde batı Massachusetts ve Vermont'u harabeye çevirdi, 700.000'den fazla aboneyi elektriksiz bıraktı ve ana ulaşım koridorlarını tahrip etti.",
+        "Pattern": "Tropikal siklonlar karaya bitişik bir rota boyunca hızlanarak New England'a doğru ilerlediğinde, yaklaşık 10 vakanın 8'inde (örneğin Isaias 2020, Sandy 2012, Irene 2011) ciddi altyapı aksamaları meydana gelir; bu durum temel olarak sürekli kasırga şiddetindeki rüzgarlardan ziyade devrilen ağaç örtüsünün elektrik şebekelerini çökertmesinden kaynaklanır.",
+        "Outlook": "Massachusetts ve Connecticut genelinde yüz binlerce kamu hizmeti abonesini etkileyen yaygın elektrik kesintileri, uçuş iptalleri ve yerel ani su baskınları beklenmektedir.",
+        "Timeframe": "önümüzdeki 48 ila 72 saat",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Fırtınanın ilerleme hızı açık okyanus sularına doğru daha da doğuya ivmelenirse, en şiddetli rüzgar kuşakları kıyıdan uzakta kalacak ve bu da karadaki ağaç hasarını ve elektrik arızası toplamlarını önemli ölçüde azaltacaktır.",
+        "Watch For": "Eversource ve National Grid gibi kamu hizmeti şirketlerinin önceden konuşlanma açıklamaları ve ani sel uyarılarının Connecticut River Valley'nin doğusuna mı yoksa batısına mı kayacağı."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "remnants",
+            "tr": "kalıntılar, artıklar"
+          },
+          {
+            "en": "landfall",
+            "tr": "karaya ulaşma/çıkış"
+          }
+        ],
+        "Today": [
+          {
+            "en": "forecasters",
+            "tr": "hava tahmincileri"
+          },
+          {
+            "en": "circulation",
+            "tr": "hava sirkülasyonu, dolaşım"
+          },
+          {
+            "en": "squally",
+            "tr": "ani ve sert rüzgarlı, fırtınalı"
+          },
+          {
+            "en": "surf",
+            "tr": "kıyıya vuran dalgalar"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "northeast passage",
+            "tr": "kuzeydoğu geçişi"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "downbursts",
+            "tr": "şiddetli inişli hava patlamaları/fırtınaları"
+          },
+          {
+            "en": "utility restorations",
+            "tr": "şebeke/kamu hizmeti onarımları"
+          },
+          {
+            "en": "catastrophic",
+            "tr": "felaket getiren, yıkıcı"
+          },
+          {
+            "en": "washing out",
+            "tr": "sürükleyip götürme, tahrip etme"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "accelerating",
+            "tr": "hızlanarak"
+          },
+          {
+            "en": "disruption",
+            "tr": "aksama, bozulma"
+          },
+          {
+            "en": "falling canopy",
+            "tr": "devrilen ağaç örtüsü/dalları"
+          },
+          {
+            "en": "sustained",
+            "tr": "sürekli, kesintisiz"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "electrical outages",
+            "tr": "elektrik kesintileri"
+          },
+          {
+            "en": "flash flooding",
+            "tr": "ani su baskını, ani sel"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "wind swaths",
+            "tr": "rüzgar kuşakları, rüzgarın etkilediği şeritler"
+          },
+          {
+            "en": "offshore",
+            "tr": "açık denizde, kıyıdan uzakta"
+          },
+          {
+            "en": "blunting",
+            "tr": "hafifleten, etkisini azaltan, körleştiren"
+          },
+          {
+            "en": "terrestrial",
+            "tr": "karasal, karaya ait"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "pre-positioning",
+            "tr": "önceden konuşlandırma/konumlandırma"
+          },
+          {
+            "en": "declarations",
+            "tr": "bildiriler, açıklamalar"
+          },
+          {
+            "en": "flash flood watches",
+            "tr": "ani sel erken uyarıları/gözlemleri"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+    "source_link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "The United States announced sanctions against the International Criminal Court, drawing sharp international criticism and condemnation from the court itself.",
+    "event_type": "sanctions",
+    "precedents": [
+      {
+        "when": "2020",
+        "event": "United States sanctions against the International Criminal Court",
+        "wikipedia_title": "United States sanctions against the International Criminal Court",
+        "what_happened": "The Trump administration authorized economic sanctions and visa restrictions against ICC officials investigating US actions in Afghanistan.",
+        "what_followed": "The sanctions faced widespread international condemnation, hampered court investigations temporarily, but were ultimately revoked by the incoming Biden administration in April 2021.",
+        "similarity": "Same actor (US government) imposing direct economic sanctions on the same international judicial institution.",
+        "wiki": {
+          "title": "Executive Order 14203",
+          "url": "https://en.wikipedia.org/wiki/Executive_Order_14203",
+          "extract": "Executive Order 14203, titled \"Imposing Sanctions on the International Criminal Court\", is an executive order signed by United States president Donald Trump on February 6, 2025. The order imposes sanctions against the International Criminal Court (ICC) based in The Hague, Netherl"
+        }
+      }
+    ],
+    "pattern": "When powerful states impose sanctions on international accountability bodies, it causes temporary operational paralysis and chilling effects on investigations, but rarely dismantles the institution permanently as allies and members rally around the court.",
+    "outlook": "The ICC will likely experience increased institutional defiance and vocal support from European allies, while facing severe hurdles in pursuing cases involving protected nationals.",
+    "probability": "80%",
+    "timeframe": "next 12 months",
+    "confidence": "High",
+    "different_this_time": "The scope of current global geopolitical polarization and active investigations involving multiple major powers could make a swift diplomatic reversal less likely than in 2021.",
+    "watch_for": "European Union diplomatic statements and whether other Western nations enact defensive measures protecting ICC personnel.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "ABD, UCM'ye yönelik yaptırımları açıkladı; mahkeme bu adımı 'hukukun üstünlüğüne saldırı' olarak kınadı",
+        "Today": "Amerika Birleşik Devletleri, Uluslararası Ceza Mahkemesi'ne yönelik yaptırımlar açıkladı; bu adım uluslararası alanda sert eleştirilere ve mahkemenin bizzat kendisinden kınamaya yol açtı.",
+        "Event Type": "yaptırımlar",
+        "Historical Precedents": "2020: Amerika Birleşik Devletleri'nin Uluslararası Ceza Mahkemesi'ne yönelik yaptırımları",
+        "What Followed Before": "2020: Yaptırımlar geniş çaplı uluslararası kınamayla karşılaştı, mahkeme soruşturmalarını geçici olarak aksattı, ancak nihayetinde göreve yeni gelen Biden yönetimi tarafından Nisan 2021'de yürürlükten kaldırıldı.",
+        "Pattern": "Güçlü devletler uluslararası hesap verebilirlik organlarına yaptırım uyguladığında, bu durum geçici bir operasyonel felce ve soruşturmalar üzerinde caydırıcı etkilere yol açar; ancak müttefikler ve üyeler mahkemenin etrafında kenetlendiği için kurumu nadiren kalıcı olarak dağıtır.",
+        "Outlook": "UCM, muhtemelen artan bir kurumsal meydan okuma sergileyecek ve Avrupalı müttefiklerinden sesli destek görecektir; ancak koruma altındaki ülke vatandaşlarını içeren davaları yürütürken ciddi engellerle karşılaşacaktır.",
+        "Timeframe": "önümüzdeki 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Mevcut küresel jeopolitik kutuplaşmanın boyutu ve birden fazla büyük gücü içeren aktif soruşturmalar, 2021'dekine kıyasla hızlı bir diplomatik geri adım atılmasını daha az olası kılabilir.",
+        "Watch For": "Avrupa Birliği diplomatik açıklamaları ve diğer Batılı ülkelerin UCM personelini koruyan savunma tedbirleri alıp almayacağı."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "unveil",
+            "tr": "açıklamak, duyurmak, ortaya koymak"
+          },
+          {
+            "en": "sanctions",
+            "tr": "yaptırımlar"
+          },
+          {
+            "en": "condemn",
+            "tr": "kınamak"
+          },
+          {
+            "en": "assault",
+            "tr": "saldırı"
+          },
+          {
+            "en": "rule of law",
+            "tr": "hukukun üstünlüğü"
+          }
+        ],
+        "Today": [
+          {
+            "en": "sharp",
+            "tr": "sert, keskin"
+          },
+          {
+            "en": "condemnation",
+            "tr": "kınama"
+          },
+          {
+            "en": "International Criminal Court",
+            "tr": "Uluslararası Ceza Mahkemesi"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "precedent",
+            "tr": "emsal, geçmiş örnek"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "widespread",
+            "tr": "geniş çaplı, yaygın"
+          },
+          {
+            "en": "hamper",
+            "tr": "aksatmak, engellemek"
+          },
+          {
+            "en": "temporarily",
+            "tr": "geçici olarak"
+          },
+          {
+            "en": "ultimately",
+            "tr": "nihayetinde, en sonunda"
+          },
+          {
+            "en": "revoke",
+            "tr": "yürürlükten kaldırmak, iptal etmek"
+          },
+          {
+            "en": "incoming",
+            "tr": "göreve yeni gelen"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "accountability bodies",
+            "tr": "hesap verebilirlik organları"
+          },
+          {
+            "en": "paralysis",
+            "tr": "felç, durma"
+          },
+          {
+            "en": "chilling effect",
+            "tr": "caydırıcı/göz korkutucu etki"
+          },
+          {
+            "en": "dismantle",
+            "tr": "dağıtmak, parçalamak"
+          },
+          {
+            "en": "rally around",
+            "tr": "etrafında toplanmak, kenetlenmek"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "defiance",
+            "tr": "meydan okuma, itaatsizlik"
+          },
+          {
+            "en": "vocal support",
+            "tr": "güçlü/sesli destek"
+          },
+          {
+            "en": "hurdle",
+            "tr": "engel"
+          },
+          {
+            "en": "pursue cases",
+            "tr": "davaların peşini bırakmamak, dava yürütmek"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "scope",
+            "tr": "kapsam, boyut"
+          },
+          {
+            "en": "polarization",
+            "tr": "kutuplaşma"
+          },
+          {
+            "en": "swift",
+            "tr": "hızlı, çabuk"
+          },
+          {
+            "en": "reversal",
+            "tr": "tersine dönme, geri adım"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "enact",
+            "tr": "yürürlüğe koymak, uygulamak"
+          },
+          {
+            "en": "defensive measures",
+            "tr": "savunma amaçlı tedbirler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+    "source_link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Ethiopia warned Eritrea that it will defend its territorial integrity after Eritrean soldiers crossed the border, prompting reported retaliatory drone strikes.",
+    "event_type": "border clash",
+    "precedents": [
+      {
+        "when": "1998-2000",
+        "event": "Eritrean–Ethiopian War",
+        "wikipedia_title": "Eritrean–Ethiopian War",
+        "what_happened": "A border dispute erupted into a full-scale conventional war between Ethiopia and Eritrea resulting in tens of thousands of casualties.",
+        "what_followed": "The conflict ended with the Algiers Agreement in 2000, establishing a tense stalemate that lasted nearly two decades without formal peace.",
+        "similarity": "Same actors, same disputed border regions, and historic friction over territorial control.",
+        "wiki": {
+          "title": "Eritrean–Ethiopian War",
+          "url": "https://en.wikipedia.org/wiki/Eritrean%E2%80%93Ethiopian_War",
+          "extract": "The Eritrean–Ethiopian War, also known as the Badme War, was a major armed conflict between Ethiopia and Eritrea that took place from May 6, 1998 to June 18, 2000."
+        }
+      },
+      {
+        "when": "2020-2022",
+        "event": "Tigray War",
+        "wikipedia_title": "Tigray War",
+        "what_happened": "Eritrean forces fought alongside the Ethiopian federal military against Tigrayan forces in northern Ethiopia.",
+        "what_followed": "Despite a November 2022 cessation of hostilities agreement, Eritrean forces maintained a lingering presence in parts of border areas, breeding deep distrust.",
+        "similarity": "Recent military entanglements in the immediate borderlands involving the same regional alliance structures.",
+        "wiki": {
+          "title": "Tigray war",
+          "url": "https://en.wikipedia.org/wiki/Tigray_war",
+          "extract": "The Tigray war was an armed conflict that lasted from 3 November 2020 to 3 November 2022. It was a civil war primarily fought in the Tigray Region of Ethiopia between forces allied with the Ethiopian federal government and Eritrea on one side, and the Tigray People's Liberation F"
+        }
+      }
+    ],
+    "pattern": "Border incursions between Ethiopia and Eritrea in areas of disputed sovereignty historically escalate rapidly into broader military confrontations due to deep-seated mutual suspicion.",
+    "outlook": "Further localized skirmishes and an escalation of drone warfare between the two states are likely unless regional mediators intervene swiftly.",
+    "probability": "70%",
+    "timeframe": "next 3 months",
+    "confidence": "Medium",
+    "different_this_time": "Ethiopia's current preoccupation with internal economic and security challenges may incentivize Addis Ababa to contain the conflict before it mirrors the scale of the 1998 war.",
+    "watch_for": "Emergency diplomatic interventions by the African Union or IGAD.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Etiyopya, askerlerin sınırı geçmesi üzerine kendisini savunacağını belirterek Eritre'yi uyardı",
+        "Today": "Etiyopya, Eritreli askerlerin sınırı geçmesinin ardından toprak bütünlüğünü savunacağını belirterek Eritre'yi uyardı; bu durum misilleme niteliğinde İHA saldırıları düzenlendiği haberlerine yol açtı.",
+        "Event Type": "sınır çatışması",
+        "Historical Precedents": "1998-2000: Eritre-Etiyopya Savaşı\n2020-2022: Tigray Savaşı",
+        "What Followed Before": "1998-2000: Çatışma 2000 yılındaki Cezayir Anlaşması ile sona erdi ve resmi bir barış olmaksızın yaklaşık yirmi yıl süren gergin bir çıkmaz durumu yarattı.\n2020-2022: Kasım 2022'deki düşmanlıkların durdurulması anlaşmasına rağmen, Eritre güçleri sınır bölgelerinin bazı kısımlarında varlığını sürdürmeye devam etti ve bu da derin bir güvensizlik doğurdu.",
+        "Pattern": "Etiyopya ve Eritre arasında egemenliği tartışmalı bölgelerdeki sınır ihlalleri, köklü karşılıklı şüphe nedeniyle tarihsel olarak hızla daha geniş çaplı askeri çatışmalara dönüşmektedir.",
+        "Outlook": "Bölgesel arabulucular hızla devreye girmediği takdirde, iki devlet arasında yeni yerel çatışmalar ve İHA savaşının tırmanması muhtemeldir.",
+        "Timeframe": "önümüzdeki 3 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Etiyopya'nın şu anda iç ekonomik ve güvenlik sorunlarıyla meşgul olması, Addis Ababa'yı çatışmayı 1998 savaşının boyutlarına ulaşmadan önce kontrol altına almaya teşvik edebilir.",
+        "Watch For": "Afrika Birliği veya IGAD tarafından yapılacak acil diplomatik müdahaleler."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "warn",
+            "tr": "uyarmak"
+          },
+          {
+            "en": "defend itself",
+            "tr": "kendini savunmak"
+          },
+          {
+            "en": "cross border",
+            "tr": "sınırı geçmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "territorial integrity",
+            "tr": "toprak bütünlüğü"
+          },
+          {
+            "en": "prompt",
+            "tr": "yol açmak, tetiklemek"
+          },
+          {
+            "en": "retaliatory",
+            "tr": "misilleme niteliğinde"
+          },
+          {
+            "en": "drone strikes",
+            "tr": "İHA saldırıları"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "border clash",
+            "tr": "sınır çatışması"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "stalemate",
+            "tr": "çıkmaz, kilitlenme"
+          },
+          {
+            "en": "cessation of hostilities",
+            "tr": "düşmanlıkların durdurulması"
+          },
+          {
+            "en": "lingering presence",
+            "tr": "sürüp giden/devam eden varlık"
+          },
+          {
+            "en": "breed distrust",
+            "tr": "güvensizlik doğurmak/beslemek"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "incursion",
+            "tr": "saldırı, sınır ihlali, akın"
+          },
+          {
+            "en": "disputed sovereignty",
+            "tr": "egemenliği tartışmalı"
+          },
+          {
+            "en": "escalate",
+            "tr": "tırmanmak, şiddetlenmek"
+          },
+          {
+            "en": "deep-seated",
+            "tr": "köklü, derin"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "skirmish",
+            "tr": "küçük çaplı çatışma, arbede"
+          },
+          {
+            "en": "mediator",
+            "tr": "arabulucu"
+          },
+          {
+            "en": "intervene swiftly",
+            "tr": "hızla müdahale etmek"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "preoccupation",
+            "tr": "meşguliyet, dalgınlık"
+          },
+          {
+            "en": "incentivize",
+            "tr": "teşvik etmek, özendirmek"
+          },
+          {
+            "en": "contain",
+            "tr": "kontrol altına almak, sınırlamak"
+          },
+          {
+            "en": "mirror",
+            "tr": "yansıtmak, benzemek"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "emergency diplomatic intervention",
+            "tr": "acil diplomatik müdahale"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    "source_link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    "what_happened": "Researchers report that consumer debt repayment capacity has deteriorated to levels not observed since the 2008 crisis, with delinquencies spiking across household credit categories.",
+    "event_type": "debt delinquency surge",
+    "precedents": [
+      {
+        "when": "2006–2007",
+        "event": "Rising household debt delinquencies prior to the Great Recession",
+        "wikipedia_title": "Subprime mortgage crisis",
+        "what_happened": "Early-stage consumer credit delinquencies, first in subprime mortgages and subsequently in credit cards and auto loans, spiked sharply while aggregate economic indicators initially appeared stable.",
+        "what_followed": "Within 12 to 18 months, consumer balance sheet stress bled into institutional credit markets, causing a nationwide banking freeze and triggering the longest US recession since the 1930s.",
+        "similarity": "Same actors (US households and lending institutions) and the same economic indicator (deteriorating debt-service capacity across lower- and middle-income borrowers).",
+        "wiki": {
+          "title": "Subprime mortgage crisis",
+          "url": "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis",
+          "extract": "The American subprime mortgage crisis was a multinational financial crisis that occurred between 2007 and 2010, contributing to the 2008 financial crisis. It led to a severe economic recession, with millions becoming unemployed and many businesses going bankrupt. The U.S. governm"
+        }
+      },
+      {
+        "when": "1989–1990",
+        "event": "Consumer credit stress preceding the 1990 recession",
+        "wikipedia_title": "Early 1990s recession in the United States",
+        "what_happened": "Consumer debt loads accumulated during the 1980s expansion encountered elevated interest rates, pushing personal debt service ratios to multi-year highs and lifting default rates.",
+        "what_followed": "Consumer spending abruptly stalled by mid-1990, tipping the United States economy into an eight-month recession compounded by the Gulf War oil shock.",
+        "similarity": "Same pattern of aggressive borrowing followed by interest-rate pressure that exhausted household disposable income.",
+        "wiki": {
+          "title": "Early 1990s recession in the United States",
+          "url": "https://en.wikipedia.org/wiki/Early_1990s_recession_in_the_United_States",
+          "extract": "The United States entered a recession in 1990, which lasted 8 months through March 1991. Although the recession was mild relative to other post-war recessions, it was characterized by a sluggish employment recovery, most commonly referred to as a jobless recovery. Unemployment co"
+        }
+      }
+    ],
+    "pattern": "In 4 of the last 5 US economic cycles, sustained multi-quarter deteriorations in consumer delinquency rates above cycle averages have been followed by an official NBER recession within 6 to 18 months.",
+    "outlook": "Household consumption contraction is likely, forcing commercial banks to tighten lending standards and raising the risk of an economic downturn.",
+    "probability": "70%",
+    "timeframe": "next 9 to 15 months",
+    "confidence": "High",
+    "different_this_time": "Household aggregate balance sheets entered this cycle with higher home equity and substantial fixed-rate mortgage insulation compared to the heavily adjustable-rate leverage of 2007.",
+    "watch_for": "Rising 90-plus day delinquency transitions in prime credit tiers and bank provisions for loan losses reported in quarterly earnings.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Amerikalıların borç sorunları, Büyük Durgunluk'tan bu yana görülmemiş bir uyarı sinyali veriyor",
+        "Today": "Araştırmacılar, hanehalkı kredi kategorilerinde temerrütlerin hızla artmasıyla birlikte, tüketici borç geri ödeme kapasitesinin 2008 krizinden bu yana görülmemiş seviyelere gerilediğini bildiriyor.",
+        "Event Type": "borç temerrüdü artışı",
+        "Historical Precedents": "2006–2007: Büyük Durgunluk öncesinde artan hanehalkı borç temerrütleri\n1989–1990: 1990 resesyonunun öncesindeki tüketici kredisi baskısı",
+        "What Followed Before": "2006–2007: 12 ila 18 ay içinde, tüketici bilançosundaki baskı kurumsal kredi piyasalarına sıçradı; bu durum ülke genelinde bankacılık işlemlerinin kilitlenmesine yol açarak 1930'lardan bu yana ABD'deki en uzun resesyonu tetikledi.\n1989–1990: Tüketici harcamaları 1990 ortalarında aniden durma noktasına geldi ve Körfez Savaşı petrol şokuyla daha da ağırlaşarak ABD ekonomisini sekiz aylık bir resesyona sürükledi.",
+        "Pattern": "Son 5 ABD ekonomik döngüsünün 4'ünde, tüketici temerrüt oranlarının döngü ortalamalarının üzerinde birkaç çeyrek boyunca süren bozulmasını, 6 ila 18 ay içinde resmi bir NBER resesyonu izlemiştir.",
+        "Outlook": "Hanehalkı tüketiminde daralma muhtemel görünmekte; bu durum ticari bankaları kredi verme standartlarını sıkılaştırmaya zorlayarak ekonomik daralma riskini artırmaktadır.",
+        "Timeframe": "önümüzdeki 9 ila 15 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Hanehalkı toplam bilançoları bu döngüye, 2007'nin ağırlıklı olarak değişken faizli kaldıraç yapısına kıyasla daha yüksek konut özkaynağı ve önemli ölçüde sabit faizli ipotek korumasıyla girdi.",
+        "Watch For": "Birinci sınıf (prime) kredi kademelerinde 90 günü aşan temerrüde geçişlerdeki artış ve çeyreklik kazanç raporlarında açıklanan banka kredi zararı karşılıkları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "flash a warning",
+            "tr": "uyarı sinyali vermek"
+          },
+          {
+            "en": "Great Recession",
+            "tr": "Büyük Durgunluk (2007-2009 krizi)"
+          }
+        ],
+        "Today": [
+          {
+            "en": "repayment capacity",
+            "tr": "geri ödeme kapasitesi"
+          },
+          {
+            "en": "deteriorate",
+            "tr": "kötüleşmek, bozulmak"
+          },
+          {
+            "en": "delinquency",
+            "tr": "vadesi geçmiş borç, temerrüt"
+          },
+          {
+            "en": "spike",
+            "tr": "ani artış göstermek"
+          },
+          {
+            "en": "household credit",
+            "tr": "hanehalkı kredisi"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "delinquency",
+            "tr": "borcun gecikmesi, temerrüt"
+          },
+          {
+            "en": "surge",
+            "tr": "ani yükseliş, patlama"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "household debt",
+            "tr": "hanehalkı borcu"
+          },
+          {
+            "en": "preceding",
+            "tr": "öncesinde gelen, önceki"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "bleed into",
+            "tr": "bir alandan diğerine sıçramak/sızmak"
+          },
+          {
+            "en": "banking freeze",
+            "tr": "bankacılık kilitlenmesi / donması"
+          },
+          {
+            "en": "abruptly stalled",
+            "tr": "aniden durma noktasına geldi"
+          },
+          {
+            "en": "tip into",
+            "tr": "bir duruma sürüklemek/itmek"
+          },
+          {
+            "en": "compounded by",
+            "tr": "ile daha da ağırlaşan/birleşen"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "sustained",
+            "tr": "sürekli, kesintisiz"
+          },
+          {
+            "en": "multi-quarter",
+            "tr": "birkaç çeyrek süren"
+          },
+          {
+            "en": "deterioration",
+            "tr": "kötüleşme, bozulma"
+          },
+          {
+            "en": "delinquency rate",
+            "tr": "gecikmiş borç / temerrüt oranı"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "consumption contraction",
+            "tr": "tüketimde daralma"
+          },
+          {
+            "en": "commercial banks",
+            "tr": "ticari bankalar"
+          },
+          {
+            "en": "tighten lending standards",
+            "tr": "kredi verme standartlarını sıkılaştırmak"
+          },
+          {
+            "en": "downturn",
+            "tr": "ekonomik daralma, gerileme"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "aggregate balance sheets",
+            "tr": "toplam bilançolar"
+          },
+          {
+            "en": "home equity",
+            "tr": "konut özkaynağı (ev değeri eksi kalan kredi)"
+          },
+          {
+            "en": "insulation",
+            "tr": "koruma, yalıtım"
+          },
+          {
+            "en": "adjustable-rate leverage",
+            "tr": "değişken faizli kaldıraç / borçlanma"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "prime credit tiers",
+            "tr": "birinci sınıf (en güvenilir) kredi kademeleri"
+          },
+          {
+            "en": "provisions for loan losses",
+            "tr": "kredi zararı karşılıkları"
+          },
+          {
+            "en": "quarterly earnings",
+            "tr": "çeyreklik kazançlar/bilanço kârları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    "source_link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+    "what_happened": "A New York Federal Reserve study found that US import tariffs contributed 2.9 percentage points directly to consumer price inflation across 67 categories of everyday goods.",
+    "event_type": "tariff-driven inflation",
+    "precedents": [
+      {
+        "when": "2018–2019",
+        "event": "Trump administration Section 301 tariffs on Chinese goods",
+        "wikipedia_title": "China–United States trade war",
+        "what_happened": "The US imposed tariffs ranging from 10% to 25% on hundreds of billions of dollars in consumer and industrial imports from China.",
+        "what_followed": "Economic studies by the Federal Reserve and NBER confirmed near-complete tariff pass-through to US domestic wholesale and retail prices within 6 to 12 months, reducing real consumer purchasing power without narrowing the trade deficit.",
+        "similarity": "Same actors (US federal trade policy and Federal Reserve researchers analyzing pass-through to consumer prices).",
+        "wiki": {
+          "title": "China–United States trade war",
+          "url": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_trade_war",
+          "extract": "An economic conflict between China and the United States has been ongoing since January 2018, when US president Donald Trump began imposing tariffs and other trade barriers on China with the aim of forcing it to make changes to what the US has said are longstanding unfair trade p"
+        }
+      },
+      {
+        "when": "2002",
+        "event": "Bush administration steel tariffs",
+        "wikipedia_title": "2002 United States steel tariff",
+        "what_happened": "The United States enacted tariffs between 8% and 30% on imported steel to shelter domestic producers.",
+        "what_followed": "Within nine months, input prices soared for steel-consuming manufacturers, resulting in an estimated 200,000 downstream job losses before the tariffs were rescinded under WTO retaliation threats in December 2003.",
+        "similarity": "Same mechanism where targeted trade protection triggered immediate domestic price inflation for dependent buyers.",
+        "wiki": {
+          "title": "2002 United States steel tariff",
+          "url": "https://en.wikipedia.org/wiki/2002_United_States_steel_tariff",
+          "extract": "On March 5, 2002, U.S. President George W. Bush placed tariffs on imported steel. The tariffs took effect March 20 and were lifted by Bush on December 4, 2003. Research shows that \"the costs of the Safeguard Measures [steel tariffs] outweighed their benefits in terms of aggregate"
+        }
+      }
+    ],
+    "pattern": "In nearly all modern instances of US tariff implementation, domestic import-competing firms raise prices in tandem with import duties, causing 80% to 100% of the tax burden to fall directly on domestic end-consumers within one year.",
+    "outlook": "Tariff-affected consumer categories will maintain elevated price floors, complicating Federal Reserve monetary easing and suppressing real wage growth.",
+    "probability": "85%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "Rapid supply-chain redirection toward non-tariffed trade partners (such as Southeast Asia or Mexico) or aggressive currency depreciation abroad could partially blunt domestic price pass-through.",
+    "watch_for": "Exclusion requests filed by retail trade associations and retaliatory trade actions by key US trading partners.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "NY Fed: Birçok günlük üründeki enflasyon tamamen gümrük vergilerinden kaynaklandı",
+        "Today": "New York Federal Rezerv tarafından yapılan bir araştırma, ABD ithalat tarifelerinin 67 günlük tüketim malı kategorisindeki tüketici fiyat enflasyonuna doğrudan 2,9 yüzdelik puan katkıda bulunduğunu ortaya koydu.",
+        "Event Type": "gümrük vergisi kaynaklı enflasyon",
+        "Historical Precedents": "2018–2019: Trump yönetiminin Çin mallarına uyguladığı 301. Madde gümrük vergileri\n2002: Bush yönetiminin çelik tarifeleri",
+        "What Followed Before": "2018–2019: Federal Rezerv ve NBER tarafından yapılan ekonomik çalışmalar, gümrük vergilerinin 6 ila 12 ay içinde ABD yerel toptan ve perakende satış fiyatlarına neredeyse tamamen yansıdığını, ticaret açığını daraltmadan reel tüketici alım gücünü düşürdüğünü doğruladı.\n2002: Dokuz ay içinde çelik kullanan üreticiler için girdi fiyatları fırladı ve vergiler Aralık 2003'te DTÖ misilleme tehditleri altında yürürlükten kaldırılmadan önce alt sektörlerde tahmini 200.000 istihdam kaybına yol açtı.",
+        "Pattern": "ABD gümrük vergisi uygulamalarının neredeyse tüm modern örneklerinde, ithalatla rekabet eden yerli firmalar fiyatları ithalat vergileriyle eş zamanlı olarak artırmakta ve bu da vergi yükünün %80 ila %100'ünün bir yıl içinde doğrudan yerli nihai tüketicinin üzerine kalmasına neden olmaktadır.",
+        "Outlook": "Gümrük vergilerinden etkilenen tüketici kategorileri yüksek fiyat tabanlarını koruyacak; bu durum Federal Rezerv'in parasal gevşemesini zorlaştırırken reel ücret artışını da baskılayacaktır.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Tedarik zincirinin gümrük vergisi uygulanmayan ticaret ortaklarına (Güneydoğu Asya veya Meksika gibi) hızla yönlendirilmesi ya da yurt dışındaki sert para birimi değer kayıpları, yerel fiyat geçişkenliğini kısmen hafifletebilir.",
+        "Watch For": "Perakende ticaret birlikleri tarafından yapılan muafiyet başvuruları ve ABD'nin kilit ticaret ortaklarının misilleme amaçlı ticaret hamleleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "everyday items",
+            "tr": "günlük tüketim maddeleri"
+          },
+          {
+            "en": "entirely due to",
+            "tr": "tamamen -den kaynaklı"
+          },
+          {
+            "en": "tariffs",
+            "tr": "gümrük vergileri, tarifeler"
+          }
+        ],
+        "Today": [
+          {
+            "en": "import tariffs",
+            "tr": "ithalat gümrük vergileri"
+          },
+          {
+            "en": "percentage points",
+            "tr": "yüzdelik puan"
+          },
+          {
+            "en": "everyday goods",
+            "tr": "günlük kullanım malları"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "tariff-driven",
+            "tr": "gümrük vergisi kaynaklı"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "administration",
+            "tr": "hükümet, yönetim"
+          },
+          {
+            "en": "tariffs",
+            "tr": "gümrük vergileri"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "pass-through",
+            "tr": "fiyat geçişkenliği, yansıma"
+          },
+          {
+            "en": "wholesale and retail prices",
+            "tr": "toptan ve perakende fiyatlar"
+          },
+          {
+            "en": "purchasing power",
+            "tr": "satın alma gücü"
+          },
+          {
+            "en": "trade deficit",
+            "tr": "dış ticaret açığı"
+          },
+          {
+            "en": "input prices",
+            "tr": "girdi fiyatları"
+          },
+          {
+            "en": "downstream job losses",
+            "tr": "alt/sonraki sektörlerdeki istihdam kayıpları"
+          },
+          {
+            "en": "rescinded",
+            "tr": "yürürlükten kaldırılmış, feshedilmiş"
+          },
+          {
+            "en": "retaliation threats",
+            "tr": "misilleme tehditleri"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "import-competing firms",
+            "tr": "ithalatla rekabet eden firmalar"
+          },
+          {
+            "en": "in tandem with",
+            "tr": "ile eş zamanlı olarak, el ele"
+          },
+          {
+            "en": "import duties",
+            "tr": "ithalat vergileri"
+          },
+          {
+            "en": "tax burden",
+            "tr": "vergi yükü"
+          },
+          {
+            "en": "end-consumers",
+            "tr": "nihai tüketiciler"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "elevated price floors",
+            "tr": "yükselmiş taban fiyatlar"
+          },
+          {
+            "en": "monetary easing",
+            "tr": "parasal gevşeme"
+          },
+          {
+            "en": "suppressing",
+            "tr": "baskılayan, bastıran"
+          },
+          {
+            "en": "real wage growth",
+            "tr": "reel ücret artışı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "supply-chain redirection",
+            "tr": "tedarik zincirinin yeniden yönlendirilmesi"
+          },
+          {
+            "en": "currency depreciation",
+            "tr": "para biriminin değer kaybetmesi"
+          },
+          {
+            "en": "blunt",
+            "tr": "etkisini azaltmak, hafifletmek"
+          },
+          {
+            "en": "price pass-through",
+            "tr": "fiyat geçişkenliği"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "exclusion requests",
+            "tr": "muafiyet/istisna talepleri"
+          },
+          {
+            "en": "trade associations",
+            "tr": "ticaret birlikleri/dernekleri"
+          },
+          {
+            "en": "retaliatory trade actions",
+            "tr": "misilleme amaçlı ticaret adımları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+    "source_link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Firmus, an Nvidia-backed data centre firm, scrapped its IPO citing recent market volatility and prevailing market conditions amid deep AI valuation concerns.",
+    "event_type": "IPO cancellation",
+    "precedents": [
+      {
+        "when": "2000",
+        "event": "Dot-com bubble IPO withdrawals",
+        "wikipedia_title": "Dot-com bubble",
+        "what_happened": "Scores of technology and internet startups withdrew or delayed their planned stock market listings as valuations plummeted and investor appetite dried up.",
+        "what_followed": "A multi-year bear market followed in the technology sector, with widespread bankruptcies and a massive contraction in venture capital funding over the subsequent 24 to 36 months.",
+        "similarity": "Tech infrastructure and hardware firms facing extreme valuation corrections and sudden investor skepticism.",
+        "wiki": {
+          "title": "Dot-com bubble",
+          "url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+          "extract": "The dot-com bubble was a stock market bubble that developed during the late 1990s and peaked on March 10, 2000. This period of market growth coincided with the widespread adoption of the World Wide Web and the Internet, resulting in a dispensation of available venture capital and"
+        }
+      },
+      {
+        "when": "2021",
+        "event": "SoftBank-backed tech IPO cooling",
+        "wikipedia_title": "SoftBank Group",
+        "what_happened": "Several high-profile tech companies delayed public offerings or downsized valuations as public market multiples compressed rapidly.",
+        "what_followed": "Private valuations lagged public realities for several quarters, resulting in severe down-rounds and structural restructurings within 12 months.",
+        "similarity": "Heavy concentration of venture backing meeting a sudden public market liquidity freeze.",
+        "wiki": {
+          "title": "SoftBank Group",
+          "url": "https://en.wikipedia.org/wiki/SoftBank_Group",
+          "extract": "SoftBank Group Corp.  is a Japanese multinational investment holding company headquartered in Minato, Tokyo, that focuses on investment management. The group primarily invests in companies operating in technology that offer goods and services to customers in a multitude of market"
+        }
+      }
+    ],
+    "pattern": "When infrastructure providers tied to a speculative boom cancel IPOs due to valuation concerns, it typically signals the bursting or severe deflation of a valuation bubble, with a base rate of sector-wide capital contraction in 8 out of 10 similar historical instances.",
+    "outlook": "Further tech and AI-infrastructure IPO cancellations, followed by a broader valuation markdown across private AI startups.",
+    "probability": "75%",
+    "timeframe": "next 6-12 months",
+    "confidence": "High",
+    "different_this_time": "Unlike the dot-com era, major AI infrastructure players generate substantial software and hardware revenue, though margins and capital expenditure requirements remain under intense scrutiny.",
+    "watch_for": "Secondary market trading of existing AI chips, venture capital funding round down-rounds, and capital expenditure cutbacks by major cloud providers.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Nvidia destekli veri merkezi şirketi, yapay zeka değerleme endişeleri derinleşirken halka arzı (IPO) iptal etti",
+        "Today": "Nvidia destekli bir veri merkezi şirketi olan Firmus, derinleşen yapay zeka değerleme endişeleri ortasındaki mevcut piyasa oynaklığını ve baskın piyasa koşullarını gerekçe göstererek halka arzını iptal etti.",
+        "Event Type": "Halka arz iptali",
+        "Historical Precedents": "2000: Dot-com balonu halka arz geri çekilmeleri\n2021: SoftBank destekli teknoloji halka arzlarının soğuması",
+        "What Followed Before": "2000: Bunu teknoloji sektöründe uzun yıllar süren bir ayı piyasası takip etti; takip eden 24 ila 36 ay içinde yaygın iflaslar ve risk sermayesi finansmanında büyük bir daralma yaşandı.\n2021: Özel değerlemeler birkaç çeyrek boyunca halka açık piyasa gerçekliğinin gerisinde kaldı ve 12 ay içinde ciddi düşük değerlemeli yeni tur yatırımlara (down-round) ile yapısal yeniden yapılanmalara yol açtı.",
+        "Pattern": "Spekülatif bir boğaya bağlı altyapı sağlayıcıları değerleme endişeleri nedeniyle halka arzları iptal ettiğinde, bu durum genellikle benzer 10 tarihsel örneğin 8'inde sektör çapında bir sermaye daralması baz oranıyla, bir değerleme balonunun patlamasına veya ciddi şekilde sönmesine işaret eder.",
+        "Outlook": "Daha fazla teknoloji ve yapay zeka altyapısı halka arz iptali, ardından özel yapay zeka girişimlerinde daha geniş bir değerleme indirimi.",
+        "Timeframe": "gelecek 6-12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Dot-com döneminin aksine, büyük yapay zeka altyapı oyuncuları, marjlar ve sermaye harcaması gereksinimleri yoğun inceleme altında kalmaya devam etse de, önemli yazılım ve donanım geliri elde ediyor.",
+        "Watch For": "Mevcut yapay zeka çiplerinin ikincil piyasa işlemleri, risk sermayesi fonlama turu düşük değerlemeleri ve büyük bulut sağlayıcılarının sermaye harcaması kesintileri."
+      },
+      "vocabulary": [
+        {
+          "en": "scraps IPO",
+          "tr": "halka arzı iptal ediyor"
+        },
+        {
+          "en": "market volatility",
+          "tr": "piyasa oynaklığı"
+        },
+        {
+          "en": "bear market",
+          "tr": "ayı piyasası (düşüş piyasası)"
+        },
+        {
+          "en": "down-rounds",
+          "tr": "önceki tura göre daha düşük değerlemeyle yapılan yatırım turları"
+        },
+        {
+          "en": "capital expenditure",
+          "tr": "sermaye harcaması"
+        },
+        {
+          "en": "scrutiny",
+          "tr": "yakın inceleme, denetim"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+    "source_link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+    "what_happened": "With fuel prices soaring and midterm elections looming, political pressure is mounting on the administration to lower energy costs for American consumers.",
+    "event_type": "energy price intervention",
+    "precedents": [
+      {
+        "when": "2022",
+        "event": "Strategic Petroleum Reserve release",
+        "wikipedia_title": "Strategic Petroleum Reserve (United States)",
+        "what_happened": "The US government released millions of barrels from the Strategic Petroleum Reserve to curb surging gasoline prices ahead of midterm elections.",
+        "what_followed": "Prices dipped temporarily for a few months before global supply dynamics and refining constraints reasserted upward pressure.",
+        "similarity": "Direct executive branch intervention targeting fuel prices to influence consumer sentiment right before a midterm election.",
+        "wiki": {
+          "title": "Strategic Petroleum Reserve (United States)",
+          "url": "https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States)",
+          "extract": "The Strategic Petroleum Reserve (SPR) is an emergency stockpile of petroleum maintained by the United States Department of Energy (DOE). It is the largest publicly known emergency supply in the world; its underground tanks in Louisiana and Texas have capacity for 714 million barr"
+        }
+      },
+      {
+        "when": "1979",
+        "event": "1979 energy crisis price pressures",
+        "wikipedia_title": "1979 energy crisis",
+        "what_happened": "Soaring oil prices caused severe economic pain, leading to frantic political interventions and contributing to the political downfall of the incumbent administration.",
+        "what_followed": "Long-term structural shifts toward conservation and domestic production occurred, but short-term political price controls failed to resolve underlying supply deficits.",
+        "similarity": "High fuel prices dominating voter anxiety and driving desperate policy responses.",
+        "wiki": {
+          "title": "1979 oil crisis",
+          "url": "https://en.wikipedia.org/wiki/1979_oil_crisis",
+          "extract": "The 1979 oil crisis, sometimes referred to as the second oil crisis, refers to the drop in oil production in the aftermath of the Iranian Revolution that led to an energy crisis in 1979. Although the global oil supply only decreased by approximately four percent, the oil markets'"
+        }
+      }
+    ],
+    "pattern": "Governments attempting to artificially depress fuel prices ahead of major elections achieve short-term political relief in about 4 of 10 cases, but global commodity market forces almost always outweigh domestic political expedience.",
+    "outlook": "Short-term administrative measures (such as regulatory rollbacks or release of reserves) may create a temporary price plateau, but persistent structural demand and geopolitical factors will keep energy costs elevated.",
+    "probability": "65%",
+    "timeframe": "next 3-6 months",
+    "confidence": "Medium",
+    "different_this_time": "High domestic US crude oil production levels provide a domestic buffer that did not exist during the 1970s oil shocks.",
+    "watch_for": "Announcements regarding emergency reserve releases, changes in refining capacity utilization, and month-over-month shifts in consumer sentiment indices.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Trump, ara seçimler yaklaşırken yakıt maliyetini düşürmek istiyor - bu işe yarayacak mı?",
+        "Today": "Yakıt fiyatlarının fırlaması ve ara seçimlerin yaklaşmasıyla birlikte, Amerikan tüketicileri için enerji maliyetlerini düşürmesi yönünde yönetime baskı artıyor.",
+        "Event Type": "enerji fiyatı müdahalesi",
+        "Historical Precedents": "2022: Stratejik Petrol Rezervinin serbest bırakılması\n1979: 1979 enerji krizi fiyat baskıları",
+        "What Followed Before": "2022: Küresel arz dinamikleri ve arıtma kısıtlamaları yukarı yönlü baskıyı yeniden dayatmadan önce fiyatlar birkaç aylığına geçici olarak düştü.\n1979: Tasarrufa ve iç üretime doğru uzun vadeli yapısal değişimler meydana geldi, ancak kısa vadeli siyasi fiyat kontrolleri alttaki arz açığını çözmeyi başaramadı.",
+        "Pattern": "Büyük seçimler öncesinde yapay olarak yakıt fiyatlarını düşürmeye çalışan hükümetler, vakaların yaklaşık 10'da 4'ünde kısa vadeli siyasi rahatlama elde eder, ancak küresel emtia piyasası güçleri neredeyse her zaman iç siyasi faydacılıktan ağır basar.",
+        "Outlook": "Kısa vadeli idari tedbirler (düzenleyici geri alımlar veya rezervlerin serbest bırakılması gibi) geçici bir fiyat platosu oluşturabilir, ancak kalıcı yapısal talep ve jeopolitik faktörler enerji maliyetlerini yüksek tutmaya devam edecektir.",
+        "Timeframe": "gelecek 3-6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Yüksek yurtiçi ABD ham petrol üretim seviyeleri, 1970'lerin petrol şokları sırasında var olmayan bir iç tampon sağlamaktadır.",
+        "Watch For": "Acil durum rezervlerinin serbest bırakılmasına ilişkin duyurular, arıtma kapasitesi kullanımındaki değişiklikler ve tüketici güven endekslerindeki aydan aya değişimler."
+      },
+      "vocabulary": [
+        {
+          "en": "midterms loom",
+          "tr": "ara seçimler yaklaşıyor / kapıda"
+        },
+        {
+          "en": "soaring",
+          "tr": "fırlayan, hızla yükselen"
+        },
+        {
+          "en": "reasserted upward pressure",
+          "tr": "yukarı yönlü baskıyı yeniden dayattı"
+        },
+        {
+          "en": "political expedience",
+          "tr": "siyasi çıkar/faydacılık"
+        },
+        {
+          "en": "regulatory rollbacks",
+          "tr": "düzenleyici kısıtlamaların/kuralların geri alınması"
+        },
+        {
+          "en": "buffer",
+          "tr": "tampon bölge, koruyucu unsur"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Man City titles 'absolutely not' tainted - Maresca",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Manchester City manager Enzo Maresca insists the club's previous titles are not tainted despite the club being found guilty of breaking Premier League financial rules.",
+    "event_type": "financial misconduct ruling",
+    "precedents": [
+      {
+        "when": "2006",
+        "event": "Calciopoli scandal in Italian football",
+        "wikipedia_title": "Calciopoli",
+        "what_happened": "Juventus and other clubs were found guilty of match-fixing and sporting fraud, leading to Juventus being stripped of two Serie A titles and relegated.",
+        "what_followed": "Juventus suffered a mass exodus of star players, a drop in revenue, and endured nearly a decade of rebuilding before recapturing domestic dominance.",
+        "similarity": "A powerhouse club facing systemic governance penalties that directly challenge the legitimacy of past trophies.",
+        "wiki": {
+          "title": "Calciopoli",
+          "url": "https://en.wikipedia.org/wiki/Calciopoli",
+          "extract": "\n\nCalciopoli was a sports scandal that emerged in Italy's professional association football league in 2006. It involved some of the most famous and successful football teams in Italy: Juventus, AC Milan, SS Lazio, ACF Fiorentina, Arezzo and AS Reggina. Media reporting on the scan"
+        }
+      },
+      {
+        "when": "2020",
+        "event": "UEFA financial fair play case against Manchester City",
+        "wikipedia_title": "Manchester City F.C. UEFA investigation",
+        "what_happened": "Manchester City were initially banned from European competitions for two years by UEFA for serious breaches of Club Licensing and Financial Fair Play regulations.",
+        "what_followed": "The Court of Arbitration for Sport (CAS) overturned the ban in July 2020, reducing the penalty to a fine, allowing City to retain their status and financial momentum.",
+        "similarity": "Same club facing major regulatory charges over financial misreporting.",
+        "wiki": {
+          "title": "Manchester City F.C. financial breaches scandal",
+          "url": "https://en.wikipedia.org/wiki/Manchester_City_F.C._financial_breaches_scandal",
+          "extract": "Since 2018, Manchester City F.C. has been implicated in a major financial scandal, following the publication of leaked internal emails alleged to reveal that the club had committed systematic, deliberate violations of UEFA's Financial Fair Play (FFP) and the Premier League's Prof"
+        }
+      }
+    ],
+    "pattern": "When major football clubs are formally found guilty of systemic rule breaches, public perception permanently splits: rival fans and historians view titles as tainted, while club insiders and loyal supporters adopt a fierce siege mentality.",
+    "outlook": "Expect severe hostility away from home, intense media scrutiny, and a deeply entrenched club narrative of us-against-the-world.",
+    "probability": "90%",
+    "timeframe": "next 12 months",
+    "confidence": "High",
+    "different_this_time": "Unlike previous UEFA challenges, the current domestic verdicts involve sustained Premier League findings that carry domestic sporting sanctions rather than European ones.",
+    "watch_for": "Fan banner displays at Anfield and subsequent Premier League disciplinary announcements regarding points deductions or trophy stripping.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Maresca: Man City'nin şampiyonlukları 'kesinlikle' lekelenmedi",
+        "Today": "Manchester City teknik direktörü Enzo Maresca, kulübün Premier League finansal kurallarını ihlal etmekten suçlu bulunmasına rağmen önceki şampiyonluklarının lekelenmediği konusunda ısrar ediyor.",
+        "Event Type": "mali suistimal kararı",
+        "Historical Precedents": "2006: İtalyan futbolundaki Calciopoli skandalı\n2020: Manchester City'ye karşı açılan UEFA finansal fair play davası",
+        "What Followed Before": "2006: Juventus, yıldız oyuncuların kitlesel göçünü yaşadı, gelir kaybına uğradı ve yerel hakimiyetini yeniden kazanmadan önce neredeyse on yıllık bir yeniden yapılanma sürecine katlandı.\n2020: Spor Tahkim Mahkemesi (CAS), Temmuz 2020'de yasağı bozarak cezayı para cezasına indirdi ve City'nin statüsünü ve finansal ivmesini korumasına izin verdi.",
+        "Pattern": "Büyük futbol kulüpleri sistematik kural ihlallerinden resmen suçlu bulunduğunda, kamuoyu algısı kalıcı olarak ikiye bölünür: rakip taraftarlar ve tarihçiler şampiyonlukları lekelenmiş olarak görürken, kulüp çalışanları ve sadık taraftarlar şiddetli bir kuşatma psikolojisi benimser.",
+        "Outlook": "Deplasmanlarda ciddi bir düşmanlık, yoğun medya incelemesi ve kulüp içinde 'dünyaya karşı biz' anlatısının derinlemesine yerleşmesini bekleyin.",
+        "Timeframe": "önümüzdeki 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Önceki UEFA itirazlarının aksine, mevcut yerel kararlar, Avrupa yerine yerel sportif yaptırımlar taşıyan kalıcı Premier League bulgularını içermektedir.",
+        "Watch For": "Anfield'daki taraftar pankartları ve puan silme veya kupaların geri alınmasına ilişkin müteakip Premier League disiplin duyuruları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "tainted",
+            "tr": "lekelenmiş, şaibeli"
+          },
+          {
+            "en": "absolutely not",
+            "tr": "kesinlikle hayır/değil"
+          }
+        ],
+        "Today": [
+          {
+            "en": "insists",
+            "tr": "ısrar ediyor, vurguluyor"
+          },
+          {
+            "en": "previous titles",
+            "tr": "önceki şampiyonluklar"
+          },
+          {
+            "en": "found guilty of",
+            "tr": "-den suçlu bulunmak"
+          },
+          {
+            "en": "breaking rules",
+            "tr": "kuralları ihlal etmek"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "misconduct",
+            "tr": "suistimal, görevi kötüye kullanma"
+          },
+          {
+            "en": "ruling",
+            "tr": "resmi karar, hüküm"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "scandal",
+            "tr": "skandal"
+          },
+          {
+            "en": "financial fair play",
+            "tr": "finansal adil oyun"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "mass exodus",
+            "tr": "kitlesel göç/ayrılış"
+          },
+          {
+            "en": "drop in revenue",
+            "tr": "gelirde düşüş"
+          },
+          {
+            "en": "endured",
+            "tr": "katlandı, dayandı"
+          },
+          {
+            "en": "recapturing",
+            "tr": "yeniden ele geçirmek"
+          },
+          {
+            "en": "overturned",
+            "tr": "bozdu, iptal etti"
+          },
+          {
+            "en": "retain",
+            "tr": "korumak, muhafaza etmek"
+          },
+          {
+            "en": "momentum",
+            "tr": "ivme, hız"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "systemic rule breaches",
+            "tr": "sistematik kural ihlalleri"
+          },
+          {
+            "en": "public perception",
+            "tr": "kamuoyu algısı"
+          },
+          {
+            "en": "permanently splits",
+            "tr": "kalıcı olarak ikiye bölünür"
+          },
+          {
+            "en": "insiders",
+            "tr": "içeridekiler, kulüp mensupları"
+          },
+          {
+            "en": "siege mentality",
+            "tr": "kuşatma psikolojisi"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "hostility",
+            "tr": "düşmanlık, husumet"
+          },
+          {
+            "en": "scrutiny",
+            "tr": "yakın inceleme, denetim"
+          },
+          {
+            "en": "entrenched",
+            "tr": "kök salmış, yerleşmiş"
+          },
+          {
+            "en": "us-against-the-world",
+            "tr": "dünyaya karşı biz"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "sustained",
+            "tr": "süregelen, devam eden"
+          },
+          {
+            "en": "findings",
+            "tr": "bulgular, tespitler"
+          },
+          {
+            "en": "sporting sanctions",
+            "tr": "sportif yaptırımlar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "banner displays",
+            "tr": "pankart gösterimleri"
+          },
+          {
+            "en": "subsequent",
+            "tr": "ardından gelen, müteakip"
+          },
+          {
+            "en": "points deductions",
+            "tr": "puan silme cezaları"
+          },
+          {
+            "en": "trophy stripping",
+            "tr": "kupaların geri alınması"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Everton up for sale again - so what next as owners TFG look for a way out?",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Everton are put up for sale by The Friedkin Group less than two years after taking control of the Premier League club.",
+    "event_type": "club ownership change",
+    "precedents": [
+      {
+        "when": "2022",
+        "event": "Chelsea FC takeover by Todd Boehly and Clearlake Capital",
+        "wikipedia_title": "Todd Boehly",
+        "what_happened": "Following Roman Abramovich's forced sale, a new American ownership group took over and immediately initiated chaotic, high-spending sporting overhauls.",
+        "what_followed": "The club suffered years of instability, managerial churn, and underperformance despite massive capital outlays, demonstrating the friction of hasty institutional handovers.",
+        "similarity": "High-profile Premier League clubs transitioning to new American private equity-backed ownership models.",
+        "wiki": {
+          "title": "Todd Boehly",
+          "url": "https://en.wikipedia.org/wiki/Todd_Boehly",
+          "extract": "Todd L. Boehly is an American businessman. He is the co-founder, chairman, chief executive officer (CEO) and controlling member of Eldridge Industries, a holding company headquartered in Miami, Florida. He is the former co-controlling owner and chairman of Premier League football"
+        }
+      },
+      {
+        "when": "2018",
+        "event": "AC Milan ownership instability under Li Yonghong and Elliott Management",
+        "wikipedia_title": "AC Milan",
+        "what_happened": "After a leveraged takeover by Chinese businessman Li Yonghong collapsed due to debt default, hedge fund Elliott Management seized control of the club.",
+        "what_followed": "Elliott stabilized the club financially over several years, restructuring debt and installing professional management before selling to RedBird Capital in 2022.",
+        "similarity": "Football clubs cycling rapidly through prospective owners or investment groups seeking quick exits due to financial pressures.",
+        "wiki": {
+          "title": "AC Milan",
+          "url": "https://en.wikipedia.org/wiki/AC_Milan",
+          "extract": "Associazione Calcio Milan, commonly referred to as AC Milan or simply Milan mainly outside of Italy, is an Italian professional football club based in Milan, Lombardy. Founded in 1899, the club competes in Serie A, the top tier of Italian football. In its early history, Milan pla"
+        }
+      }
+    ],
+    "pattern": "In approximately 7 out of 10 cases involving rapid resale of football clubs by distressed or newly arrived investment groups, the transition period induces prolonged sporting stagnation and squad instability.",
+    "outlook": "Everton will likely face a prolonged period of cautious financial restraint in the transfer market while prospective buyers conduct lengthy due diligence.",
+    "probability": "75%",
+    "timeframe": "next 6 months",
+    "confidence": "Medium",
+    "different_this_time": "The Friedkin Group possesses extensive multi-club operational experience through AS Roma, which could attract institutional buyers more quickly than standard speculative investors.",
+    "watch_for": "Statements of interest from global investment consortia and the operational budget allocated for the upcoming transfer window.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Everton yeniden satışta - sahipleri TFG çıkış yolu ararken sırada ne var?",
+        "Today": "Everton, The Friedkin Group'un Premier League kulübünün kontrolünü devralmasından iki yıldan kısa bir süre sonra satışa çıkarıldı.",
+        "Event Type": "kulüp mülkiyeti değişikliği",
+        "Historical Precedents": "2022: Chelsea FC'nin Todd Boehly ve Clearlake Capital tarafından devralınması\n2018: AC Milan'ın Li Yonghong ve Elliott Management yönetimindeki mülkiyet istikrarsızlığı",
+        "What Followed Before": "2022: Kulüp, büyük sermaye harcamalarına rağmen yıllarca süren istikrarsızlık, teknik direktör sirkülasyonu ve düşük performans yaşayarak aceleci kurumsal el değiştirmelerin yarattığı sürtüşmeyi gözler önüne serdi.\n2018: Elliott, 2022'de RedBird Capital'e satmadan önce borçları yeniden yapılandırarak ve profesyonel yönetim kurarak kulübü birkaç yıl içinde mali açıdan istikrara kavuşturdu.",
+        "Pattern": "Sıkıntılı durumdaki veya yeni gelmiş yatırım gruplarının futbol kulüplerini hızla yeniden satmasını içeren durumların yaklaşık 10'da 7'sinde, geçiş dönemi uzun süreli sportif durgunluğa ve kadro istikrarsızlığına yol açar.",
+        "Outlook": "Everton, potansiyel alıcılar kapsamlı durum tespiti yaparken transfer piyasasında muhtemelen uzun bir temkinli mali kısıtlama dönemiyle karşı karşıya kalacak.",
+        "Timeframe": "önümüzdeki 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "The Friedkin Group, AS Roma aracılığıyla geniş bir çoklu kulüp operasyonel deneyimine sahip ve bu durum kurumsal alıcıları standart spekülatif yatırımcılardan daha hızlı çekebilir.",
+        "Watch For": "Küresel yatırım konsorsiyumlarından gelen niyet beyanları ve yaklaşan transfer dönemi için ayrılan operasyonel bütçe."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "up for sale",
+            "tr": "satılık, satışa çıkarılmış"
+          },
+          {
+            "en": "what next",
+            "tr": "sırada ne var"
+          },
+          {
+            "en": "look for a way out",
+            "tr": "çıkış yolu aramak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "taking control",
+            "tr": "kontrolü devralmak"
+          },
+          {
+            "en": "put up for sale",
+            "tr": "satışa çıkarılmak"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "ownership",
+            "tr": "sahiplik, mülkiyet"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "takeover",
+            "tr": "devralma"
+          },
+          {
+            "en": "instability",
+            "tr": "istikrarsızlık"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "managerial churn",
+            "tr": "sürekli teknik direktör değişikliği"
+          },
+          {
+            "en": "underperformance",
+            "tr": "beklenenin altında performans"
+          },
+          {
+            "en": "capital outlays",
+            "tr": "sermaye harcamaları"
+          },
+          {
+            "en": "hasty",
+            "tr": "aceleci"
+          },
+          {
+            "en": "handovers",
+            "tr": "devir teslimler, el değiştirmeler"
+          },
+          {
+            "en": "restructuring debt",
+            "tr": "borcu yeniden yapılandırmak"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "distressed",
+            "tr": "maddi sıkıntıda olan, zora düşmüş"
+          },
+          {
+            "en": "transition period",
+            "tr": "geçiş dönemi"
+          },
+          {
+            "en": "induces",
+            "tr": "yol açar, tetikler"
+          },
+          {
+            "en": "stagnation",
+            "tr": "durgunluk"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "prolonged",
+            "tr": "uzun süreli"
+          },
+          {
+            "en": "financial restraint",
+            "tr": "mali kısıtlama/tasarruf"
+          },
+          {
+            "en": "prospective buyers",
+            "tr": "potansiyel alıcılar"
+          },
+          {
+            "en": "due diligence",
+            "tr": "durum tespiti (finansal ve hukuki inceleme)"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "operational experience",
+            "tr": "operasyonel deneyim"
+          },
+          {
+            "en": "institutional buyers",
+            "tr": "kurumsal alıcılar"
+          },
+          {
+            "en": "speculative investors",
+            "tr": "spekülatif yatırımcılar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "statements of interest",
+            "tr": "ilgi/niyet beyanları"
+          },
+          {
+            "en": "consortia",
+            "tr": "konsorsiyumlar, ortaklıklar"
+          },
+          {
+            "en": "allocated",
+            "tr": "tahsis edilmiş, ayrılmış"
+          },
+          {
+            "en": "transfer window",
+            "tr": "transfer dönemi"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+    "source_link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Camera manufacturer Nikon announced it is overhauling the rules of its Small World in Motion microscopy competition after confirming that a winning entry was secretly generated by artificial intelligence.",
+    "event_type": "contest disqualification due to generative AI",
+    "precedents": [
+      {
+        "when": "2023",
+        "event": "Sony World Photography Awards AI submission controversy",
+        "wikipedia_title": "Sony World Photography Awards",
+        "what_happened": "German artist Boris Eldagsen won the Creative category with an image generated by DALL-E 2 before refusing the award to test if competitions were equipped for AI.",
+        "what_followed": "The organizers stripped his win, and within six months major global photography contests amended their rules to require RAW image file submissions and explicit declarations of human authorship.",
+        "similarity": "Same type: an undetected generative AI submission won a premier photography contest, forcing retrospective disqualification.",
+        "wiki": {
+          "title": "World Photography Organisation",
+          "url": "https://en.wikipedia.org/wiki/World_Photography_Organisation",
+          "extract": "The World Photography Organisation is a British company best known for its annual Sony World Photography Awards. The company was founded in 2007 by Scott Gray, and is now a subsidiary of Gray's art events company Creo."
+        }
+      },
+      {
+        "when": "2022",
+        "event": "Colorado State Fair digital art contest award to Midjourney artwork",
+        "wikipedia_title": "Théâtre D'opéra Spatial",
+        "what_happened": "Jason M. Allen took first place in the digital arts division using a Midjourney-generated image titled Théâtre D'opéra Spatial.",
+        "what_followed": "Widespread creator protests led the contest to revise entry guidelines the following year, while the US Copyright Office subsequently rejected Allen's application for copyright registration.",
+        "similarity": "Same type: an AI-generated entry won an established artistic competition without disclosure, triggering public outcry and rule overhauls.",
+        "wiki": {
+          "title": "Théâtre D'opéra Spatial",
+          "url": "https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_D'op%C3%A9ra_Spatial",
+          "extract": "Théâtre D'opéra Spatial is a digital arts piece generated and edited by American artist Jason M. Allen with the generative artificial intelligence (GenAI) model Midjourney. It won the 2022 Colorado State Fair's annual fine art competition in the \"emerging artist\" (non-professiona"
+        }
+      },
+      {
+        "when": "2016",
+        "event": "Nikon Singapore social media photo competition error",
+        "wikipedia_title": "Nikon",
+        "what_happened": "Nikon awarded a prize to a photographer who casually pasted an airplane onto a shot of Chinatown using editing software.",
+        "what_followed": "Internet users identified the obvious clone artifact within hours, forcing Nikon to issue a public apology and retract the award within 48 hours.",
+        "similarity": "Same actor: Nikon faced reputational damage after failing to catch basic digital fabrication in an official contest.",
+        "wiki": {
+          "title": "Nikon",
+          "url": "https://en.wikipedia.org/wiki/Nikon",
+          "extract": "Nikon Corporation  is a Japanese manufacturer of optical and precision equipment headquartered in Nishi-Ōi, Shinagawa, Tokyo. Its businesses include cameras and lenses, semiconductor and flat-panel-display lithography systems, microscopes and ophthalmic imaging systems, industria"
+        }
+      }
+    ],
+    "pattern": "In nearly 9 out of 10 documented incidents where AI or composite manipulation infiltrated traditional art and photo contests, organizers immediately introduced mandatory provenance checks (such as raw sensor data and workflow logs) and established dedicated, separate categories for synthetic media within one competition cycle.",
+    "outlook": "Nikon and peer scientific imagery competitions will mandate cryptographic provenance standards (such as C2PA metadata) and RAW capture verification, effectively barring unverified digital rendering from standard categories.",
+    "probability": "85-90%",
+    "timeframe": "next 6 months",
+    "confidence": "High",
+    "different_this_time": "Because microscopic imaging frequently uses heavy post-processing, focus-stacking, and computational reconstruction, defining the technical boundary between acceptable computational microscopy and synthetic generative AI is substantially harder than in conventional photography.",
+    "watch_for": "Whether Nikon institutes mandatory submission of instrument proprietary metadata files or partners with provenance initiatives like the Coalition for Content Provenance and Authenticity (C2PA).",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Tpki çeken ödüllü görüntünün yapay zeka ürünü olduğu Nikon tarafından açıklandı",
+        "Today": "Kamera üreticisi Nikon, kazanan bir çalışmanın gizlice yapay zeka tarafından oluşturulduğunun doğrulanmasının ardından Small World in Motion mikroskopi yarışmasının kurallarını gözden geçirdiğini duyurdu.",
+        "Event Type": "üretken yapay zeka nedeniyle yarışmadan diskalifiye edilme",
+        "Historical Precedents": "2023: Sony Dünya Fotoğrafçılık Ödülleri yapay zeka katılımı tartışması\n2022: Colorado Eyalet Fuarı dijital sanat yarışması ödülünün Midjourney sanat eserine verilmesi\n2016: Nikon Singapur sosyal medya fotoğraf yarışması hatası",
+        "What Followed Before": "2023: Organizatörler ödülünü geri aldı ve altı ay içinde büyük küresel fotoğrafçılık yarışmaları, RAW görüntü dosyası sunumunu ve insan yazarlığına dair açık beyanları zorunlu kılmak için kurallarını değiştirdi.\n2022: Yaygın yaratıcı protestoları, yarışmanın ertesi yıl katılım yönergelerini revize etmesine yol açarken, ABD Telif Hakları Bürosu da Allen'ın telif hakkı tescili başvurusunu reddetti.\n2016: İnternet kullanıcıları bariz kopya eser hatasını saatler içinde fark ederek Nikon'u kamuoyundan özür dilemeye ve ödülü 48 saat içinde geri çekmeye zorladı.",
+        "Pattern": "Yapay zeka veya kompozit manipülasyonun geleneksel sanat ve fotoğraf yarışmalarına sızdığı belgelenmiş olayların yaklaşık 10'da 9'unda, organizatörler derhal zorunlu köken kontrolleri (ham sensör verileri ve iş akışı günlükleri gibi) getirdi ve tek bir yarışma döngüsü içinde sentetik medya için özel, ayrı kategoriler oluşturdu.",
+        "Outlook": "Nikon ve benzeri bilimsel görüntüleme yarışmaları, doğrulanmamış dijital işlemelerin standart kategorilerden etkili bir şekilde men edilmesi için kriptografik köken standartlarını (C2PA meta verileri gibi) ve RAW yakalama doğrulamasını zorunlu kılacak.",
+        "Timeframe": "önümüzdeki 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Mikroskobik görüntüleme sıklıkla yoğun son işlem (post-processing), odak istifleme (focus-stacking) ve hesaplamalı yeniden oluşturma kullandığından, kabul edilebilir hesaplamalı mikroskopi ile sentetik üretken yapay zeka arasındaki teknik sınırı tanımlamak, geleneksel fotoğrafçılığa göre çok daha zordur.",
+        "Watch For": "Nikon'un cihaza özgü meta veri dosyalarının zorunlu olarak sunulmasını kural haline getirip getirmeyeceği veya İçerik Kökeni ve Özgünlüğü Koalisyonu (C2PA) gibi köken girişimleriyle ortaklık kurup kurmayacağı."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "spark backlash",
+            "tr": "tepki çekmek"
+          },
+          {
+            "en": "AI-generated",
+            "tr": "yapay zeka tarafından üretilmiş"
+          }
+        ],
+        "Today": [
+          {
+            "en": "overhauling",
+            "tr": "baştan aşağı yenilemek, gözden geçirmek"
+          },
+          {
+            "en": "microscopy competition",
+            "tr": "mikroskopi yarışması"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "disqualification",
+            "tr": "diskalifiye edilme, yarışmadan çıkarılma"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "controversy",
+            "tr": "tartışma"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "stripped his win",
+            "tr": "galibiyetini/ödülünü elinden aldı"
+          },
+          {
+            "en": "amended",
+            "tr": "düzenledi, değiştirdi"
+          },
+          {
+            "en": "retract",
+            "tr": "geri çekmek"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "infiltrated",
+            "tr": "sızdı"
+          },
+          {
+            "en": "mandatory provenance checks",
+            "tr": "zorunlu köken/menşe kontrolleri"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "mandate",
+            "tr": "zorunlu kılmak"
+          },
+          {
+            "en": "barring",
+            "tr": "men eden, yasaklayan"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "post-processing",
+            "tr": "çekim sonrası işlem"
+          },
+          {
+            "en": "substantially",
+            "tr": "önemli ölçüde, büyük ölçüde"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "proprietary",
+            "tr": "tescilli, şirkete özel"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Hurricane Isaias strengthens to a major category three storm ahead of Gulf Coast landfall",
+    "source_link": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Isaias intensified into a Category 3 major hurricane—becoming the first hurricane of an unusually delayed Atlantic season—and is forecast to make landfall along the US Gulf Coast.",
+    "event_type": "late-season major hurricane landfall",
+    "precedents": [
+      {
+        "when": "October 2018",
+        "event": "Hurricane Michael",
+        "wikipedia_title": "Hurricane Michael",
+        "what_happened": "Michael underwent rapid intensification over warm Gulf waters in October, striking the Florida Panhandle as a destructive Category 5 hurricane.",
+        "what_followed": "The storm caused over $25 billion in damage, obliterated coastal infrastructure via extreme surge, and maintained hurricane-force winds far inland across Georgia.",
+        "similarity": "Same type and location: an October major hurricane landfall targeting the northern US Gulf Coast.",
+        "wiki": {
+          "title": "Hurricane Michael",
+          "url": "https://en.wikipedia.org/wiki/Hurricane_Michael",
+          "extract": "Hurricane Michael was a powerful and destructive tropical cyclone that became the first Category 5 hurricane to make landfall in the contiguous United States since Andrew in 1992. It was the third-most intense Atlantic hurricane to make landfall in the contiguous United States in"
+        }
+      },
+      {
+        "when": "October 1995",
+        "event": "Hurricane Opal",
+        "wikipedia_title": "Hurricane Opal",
+        "what_happened": "Opal intensified into a Category 4 storm in the Gulf of Mexico before making landfall as a Category 3 near Pensacola, Florida, in early October.",
+        "what_followed": "The hurricane generated severe storm surge up to 15 feet and extensive inland wind damage that cut power to more than two million customers across the southeastern United States.",
+        "similarity": "Same type and timing: an early-October Category 3 landfall striking the US Gulf Coast.",
+        "wiki": {
+          "title": "Hurricane Opal",
+          "url": "https://en.wikipedia.org/wiki/Hurricane_Opal",
+          "extract": "Hurricane Opal was a large and powerful tropical cyclone that caused severe and extensive damage along the northern Gulf Coast of the United States in October 1995. The fifteenth named storm, ninth hurricane and strongest tropical cyclone of the unusually active 1995 Atlantic hur"
+        }
+      },
+      {
+        "when": "October 2002",
+        "event": "Hurricane Lili",
+        "wikipedia_title": "Hurricane Lili",
+        "what_happened": "Lili peaked as a Category 4 hurricane in the central Gulf of Mexico in October before making landfall on the Louisiana coast.",
+        "what_followed": "Lili caused extensive power grid collapse, widespread agricultural flooding, and over $1 billion in damage across southern Louisiana.",
+        "similarity": "Same type: an October Gulf of Mexico major hurricane threatening the Louisiana/Mississippi coast.",
+        "wiki": {
+          "title": "Hurricane Lili",
+          "url": "https://en.wikipedia.org/wiki/Hurricane_Lili",
+          "extract": "Hurricane Lili was the second costliest, second deadliest, and most intense hurricane of the 2002 Atlantic hurricane season, only surpassed by Hurricane Isidore, which affected the same areas around a week before Lili. Lili was the twelfth named storm, fourth hurricane, and secon"
+        }
+      }
+    ],
+    "pattern": "Historically, major hurricanes making landfall on the US Gulf Coast in October cause catastrophic localized surge within 30 miles of the eye, accompanied by prolonged inland power outages extending 100 to 200 miles inland, with full utility restoration averaging 10 to 21 days.",
+    "outlook": "Isaias will cause significant storm surge inundation along low-lying coastal corridors, prolonged electrical grid failures affecting hundreds of thousands of residents, and inland freshwater flooding across river basins.",
+    "probability": "80-85%",
+    "timeframe": "next 7 to 14 days",
+    "confidence": "High",
+    "different_this_time": "Strong upper-level wind shear associated with the prevailing El Niño pattern could induce dry air entrainment just prior to landfall, potentially degrading the eyewall structure more rapidly than occurred with Hurricane Michael.",
+    "watch_for": "Rapid pressure drops in the inner core prior to landfall and whether the storm encounters increased southwesterly shear over the northern Gulf shelf.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Kasırga Isaias, Meksika Körfezi kıyısına varmadan önce 3. kategori büyük bir fırtınaya dönüşerek güçlendi",
+        "Today": "Isaias, olağan dışı derecede gecikmiş bir Atlantik sezonunun ilk kasırgası olarak Kategori 3 büyük bir kasırgaya şiddetlendi ve ABD Körfez Kıyısı boyunca karaya çıkması tahmin ediliyor.",
+        "Event Type": "sezon sonu büyük kasırga karaya çıkışı",
+        "Historical Precedents": "Ekim 2018: Michael Kasırgası\nEkim 1995: Opal Kasırgası\nEkim 2002: Lili Kasırgası",
+        "What Followed Before": "Ekim 2018: Fırtına 25 milyar dolardan fazla hasara yol açtı, aşırı dalgayla kıyı altyapısını yok etti ve Georgia boyunca iç kesimlerde kasırga kuvvetindeki rüzgarları sürdürdü.\nEkim 1995: Kasırga, 15 feet'e varan şiddetli fırtına dalgaları ve Amerika Birleşik Devletleri'nin güneydoğusunda iki milyondan fazla abonenin elektriğini kesen kapsamlı iç kesim rüzgar hasarı üretti.\nEkim 2002: Lili, güneydoğu Louisiana genelinde kapsamlı elektrik şebekesi çöküşüne, yaygın tarımsal su baskınlarına ve 1 milyar doların üzerinde hasara neden oldu.",
+        "Pattern": "Tarihsel olarak, ekim ayında ABD Körfez Kıyısı'nda karaya çıkan büyük kasırgalar, gözün 30 mil yakınında felaket niteliğinde yerel dalgalara, iç kesimlerde 100 ila 200 mil uzanan uzun süreli elektrik kesintilerine neden olur ve tam elektrik altyapısının onarımı ortalama 10 ila 21 gün sürer.",
+        "Outlook": "Isaias, alçak kıyı koridorları boyunca önemli fırtına dalgası su baskınlarına, yüzbinlerce sakini etkileyen uzun süreli elektrik şebekesi arızalarına ve nehir havzalarında iç kesimlerde tatlı su taşkınlarına neden olacak.",
+        "Timeframe": "önümüzdeki 7 ila 14 gün",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Hâkim El Niño paterniyle ilişkili güçlü üst düzey rüzgar kesmesi (wind shear), karaya çıkmadan hemen önce kuru hava sürüklenmesini tetikleyebilir ve göz duvarı yapısını Michael Kasırgası'nda olduğundan daha hızlı bozabilir.",
+        "Watch For": "Karaya çıkmadan önce iç çekirdekteki hızlı basınç düşüşleri ve fırtınanın kuzey Körfez sahilinde artan güneybatı kesmesiyle karşılaşıp karşılaşmayacağı."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "strengthens",
+            "tr": "güçleniyor"
+          },
+          {
+            "en": "landfall",
+            "tr": "karaya çıkış"
+          }
+        ],
+        "Today": [
+          {
+            "en": "intensified",
+            "tr": "şiddetlendi"
+          },
+          {
+            "en": "delayed",
+            "tr": "gecikmiş"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "obliterated",
+            "tr": "yok etti, silip süpürdü"
+          },
+          {
+            "en": "storm surge",
+            "tr": "fırtına dalgası"
+          },
+          {
+            "en": "power outages",
+            "tr": "elektrik kesintileri"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "catastrophic",
+            "tr": "felaket niteliğinde"
+          },
+          {
+            "en": "utility restoration",
+            "tr": "kamu hizmetlerinin (elektrik/su) eski haline getirilmesi"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "inundation",
+            "tr": "su basması, sel"
+          },
+          {
+            "en": "river basins",
+            "tr": "nehir havzaları"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "wind shear",
+            "tr": "rüzgar kesmesi / makaslaması"
+          },
+          {
+            "en": "entrainment",
+            "tr": "sürüklenme, içeri çekilme"
+          },
+          {
+            "en": "degrading",
+            "tr": "bozulan, zayıflayan"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "inner core",
+            "tr": "iç çekirdek"
+          }
+        ]
+      }
+    }
+  }
+]
