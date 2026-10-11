@@ -1,0 +1,2597 @@
+[
+  {
+    "headline": "U.S. Imposes Sweeping Sanctions on International Criminal Court",
+    "source_link": "https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court",
+    "what_happened": "The U.S. announced sweeping sanctions against the International Criminal Court, with Secretary of State Marco Rubio vowing to dismantle the permanent war crimes tribunal.",
+    "event_type": "sanctions",
+    "precedents": [
+      {
+        "when": "2020",
+        "event": "United States sanctions against the International Criminal Court",
+        "wikipedia_title": "United States sanctions against the International Criminal Court",
+        "what_happened": "The Trump administration authorized economic sanctions and visa restrictions against ICC officials investigating American actions in Afghanistan.",
+        "what_followed": "The Biden administration lifted the sanctions in April 2021 after determining the measures were inappropriate and ineffective, though tensions remained.",
+        "similarity": "Same target (the ICC), same administration style, employing financial penalties against international judicial bodies.",
+        "wiki": {
+          "title": "Executive Order 14203",
+          "url": "https://en.wikipedia.org/wiki/Executive_Order_14203",
+          "extract": "Executive Order 14203, titled \"Imposing Sanctions on the International Criminal Court\", is an executive order signed by United States president Donald Trump on February 6, 2025. The order imposes sanctions against the International Criminal Court (ICC) based in The Hague, Netherl"
+        }
+      }
+    ],
+    "pattern": "Sanctions against international bodies like the ICC trigger immediate international condemnation and legal challenges, but often face reversals or softening under subsequent administrations or when practical international cooperation is required.",
+    "outlook": "The ICC will likely continue its investigations despite financial blockades, while European allies attempt to mediate or shield court personnel from U.S. measures.",
+    "probability": "80%",
+    "timeframe": "next 12 months",
+    "confidence": "High",
+    "different_this_time": "The scope of current geopolitical alignments regarding active conflicts in Europe and the Middle East creates a more polarized diplomatic environment.",
+    "watch_for": "Statements from European Union foreign ministers regarding compliance or pushback against U.S. financial restrictions.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "ABD, Uluslararası Ceza Mahkemesi'ne Kapsamlı Yaptırımlar Uyguluyor",
+        "Today": "ABD, Uluslararası Ceza Mahkemesi'ne karşı kapsamlı yaptırımlar açıkladı; Dışişleri Bakanı Marco Rubio, daimi savaş suçları mahkemesini lağvetme sözü verdi.",
+        "Event Type": "yaptırımlar",
+        "Historical Precedents": "2020: Uluslararası Ceza Mahkemesi'ne yönelik Amerika Birleşik Devletleri yaptırımları",
+        "What Followed Before": "2020: Biden yönetimi, tedbirlerin uygunsuz ve etkisiz olduğunu tespit ettikten sonra Nisan 2021'de yaptırımları kaldırdı, ancak gerginlik devam etti.",
+        "Pattern": "UCM gibi uluslararası organlara yönelik yaptırımlar anında uluslararası kınama ve hukuki itirazları tetikler, ancak genellikle sonraki yönetimler altında veya pratik uluslararası iş birliği gerektiğinde geri adımlarla ya da yumuşamayla karşılaşır.",
+        "Outlook": "Avrupalı müttefikler arabuluculuk yapmaya veya mahkeme personelini ABD tedbirlerinden korumaya çalışırken, UCM finansal ablukalara rağmen soruşturmalarını muhtemelen sürdürecektir.",
+        "Timeframe": "önümüzdeki 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Avrupa ve Orta Doğu'daki aktif çatışmalara ilişkin mevcut jeopolitik saflaşmaların kapsamı, daha kutuplaşmış bir diplomatik ortam yaratıyor.",
+        "Watch For": "Avrupa Birliği dışişleri bakanlarının ABD'nin mali kısıtlamalarına uyum veya tepki göstermeye ilişkin açıklamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "imposes",
+            "tr": "yürürlüğe koymak, uygulamak"
+          },
+          {
+            "en": "sweeping",
+            "tr": "geniş kapsamlı, kapsamlı"
+          }
+        ],
+        "Today": [
+          {
+            "en": "sweeping sanctions",
+            "tr": "kapsamlı yaptırımlar"
+          },
+          {
+            "en": "vowing",
+            "tr": "yemin etmek, ant içmek, söz vermek"
+          },
+          {
+            "en": "dismantle",
+            "tr": "ortadan kaldırmak, lağvetmek, parçalamak"
+          },
+          {
+            "en": "tribunal",
+            "tr": "mahkeme, yargı kurulu"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "lifted",
+            "tr": "kaldırdı (yasağı/yaptırımı)"
+          },
+          {
+            "en": "determining",
+            "tr": "tespit etmek, karar vermek"
+          },
+          {
+            "en": "inappropriate",
+            "tr": "uygunsuz, yersiz"
+          },
+          {
+            "en": "ineffective",
+            "tr": "etkisiz"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "trigger",
+            "tr": "tetiklemek"
+          },
+          {
+            "en": "condemnation",
+            "tr": "kınama"
+          },
+          {
+            "en": "legal challenges",
+            "tr": "hukuki itirazlar/meydan okumalar"
+          },
+          {
+            "en": "reversals",
+            "tr": "tersine dönmeler, geri adımlar"
+          },
+          {
+            "en": "softening",
+            "tr": "yumuşama"
+          },
+          {
+            "en": "subsequent",
+            "tr": "sonraki, ardından gelen"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "blockades",
+            "tr": "ablukalar, engellemeler"
+          },
+          {
+            "en": "mediate",
+            "tr": "arabuluculuk yapmak"
+          },
+          {
+            "en": "shield",
+            "tr": "korumak, kalkan olmak"
+          },
+          {
+            "en": "personnel",
+            "tr": "personel, çalışanlar"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "scope",
+            "tr": "kapsam, boyut"
+          },
+          {
+            "en": "geopolitical alignments",
+            "tr": "jeopolitik saflaşmalar/hizalanmalar"
+          },
+          {
+            "en": "active conflicts",
+            "tr": "aktif çatışmalar"
+          },
+          {
+            "en": "polarized",
+            "tr": "kutuplaşmış"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "compliance",
+            "tr": "uyum, riayet etme"
+          },
+          {
+            "en": "pushback",
+            "tr": "tepki, karşı koyma"
+          },
+          {
+            "en": "restrictions",
+            "tr": "kısıtlamalar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+    "source_link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+    "what_happened": "The Justice Department notified major TV networks that it is examining whether they violated antitrust laws when they suspended pool coverage of President Trump following restricted access.",
+    "event_type": "antitrust investigation",
+    "precedents": [
+      {
+        "when": "1972",
+        "event": "White House Nixon administration antitrust suit against the Los Angeles Times and Washington Post",
+        "wikipedia_title": "Nixon's administrative scrutiny of the media",
+        "what_happened": "The Nixon administration used federal regulatory agencies and antitrust scrutiny to pressure media organizations critical of the White House.",
+        "what_followed": "The legal challenges stalled or failed in court as freedom of the press protections under the First Amendment held strong, though it significantly chilled administration-media relations.",
+        "similarity": "Executive branch using regulatory or antitrust enforcement powers to scrutinize major media companies over news coverage disputes.",
+        "wiki": {
+          "title": "Statement on Chemical and Biological Defense Policies and Programs",
+          "url": "https://en.wikipedia.org/wiki/Statement_on_Chemical_and_Biological_Defense_Policies_and_Programs",
+          "extract": "The \"Statement on Chemical and Biological Defense Policies and Programs\" was a speech delivered on November 25, 1969, by U.S. President Richard Nixon. In the speech, Nixon announced the end of the U.S. offensive biological weapons program and reaffirmed a no-first-use policy for "
+        }
+      }
+    ],
+    "pattern": "Investigations of media companies initiated by the executive branch over press coverage routinely face severe constitutional hurdles in federal courts and rarely result in successful antitrust penalties.",
+    "outlook": "The networks will challenge the DOJ's jurisdiction and motivation in court, dragging the process out through protracted litigation with a high likelihood of dismissal.",
+    "probability": "70%",
+    "timeframe": "next 6 months",
+    "confidence": "Medium",
+    "different_this_time": "Modern interpretations of antitrust law and digital media distribution models offer new legal avenues for regulatory bodies to explore.",
+    "watch_for": "Motions to quash subpoenas filed by network legal teams in federal district court.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Adalet Bakanlığı, Trump Havuz Haberciliği Nedeniyle TV Kanallarını Soruşturuyor",
+        "Today": "Adalet Bakanlığı, erişimin kısıtlanmasının ardından Başkan Trump'ın havuz haber takibini askıya aldıklarında antitröst yasalarını ihlal edip etmediklerini incelediğini büyük TV kanallarına bildirdi.",
+        "Event Type": "antitröst soruşturması",
+        "Historical Precedents": "1972: Los Angeles Times ve Washington Post'a yönelik Beyaz Saray Nixon yönetimi antitröst davası",
+        "What Followed Before": "1972: Birinci Değişiklik kapsamındaki basın özgürlüğü korumaları güçlü kalmasıyla hukuki itirazlar mahkemede tıkandı veya başarısız oldu; ancak yönetim-medya ilişkilerini önemli ölçüde soğuttu.",
+        "Pattern": "Yürütme organı tarafından basın haberleri üzerine medya şirketlerine karşı başlatılan soruşturmalar, federal mahkemelerde rutin olarak ciddi anayasal engellerle karşılaşır ve nadiren başarılı antitröst cezalarıyla sonuçlanır.",
+        "Outlook": "Televizyon kanalları, Adalet Bakanlığı'nın yetki alanına ve saikine mahkemede itiraz ederek, düşme ihtimali yüksek olan bu süreci uzayan dava süreçleriyle sürüncemede bırakacaktır.",
+        "Timeframe": "önümüzdeki 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Antitröst yasasının modern yorumları ve dijital medya dağıtım modelleri, düzenleyici kurumların keşfetmesi için yeni yasal yollar sunuyor.",
+        "Watch For": "Kanal hukuk ekipleri tarafından federal bölge mahkemesinde sunulan mahkeme celplerini iptal etme talepleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "Justice Dept.",
+            "tr": "Adalet Bakanlığı"
+          },
+          {
+            "en": "pool coverage",
+            "tr": "havuz haber takibi/yayını"
+          }
+        ],
+        "Today": [
+          {
+            "en": "notified",
+            "tr": "resmi olarak bildirdi"
+          },
+          {
+            "en": "antitrust laws",
+            "tr": "antitröst (tekel karşıtı) yasaları"
+          },
+          {
+            "en": "suspended",
+            "tr": "askıya aldı"
+          },
+          {
+            "en": "restricted access",
+            "tr": "kısıtlı erişim"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "antitrust investigation",
+            "tr": "antitröst (tekelcilik) soruşturması"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "antitrust suit",
+            "tr": "antitröst davası"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "stalled",
+            "tr": "tıkandı, duraksadı"
+          },
+          {
+            "en": "First Amendment",
+            "tr": "Birinci Anayasa Değişikliği (ifade/basın özgürlüğü)"
+          },
+          {
+            "en": "chilled",
+            "tr": "soğuttu, baltaladı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "initiated by",
+            "tr": "tarafından başlatılan"
+          },
+          {
+            "en": "executive branch",
+            "tr": "yürütme organı"
+          },
+          {
+            "en": "constitutional hurdles",
+            "tr": "anayasal engeller"
+          },
+          {
+            "en": "penalties",
+            "tr": "cezalar, yaptırımlar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "jurisdiction",
+            "tr": "yargı yetkisi"
+          },
+          {
+            "en": "motivation",
+            "tr": "güdü, saik"
+          },
+          {
+            "en": "protracted litigation",
+            "tr": "uzayan dava süreci"
+          },
+          {
+            "en": "dismissal",
+            "tr": "davanın reddi/düşmesi"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "interpretations",
+            "tr": "yorumlar"
+          },
+          {
+            "en": "distribution models",
+            "tr": "dağıtım modelleri"
+          },
+          {
+            "en": "regulatory bodies",
+            "tr": "düzenleyici kurumlar"
+          },
+          {
+            "en": "avenues",
+            "tr": "yollar, imkanlar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "motions to quash",
+            "tr": "iptal etme/hükümsüz kılma talepleri"
+          },
+          {
+            "en": "subpoenas",
+            "tr": "mahkeme celpleri"
+          },
+          {
+            "en": "district court",
+            "tr": "bölge mahkemesi"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Brigham nurses postpone strike to vote on hospital's latest contract offer",
+    "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUtfRUVqQ2hZMjhVUmY2bDlVTkpjcnZKclVuOEFoUm1EWVljenFKMWJvOGg2NTdkOER1UC1hcllablpmTWdjSG03Ry1vTDZlQW55eENfREt4ZlVhUEN6TnRVVXRPUWxocndQYk1fN0d2ZUR0aE41NW5xaXJqYmtodHNvMHMzbWt2dkFBVGNocG1wa00tczNPcE0xSVFTQdIBpgFBVV95cUxPVjdIVko4LWQzWmFhZVUtYTltWEt1cjlHVWxLd2dRUjNyQzZuM3ZoVlc3UERYVS1HV2tGNVJMLU51WHExc0VjcWxNSnV2UXA3cGVvTWlndEhsTHp5R0VReWZvM1lQLUxPVTVZRGpSQ2VmYTZuOUEwRUNWZGxyZl9Id3hxVEVxdjFrRVNjNVZVd01xcU5Qd09LYUdkSjFVZFE2ZGVXekZB?oc=5",
+    "what_happened": "Nurses at Brigham and Women's Hospital represented by the Massachusetts Nurses Association postponed a planned strike after receiving an updated contract proposal from Mass General Brigham. The union leadership paused the walkout to put the hospital's latest offer to a full membership vote.",
+    "event_type": "strike postponement and contract ratification vote",
+    "precedents": [
+      {
+        "when": "2016",
+        "event": "Brigham and Women's Hospital 2016 nurse contract settlement",
+        "wikipedia_title": "Brigham and Women's Hospital",
+        "what_happened": "More than 3,000 Massachusetts Nurses Association nurses scheduled a strike at Brigham and Women's Hospital over wages, staffing, and benefits.",
+        "what_followed": "Negotiators reached a tentative agreement less than 48 hours before the walkout, the strike was averted, and members ratified the three-year contract by a wide margin one week later.",
+        "similarity": "Same actors: Brigham and Women's Hospital administration and the Massachusetts Nurses Association (MNA).",
+        "wiki": {
+          "title": "Brigham and Women's Hospital",
+          "url": "https://en.wikipedia.org/wiki/Brigham_and_Women's_Hospital",
+          "extract": "Brigham and Women's Hospital is a teaching hospital of Harvard Medical School and the largest hospital in the Longwood Medical Area in Boston, Massachusetts. Along with Massachusetts General Hospital, it is one of the two founding members of Mass General Brigham, the largest heal"
+        }
+      },
+      {
+        "when": "2023",
+        "event": "2023 New York City nursing strike tentative agreements",
+        "wikipedia_title": "2023 New York City nursing strike",
+        "what_happened": "Thousands of nurses at several major hospital networks issued 10-day strike notices demanding safe staffing ratios and pay raises.",
+        "what_followed": "Facilities such as NewYork-Presbyterian postponed and called off strikes just before the deadline after reaching tentative pacts, which were promptly ratified by over 80% margins.",
+        "similarity": "Same event type: large urban hospital nurses pulling back strike deadlines to vote on last-minute contract concessions.",
+        "wiki": {
+          "title": "2026 New York City nurses strike",
+          "url": "https://en.wikipedia.org/wiki/2026_New_York_City_nurses_strike",
+          "extract": "On January 12, 2026, nearly 15,000 nurses began a labor strike after failed negotiations to replace the December 31, 2025 expiration of the previous collective labor agreement. The nurses were employed across three private New York City hospital systems: NewYork-Presbyterian (NYP"
+        }
+      },
+      {
+        "when": "2021",
+        "event": "Saint Vincent Hospital nurses strike",
+        "wikipedia_title": "2021–2022 Saint Vincent Hospital strike",
+        "what_happened": "Massachusetts Nurses Association nurses at Saint Vincent Hospital in Worcester failed to reach an eleventh-hour agreement and proceeded with a strike.",
+        "what_followed": "The strike lasted 301 days, costing the hospital tens of millions of dollars and inflicting deep financial strain on the union before finally resolving, underscoring the enormous incentive for both parties to settle when an offer is close.",
+        "similarity": "Same union (MNA) in Massachusetts demonstrating the catastrophic alternative costs that compel parties to settle once votes are scheduled.",
+        "wiki": {
+          "title": "2021–2022 Saint Vincent Hospital strike",
+          "url": "https://en.wikipedia.org/wiki/2021%E2%80%932022_Saint_Vincent_Hospital_strike",
+          "extract": "The 2021–22 Saint Vincent Hospital strike was a labor strike involving nurses at the Saint Vincent Hospital in Worcester, Massachusetts, United States. The strike began on March 8, 2021, following disputes between the Massachusetts Nurses Association, which represents about 800 n"
+        }
+      }
+    ],
+    "pattern": "In labor relations, when a union bargaining committee formally suspends an impending strike to present management's offer to the general membership, it signals that core threshold demands have been met. Historically, approximately 85% to 90% of healthcare strike votes held under postponed walkout notices result in contract ratification.",
+    "outlook": "The Brigham nurses are highly likely to vote to approve the contract, officially averting the strike and locking in a multi-year labor pact with Mass General Brigham.",
+    "probability": "85%",
+    "timeframe": "next 1 to 2 weeks",
+    "confidence": "High",
+    "different_this_time": "Severe post-pandemic staffing fatigue and cumulative inflation pressures may lead rank-and-file nurses to reject the deal if wage and patient-ratio concessions are viewed as insufficient compromises by leadership.",
+    "watch_for": "Statements from MNA bargaining committee leaders explicitly recommending a 'yes' vote, attendance numbers at informational sessions, and early voter turnout figures.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston & Ülke Geneli)",
+        "Headline": "Brigham hemşireleri, hastanenin son sözleşme teklifini oylamak için grevi erteledi",
+        "Today": "Massachusetts Hemşireler Derneği tarafından temsil edilen Brigham and Women's Hospital hemşireleri, Mass General Brigham'dan güncellenmiş bir sözleşme teklifi aldıktan sonra planlanan grevi erteledi. Sendika yönetimi, hastanenin son teklifini tüm üyelerin oylamasına sunmak amacıyla iş bırakma eylemini durdurdu.",
+        "Event Type": "grev ertelemesi ve sözleşme onaylama oylaması",
+        "Historical Precedents": "2016: Brigham and Women's Hospital 2016 hemşire sözleşmesi uzlaşması\n2023: 2023 New York City hemşirelik grevi geçici anlaşmaları\n2021: Saint Vincent Hospital hemşireleri grevi",
+        "What Followed Before": "2016: Müzakereciler iş bırakma eylemine 48 saatten az bir süre kala geçici bir anlaşmaya vardı; grev önlendi ve üyeler bir hafta sonra üç yıllık sözleşmeyi büyük bir çoğunlukla onayladı.\n2023: NewYork-Presbyterian gibi sağlık kuruluşları, geçici anlaşmalara vardıktan sonra ve son teslim tarihinden hemen önce grevleri erteledi ve iptal etti; bu anlaşmalar daha sonra %80'in üzerindeki oy oranlarıyla derhal onaylandı.\n2021: Grev 301 gün sürdü, hastaneye on milyonlarca dolara mal oldu ve nihayet çözülmeden önce sendika üzerinde derin bir mali baskı yarattı; bu durum, bir teklif yakın olduğunda her iki taraf için de uzlaşmaya varmanın ne kadar büyük bir teşvik unsuru olduğunu vurguladı.",
+        "Pattern": "Çalışma ilişkilerinde, bir sendika müzakere komitesi yönetimin teklifini genel üyelere sunmak üzere yaklaşan bir grevi resmi olarak askıya aldığında, bu durum temel asgari taleplerin karşılandığına işaret eder. Tarihsel olarak, ertelenen iş bırakma bildirimleri altında gerçekleştirilen sağlık grevi oylamalarının yaklaşık %85 ila %90'ı sözleşmenin onaylanmasıyla sonuçlanır.",
+        "Outlook": "Brigham hemşirelerinin sözleşmeyi onaylama yönünde oy kullanması, böylece grevi resmi olarak önlemesi ve Mass General Brigham ile çok yıllı bir iş sözleşmesini kesinleştirmesi son derece muhtemeldir.",
+        "Timeframe": "önümüzdeki 1 ila 2 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Pandemi sonrası şiddetli personel yorgunluğu ve birikimli enflasyon baskıları, ücret ve hasta-oranı tavizleri liderlik tarafından yetersiz uzlaşmalar olarak görülürse, tabandaki hemşirelerin anlaşmayı reddetmesine yol açabilir.",
+        "Watch For": "MNA müzakere komitesi liderlerinin açıkça 'evet' oyu tavsiye eden açıklamaları, bilgilendirme oturumlarındaki katılım sayıları ve erken seçmen katılımı verileri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "postpone",
+            "tr": "ertelemek"
+          },
+          {
+            "en": "strike",
+            "tr": "grev"
+          },
+          {
+            "en": "latest offer",
+            "tr": "son teklif"
+          }
+        ],
+        "Today": [
+          {
+            "en": "proposal",
+            "tr": "teklif, öneri"
+          },
+          {
+            "en": "leadership",
+            "tr": "liderlik, yönetim kadrosu"
+          },
+          {
+            "en": "walkout",
+            "tr": "iş bırakma eylemi, grev"
+          },
+          {
+            "en": "ratification",
+            "tr": "onaylama, yürürlüğe koyma"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "settlement",
+            "tr": "uzlaşma, anlaşma"
+          },
+          {
+            "en": "tentative agreement",
+            "tr": "geçici/ön anlaşma"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "avert",
+            "tr": "önlemek, bertaraf etmek"
+          },
+          {
+            "en": "ratify",
+            "tr": "onaylamak"
+          },
+          {
+            "en": "by a wide margin",
+            "tr": "büyük bir farkla/çoğunlukla"
+          },
+          {
+            "en": "call off",
+            "tr": "iptal etmek"
+          },
+          {
+            "en": "inflict",
+            "tr": "(zarar, baskı vb.) vermek, yol açmak"
+          },
+          {
+            "en": "strain",
+            "tr": "baskı, gerginlik, yük"
+          },
+          {
+            "en": "underscore",
+            "tr": "vurgulamak, altını çizmek"
+          },
+          {
+            "en": "incentive",
+            "tr": "teşvik edici unsur, motivasyon"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "labor relations",
+            "tr": "çalışma/iş ilişkileri"
+          },
+          {
+            "en": "bargaining committee",
+            "tr": "toplu pazarlık komitesi"
+          },
+          {
+            "en": "suspend",
+            "tr": "askıya almak"
+          },
+          {
+            "en": "impending",
+            "tr": "eli kulağında, yaklaşmakta olan"
+          },
+          {
+            "en": "threshold demands",
+            "tr": "asgari/eşik talepler"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "highly likely",
+            "tr": "son derece muhtemel"
+          },
+          {
+            "en": "lock in",
+            "tr": "kesinleştirmek, garantiye almak"
+          },
+          {
+            "en": "labor pact",
+            "tr": "iş sözleşmesi/anlaşması"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "staffing fatigue",
+            "tr": "personel yetersizliğinden kaynaklanan tükenmişlik/yorgunluk"
+          },
+          {
+            "en": "cumulative",
+            "tr": "birikimli, kümülatif"
+          },
+          {
+            "en": "rank-and-file",
+            "tr": "tabandaki (sıradan üyeler)"
+          },
+          {
+            "en": "concession",
+            "tr": "taviz, ödün"
+          },
+          {
+            "en": "compromise",
+            "tr": "uzlaşma, karşılıklı ödün"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "explicitly",
+            "tr": "açıkça, net bir şekilde"
+          },
+          {
+            "en": "attendance",
+            "tr": "katılım"
+          },
+          {
+            "en": "turnout",
+            "tr": "(oylamaya) katılım oranı"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Former Stoughton police officer Matthew Farwell goes on trial for Sandra Birchmore killing",
+    "source_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVUZMWTZEaGRMd3Q5MnMyOC1uRkJPWHdHbzFmcXpJd1psYmxxYklZeTJGZF9vcVV5VjdUOXp5c0JxZWk4TGZvdUMyZWtGSGgwLTFpU3JvRWdrZVdnN0p3WXAxNURfWmM0UEFnNWVPbExxMVZjWlVkTmFaZDNaZFIxTTJKNnNSZlZKNHRwR3pqNS1obG5oWlhfLWRHdHVXRWVhcW0zaWl2ZHNFVDFWUnNaYmpvNzFXZngyMWsxdzZOVTkzZ2FTNGkxUTdUcVZpeWd3MVBoT0RrNzBXMGdyakHSAeMBQVVfeXFMTk9IZzlKa1RSSzU2cjBLcEJNWGlCYnlSVC1DS3dabzlxWUpYc1R6bFE5S3VrWEJnWjN2c09Lc3Qzdk9aS29nUVRoSnFIVlZKV0x3eU1CaEk4MHN4dDVIZHBoNjJCcUFldDlObG10QUQtT1JGdDRleFBlYTMyUG5mWXMxaU9VcmxJWFV5cVlSWHUtNFBTYUdpbXFlMGVYMU95ZmRrem5JdTZ2ZkE2Yl9WTTVMd0dFbDltWEpIYWt5dGhYMUxHY2pQTGQ5SFZveU5GcEZoUE1KdS1hOUt6ZUZqWWw4RGc?oc=5",
+    "what_happened": "Former Stoughton police officer Matthew Farwell faces trial in federal court for the murder of Sandra Birchmore, whom he allegedly groomed as a minor and killed to prevent her from exposing his paternity and abuse.",
+    "event_type": "federal criminal trial of a law enforcement officer",
+    "precedents": [
+      {
+        "when": "2021",
+        "event": "Initial local investigation into the death of Sandra Birchmore",
+        "wikipedia_title": "Death of Sandra Birchmore",
+        "what_happened": "Local police and county prosecutors initially ruled Birchmore's death in Canton, Massachusetts as a suicide despite evidence of physical trauma and exploitation.",
+        "what_followed": "Federal investigators took over the probe, uncovered extensive digital evidence, and indicted Farwell in 2024 for witness tampering resulting in death, prompting state reviews into local department oversight.",
+        "similarity": "The exact same case and actors: tracing the progression from flawed local handling to federal indictment.",
+        "wiki": {
+          "title": "Killing of Sandra Birchmore",
+          "url": "https://en.wikipedia.org/wiki/Killing_of_Sandra_Birchmore",
+          "extract": "On February 4, 2021, 23-year-old woman Sandra Birchmore was found dead in her Canton, Massachusetts apartment. Her death was initially ruled as a suicide by asphyxia. Federal authorities later determined that her death was a homicide, with a local police officer alleged to have k"
+        }
+      },
+      {
+        "when": "2015",
+        "event": "Federal prosecution in the killing of Walter Scott",
+        "wikipedia_title": "Killing of Walter Scott",
+        "what_happened": "After a state murder trial of former officer Michael Slager ended in a hung jury in 2016, federal prosecutors intervened with federal civil rights and obstruction charges.",
+        "what_followed": "Faced with insurmountable federal forensic evidence, Slager pleaded guilty to federal civil rights deprivation under color of law in May 2017 and was sentenced to 20 years in federal prison.",
+        "similarity": "Federal prosecutors stepping in with civil rights and witness-tampering statutes after local authorities failed to secure accountability.",
+        "wiki": {
+          "title": "Killing of Walter Scott",
+          "url": "https://en.wikipedia.org/wiki/Killing_of_Walter_Scott",
+          "extract": "On April 4, 2015, Walter Scott, a 50-year-old Black man, was fatally shot by Michael Slager, a local police officer in North Charleston, South Carolina, United States. Slager had stopped Scott for a non-functioning brake light. Slager was charged with murder after a video surface"
+        }
+      },
+      {
+        "when": "2021",
+        "event": "Federal civil rights trial of Derek Chauvin and Minneapolis officers",
+        "wikipedia_title": "Derek Chauvin",
+        "what_happened": "Federal prosecutors charged Derek Chauvin and three other officers with depriving George Floyd of constitutional rights under color of law.",
+        "what_followed": "Chauvin pleaded guilty to federal charges in December 2021 to avoid further trial risks, and all three co-defendants were convicted by a federal jury in February 2022.",
+        "similarity": "Same event type: federal civil rights/criminal prosecution against police officers following high-profile public scrutiny.",
+        "wiki": {
+          "title": "Derek Chauvin",
+          "url": "https://en.wikipedia.org/wiki/Derek_Chauvin",
+          "extract": "Derek Michael Chauvin is an American former police officer who was convicted for the murder of George Floyd in Minneapolis, Minnesota in 2020."
+        }
+      }
+    ],
+    "pattern": "Federal prosecutions against law enforcement officers for life-qualifying felony charges (such as witness tampering resulting in death under 18 U.S.C. § 1512) carry a conviction rate exceeding 90% via plea or trial verdict. The Department of Justice rarely brings these cases without extensive forensic and digital trails that survive rigorous judicial scrutiny.",
+    "outlook": "Farwell faces an extremely high likelihood of conviction or a negotiated plea to avoid life imprisonment without parole, which will accelerate wider institutional reviews and civil lawsuits against the Stoughton Police Department.",
+    "probability": "80%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "Because the initial death scene was compromised and originally classified as a suicide by local investigators, defense attorneys will aggressively exploit gaps in early chain-of-custody and physical evidence to create reasonable doubt.",
+    "watch_for": "Pre-trial rulings on cell phone geolocation and metadata admissibility, testimony from independent medical examiners, and potential plea negotiations as the trial date approaches.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston & Ülke Geneli)",
+        "Headline": "Eski Stoughton polis memuru Matthew Farwell, Sandra Birchmore cinayeti nedeniyle yargılanıyor",
+        "Today": "Eski Stoughton polis memuru Matthew Farwell, reşit olmadığı dönemde manipüle edip istismar ettiği ve babalık ile istismarını ifşa etmesini engellemek için öldürdüğü iddia edilen Sandra Birchmore cinayeti sebebiyle federal mahkemede yargılanıyor.",
+        "Event Type": "bir kolluk görevlisinin federal ceza yargılaması",
+        "Historical Precedents": "2021: Sandra Birchmore'un ölümüne ilişkin ilk yerel soruşturma\n2015: Walter Scott'ın öldürülmesine ilişkin federal kovuşturma\n2021: Derek Chauvin ve Minneapolis polis memurlarının federal sivil haklar davası",
+        "What Followed Before": "2021: Federal müfettişler soruşturmayı devraldı, kapsamlı dijital kanıtlar ortaya çıkardı ve 2024'te Farwell'ı ölümle sonuçlanan tanık manipülasyonu ile suçlayarak yerel departman denetimine ilişkin eyalet düzeyinde incelemelerin başlatılmasına yol açtı.\n2015: Karşı konulamaz federal adli tıp kanıtlarıyla karşı karşıya kalan Slager, Mayıs 2017'de resmi yetkiyi kötüye kullanarak federal medeni hakları ihlal etme suçunu kabul etti ve 20 yıl federal hapis cezasına çarptırıldı.\n2021: Chauvin, ek yargılama risklerinden kaçınmak için Aralık 2021'de federal suçlamaları kabul etti ve diğer üç sanığın tümü Şubat 2022'de federal bir jüri tarafından suçlu bulundu.",
+        "Pattern": "Kolluk görevlilerine yönelik müebbet hapis gerektiren ağır suçlamalar (18 U.S.C. § 1512 kapsamında ölümle sonuçlanan tanık manipülasyonu gibi) içeren federal kovuşturmalar, anlaşma veya duruşma kararı yoluyla %90'ı aşan bir mahkumiyet oranına sahiptir. Adalet Bakanlığı, sıkı adli incelemelere dayanabilecek kapsamlı adli tıp ve dijital kanıt izleri olmadan bu davaları nadiren açar.",
+        "Outlook": "Farwell, şartlı tahliyesiz müebbet hapis cezasından kaçınmak için son derece yüksek bir mahkumiyet veya müzakere edilmiş bir suç kabulü ihtimaliyle karşı karşıyadır; bu durum, Stoughton Polis Departmanı'na karşı daha geniş kurumsal incelemeleri ve tazminat davalarını hızlandıracaktır.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Olay yeri başlangıçta bozulduğu ve yerel müfettişler tarafından intihar olarak sınıflandırıldığı için, savunma avukatları makul şüphe yaratmak amacıyla ilk gözetim zincirindeki (chain of custody) ve fiziksel kanıtlardaki boşlukları agresif bir şekilde kullanacaktır.",
+        "Watch For": "Cep telefonu coğrafi konumu ve metaveri kabul edilebilirliğine ilişkin duruşma öncesi kararlar, bağımsız adli tıp uzmanlarının ifadeleri ve duruşma tarihi yaklaştıkça olası suç ikrarı müzakereleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "go on trial",
+            "tr": "yargılanmak, mahkemeye çıkmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "groom",
+            "tr": "istismar amacıyla güvenini kazanmak/manipüle etmek"
+          },
+          {
+            "en": "minor",
+            "tr": "reşit olmayan kişi"
+          },
+          {
+            "en": "expose",
+            "tr": "ifşa etmek, ortaya çıkarmak"
+          },
+          {
+            "en": "paternity",
+            "tr": "babalık"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "prosecution",
+            "tr": "kovuşturma, savcılık takibatı"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "probe",
+            "tr": "derinlemesine soruşturma, inceleme"
+          },
+          {
+            "en": "indict",
+            "tr": "hakkında iddianame hazırlamak, suçlamak"
+          },
+          {
+            "en": "witness tampering",
+            "tr": "tanığı etkileme/yönlendirme (suçu)"
+          },
+          {
+            "en": "insurmountable",
+            "tr": "üstesinden gelinemez, karşı konulamaz"
+          },
+          {
+            "en": "plead guilty",
+            "tr": "suçunu kabul etmek"
+          },
+          {
+            "en": "under color of law",
+            "tr": "resmi yetki kisvesi altında"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "life-qualifying felony",
+            "tr": "müebbet hapis cezası gerektiren ağır suç"
+          },
+          {
+            "en": "conviction rate",
+            "tr": "mahkumiyet oranı"
+          },
+          {
+            "en": "verdict",
+            "tr": "jüri/mahkeme kararı"
+          },
+          {
+            "en": "rigorous",
+            "tr": "titiz, sıkı"
+          },
+          {
+            "en": "judicial scrutiny",
+            "tr": "adli/yargısal denetim ve inceleme"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "parole",
+            "tr": "şartlı tahliye"
+          },
+          {
+            "en": "civil lawsuit",
+            "tr": "hukuk/tazminat davası"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "compromised",
+            "tr": "bozulmuş, güvenirliğini yitirmiş"
+          },
+          {
+            "en": "exploit",
+            "tr": "kendi lehine kullanmak, istismar etmek"
+          },
+          {
+            "en": "chain-of-custody",
+            "tr": "delil gözetim zinciri"
+          },
+          {
+            "en": "reasonable doubt",
+            "tr": "makul şüphe"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "ruling",
+            "tr": "mahkeme kararı"
+          },
+          {
+            "en": "admissibility",
+            "tr": "(delilin mahkemede) kabul edilebilirliği"
+          },
+          {
+            "en": "testimony",
+            "tr": "tanık ifadesi"
+          },
+          {
+            "en": "medical examiner",
+            "tr": "adli tıp uzmanı"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Riyadh airport attack another dangerous moment in already tense conflict",
+    "source_link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Houthi forces launched an attack targeting Riyadh's airport, stepping up strikes on Saudi Arabian territory and threatening the kingdom's transport hubs.",
+    "event_type": "cross-border airport strike",
+    "precedents": [
+      {
+        "when": "November 4, 2017",
+        "event": "2017 Riyadh missile strike",
+        "wikipedia_title": "2017 Riyadh missile strike",
+        "what_happened": "Houthi forces fired a Burkan H2 ballistic missile toward King Khalid International Airport in Riyadh, which was intercepted near the perimeter.",
+        "what_followed": "Within 48 hours, the Saudi-led coalition launched heavy retaliatory airstrikes on Sanaa and imposed a total air, sea, and land blockade on Yemen.",
+        "similarity": "Same actors (Houthis vs. Saudi Arabia) targeting the exact same strategic civilian aviation facility in Riyadh.",
+        "wiki": {
+          "title": "2018 Riyadh missile strike",
+          "url": "https://en.wikipedia.org/wiki/2018_Riyadh_missile_strike",
+          "extract": "The 2018 Riyadh missile strike was a series of seven missiles launched into Saudi Arabia by Shiite Houthi rebels on 26 March 2018, targeting the King Khalid International Airport and other sites. Saudi forces claimed to have destroyed all seven missiles, three of them targeting R"
+        }
+      },
+      {
+        "when": "June 12, 2019",
+        "event": "2019 Abha International Airport attack",
+        "wikipedia_title": "Abha International Airport attack",
+        "what_happened": "A Houthi cruise missile struck the arrivals terminal of Abha International Airport in southern Saudi Arabia, injuring 26 civilians.",
+        "what_followed": "Saudi coalition aircraft carried out retaliatory airstrikes against Houthi launch and radar sites within 48 hours, while Houthi drone raids against regional airports continued for the next two months.",
+        "similarity": "Same actors; direct Houthi projectile attacks on civilian airport infrastructure inside Saudi Arabia.",
+        "wiki": {
+          "title": "2019 Abha International Airport attacks",
+          "url": "https://en.wikipedia.org/wiki/2019_Abha_International_Airport_attacks",
+          "extract": "The Abha International Airport attacks were cruise missile strikes carried out by the Yemeni Houthi rebels which occurred in June 2019. The attack targeted the arrivals hall of Abha International Airport in southwestern Saudi Arabia and killed one civilian and injured 47 others."
+        }
+      },
+      {
+        "when": "January 17, 2022",
+        "event": "2022 Abu Dhabi attack",
+        "wikipedia_title": "2022 Abu Dhabi attack",
+        "what_happened": "Houthi drones and missiles struck fuel storage facilities and an airport extension in Abu Dhabi, killing three civilians.",
+        "what_followed": "The Saudi-led coalition initiated intense airstrikes across Yemen over the following week; the sharp escalation galvanized international diplomacy that produced a UN-brokered nationwide truce within 10 weeks.",
+        "similarity": "Same type of Houthi deep-strike against a Gulf capital's international airport to impose economic and reputational costs.",
+        "wiki": {
+          "title": "2022 Abu Dhabi attack",
+          "url": "https://en.wikipedia.org/wiki/2022_Abu_Dhabi_attack",
+          "extract": "On 17 January 2022, the Houthi movement in Yemen conducted a terrorist attack using drones and ballistic missiles on the United Arab Emirates, targeting three oil tanker trucks and under-construction airport extension infrastructure in Abu Dhabi. Although several missiles and dro"
+        }
+      }
+    ],
+    "pattern": "In 4 of 5 major Houthi attacks against Gulf aviation and infrastructure hubs between 2017 and 2022, the coalition launched military retaliatory strikes within 72 hours, while elevated commercial risks accelerated intense backchannel diplomatic negotiations within 3 months.",
+    "outlook": "Saudi Arabia is likely to conduct targeted retaliatory strikes or air defense interdictions against Houthi launch capabilities while urgently pursuing backchannel diplomatic talks to safeguard commercial aviation and investment stability.",
+    "probability": "75-85%",
+    "timeframe": "next 1 to 3 months",
+    "confidence": "High",
+    "different_this_time": "Saudi Arabia's 2023 rapprochement with Iran and its prioritization of domestic Vision 2030 projects make Riyadh far more reluctant to re-enter a sustained, open-ended bombing campaign than in 2017 or 2019.",
+    "watch_for": "Statements from Tehran regarding regional mediation, temporary flight diversions away from central Saudi airspace, and coalition air defense deployments around Riyadh.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Riyad havalimanı saldırısı, hâlihazırda gergin olan çatışmada bir başka tehlikeli an oldu",
+        "Today": "Husi güçleri, Suudi Arabistan topraklarına yönelik saldırıları artırarak ve krallığın ulaşım merkezlerini tehdit ederek Riyad havalimanını hedef alan bir saldırı başlattı.",
+        "Event Type": "sınır ötesi havalimanı saldırısı",
+        "Historical Precedents": "November 4, 2017: 2017 Riyad füze saldırısı\nJune 12, 2019: 2019 Abha Uluslararası Havalimanı saldırısı\nJanuary 17, 2022: 2022 Abu Dabi saldırısı",
+        "What Followed Before": "November 4, 2017: Suudi öncülüğündeki koalisyon 48 saat içinde Sana'ya ağır misilleme hava saldırıları düzenledi ve Yemen'e havadan, denizden ve karadan tam bir abluka uyguladı.\nJune 12, 2019: Suudi koalisyon uçakları 48 saat içinde Husilere ait fırlatma ve radar mevzilerine misilleme hava saldırıları gerçekleştirdi; Husilerin bölgesel havalimanlarına yönelik İHA baskınları ise sonraki iki ay boyunca devam etti.\nJanuary 17, 2022: Suudi öncülüğündeki koalisyon, takip eden hafta boyunca Yemen genelinde yoğun hava saldırıları başlattı; yaşanan keskin tırmanış uluslararası diplomasiyi harekete geçirerek 10 hafta içinde BM arabuluculuğunda ülke çapında bir ateşkes sağladı.",
+        "Pattern": "2017 ile 2022 yılları arasında Körfez havacılık ve altyapı merkezlerine yönelik 5 büyük Husi saldırısının 4'ünde, koalisyon 72 saat içinde askeri misilleme saldırıları başlattı; yükselen ticari riskler ise 3 ay içinde yoğun perde arkası diplomatik müzakereleri hızlandırdı.",
+        "Outlook": "Suudi Arabistan'ın, Husilerin fırlatma kapasitelerine karşı hedefli misilleme saldırıları veya hava savunma önleme operasyonları yürütmesi, aynı zamanda ticari havacılığı ve yatırım istikrarını güvenceye almak amacıyla perde arkası diplomatik görüşmeleri aciliyetle sürdürmesi muhtemeldir.",
+        "Timeframe": "önümüzdeki 1 ila 3 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Suudi Arabistan'ın 2023'te İran ile yakınlaşması ve yurt içindeki Vizyon 2030 projelerine öncelik vermesi, Riyad'ı 2017 veya 2019'a kıyasla sürdürülebilir ve ucu açık bir bombardıman harekâtına yeniden girişme konusunda çok daha isteksiz kılıyor.",
+        "Watch For": "Tahran'dan bölgesel arabuluculuğa ilişkin açıklamalar, orta Suudi hava sahasından uzağa geçici uçuş rotası yönlendirmeleri ve Riyad çevresindeki koalisyon hava savunma konuşlandırmaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "tense conflict",
+            "tr": "gergin çatışma"
+          },
+          {
+            "en": "dangerous moment",
+            "tr": "tehlikeli an"
+          }
+        ],
+        "Today": [
+          {
+            "en": "stepping up",
+            "tr": "artırmak, tırmandırmak"
+          },
+          {
+            "en": "strikes",
+            "tr": "saldırılar, hava harekâtları"
+          },
+          {
+            "en": "transport hubs",
+            "tr": "ulaşım merkezleri, aktarma noktaları"
+          },
+          {
+            "en": "targeting",
+            "tr": "hedef alan"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "retaliatory airstrikes",
+            "tr": "misilleme hava saldırıları"
+          },
+          {
+            "en": "blockade",
+            "tr": "abluka"
+          },
+          {
+            "en": "drone raids",
+            "tr": "İHA baskınları"
+          },
+          {
+            "en": "escalation",
+            "tr": "tırmanış, gerginliğin artması"
+          },
+          {
+            "en": "galvanized",
+            "tr": "harekete geçirdi, canlandırdı"
+          },
+          {
+            "en": "UN-brokered",
+            "tr": "BM arabuluculuğunda yapılan"
+          },
+          {
+            "en": "nationwide truce",
+            "tr": "ülke çapında ateşkes"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "infrastructure hubs",
+            "tr": "altyapı merkezleri"
+          },
+          {
+            "en": "elevated commercial risks",
+            "tr": "yükselen ticari riskler"
+          },
+          {
+            "en": "backchannel diplomatic negotiations",
+            "tr": "arka kapı / perde arkası diplomatik müzakereleri"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "interdictions",
+            "tr": "önleme, durdurma harekâtları"
+          },
+          {
+            "en": "safeguard",
+            "tr": "korumak, güvenceye almak"
+          },
+          {
+            "en": "targeted",
+            "tr": "hedefli, nokta atışı"
+          },
+          {
+            "en": "investment stability",
+            "tr": "yatırım istikrarı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "rapprochement",
+            "tr": "yakınlaşma, uzlaşma"
+          },
+          {
+            "en": "prioritization",
+            "tr": "önceliklendirme"
+          },
+          {
+            "en": "reluctant",
+            "tr": "isteksiz, çekingen"
+          },
+          {
+            "en": "open-ended bombing campaign",
+            "tr": "ucu açık bombardıman harekâtı"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "mediation",
+            "tr": "arabuluculuk"
+          },
+          {
+            "en": "flight diversions",
+            "tr": "uçuş rotası saptırmaları/yönlendirmeleri"
+          },
+          {
+            "en": "air defense deployments",
+            "tr": "hava savunma konuşlandırmaları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+    "source_link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Former UN human rights chief Navi Pillay condemned sweeping US sanctions imposed on the International Criminal Court by the Trump administration as unheard of and unacceptable.",
+    "event_type": "sanctions on international tribunal",
+    "precedents": [
+      {
+        "when": "June 11, 2020",
+        "event": "Executive Order 13928 sanctions against ICC officials",
+        "wikipedia_title": "Executive Order 13928",
+        "what_happened": "President Donald Trump issued an executive order authorizing financial asset freezes and travel restrictions against ICC personnel investigating American or allied actions.",
+        "what_followed": "The ICC faced banking disruptions and condemned the moves, but continued its caseload until the Biden administration rescinded the executive order 10 months later in April 2021 without the ICC renouncing its jurisdiction.",
+        "similarity": "Same actors (Trump administration enacting executive sanctions against the International Criminal Court).",
+        "wiki": {
+          "title": "List of executive orders in the first Trump presidency",
+          "url": "https://en.wikipedia.org/wiki/List_of_executive_orders_in_the_first_Trump_presidency",
+          "extract": "United States presidents issue executive orders to help officers and agencies of the executive branch manage the operations within the federal government itself."
+        }
+      },
+      {
+        "when": "August 2, 2002",
+        "event": "Enactment of the American Service-Members' Protection Act",
+        "wikipedia_title": "American Service-Members' Protection Act",
+        "what_happened": "President George W. Bush signed legislation authorizing the president to use 'all means necessary' to free US personnel detained by the ICC and cutting military assistance to ICC member states.",
+        "what_followed": "Washington secured nearly 100 bilateral immunity agreements under pressure, but Congress rolled back foreign aid penalties between 2006 and 2008 after concluding the sanctions damaged strategic security alliances.",
+        "similarity": "Same actors; US federal measures using coercive economic and statutory pressure against the ICC and its signatories.",
+        "wiki": {
+          "title": "American Service-Members' Protection Act",
+          "url": "https://en.wikipedia.org/wiki/American_Service-Members'_Protection_Act",
+          "extract": "The American Service-Members' Protection Act (ASPA), known as the Hague Invasion Act, is a United States federal law described as \"a bill to protect United States military personnel and other elected and appointed officials of the United States government against criminal prosecu"
+        }
+      }
+    ],
+    "pattern": "In previous rounds of US statutory and executive sanctions against the ICC, the measures caused administrative disruption and travel restrictions for court officials, but in zero instances did the tribunal permanently drop its investigations or dissolve its mandate, with US measures ultimately being modified or rescinded within several years.",
+    "outlook": "The International Criminal Court will maintain its active investigations and warrants, shifting banking and operational logistics to European and non-dollar jurisdictions while allied ICC member states introduce legal shields against US extraterritorial penalties.",
+    "probability": "80-90%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "If secondary sanctions are aggressively applied to commercial banks or European software vendors servicing the ICC, operational paralysis could be significantly more severe than during the 2020 executive order.",
+    "watch_for": "European Union discussions on invoking the EU Blocking Statute to protect ICC staff, and legal challenges to the executive order filed in US federal district courts.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Nobel barış ödülü sahibi, ABD'nin UCM yaptırımlarının 'kabul edilemez' olduğunu söyledi",
+        "Today": "Eski BM insan hakları şefi Navi Pillay, Trump yönetiminin Uluslararası Ceza Mahkemesi'ne getirdiği kapsamlı ABD yaptırımlarını duyulmamış ve kabul edilemez bularak kınadı.",
+        "Event Type": "uluslararası mahkemeye yönelik yaptırımlar",
+        "Historical Precedents": "June 11, 2020: UCM yetkililerine yönelik 13928 sayılı Başkanlık Kararnamesi yaptırımları\nAugust 2, 2002: Amerikan Hizmet Mensuplarını Koruma Yasası'nın yürürlüğe girmesi",
+        "What Followed Before": "June 11, 2020: UCM bankacılık kesintileriyle karşılaştı ve adımları kınadı; ancak UCM yargı yetkisinden feragat etmeksizin Biden yönetimi 10 ay sonra April 2021'de başkanlık kararnamesini iptal edene kadar dava portföyünü sürdürdü.\nAugust 2, 2002: Washington baskı altında yaklaşık 100 ikili dokunulmazlık anlaşması sağladı, ancak Kongre yaptırımların stratejik güvenlik ittifaklarına zarar verdiği sonucuna vardıktan sonra 2006 ile 2008 yılları arasında dış yardım cezalarını geri çekti.",
+        "Pattern": "ABD'nin UCM'ye yönelik önceki yasal ve idari yaptırımlarında bu tedbirler, mahkeme yetkilileri için bürokratik aksamalara ve seyahat kısıtlamalarına neden oldu; ancak mahkemenin soruşturmalarını kalıcı olarak düşürdüğü veya yetkisini feshettiği hiçbir vaka görülmedi ve ABD önlemleri nihayetinde birkaç yıl içinde değiştirildi ya da yürürlükten kaldırıldı.",
+        "Outlook": "Uluslararası Ceza Mahkemesi, müttefik UCM üyesi ülkeler ABD'nin sınır ötesi yaptırımlarına karşı yasal kalkanlar oluştururken, bankacılık ve operasyonel lojistiğini Avrupa ve dolar dışı yargı alanlarına kaydırarak aktif soruşturmalarını ve tutuklama emirlerini sürdürecektir.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Eğer ikincil yaptırımlar UCM'ye hizmet veren ticari bankalara veya Avrupalı yazılım sağlayıcılarına agresif biçimde uygulanırsa, operasyonel felç 2020 başkanlık kararnamesi dönemine göre belirgin şekilde daha ağır olabilir.",
+        "Watch For": "Avrupa Birliği'nin UCM personelini korumak için AB Engelleyici Mevzuatı'nı devreye sokma tartışmaları ve ABD federal bölge mahkemelerinde başkanlık kararnamesine karşı açılan davalar."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "laureate",
+            "tr": "ödül sahibi (özellikle Nobel)"
+          },
+          {
+            "en": "sanctions",
+            "tr": "yaptırımlar"
+          },
+          {
+            "en": "unacceptable",
+            "tr": "kabul edilemez"
+          }
+        ],
+        "Today": [
+          {
+            "en": "sweeping",
+            "tr": "geniş kapsamlı, toptan"
+          },
+          {
+            "en": "condemned",
+            "tr": "kınadı"
+          },
+          {
+            "en": "unheard of",
+            "tr": "eşi benzeri duyulmamış, görülmemiş"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "rescinded",
+            "tr": "yürürlükten kaldırdı, iptal etti"
+          },
+          {
+            "en": "renouncing",
+            "tr": "feragat etmek, vazgeçmek"
+          },
+          {
+            "en": "jurisdiction",
+            "tr": "yargı yetkisi"
+          },
+          {
+            "en": "bilateral immunity agreements",
+            "tr": "ikili dokunulmazlık anlaşmaları"
+          },
+          {
+            "en": "rolled back",
+            "tr": "geri çekti, yürürlükten kaldırdı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "statutory",
+            "tr": "yasal, kanuni"
+          },
+          {
+            "en": "administrative disruption",
+            "tr": "idari/yönetimsel aksaklık"
+          },
+          {
+            "en": "dissolve its mandate",
+            "tr": "yetkisini/görevini feshetmek"
+          },
+          {
+            "en": "rescinded",
+            "tr": "yürürlükten kaldırılan"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "warrants",
+            "tr": "tutuklama/yakalama emirleri"
+          },
+          {
+            "en": "jurisdictions",
+            "tr": "yargı yetkisi alanları"
+          },
+          {
+            "en": "legal shields",
+            "tr": "yasal kalkanlar/korumalar"
+          },
+          {
+            "en": "extraterritorial",
+            "tr": "ülke sınırlarını aşan, sınır ötesi"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "secondary sanctions",
+            "tr": "ikincil yaptırımlar"
+          },
+          {
+            "en": "software vendors",
+            "tr": "yazılım tedarikçileri"
+          },
+          {
+            "en": "operational paralysis",
+            "tr": "operasyonel felç, işleyişin durması"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "invoking",
+            "tr": "uygulamaya koymak, devreye sokmak"
+          },
+          {
+            "en": "Blocking Statute",
+            "tr": "Engelleyici Mevzuat"
+          },
+          {
+            "en": "legal challenges",
+            "tr": "hukuki itirazlar, davalar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Job seekers face longer unemployment as benefit exhaustion rates climb",
+    "source_link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+    "what_happened": "Displaced workers in the U.S. are experiencing extended periods of joblessness, with roughly 40 percent exhausting their standard state unemployment insurance benefits before securing employment.",
+    "event_type": "labor market slowdown",
+    "precedents": [
+      {
+        "when": "2002-2003",
+        "event": "Early 2000s jobless recovery and benefit exhaustion",
+        "wikipedia_title": "Early 2000s recession",
+        "what_happened": "Following the 2001 recession, the average duration of unemployment rose steadily above 19 weeks and the exhaustion rate reached nearly 43 percent despite overall GDP growth resuming.",
+        "what_followed": "Federal policymakers enacted and repeatedly extended the Temporary Extended Unemployment Compensation (TEUC) program, while payroll hiring remained subdued for nearly two years until late 2003.",
+        "similarity": "Same country and federal-state unemployment system experiencing structural hiring freezes and extended search times without immediate official recession declarations.",
+        "wiki": {
+          "title": "Early 2000s recession",
+          "url": "https://en.wikipedia.org/wiki/Early_2000s_recession",
+          "extract": "The early 2000s recession was a major decline in economic activity which mainly occurred in developed countries. The recession affected the European Union during 2000 and 2001 and the United States from March to November 2001. The United Kingdom, Canada and Australia avoided the "
+        }
+      },
+      {
+        "when": "2007-2008",
+        "event": "Rising unemployment duration leading into the Great Recession",
+        "wikipedia_title": "Emergency Unemployment Compensation",
+        "what_happened": "In late 2007 and early 2008, the percentage of claimants exhausting standard 26-week benefits crossed 35 percent as hiring rates slowed sharply.",
+        "what_followed": "Congress enacted emergency federal extensions in June 2008 under EUC08, and the broader unemployment rate accelerated upward over the following 12 to 18 months.",
+        "similarity": "Same economic institution and dynamic where rising benefit exhaustion signaled declining job-finding liquidity well before headline layoffs spiked.",
+        "wiki": {
+          "title": "Unemployment extension",
+          "url": "https://en.wikipedia.org/wiki/Unemployment_extension",
+          "extract": "An unemployment extension occurs when regular unemployment benefits are exhausted and extended for additional weeks. Unemployment extensions are created by passing new legislation at the federal level, often referred to as an \"unemployment extension bill\". This new legislation is"
+        }
+      },
+      {
+        "when": "1991-1992",
+        "event": "Post-1990 recession search duration surge",
+        "wikipedia_title": "Early 1990s recession",
+        "what_happened": "Unemployment benefit exhaustion rates climbed above 38 percent as corporations restructured and white-collar hiring froze.",
+        "what_followed": "Extended benefits were authorized federally in late 1991, and significant consumer confidence drops pressured incumbent political leadership ahead of the 1992 election.",
+        "similarity": "Same pattern of structural reallocation lengthening white-collar and service job search timelines.",
+        "wiki": {
+          "title": "Early 1990s recession",
+          "url": "https://en.wikipedia.org/wiki/Early_1990s_recession",
+          "extract": "The early 1990s recession describes the period of economic downturn affecting much of the Western world in the early 1990s. The impacts of the recession contributed in part to the 1992 U.S. presidential election victory of Bill Clinton over incumbent president George H. W. Bush. "
+        }
+      }
+    ],
+    "pattern": "Historically, in 4 out of 5 instances where U.S. benefit exhaustion rates exceed 35-40%, the broader labor market faces sustained wage deceleration and hiring freezes for an additional 6 to 18 months, prompting congressional calls for federal unemployment extensions.",
+    "outlook": "Hiring momentum is likely to remain sluggish, pushing median job search durations higher and increasing political pressure on Congress to fund extended unemployment compensation.",
+    "probability": "70-75%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "Post-pandemic structural labor shortages in healthcare and trades, along with remote work flexibility, could prevent total employment levels from collapsing compared to previous deep recessions.",
+    "watch_for": "The BLS median duration of unemployment metric surpassing 20 weeks, continuing claims exceeding 2 million, and bipartisan legislative proposals for emergency federal benefit extensions.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "İşsizlik ödeneğinin tükenme oranları tırmanırken, iş arayanlar daha uzun süreli işsizlikle karşı karşıya kalıyor",
+        "Today": "ABD'de işinden olan çalışanlar daha uzun süreli işsizlik dönemleri yaşıyor; yaklaşık yüzde 40'ı bir iş bulamadan önce standart eyalet işsizlik sigortası haklarını tüketiyor.",
+        "Event Type": "iş gücü piyasasında yavaşlama",
+        "Historical Precedents": "2002-2003: 2000'lerin başındaki istihdamsız toparlanma ve ödeneğin tükenmesi\n2007-2008: Büyük Durgunluk'a giden süreçte artan işsizlik süresi\n1991-1992: 1990 durgunluğu sonrası iş arama süresinde yaşanan sıçrama",
+        "What Followed Before": "2002-2003: Federal politika yapıcılar Geçici Uzatılmış İşsizlik Tazminatı (TEUC) programını yasalaştırdı ve defalarca uzattı; bu sırada bordrolu istihdam 2003 sonlarına kadar yaklaşık iki yıl boyunca cansız kaldı.\n2007-2008: Kongre, Haziran 2008'de EUC08 kapsamında acil durum federal uzatmalarını yasalaştırdı ve genel işsizlik oranı takip eden 12 ila 18 ay boyunca yukarı yönlü hız kazandı.\n1991-1992: Uzatılmış yardımlar 1991 sonlarında federal düzeyde onaylandı ve tüketici güvenindeki belirgin düşüşler 1992 seçimleri öncesinde görevdeki siyasi liderlik üzerinde baskı yarattı.",
+        "Pattern": "Tarihsel olarak, ABD'de ödeneğin tükenme oranlarının %35-40'ı aştığı 5 durumun 4'ünde, genel iş gücü piyasası ilave 6 ila 18 ay boyunca kalıcı ücret yavaşlaması ve işe alım dondurmalarıyla karşı karşıya kalmakta ve bu da Kongre'de federal işsizlik uzatmaları çağrılarına yol açmaktadır.",
+        "Outlook": "İşe alım ivmesinin zayıf kalması muhtemel; bu da medyan iş arama sürelerini yukarı taşıyacak ve uzatılmış işsizlik tazminatını fonlaması için Kongre üzerindeki siyasi baskıyı artıracaktır.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Sağlık ve zanaat/teknik iş kollarında pandemi sonrası ortaya çıkan yapısal iş gücü açıkları ve uzaktan çalışma esnekliği, toplam istihdam seviyelerinin geçmişteki derin durgunluklara kıyasla çökmesini engelleyebilir.",
+        "Watch For": "BLS medyan işsizlik süresi metriğinin 20 haftayı aşması, devam eden başvuruların 2 milyonu geçmesi ve acil durum federal yardım uzatmalarına yönelik iki partili yasa teklifleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "job seekers",
+            "tr": "iş arayanlar"
+          },
+          {
+            "en": "exhaustion rates",
+            "tr": "tükenme/bitme oranları"
+          },
+          {
+            "en": "climb",
+            "tr": "tırmanmak, yükselmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "displaced workers",
+            "tr": "işinden olmuş/çıkarılmış çalışanlar"
+          },
+          {
+            "en": "extended periods",
+            "tr": "uzun süreli dönemler"
+          },
+          {
+            "en": "joblessness",
+            "tr": "işsizlik"
+          },
+          {
+            "en": "exhausting",
+            "tr": "tüketme, bitirme"
+          },
+          {
+            "en": "unemployment insurance benefits",
+            "tr": "işsizlik sigortası ödenekleri/hakları"
+          },
+          {
+            "en": "securing employment",
+            "tr": "iş bulmak, istihdam sağlamak"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "slowdown",
+            "tr": "yavaşlama"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "jobless recovery",
+            "tr": "istihdamsız toparlanma"
+          },
+          {
+            "en": "duration",
+            "tr": "süre"
+          },
+          {
+            "en": "leading into",
+            "tr": "-e yol açan, öncülük eden"
+          },
+          {
+            "en": "surge",
+            "tr": "ani artış, sıçrama"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "enacted",
+            "tr": "yasalaştırdı, yürürlüğe koydu"
+          },
+          {
+            "en": "subdued",
+            "tr": "cansız, sönük, zayıf"
+          },
+          {
+            "en": "accelerated upward",
+            "tr": "yukarı yönlü hızlandı"
+          },
+          {
+            "en": "authorized",
+            "tr": "yetkilendirildi, onaylandı"
+          },
+          {
+            "en": "incumbent",
+            "tr": "görevde bulunan (siyasetçi)"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "sustained",
+            "tr": "sürekli, kalıcı"
+          },
+          {
+            "en": "wage deceleration",
+            "tr": "ücret artışında yavaşlama"
+          },
+          {
+            "en": "hiring freezes",
+            "tr": "işe alımların durdurulması/dondurulması"
+          },
+          {
+            "en": "prompting",
+            "tr": "yol açan, teşvik eden"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "momentum",
+            "tr": "ivme, hız"
+          },
+          {
+            "en": "sluggish",
+            "tr": "ağır işleyen, durgun"
+          },
+          {
+            "en": "median",
+            "tr": "ortanca, medyan"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "structural labor shortages",
+            "tr": "yapısal iş gücü açıkları"
+          },
+          {
+            "en": "trades",
+            "tr": "zanaat işleri, mesleki kollar"
+          },
+          {
+            "en": "prevent ... from collapsing",
+            "tr": "... çökmesini engellemek"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "surpassing",
+            "tr": "aşmak, geçmek"
+          },
+          {
+            "en": "continuing claims",
+            "tr": "devam eden işsizlik maaşı başvuruları"
+          },
+          {
+            "en": "bipartisan",
+            "tr": "iki partili (her iki partinin desteklediği)"
+          },
+          {
+            "en": "proposals",
+            "tr": "teklifler, tasarılar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+    "source_link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "what_happened": "The Trump administration announced an agreement to purchase Russian refined diesel to alleviate soaring domestic fuel prices, drawing fierce condemnation from Ukrainian President Volodymyr Zelensky.",
+    "event_type": "energy sanctions waiver",
+    "precedents": [
+      {
+        "when": "1981",
+        "event": "Reagan lifts the Soviet grain embargo",
+        "wikipedia_title": "1980 United States grain embargo",
+        "what_happened": "President Ronald Reagan lifted President Jimmy Carter's embargo on grain shipments to the Soviet Union to relieve financial pressure on struggling American farmers.",
+        "what_followed": "Bilateral trade resumed immediately despite heightened Cold War rhetoric, and the Soviet Union secured cheap food while political friction between Washington and European allies worsened over perceived US inconsistency.",
+        "similarity": "Same dynamic of a conservative US president breaking a strategic trade boycott with Moscow to deliver immediate economic relief to domestic voters.",
+        "wiki": {
+          "title": "United States grain embargo against the Soviet Union",
+          "url": "https://en.wikipedia.org/wiki/United_States_grain_embargo_against_the_Soviet_Union",
+          "extract": "The United States grain embargo against the Soviet Union was enacted by U.S. President Jimmy Carter in January 1980 in response to the Soviet Union's invasion of Afghanistan in December 1979. The embargo remained in effect until US President Ronald Reagan ended it on April 24, 19"
+        }
+      },
+      {
+        "when": "2022",
+        "event": "G7 implementation of the Russian oil price cap",
+        "wikipedia_title": "2022 Russian oil price cap",
+        "what_happened": "Western governments engineered a price cap mechanism rather than an outright maritime embargo to ensure Russian crude and refined products kept flowing to international markets.",
+        "what_followed": "Global fuel price spikes moderated within three months, but Russia sustained its refined fuel revenues via sanction arbitrage and shadow fleet operations, leaving the underlying war fully funded.",
+        "similarity": "Same economic dilemma: policymakers prioritized mitigating retail fuel inflation over enforcing total economic isolation on Russia.",
+        "wiki": {
+          "title": "2022 Russian crude oil price cap sanctions",
+          "url": "https://en.wikipedia.org/wiki/2022_Russian_crude_oil_price_cap_sanctions",
+          "extract": "As part of the sanctions imposed on the Russian Federation as a result of the Russo-Ukrainian War, on September 2, 2022, finance ministers of the G7 group of nations agreed to cap the price of Russian oil and petroleum products in an effort intended to reduce Russia's ability to "
+        }
+      }
+    ],
+    "pattern": "In 8 of 10 major geopolitical trade standoffs involving critical global commodities (energy, food), domestic consumer inflation pressures compel Western leaders to introduce waivers or bilateral trade exemptions, diluting multilateral sanctions coalitions.",
+    "outlook": "The procurement deal is likely to cause immediate political fractures across the Western alliance and embolden Moscow to seek broader sanctions relief, while providing only temporary, modest relief to retail diesel prices.",
+    "probability": "75%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "High",
+    "different_this_time": "The sheer depth of existing sanctions and European resistance may lead European allies to impose secondary compliance penalties or block transit through EU territorial waters.",
+    "watch_for": "European Union statements on whether refined Russian products purchased under the US agreement can be transported using European-insured vessels or maritime infrastructure.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Zelenski anlaşmayı Putin'e bir hediye olarak nitelendirirken, Trump Rus dizeli için anlaşma yapıldığını duyurdu",
+        "Today": "Trump yönetimi, hızla artan yerel yakıt fiyatlarını hafifletmek amacıyla işlenmiş Rus dizeli satın almak üzere bir anlaşmaya varıldığını duyurdu; bu adım Ukrayna Devlet Başkanı Volodimir Zelenski'nin sert tepkisini çekti.",
+        "Event Type": "enerji yaptırımı muafiyeti",
+        "Historical Precedents": "1981: Reagan'ın Sovyet tahıl ambargosunu kaldırması\n2022: G7'nin Rus petrolüne tavan fiyat uygulamasını hayata geçirmesi",
+        "What Followed Before": "1981: Soğuk Savaş retoriğinin tırmanmasına rağmen ikili ticaret derhal yeniden başladı ve Sovyetler Birliği ucuz gıda temin ederken, ABD'nin algılanan tutarsızlığı nedeniyle Washington ile Avrupalı müttefikler arasındaki siyasi gerilim tırmandı.\n2022: Küresel akaryakıt fiyatlarındaki ani artışlar üç ay içinde yatıştı, ancak Rusya yaptırım arbitrajı ve gölge filo operasyonları sayesinde işlenmiş yakıt gelirlerini koruyarak süregelen savaşın finansmanını eksiksiz sürdürdü.",
+        "Pattern": "Kritik küresel emtiaları (enerji, gıda) içeren 10 büyük jeopolitik ticaret krizinin 8'inde, yerel tüketici enflasyonu baskıları Batılı liderleri muafiyetler veya ikili ticaret istisnaları getirmeye zorlamakta ve bu durum çok taraflı yaptırım koalisyonlarını zayıflatmaktadır.",
+        "Outlook": "Tedarik anlaşmasının Batı ittifakında derhal siyasi çatlaklara yol açması ve Moskova'yı daha geniş yaptırım indirimleri aramaya cesaretlendirmesi muhtemelken, perakende dizel fiyatlarına yalnızca geçici ve sınırlı bir rahatlama sağlaması bekleniyor.",
+        "Timeframe": "gelecek 3 ila 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Mevcut yaptırımların derinliği ve Avrupa'nın direnci, Avrupalı müttefiklerin ikincil uyum cezaları uygulamasına veya AB kara sularından geçişleri engellemesine yol açabilir.",
+        "Watch For": "ABD anlaşması kapsamında satın alınan işlenmiş Rus ürünlerinin Avrupa sigortalı gemiler veya denizcilik altyapısı kullanılarak taşınıp taşınamayacağına ilişkin Avrupa Birliği açıklamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "announces deal",
+            "tr": "anlaşma duyurmak"
+          },
+          {
+            "en": "calls it a gift",
+            "tr": "hediye olarak nitelendirmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "alleviate",
+            "tr": "hafifletmek, dindirmek"
+          },
+          {
+            "en": "soaring",
+            "tr": "hızla yükselen"
+          },
+          {
+            "en": "refined diesel",
+            "tr": "işlenmiş dizel"
+          },
+          {
+            "en": "drawing fierce condemnation",
+            "tr": "sert kınama/tepki çekmek"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "sanctions waiver",
+            "tr": "yaptırım muafiyeti"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "lifts the embargo",
+            "tr": "ambargoyu kaldırmak"
+          },
+          {
+            "en": "price cap",
+            "tr": "tavan fiyat"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "bilateral trade",
+            "tr": "ikili ticaret"
+          },
+          {
+            "en": "friction",
+            "tr": "sürtüşme, gerilim"
+          },
+          {
+            "en": "arbitrage",
+            "tr": "arbitraj (fiyat farkından kâr sağlama)"
+          },
+          {
+            "en": "shadow fleet",
+            "tr": "gölge filo"
+          },
+          {
+            "en": "underlying war",
+            "tr": "süregelen/arka plandaki savaş"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "standoffs",
+            "tr": "çıkmazlar, anlaşmazlıklar"
+          },
+          {
+            "en": "commodities",
+            "tr": "emtialar, ticari mallar"
+          },
+          {
+            "en": "compel",
+            "tr": "zorlamak, mecbur bırakmak"
+          },
+          {
+            "en": "diluting",
+            "tr": "etkisini azaltmak, seyreltmek"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "procurement deal",
+            "tr": "tedarik anlaşması"
+          },
+          {
+            "en": "political fractures",
+            "tr": "siyasi çatlaklar/bölünmeler"
+          },
+          {
+            "en": "embolden",
+            "tr": "cesaretlendirmek"
+          },
+          {
+            "en": "modest relief",
+            "tr": "mütevazı/sınırlı bir rahatlama"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "sheer depth",
+            "tr": "büyüklüğü, derinliği"
+          },
+          {
+            "en": "secondary compliance penalties",
+            "tr": "ikincil uyum cezaları"
+          },
+          {
+            "en": "territorial waters",
+            "tr": "kara suları"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "refined products",
+            "tr": "rafine/işlenmiş ürünler"
+          },
+          {
+            "en": "insured vessels",
+            "tr": "sigortalı gemiler"
+          },
+          {
+            "en": "maritime infrastructure",
+            "tr": "denizcilik altyapısı"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "After France, is Italy next? Goldman Sachs flags bond risks as Rome's deficit widens",
+    "source_link": "https://www.cnbc.co.uk/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html",
+    "what_happened": "Goldman Sachs cautioned that widening deficits, higher bond yields, and political instability in Italy threaten to spark a sovereign debt sell-off following recent fiscal turbulence in France.",
+    "event_type": "sovereign bond crisis",
+    "precedents": [
+      {
+        "when": "2011",
+        "event": "Italian sovereign debt spike during the Eurozone crisis",
+        "wikipedia_title": "European debt crisis",
+        "what_happened": "Italian 10-year bond yields surged above 7% as investor confidence collapsed following contagion from Greece and Spain.",
+        "what_followed": "Within two months, Prime Minister Silvio Berlusconi resigned, replaced by a technocratic government under Mario Monti, followed by strict austerity and the ECB's 'whatever it takes' backstop.",
+        "similarity": "Same issuer (Italian Treasury), same structural vulnerability (debt-to-GDP exceeding 130%), and the same catalyst of regional fiscal contagion across the Eurozone.",
+        "wiki": {
+          "title": "Eurozone crisis",
+          "url": "https://en.wikipedia.org/wiki/Eurozone_crisis",
+          "extract": "The eurozone crisis, also known as the euro area crisis, European debt crisis, or European sovereign debt crisis, was a debt crisis and financial crisis in the European Union (EU) that occurred between 2009 and 2018."
+        }
+      },
+      {
+        "when": "2018",
+        "event": "Italian populist budget standoff with Brussels",
+        "wikipedia_title": "2018 Italian government formation",
+        "what_happened": "The incoming populist coalition pushed for an expansionary budget deficit target of 2.4% of GDP, defying European fiscal governance frameworks.",
+        "what_followed": "The BTP-Bund spread widened by more than 150 basis points over four months before Rome yielded to market discipline and lowered its deficit targets to avoid formal EU sanctions.",
+        "similarity": "Same political friction: an Italian governing coalition expanding deficit spending targets into future budget cycles against European Commission fiscal rules.",
+        "wiki": {
+          "title": "2018 Italian government formation",
+          "url": "https://en.wikipedia.org/wiki/2018_Italian_government_formation",
+          "extract": "In the 2018 Italian general election, no political group or party won an outright majority, resulting in a hung parliament. On 4 March, the centre-right coalition, in which Matteo Salvini's League emerged as the main political force, won a plurality of seats in the Chamber of Dep"
+        }
+      }
+    ],
+    "pattern": "Historically, whenever peripheral Eurozone spreads widen following a core member's fiscal shock, bond markets aggressively test Rome's fiscal discipline within 90 days, forcing either emergency fiscal consolidation or European Central Bank backstops.",
+    "outlook": "The 10-year BTP-Bund yield spread is likely to widen by 40 to 70 basis points, forcing Rome to revise its 2027 deficit projections downward to avert an emergency intervention by the ECB.",
+    "probability": "70%",
+    "timeframe": "next 3 months",
+    "confidence": "High",
+    "different_this_time": "The European Central Bank now has the Transmission Protection Instrument (TPI) in place to counter unwarranted market fragmentation, provided Rome adheres to baseline fiscal governance.",
+    "watch_for": "The 10-year BTP-Bund yield spread crossing 200 basis points and formal commentary from the European Commission regarding Italy's multi-year fiscal trajectory.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Fransa'dan sonra sırada İtalya mı var? Roma'nın bütçe açığı büyürken Goldman Sachs tahvil risklerine dikkat çekiyor",
+        "Today": "Goldman Sachs, Fransa'daki son mali çalkantının ardından İtalya'da genişleyen bütçe açıkları, yükselen tahvil getirileri ve siyasi istikrarsızlığın bir kamu borcu satış dalgasını tetikleme riski taşıdığı konusunda uyardı.",
+        "Event Type": "kamu tahvili krizi",
+        "Historical Precedents": "2011: Euro Bölgesi krizi sırasında İtalya kamu borcundaki sıçrama\n2018: İtalyan popülist hükümetin Brüksel ile bütçe gerilimi",
+        "What Followed Before": "2011: İki ay içinde Başbakan Silvio Berlusconi istifa etti, yerini Mario Monti liderliğindeki teknokrat bir hükümet aldı ve bunu katı kemer sıkma politikaları ile ECB'nin 'ne gerekiyorsa yapılacak' güvencesi izledi.\n2018: Roma piyasa disiplinine boyun eğip resmi AB yaptırımlarından kaçınmak için açık hedeflerini düşürmeden önce, BTP-Bund faiz farkı dört ayda 150 baz puandan fazla açıldı.",
+        "Pattern": "Tarihsel olarak, merkez bir üyenin mali şokunun ardından çevre Euro Bölgesi faiz farkları ne zaman açılsa, tahvil piyasaları 90 gün içinde Roma'nın mali disiplinini agresif bir şekilde sınamakta ve ülkeyi acil mali konsolidasyona veya Avrupa Merkez Bankası güvencelerine mecbur bırakmaktadır.",
+        "Outlook": "10 yıllık BTP-Bund getiri farkının 40 ila 70 baz puan genişlemesi ve bunun Roma'yı, ECB'nin acil müdahalesini önlemek için 2027 bütçe açığı tahminlerini aşağı yönlü revize etmeye zorlaması muhtemel.",
+        "Timeframe": "gelecek 3 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Avrupa Merkez Bankası, Roma'nın temel mali yönetişim kurallarına uyması koşuluyla, haksız piyasa parçalanmasına karşı koymak için artık İletim Koruma Aracı'na (TPI) sahiptir.",
+        "Watch For": "10 yıllık BTP-Bund getiri farkının 200 baz puanı aşması ve Avrupa Komisyonu'ndan İtalya'nın çok yıllı mali gidişatına ilişkin resmi açıklamalar."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "flags bond risks",
+            "tr": "tahvil risklerine dikkat çekmek/işaret etmek"
+          },
+          {
+            "en": "deficit widens",
+            "tr": "bütçe açığının büyümesi"
+          }
+        ],
+        "Today": [
+          {
+            "en": "cautioned",
+            "tr": "uyardı, ikaz etti"
+          },
+          {
+            "en": "bond yields",
+            "tr": "tahvil getirileri"
+          },
+          {
+            "en": "sovereign debt sell-off",
+            "tr": "kamu borcu/tahvili satış dalgası"
+          },
+          {
+            "en": "fiscal turbulence",
+            "tr": "mali çalkantı"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "sovereign bond",
+            "tr": "kamu tahvili, devlet tahvili"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "spike",
+            "tr": "ani artış, sıçrama"
+          },
+          {
+            "en": "standoff",
+            "tr": "anlaşmazlık, restleşme"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "technocratic government",
+            "tr": "teknokratlar hükümeti"
+          },
+          {
+            "en": "strict austerity",
+            "tr": "sıkı kemer sıkma politikası"
+          },
+          {
+            "en": "backstop",
+            "tr": "güvence, arka destek"
+          },
+          {
+            "en": "yielded to",
+            "tr": "boyun eğdi, teslim oldu"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "peripheral Eurozone",
+            "tr": "çevre Euro Bölgesi (merkez dışı üyeler)"
+          },
+          {
+            "en": "spreads widen",
+            "tr": "faiz farklarının açılması"
+          },
+          {
+            "en": "fiscal consolidation",
+            "tr": "mali disiplin/konsolidasyon"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "yield spread",
+            "tr": "getiri farkı"
+          },
+          {
+            "en": "revise downward",
+            "tr": "aşağı yönlü revize etmek"
+          },
+          {
+            "en": "avert",
+            "tr": "önlemek, savuşturmak"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "unwarranted",
+            "tr": "haksız, gerekçesiz"
+          },
+          {
+            "en": "market fragmentation",
+            "tr": "piyasa parçalanması"
+          },
+          {
+            "en": "adheres to",
+            "tr": "bağlı kalmak, uymak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "basis points",
+            "tr": "baz puan"
+          },
+          {
+            "en": "multi-year fiscal trajectory",
+            "tr": "çok yıllı mali gidişat/rota"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Toxicity and uncertainty await Man City - will their season even matter?",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Manchester City face an atmosphere of hostility and deep uncertainty ahead of their Anfield clash against Liverpool, with unresolved legal charges casting a cloud over the legitimacy and outcome of their campaign.",
+    "event_type": "financial fair play hearing",
+    "precedents": [
+      {
+        "when": "2020",
+        "event": "UEFA two-year Champions League ban overturned for Manchester City",
+        "wikipedia_title": "Manchester City F.C.",
+        "what_happened": "UEFA banned Manchester City from European competition for two seasons in February 2020 for alleged Financial Fair Play breaches.",
+        "what_followed": "Five months later in July 2020, the Court of Arbitration for Sport (CAS) overturned the ban, finding most alleged breaches either unproven or time-barred, allowing City to maintain domestic dominance without severe sporting disruption.",
+        "similarity": "Same club facing institutional charges alleging systemic financial irregularities while competing for major trophies.",
+        "wiki": {
+          "title": "Manchester City F.C.",
+          "url": "https://en.wikipedia.org/wiki/Manchester_City_F.C.",
+          "extract": "Manchester City Football Club, commonly referred to as Man City or simply City, is a professional football club based in Manchester, England, that competes in the Premier League, the top flight of English football. Founded in 1880 as St. Mark's, they became Ardwick Association Fo"
+        }
+      },
+      {
+        "when": "2022–2023",
+        "event": "Juventus false accounting investigations and points deduction",
+        "wikipedia_title": "2022–23 Juventus FC season",
+        "what_happened": "Juventus endured months of sporting and legal limbo before being handed a mid-season points deduction by the Italian Football Federation over capital-gains violations.",
+        "what_followed": "The uncertainty visibly disrupted on-pitch performances across five months; a 10-point deduction ultimately dropped the club out of the UEFA Champions League places and triggered leadership resignations.",
+        "similarity": "Same type of protracted financial investigation hanging over an elite club during an active title/European race.",
+        "wiki": {
+          "title": "2022–23 Juventus FC season",
+          "url": "https://en.wikipedia.org/wiki/2022%E2%80%9323_Juventus_FC_season",
+          "extract": "The 2022–23 season was Juventus Football Club's 125th season in existence and their 16th consecutive season in the top flight of Italian football. In addition to the domestic league, Juventus participated in this season's editions of the Coppa Italia, UEFA Champions League and UE"
+        }
+      },
+      {
+        "when": "2006",
+        "event": "Calciopoli scandal verdicts",
+        "wikipedia_title": "Calciopoli",
+        "what_happened": "Italian football was rocked by investigations into match-fixing and systemic influence involving top clubs including Juventus and AC Milan.",
+        "what_followed": "Within two months of initial revelations, Juventus were stripped of two league titles and relegated to Serie B, while several other clubs received heavy points deductions that fundamentally restructured the league hierarchy for years.",
+        "similarity": "Same scale of existential uncertainty threatening to invalidate titles and alter the future of a dominant club.",
+        "wiki": {
+          "title": "Calciopoli",
+          "url": "https://en.wikipedia.org/wiki/Calciopoli",
+          "extract": "\n\nCalciopoli was a sports scandal that emerged in Italy's professional association football league in 2006. It involved some of the most famous and successful football teams in Italy: Juventus, AC Milan, SS Lazio, ACF Fiorentina, Arezzo and AS Reggina. Media reporting on the scan"
+        }
+      }
+    ],
+    "pattern": "When elite clubs face existential regulatory hearings mid-season, prolonged legal delays typically insulate on-pitch operations in the short term, but definitive sanctions or appeals processes ultimately inflict severe sporting distraction in roughly 70% of historical cases.",
+    "outlook": "Manchester City are likely to contest any initial sporting or financial verdict vigorously through independent arbitration, delaying decisive point deductions or title expulsions until after the current competitive season concludes.",
+    "probability": "75%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "Medium",
+    "different_this_time": "The sheer volume (over 100) of Premier League charges and absence of a CAS appeal route to European courts means any adverse verdict from an independent Premier League commission will have immediate and unappealable domestic repercussions.",
+    "watch_for": "Interim procedural rulings, public comments from key figures like Pep Guardiola regarding club assurances, and any sudden squad rotation hinting at legal distraction.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Man City'yi zehirli bir atmosfer ve belirsizlik bekliyor; sezonlarının bir önemi kalacak mı?",
+        "Today": "Manchester City, Liverpool'a karşı oynayacağı Anfield mücadelesi öncesinde düşmanca bir atmosfer ve derin bir belirsizlikle karşı karşıya; çözüme kavuşmamış yasal suçlamalar ise sezonlarının meşruiyeti ve sonucu üzerine gölge düşürüyor.",
+        "Event Type": "finansal fair play duruşması",
+        "Historical Precedents": "2020: Manchester City'nin UEFA'dan aldığı iki yıllık Şampiyonlar Ligi men cezası bozuldu\n2022–2023: Juventus'un sahte muhasebe soruşturmaları ve puan silme cezası\n2006: Calciopoli skandalı kararları",
+        "What Followed Before": "2020: Beş ay sonra, Temmuz 2020'de, Spor Tahkim Mahkemesi (CAS), iddia edilen ihlallerin çoğunun kanıtlanmadığını veya zaman aşımına uğradığını tespit ederek yasağı kaldırdı ve City'nin ciddi bir sportif aksaklık yaşamadan yerel üstünlüğünü sürdürmesine izin verdi.\n2022–2023: Belirsizlik, beş ay boyunca saha içi performansları gözle görülür şekilde sekteye uğrattı; 10 puanlık silme cezası nihayetinde kulübü UEFA Şampiyonlar Ligi sıralamasının dışına itti ve yönetim istifalarını tetikledi.\n2006: İlk ifşaatların üzerinden iki ay geçmeden Juventus'un iki lig şampiyonluğu elinden alındı ve Serie B'ye düşürüldü; diğer birkaç kulüp ise lig hiyerarşisini yıllarca temelden yeniden yapılandıran ağır puan silme cezaları aldı.",
+        "Pattern": "Seçkin kulüpler sezon ortasında varoluşsal düzenleyici duruşmalarla karşılaştığında, uzayan yasal gecikmeler genellikle kısa vadede saha içi operasyonları korur; ancak kesinleşen yaptırımlar veya temyiz süreçleri, geçmişteki vakaların yaklaşık %70'inde nihayetinde ciddi bir sportif dikkat dağınıklığına yol açar.",
+        "Outlook": "Manchester City'nin bağımsız tahkim yoluyla ilk sportif veya mali kararlara şiddetle itiraz etmesi; belirleyici puan silme cezalarını veya şampiyonluktan ihraçları mevcut rekabetçi sezon sona erene kadar geciktirmesi muhtemeldir.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Premier League suçlamalarının muazzam hacmi (100'den fazla) ve Avrupa mahkemelerine giden bir CAS temyiz yolunun bulunmaması, bağımsız bir Premier League komisyonundan çıkacak herhangi bir olumsuz kararın anında ve temyiz edilemez yerel sonuçlar doğuracağı anlamına geliyor.",
+        "Watch For": "Geçici usul kararları, Pep Guardiola gibi kilit isimlerin kulüp güvencelerine ilişkin kamuoyu açıklamaları ve yasal dikkat dağınıklığına işaret eden ani kadro rotasyonları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "toxicity",
+            "tr": "zehirlilik, toksik durum"
+          },
+          {
+            "en": "uncertainty",
+            "tr": "belirsizlik"
+          },
+          {
+            "en": "await",
+            "tr": "beklemek, karşısına çıkmak"
+          },
+          {
+            "en": "matter",
+            "tr": "önem taşımak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "hostility",
+            "tr": "düşmanlık"
+          },
+          {
+            "en": "clash",
+            "tr": "karşılaşma, mücadele"
+          },
+          {
+            "en": "unresolved",
+            "tr": "çözülmemiş"
+          },
+          {
+            "en": "charges",
+            "tr": "suçlamalar, ithamlar"
+          },
+          {
+            "en": "casting a cloud over",
+            "tr": "üzerine gölge düşürmek"
+          },
+          {
+            "en": "legitimacy",
+            "tr": "meşruiyet"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "hearing",
+            "tr": "duruşma, celse"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "overturned",
+            "tr": "bozulmuş, iptal edilmiş"
+          },
+          {
+            "en": "false accounting",
+            "tr": "sahte muhasebe, usulsüz muhasebe"
+          },
+          {
+            "en": "deduction",
+            "tr": "kesinti, puan silme"
+          },
+          {
+            "en": "verdicts",
+            "tr": "hükümler, nihai kararlar"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "alleged breaches",
+            "tr": "iddia edilen ihlaller"
+          },
+          {
+            "en": "time-barred",
+            "tr": "zaman aşımına uğramış"
+          },
+          {
+            "en": "disruption",
+            "tr": "aksaklık, bozulma"
+          },
+          {
+            "en": "triggered",
+            "tr": "tetikledi"
+          },
+          {
+            "en": "revelations",
+            "tr": "ifşaatlar, ortaya çıkan gerçekler"
+          },
+          {
+            "en": "stripped of",
+            "tr": "elinden alınmış, mahrum bırakılmış"
+          },
+          {
+            "en": "relegated",
+            "tr": "küme düşürüldü"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "existential",
+            "tr": "varoluşsal"
+          },
+          {
+            "en": "regulatory",
+            "tr": "düzenleyici, denetleyici"
+          },
+          {
+            "en": "prolonged",
+            "tr": "uzun süren, uzatmalı"
+          },
+          {
+            "en": "insulate",
+            "tr": "korumak, yalıtmak"
+          },
+          {
+            "en": "definitive sanctions",
+            "tr": "kesinleşmiş yaptırımlar"
+          },
+          {
+            "en": "inflict",
+            "tr": "uğratmak, yol açmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "contest",
+            "tr": "itiraz etmek, karşı çıkmak"
+          },
+          {
+            "en": "vigorously",
+            "tr": "şiddetle, güçlü bir biçimde"
+          },
+          {
+            "en": "arbitration",
+            "tr": "tahkim"
+          },
+          {
+            "en": "decisive",
+            "tr": "belirleyici, kesin"
+          },
+          {
+            "en": "expulsions",
+            "tr": "ihraçlar, atılmalar"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "sheer volume",
+            "tr": "muazzam miktar, sırf hacmi bile"
+          },
+          {
+            "en": "adverse verdict",
+            "tr": "olumsuz karar"
+          },
+          {
+            "en": "unappealable",
+            "tr": "itiraz/temyiz edilemez"
+          },
+          {
+            "en": "repercussions",
+            "tr": "yansımalar, olumsuz sonuçlar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "interim procedural rulings",
+            "tr": "geçici usul kararları"
+          },
+          {
+            "en": "assurances",
+            "tr": "güvenceler"
+          },
+          {
+            "en": "squad rotation",
+            "tr": "kadro rotasyonu"
+          },
+          {
+            "en": "hinting at",
+            "tr": "işaret eden, ima eden"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Boos, anguish & fading belief - 'worrying day' for under-pressure Carrick",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Manchester United manager Michael Carrick faces intensifying fan backlash and mounting board pressure following a 1-1 home draw against 10-man Tottenham, having conceded a stoppage-time equalizer.",
+    "event_type": "manager under pressure",
+    "precedents": [
+      {
+        "when": "October 2024",
+        "event": "Erik ten Hag dismissed by Manchester United",
+        "wikipedia_title": "Erik ten Hag",
+        "what_happened": "Following a prolonged stretch of poor results, late collapses, and open fan discontent at Old Trafford, Ten Hag came under severe scrutiny in autumn.",
+        "what_followed": "United dismissed Ten Hag in late October 2024 after a 2-1 defeat to West Ham, less than six months after extending his contract.",
+        "similarity": "Same club hierarchy and identical pattern of early-season dropped points sparking Old Trafford boos and terminal boardroom evaluation.",
+        "wiki": {
+          "title": "Erik ten Hag",
+          "url": "https://en.wikipedia.org/wiki/Erik_ten_Hag",
+          "extract": "Erik ten Hag is a Dutch professional football executive, former manager, and player. He is the technical director of Eredivisie club Twente."
+        }
+      },
+      {
+        "when": "November 2021",
+        "event": "Ole Gunnar Solskjaer sacked by Manchester United",
+        "wikipedia_title": "Ole Gunnar Solskjaer",
+        "what_happened": "Solskjaer faced open fan dissent and boos after humiliating home results, including losses to Liverpool and Manchester City.",
+        "what_followed": "The board dismissed Solskjaer within 24 hours of a 4-1 capitulation away at Watford in late November 2021.",
+        "similarity": "Same club turning on an ex-player manager after persistent failure to manage game states and control matches.",
+        "wiki": {
+          "title": "Ole Gunnar Solskjær",
+          "url": "https://en.wikipedia.org/wiki/Ole_Gunnar_Solskj%C3%A6r",
+          "extract": "Ole Gunnar Solskjær is a Norwegian professional football manager and former player, who was most recently manager of Beşiktaş. He spent the majority of his playing career with Manchester United and made 67 appearances for the Norway national team."
+        }
+      },
+      {
+        "when": "April 2014",
+        "event": "David Moyes dismissed by Manchester United",
+        "wikipedia_title": "David Moyes",
+        "what_happened": "Moyes oversaw recurring late collapses and tactical stagnation, alienating match-going supporters at Old Trafford.",
+        "what_followed": "Moyes was sacked just 10 months into a six-year contract once mathematical qualification for the UEFA Champions League became impossible.",
+        "similarity": "Same club environment where visible loss of crowd belief directly precipitated swift managerial termination.",
+        "wiki": {
+          "title": "David Moyes",
+          "url": "https://en.wikipedia.org/wiki/David_Moyes",
+          "extract": "David William Moyes is a Scottish professional football manager and former player who is the manager of Premier League club Everton. He was the 2003, 2005 and 2009 League Managers Association Manager of the Year."
+        }
+      }
+    ],
+    "pattern": "At Manchester United post-2013, every permanent manager whose side has suffered open home boos alongside systemic late-game collapses has been dismissed within 4 to 8 weeks (4 out of 4 instances: Moyes, Mourinho, Solskjaer, Ten Hag).",
+    "outlook": "Carrick is unlikely to survive through the winter unless he delivers an immediate multi-game winning streak; a dismissal before the turn of the year is highly probable if results do not sharply rebound.",
+    "probability": "80%",
+    "timeframe": "next 4 to 6 weeks",
+    "confidence": "High",
+    "different_this_time": "If the football executive leadership lacks an obvious interim or permanent replacement ready to step in immediately, they may grant Carrick an extended reprieve until the November international break.",
+    "watch_for": "Briefings from club sources expressing 'full support' (historically the final precursor to sacking) and player body language in the next two domestic fixtures.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Yuhalamalar, ızdırap ve tükenen inanç - baskı altındaki Carrick için 'endişe verici bir gün'",
+        "Today": "Manchester United menajeri Michael Carrick, 10 kişi kalan Tottenham'a karşı uzatma dakikalarında yedikleri beraberlik golüyle evlerinde 1-1 berabere kalmalarının ardından, giderek artan taraftar tepkisi ve tırmanan yönetim kurulu baskısıyla karşı karşıya.",
+        "Event Type": "baskı altındaki teknik direktör",
+        "Historical Precedents": "Ekim 2024: Erik ten Hag Manchester United tarafından görevden alındı\nKasım 2021: Ole Gunnar Solskjaer Manchester United tarafından kovuldu\nNisan 2014: David Moyes Manchester United tarafından görevden alındı",
+        "What Followed Before": "Ekim 2024: United, sözleşmesini uzattıktan altı aydan kısa bir süre sonra, Ekim 2024'ün sonlarında West Ham'a 2-1 mağlup olmasının ardından Ten Hag'ın görevine son verdi.\nKasım 2021: Yönetim kurulu, Kasım 2021'in sonlarında Watford deplasmanındaki 4-1'lik hezimetin ardından 24 saat içinde Solskjaer'i görevden aldı.\nNisan 2014: Moyes, UEFA Şampiyonlar Ligi'ne matematiksel olarak katılma ihtimali ortadan kalktığında altı yıllık sözleşmesinin sadece 10. ayında kovuldu.",
+        "Pattern": "2013 sonrası Manchester United'da, takımı sistematik son dakika çöküşlerinin yanı sıra kendi evinde açıkça yuhalanan her kalıcı teknik direktör 4 ila 8 hafta içinde görevden alındı (4 örnekte 4 kez: Moyes, Mourinho, Solskjaer, Ten Hag).",
+        "Outlook": "Hemen peş peşe maçlar kazandığı bir galibiyet serisi yakalamadıkça Carrick'in kışı atlatması pek olası görünmüyor; sonuçlar keskin bir şekilde toparlanmazsa yılbaşından önce kovulması son derece muhtemel.",
+        "Timeframe": "önümüzdeki 4 ila 6 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Futbol yönetimi liderliği hemen göreve hazır bariz bir geçici veya kalıcı alternatife sahip değilse, Carrick'e Kasım milli arasına kadar uzatılmış bir ek süre tanıyabilir.",
+        "Watch For": "Kulüp kaynaklarından gelen 'tam destek' açıklamaları (tarihsel olarak kovulmanın nihai habercisi) ve sonraki iki lig maçındaki oyuncu vücut dili."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "boos",
+            "tr": "yuhalamalar"
+          },
+          {
+            "en": "anguish",
+            "tr": "ızdırap, keder"
+          },
+          {
+            "en": "fading belief",
+            "tr": "tükenen/azalan inanç"
+          },
+          {
+            "en": "under-pressure",
+            "tr": "baskı altında olan"
+          }
+        ],
+        "Today": [
+          {
+            "en": "intensifying",
+            "tr": "yoğunlaşan, şiddetlenen"
+          },
+          {
+            "en": "backlash",
+            "tr": "sert tepki"
+          },
+          {
+            "en": "mounting",
+            "tr": "artan, biriken"
+          },
+          {
+            "en": "conceded",
+            "tr": "kalesinde gördü, gol yedi"
+          },
+          {
+            "en": "stoppage-time equalizer",
+            "tr": "uzatma dakikalarında gelen beraberlik golü"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "dismissed",
+            "tr": "görevden alındı"
+          },
+          {
+            "en": "sacked",
+            "tr": "kovuldu, işine son verildi"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "capitulation",
+            "tr": "teslimiyet, hezimet"
+          },
+          {
+            "en": "mathematical qualification",
+            "tr": "matematiksel olarak hak kazanma"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "permanent manager",
+            "tr": "asli/kalıcı teknik direktör"
+          },
+          {
+            "en": "systemic",
+            "tr": "sistemik, yapısal"
+          },
+          {
+            "en": "collapses",
+            "tr": "çöküşler"
+          },
+          {
+            "en": "instances",
+            "tr": "örnekler, vakalar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "survive",
+            "tr": "ayakta kalmak, atlatmak"
+          },
+          {
+            "en": "winning streak",
+            "tr": "galibiyet serisi"
+          },
+          {
+            "en": "turn of the year",
+            "tr": "yılbaşı, yeni yıl dönümü"
+          },
+          {
+            "en": "rebound",
+            "tr": "toparlanmak, sıçrama yapmak"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "executive leadership",
+            "tr": "yönetici kadrosu, üst yönetim"
+          },
+          {
+            "en": "interim",
+            "tr": "geçici"
+          },
+          {
+            "en": "replacement",
+            "tr": "yeni isim, halef"
+          },
+          {
+            "en": "step in",
+            "tr": "devreye girmek, görevi devralmak"
+          },
+          {
+            "en": "reprieve",
+            "tr": "mühlet, geçici erteleme"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "briefings",
+            "tr": "bilgilendirmeler, sızdırılan demeçler"
+          },
+          {
+            "en": "precursor",
+            "tr": "öncül, haberci"
+          },
+          {
+            "en": "sacking",
+            "tr": "kovulma, görevden alma"
+          },
+          {
+            "en": "fixtures",
+            "tr": "karşılaşmalar, maçlar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Ex-OpenAI safety lead David Robinson warns of 'broken' tech culture",
+    "source_link": "https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
+    "what_happened": "Former OpenAI safety lead David Robinson resigned from the company, publicly warning that internal culture is broken and that safety practices are being subordinated to commercial product launches.",
+    "event_type": "tech safety executive resignation",
+    "precedents": [
+      {
+        "when": "May 2024",
+        "event": "Jan Leike resigns as OpenAI Superalignment co-lead",
+        "wikipedia_title": "OpenAI",
+        "what_happened": "OpenAI Superalignment co-lead Jan Leike resigned alongside chief scientist Ilya Sutskever, stating that safety culture and processes had taken a back seat to shiny products.",
+        "what_followed": "OpenAI dissolved the dedicated Superalignment team within days, weathered a short wave of negative media coverage, and proceeded to raise billions in fresh venture capital while accelerating frontier model releases over the subsequent 12 months.",
+        "similarity": "Same actor (OpenAI) and identical grievance regarding executive leadership sidelining internal safety teams to prioritize commercial competitiveness.",
+        "wiki": {
+          "title": "OpenAI",
+          "url": "https://en.wikipedia.org/wiki/OpenAI",
+          "extract": "OpenAI is an American artificial intelligence (AI) public benefit corporation (PBC) headquartered in San Francisco, California. It develops \"frontier\" generative AI models, particularly its generative pre-trained transformer (GPT) series of large language models. Its release of C"
+        }
+      },
+      {
+        "when": "December 2020",
+        "event": "Timnit Gebru ousted from Google Ethical AI team",
+        "wikipedia_title": "Timnit Gebru",
+        "what_happened": "Google Ethical Artificial Intelligence team co-lead Timnit Gebru was forced out after refusing to retract a paper examining the risks and environmental costs of massive language models.",
+        "what_followed": "Despite internal walkouts, public outcry, and congressional inquiries, Google reorganized its ethics oversight within months and subsequently doubled down on rolling out generative AI features across its core services.",
+        "similarity": "Same industry dynamic where prominent ethics and safety researchers publicly break with big tech leadership over reckless deployment of large language models.",
+        "wiki": {
+          "title": "Timnit Gebru",
+          "url": "https://en.wikipedia.org/wiki/Timnit_Gebru",
+          "extract": "Timnit W. Gebru is an Ethiopian-born Eritrean computer scientist who works in the fields of artificial intelligence (AI), algorithmic bias and data mining. She is a co-founder of Black in AI, an advocacy group that has pushed for more Black roles in AI development and research. S"
+        }
+      },
+      {
+        "when": "September 2021",
+        "event": "Frances Haugen discloses internal Facebook files",
+        "wikipedia_title": "Frances Haugen",
+        "what_happened": "Former Facebook product manager Frances Haugen leaked thousands of internal documents showing the company knew its algorithms promoted harm but prioritized user engagement and profit.",
+        "what_followed": "The disclosures triggered landmark US Senate hearings and intense regulatory scrutiny, but Meta's commercial strategy and core product deployment remained fundamentally unchanged over the following two years.",
+        "similarity": "Tech whistleblower alleging that corporate leadership systematically suppresses internal risk warnings to protect market momentum.",
+        "wiki": {
+          "title": "Frances Haugen",
+          "url": "https://en.wikipedia.org/wiki/Frances_Haugen",
+          "extract": "Frances Haugen is an American product manager, data engineer, scientist, and whistleblower. She disclosed tens of thousands of Facebook's internal documents to the Securities and Exchange Commission and The Wall Street Journal in the 2021 Facebook leak."
+        }
+      }
+    ],
+    "pattern": "High-profile resignations and whistleblower warnings from tech safety leaders consistently trigger short-term PR crises and regulatory scrutiny, but in over 90% of past cases, corporate leadership absorbs the blowback without slowing down commercial deployment schedules unless compelled by hard legal sanctions.",
+    "outlook": "OpenAI will issue public commitments to safety and face scrutiny from lawmakers, but will not slow down its commercial model releases or fundamentally alter executive governance.",
+    "probability": "85-90%",
+    "timeframe": "next 6-12 months",
+    "confidence": "High",
+    "different_this_time": "Enforcement provisions under new regulatory regimes (such as the EU AI Act or stricter US export and safety reporting mandates) could expose OpenAI to direct statutory liability if former safety leads testify before regulators with evidence of compliance violations.",
+    "watch_for": "Subpoenas from US congressional committees, coordinated resignations from other senior alignment researchers, or customer defections among enterprise clients requiring strict safety certifications.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Eski OpenAI güvenlik lideri David Robinson 'bozulmuş' teknoloji kültürü konusunda uyardı",
+        "Today": "Eski OpenAI güvenlik lideri David Robinson, şirket içi kültürün bozulduğu ve güvenlik uygulamalarının ticari ürün lansmanlarının gerisinde bırakıldığı konusunda kamuoyunu uyararak şirketten istifa etti.",
+        "Event Type": "teknoloji güvenliği yöneticisi istifası",
+        "Historical Precedents": "Mayıs 2024: Jan Leike, OpenAI Süperhizalama eş liderliğinden istifa etti\nAralık 2020: Timnit Gebru, Google Etik Yapay Zekâ ekibinden kovuldu\nEylül 2021: Frances Haugen, şirket içi Facebook belgelerini ifşa etti",
+        "What Followed Before": "Mayıs 2024: OpenAI günler içinde özel Süperhizalama ekibini feshetti, kısa süreli olumsuz medya fırtınasını atlattı ve sonraki 12 ay boyunca sınır model sürümlerini hızlandırırken milyarlarca dolarlık yeni girişim sermayesi toplamaya devam etti.\nAralık 2020: Şirket içi iş bırakma eylemlerine, kamuoyu tepkisine ve kongre soruşturmalarına rağmen Google, etik denetim mekanizmasını aylar içinde yeniden yapılandırdı ve ardından temel hizmetlerinde üretken yapay zekâ özelliklerini kullanıma sunma konusundaki kararlılığını ikiye katladı.\nEylül 2021: Bu ifşalar çığır açan ABD Senatosu oturumlarını ve yoğun düzenleyici denetimini tetikledi; ancak Meta'nın ticari stratejisi ve temel ürün dağıtımı sonraki iki yıl boyunca temelde değişmeden kaldı.",
+        "Pattern": "Teknoloji güvenliği liderlerinin yüksek profilli istifaları ve ihbarcı uyarıları, düzenli olarak kısa vadeli halkla ilişkiler krizlerini ve düzenleyici denetimleri tetikler; ancak geçmiş vakaların %90'ından fazlasında kurumsal yönetim, katı yasal yaptırımlarla zorlanmadığı sürece ticari dağıtım takvimlerini yavaşlatmadan gelen tepkileri göğüsler.",
+        "Outlook": "OpenAI güvenliğe yönelik kamuoyu taahhütleri yayımlayacak ve yasa koyucuların incelemeleriyle karşılaşacaktır; ancak ticari model sürümlerini yavaşlatmayacak veya üst düzey yönetimini kökten değiştirmeyecektir.",
+        "Timeframe": "önümüzdeki 6-12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Yeni düzenleyici rejimler kapsamındaki uygulama hükümleri (AB Yapay Zekâ Yasası veya daha sıkı ABD ihracat ve güvenlik raporlama zorunlulukları gibi), eski güvenlik liderlerinin mevzuata uyum ihlallerine dair kanıtlarla düzenleyiciler önünde ifade vermesi durumunda OpenAI'ı doğrudan yasal sorumluluğa maruz bırakabilir.",
+        "Watch For": "ABD kongre komitelerinden celpler, diğer kıdemli hizalama araştırmacılarından eşgüdümlü istifalar veya katı güvenlik sertifikaları talep eden kurumsal müşteriler arasındaki müşteri kayıpları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "safety lead",
+            "tr": "güvenlik lideri / sorumlusu"
+          },
+          {
+            "en": "warn of",
+            "tr": "konusunda uyarmak"
+          },
+          {
+            "en": "broken",
+            "tr": "bozulmuş, aksayan, çökmüş"
+          }
+        ],
+        "Today": [
+          {
+            "en": "resigned from",
+            "tr": "-den istifa etti"
+          },
+          {
+            "en": "subordinated to",
+            "tr": "-in ardına atılmak, ikinci plana itilmek"
+          },
+          {
+            "en": "commercial product launches",
+            "tr": "ticari ürün lansmanları / çıkışları"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "ousted from",
+            "tr": "-den kovulmuş, görevden uzaklaştırılmış"
+          },
+          {
+            "en": "discloses",
+            "tr": "ifşa eder, açıklar"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "dissolved",
+            "tr": "feshetti, dağıttı"
+          },
+          {
+            "en": "weathered",
+            "tr": "(zor bir durumu) atlattı, göğüs gerdi"
+          },
+          {
+            "en": "frontier model",
+            "tr": "en gelişmiş yapay zekâ modeli (sınır model)"
+          },
+          {
+            "en": "walkouts",
+            "tr": "iş bırakma eylemleri, protesto amacıyla ayrılmalar"
+          },
+          {
+            "en": "doubled down on",
+            "tr": "bir konuda kararlılığını artırdı / ikiye katladı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "whistleblower",
+            "tr": "kurum içi usulsüzlükleri ifşa eden kişi (ihbarcı)"
+          },
+          {
+            "en": "scrutiny",
+            "tr": "ayrıntılı inceleme, sıkı denetim"
+          },
+          {
+            "en": "absorbs the blowback",
+            "tr": "gelen tepkileri / ters tepkiyi göğüslemek"
+          },
+          {
+            "en": "compelled by",
+            "tr": "-e zorlanmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "commitments",
+            "tr": "taahhütler"
+          },
+          {
+            "en": "lawmakers",
+            "tr": "yasa koyucular"
+          },
+          {
+            "en": "alter",
+            "tr": "değiştirmek"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "enforcement provisions",
+            "tr": "yaptırım / uygulama hükümleri"
+          },
+          {
+            "en": "mandates",
+            "tr": "yasal zorunluluklar, talimatlar"
+          },
+          {
+            "en": "statutory liability",
+            "tr": "kanuni / yasal sorumluluk"
+          },
+          {
+            "en": "compliance violations",
+            "tr": "mevzuata uyum ihlalleri"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "subpoenas",
+            "tr": "mahkeme / komite celpleri"
+          },
+          {
+            "en": "alignment",
+            "tr": "hizalama (yapay zekânın insan değerleriyle uyumu)"
+          },
+          {
+            "en": "defections",
+            "tr": "ayrılmalar, saf değiştirmeler, müşteri kayıpları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+    "source_link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+    "what_happened": "Physicists in Vienna achieved a breakthrough in timekeeping by developing the first self-stabilizing nuclear clock based on thorium-229 transitions, potentially delivering precision far beyond modern atomic clocks.",
+    "event_type": "breakthrough in physical metrology",
+    "precedents": [
+      {
+        "when": "Mid-2000s to 2015",
+        "event": "Development and maturation of optical lattice clocks",
+        "wikipedia_title": "Optical clock",
+        "what_happened": "Physicists demonstrated strontium and ytterbium optical clocks that surpassed the precision of cesium microwave atomic standards by more than two orders of magnitude.",
+        "what_followed": "Despite proving far superior in laboratory benchmarks, the International Bureau of Weights and Measures (BIPM) took over a decade to establish comparison protocols, scheduling the formal SI second redefinition only for 2030—roughly 25 years after initial proof of concept.",
+        "similarity": "Same type of quantum timekeeping advance demonstrating revolutionary precision that challenges the reigning international frequency standard.",
+        "wiki": {
+          "title": "Atomic clock",
+          "url": "https://en.wikipedia.org/wiki/Atomic_clock",
+          "extract": "An atomic clock is a clock that measures time by monitoring the resonant frequency of atoms. It is based on the fact that atoms have quantised energy levels, and transitions between such levels are driven by very specific frequencies of electromagnetic radiation. This phenomenon "
+        }
+      },
+      {
+        "when": "1955",
+        "event": "Louis Essen builds the first practical cesium atomic clock",
+        "wikipedia_title": "Atomic clock",
+        "what_happened": "Louis Essen constructed the first operational cesium-133 frequency standard at the National Physical Laboratory, dramatically outperforming astronomical and quartz time standards.",
+        "what_followed": "It required 12 years of international cross-laboratory validation and treaty negotiations before the General Conference on Weights and Measures (CGPM) officially redefined the SI second using cesium in 1967.",
+        "similarity": "First working laboratory prototype of a new fundamental atomic frequency standard seeking to replace an entrenched global standard.",
+        "wiki": {
+          "title": "Atomic clock",
+          "url": "https://en.wikipedia.org/wiki/Atomic_clock",
+          "extract": "An atomic clock is a clock that measures time by monitoring the resonant frequency of atoms. It is based on the fact that atoms have quantised energy levels, and transitions between such levels are driven by very specific frequencies of electromagnetic radiation. This phenomenon "
+        }
+      }
+    ],
+    "pattern": "Laboratory demonstrations of next-generation physical frequency standards face a long operational lag; historically, transitioning from an initial working prototype to replacing established global metrology standards requires 12 to 25 years due to rigorous international cross-comparison and infrastructure compatibility requirements.",
+    "outlook": "The nuclear clock will be rapidly deployed for specialized laboratory physics tests (such as searching for dark matter and variations in fundamental constants), but it will not replace atomic clocks in commercial networks, GPS satellites, or international SI definitions within the next decade.",
+    "probability": "90-95%",
+    "timeframe": "next 10-15 years",
+    "confidence": "High",
+    "different_this_time": "Because thorium nuclear transitions occur inside the nucleus rather than outer electron shells, nuclear clocks may prove far more rugged and portable than delicate optical lattice clocks, potentially speeding up niche adoption in aerospace and defense.",
+    "watch_for": "Independent cross-laboratory replication of the stabilization mechanism, miniaturization into chip-scale laser platforms, and formal evaluation by the Consultative Committee for Time and Frequency (CCTF).",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Bilim insanları atom saatlerini demode kılabilecek bir nükleer saat üretti",
+        "Today": "Viyana'daki fizikçiler, toryum-229 geçişlerine dayanan ilk kendiliğinden kararlı nükleer saati geliştirerek zaman ölçümünde bir çığır açtı ve potansiyel olarak modern atom saatlerinin çok ötesinde bir hassasiyet sundu.",
+        "Event Type": "fiziksel metrolojide çığır açıcı gelişme",
+        "Historical Precedents": "2000'lerin ortası - 2015: Optik örgü saatlerinin geliştirilmesi ve olgunlaşması\n1955: Louis Essen ilk pratik sezyum atom saatini inşa etti",
+        "What Followed Before": "2000'lerin ortası - 2015: Laboratuvar karşılaştırmalarında çok daha üstün olduğunu kanıtlamasına rağmen, Uluslararası Ağırlıklar ve Ölçüler Bürosu'nun (BIPM) karşılaştırma protokollerini oluşturması on yıldan uzun sürdü ve resmi SI saniyesi yeniden tanımlamasını ancak 2030 yılına —ilk konsept kanıtından yaklaşık 25 yıl sonrasına— planlayabildi.\n1955: Ağırlıklar ve Ölçüler Genel Konferansı'nın (CGPM) 1967'de sezyum kullanarak SI saniyesini resmen yeniden tanımlamasından önce, uluslararası laboratuvarlar arası 12 yıllık doğrulama ve antlaşma müzakereleri gerekti.",
+        "Pattern": "Gelecek nesil fiziksel frekans standartlarının laboratuvar gösterimleri uzun bir operasyonel gecikmeyle karşılaşır; tarihsel olarak, titiz uluslararası çapraz karşılaştırmalar ve altyapı uyumluluk gereksinimleri nedeniyle, ilk çalışan prototipten yerleşik küresel metroloji standartlarının yerine geçişe kadar 12 ila 25 yıl gerekmektedir.",
+        "Outlook": "Nükleer saat, özel laboratuvar fiziği testleri için (karanlık madde arayışı ve temel sabitlerdeki değişimler gibi) hızla konuşlandırılacak; ancak önümüzdeki on yıl içinde ticari ağlarda, GPS uydularında veya uluslararası SI tanımlarında atom saatlerinin yerini almayacaktır.",
+        "Timeframe": "önümüzdeki 10-15 yıl",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Toryum nükleer geçişleri dış elektron kabukları yerine çekirdeğin içinde gerçekleştiğinden, nükleer saatlerin hassas optik örgü saatlerine kıyasla çok daha dayanıklı ve taşınabilir olduğu görülebilir; bu da havacılık, uzay ve savunma alanlarındaki niş benimsenmeyi potansiyel olarak hızlandırabilir.",
+        "Watch For": "Stabilizasyon mekanizmasının laboratuvarlar arası bağımsız replikasyonu, çip ölçekli lazer platformlarına minyatürizasyonu ve Zaman ve Frekans Danışma Komitesi (CCTF) tarafından resmi olarak değerlendirilmesi."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "nuclear clock",
+            "tr": "nükleer saat"
+          },
+          {
+            "en": "make obsolete",
+            "tr": "kullanım dışı / demode bırakmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "breakthrough",
+            "tr": "çığır açan gelişme, büyük buluş"
+          },
+          {
+            "en": "timekeeping",
+            "tr": "zaman ölçümü"
+          },
+          {
+            "en": "self-stabilizing",
+            "tr": "kendi kendini dengeleyen / kararlı kılan"
+          },
+          {
+            "en": "precision",
+            "tr": "hassasiyet, doğruluk"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "optical lattice",
+            "tr": "optik örgü"
+          },
+          {
+            "en": "maturation",
+            "tr": "olgunlaşma, yetkinleşme"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "benchmarks",
+            "tr": "performans kriterleri / kıyaslama testleri"
+          },
+          {
+            "en": "proof of concept",
+            "tr": "konsept kanıtı (fikrin işlerliğinin kanıtı)"
+          },
+          {
+            "en": "cross-laboratory validation",
+            "tr": "laboratuvarlar arası doğrulama"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "operational lag",
+            "tr": "operasyonel gecikme / zaman farkı"
+          },
+          {
+            "en": "rigorous",
+            "tr": "titiz, sıkı, tavizsiz"
+          },
+          {
+            "en": "infrastructure compatibility",
+            "tr": "altyapı uyumluluğu"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "deployed",
+            "tr": "konuşlandırılmış, uygulamaya geçirilmiş"
+          },
+          {
+            "en": "dark matter",
+            "tr": "karanlık madde"
+          },
+          {
+            "en": "fundamental constants",
+            "tr": "temel (fiziksel) sabitler"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "nucleus",
+            "tr": "çekirdek"
+          },
+          {
+            "en": "rugged",
+            "tr": "dayanıklı, zorlu koşullara uygun"
+          },
+          {
+            "en": "delicate",
+            "tr": "hassas, narin"
+          },
+          {
+            "en": "niche adoption",
+            "tr": "belirli/niş alanlarda benimsenme"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "replication",
+            "tr": "aynısını yapma, yeniden üretme (deneyi tekrarlama)"
+          },
+          {
+            "en": "miniaturization",
+            "tr": "minyatürleştirme, boyutları küçültme"
+          },
+          {
+            "en": "chip-scale",
+            "tr": "çip ölçeğinde"
+          }
+        ]
+      }
+    }
+  }
+]
