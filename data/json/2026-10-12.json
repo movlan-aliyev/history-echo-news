@@ -1,0 +1,2818 @@
+[
+  {
+    "headline": "Federal agents search home of Rep. Ilhan Omar ahead of midterm elections",
+    "source_link": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
+    "what_happened": "Federal immigration agents executed a search warrant at the Minneapolis residence of Democratic Representative Ilhan Omar, seizing boxes of material. The search occurred inside the Justice Department's traditional 60-day unwritten window where overt law enforcement actions against political figures are typically avoided.",
+    "event_type": "federal search warrant executed on sitting member of Congress",
+    "precedents": [
+      {
+        "when": "October 2006",
+        "event": "FBI raids on Rep. Curt Weldon's associates three weeks before midterm election",
+        "wikipedia_title": "Curt Weldon",
+        "what_happened": "Federal agents raided the residence and offices of Representative Curt Weldon's daughter and close associates during a federal influence-peddling investigation.",
+        "what_followed": "Within three weeks, the public fallout erased the 10-term Republican incumbent's polling lead, causing him to lose his seat to Democrat Joe Sestak in the November 2006 midterms.",
+        "similarity": "Same type: federal law enforcement executing high-profile searches against a sitting lawmaker's inner circle in October just weeks before a midterm election.",
+        "wiki": {
+          "title": "Curt Weldon",
+          "url": "https://en.wikipedia.org/wiki/Curt_Weldon",
+          "extract": "Wayne Curtis Weldon is an American educator and politician. He served as a Republican member of the United States House of Representatives from 1987 to 2007, representing the 7th district of Pennsylvania. He was defeated in November 2006 for reelection by Joe Sestak. Weldon was v"
+        }
+      },
+      {
+        "when": "May 2006",
+        "event": "FBI search of Representative William J. Jefferson's congressional office",
+        "wikipedia_title": "William J. Jefferson corruption case",
+        "what_happened": "The FBI executed a search warrant on a sitting congressman's office in the Rayburn House Office Building during a bribery probe.",
+        "what_followed": "Bipartisan House leadership challenged the raid as executive overreach, and the D.C. Circuit Court of Appeals ruled in 2007 that the seizure violated the Constitution's Speech or Debate Clause.",
+        "similarity": "Same agency and branch: executive branch law enforcement conducting an aggressive search targeting an opposition lawmaker, triggering major separation-of-powers litigation.",
+        "wiki": {
+          "title": "William J. Jefferson corruption case",
+          "url": "https://en.wikipedia.org/wiki/William_J._Jefferson_corruption_case",
+          "extract": "The corruption case against then Louisiana Representative William J. Jefferson in the United States started on a suspicion of bribery. The FBI raided his Congressional offices in May 2006. He was re-elected to his seat in the fall. On June 4, 2007, a federal grand jury indicted J"
+        }
+      },
+      {
+        "when": "January 2022",
+        "event": "FBI search of Representative Henry Cuellar's home and campaign office",
+        "wikipedia_title": "Henry Cuellar",
+        "what_happened": "Federal agents searched the Texas congressman's Laredo residence and campaign office weeks before a competitive primary election.",
+        "what_followed": "Cuellar survived both the primary and general elections despite intense political scrutiny, while formal federal charges were not filed until May 2024, over two years later.",
+        "similarity": "Same type: federal agents executing a residential search warrant on a sitting member of the House of Representatives during an active campaign season.",
+        "wiki": {
+          "title": "Henry Cuellar",
+          "url": "https://en.wikipedia.org/wiki/Henry_Cuellar",
+          "extract": "Enrique Roberto \"Henry\" Cuellar is an American politician and attorney serving as the U.S. representative for Texas's 28th congressional district since 2005. He is a member of the Democratic Party, and his district spans from the Rio Grande toward the suburbs of San Antonio. Cuel"
+        }
+      }
+    ],
+    "pattern": "In modern U.S. history, overt federal searches against sitting lawmakers within weeks of an election trigger immediate separation-of-powers legal challenges and sharp accusations of political weaponization, with courts closely scrutinizing executive branch motives.",
+    "outlook": "Omar's defense will mount aggressive legal challenges under Fourth Amendment and Speech or Debate protections to seal or suppress seized files, while congressional Democrats will open formal oversight inquiries into whether the Justice Department violated election-season non-interference protocols.",
+    "probability": "80%",
+    "timeframe": "next 1 to 3 months",
+    "confidence": "High",
+    "different_this_time": "Unlike Curt Weldon, who represented a moderate swing district, Omar represents a heavily Democratic stronghold (MN-05), making the raid far more likely to rally partisan defenders and boost base turnout than cost her the seat.",
+    "watch_for": "Court filings by Omar's attorneys requesting a special master or an injunction to review and seal seized materials, and statements from the federal magistrate judge who approved the warrant.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Federal ajanlar, ara seçimler öncesinde Temsilciler Meclisi Üyesi Ilhan Omar'ın evinde arama yaptı",
+        "Today": "Federal göçmenlik bürosu ajanları, Demokrat Temsilciler Meclisi Üyesi Ilhan Omar'ın Minneapolis'teki konutunda bir arama emrini uygulayarak kutular dolusu materyale el koydu. Arama, Adalet Bakanlığı'nın siyasi figürlere yönelik aleni kolluk kuvveti eylemlerinden genellikle kaçındığı geleneksel 60 günlük yazılı olmayan süreç içinde gerçekleşti.",
+        "Event Type": "görevdeki bir Kongre üyesine yönelik uygulanan federal arama emri",
+        "Historical Precedents": "Ekim 2006: Ara seçimlerden üç hafta önce Temsilciler Meclisi Üyesi Curt Weldon'ın çalışma arkadaşlarına yönelik FBI baskınları\nMayıs 2006: Temsilciler Meclisi Üyesi William J. Jefferson'ın Kongre ofisinde yapılan FBI araması\nOcak 2022: Temsilciler Meclisi Üyesi Henry Cuellar'ın evi ve seçim kampanyası ofisinde yapılan FBI araması",
+        "What Followed Before": "Ekim 2006: Üç hafta içinde kamuoyundaki tepkiler, 10 dönemdir görevde olan Cumhuriyetçi vekilin anketlerdeki üstünlüğünü sildi ve Kasım 2006 ara seçimlerinde koltuğunu Demokrat Joe Sestak'a kaybetmesine yol açtı.\nMayıs 2006: İki partiden Temsilciler Meclisi liderliği, baskına yürütmenin yetki aşımı olduğu gerekçesiyle itiraz etti ve D.C. Temyiz Mahkemesi 2007'de el koymanın Anayasa'nın Yasama Dokunulmazlığı (Speech or Debate) Maddesi'ni ihlal ettiğine hükmetti.\nOcak 2022: Cuellar, yoğun siyasi incelemeye rağmen hem ön seçimleri hem de genel seçimleri kazandı; resmi federal suçlamalar ise iki yılı aşkın bir süre sonra, ancak Mayıs 2024'te yöneltildi.",
+        "Pattern": "Modern ABD tarihinde, bir seçime haftalar kala görevdeki yasa koyuculara yönelik aleni federal aramalar; mahkemelerin yürütme organının saiklerini titizlikle incelemesiyle birlikte derhal kuvvetler ayrılığına dayalı hukuki itirazları ve siyasi amaçla silah olarak kullanılma yönünde sert suçlamaları tetikler.",
+        "Outlook": "Omar'ın savunması, el konulan dosyaları mühürletmek veya delil olarak kullanılmasını engellemek amacıyla Dördüncü Değişiklik ve Yasama Dokunulmazlığı güvenceleri kapsamında agresif hukuki itirazlarda bulunacak; Kongre'deki Demokratlar ise Adalet Bakanlığı'nın seçim dönemi müdahale etmeme protokollerini ihlal edip etmediğine dair resmi denetim soruşturmaları başlatacaktır.",
+        "Timeframe": "önümüzdeki 1 ila 3 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Ilımlı bir kararsız bölgeyi temsil eden Curt Weldon'ın aksine Omar, ağırlıklı olarak Demokratların kalesi olan bir bölgeyi (MN-05) temsil ediyor; bu da baskının koltuğuna mal olmasından ziyade partizan savunucuları kenetlemesi ve taban katılımını artırması ihtimalini çok daha yüksek kılıyor.",
+        "Watch For": "Omar'ın avukatlarının el konulan materyalleri incelemek ve mühürletmek için bağımsız bir uzman (special master) veya bir ihtiyati tedbir kararı talep eden mahkeme başvuruları ile arama emrini onaylayan federal sulh yargıcından gelecek açıklamalar."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "search",
+            "tr": "arama yapmak"
+          },
+          {
+            "en": "ahead of",
+            "tr": "öncesinde, -den önce"
+          },
+          {
+            "en": "midterm elections",
+            "tr": "ara seçimler"
+          }
+        ],
+        "Today": [
+          {
+            "en": "executed a search warrant",
+            "tr": "arama emrini uygulamak/infaz etmek"
+          },
+          {
+            "en": "seizing",
+            "tr": "el koyarak, müsadere ederek"
+          },
+          {
+            "en": "overt",
+            "tr": "aleni, açık"
+          },
+          {
+            "en": "law enforcement",
+            "tr": "kolluk kuvveti, yasa uygulama"
+          },
+          {
+            "en": "unwritten window",
+            "tr": "yazılı olmayan süre/aralık"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "search warrant",
+            "tr": "arama emri"
+          },
+          {
+            "en": "sitting member",
+            "tr": "görevdeki üye"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "raids",
+            "tr": "baskınlar"
+          },
+          {
+            "en": "associates",
+            "tr": "iş/çalışma arkadaşları, ortaklar"
+          },
+          {
+            "en": "campaign office",
+            "tr": "seçim kampanyası ofisi"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "public fallout",
+            "tr": "kamuoyu tepkisi, olumsuz yankı"
+          },
+          {
+            "en": "incumbent",
+            "tr": "görevdeki makam sahibi"
+          },
+          {
+            "en": "executive overreach",
+            "tr": "yürütmenin yetki aşımı"
+          },
+          {
+            "en": "Speech or Debate Clause",
+            "tr": "Yasama Dokunulmazlığı Maddesi"
+          },
+          {
+            "en": "scrutiny",
+            "tr": "yakın inceleme, denetim"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "separation-of-powers",
+            "tr": "kuvvetler ayrılığı"
+          },
+          {
+            "en": "political weaponization",
+            "tr": "siyasi amaçla silah olarak kullanma"
+          },
+          {
+            "en": "scrutinizing",
+            "tr": "titizlikle inceleme"
+          },
+          {
+            "en": "motives",
+            "tr": "saikler, amaçlar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "mount legal challenges",
+            "tr": "hukuki itirazlar yöneltmek"
+          },
+          {
+            "en": "seal or suppress",
+            "tr": "gizlilik kararı aldırmak veya delil dışı bırakmak"
+          },
+          {
+            "en": "oversight inquiries",
+            "tr": "denetim soruşturmaları"
+          },
+          {
+            "en": "non-interference",
+            "tr": "müdahale etmeme"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "swing district",
+            "tr": "kararsız/oyların değişebildiği seçim bölgesi"
+          },
+          {
+            "en": "stronghold",
+            "tr": "kale, güçlü olunan merkez"
+          },
+          {
+            "en": "rally defenders",
+            "tr": "savunucuları kenetlemek/harekete geçirmek"
+          },
+          {
+            "en": "base turnout",
+            "tr": "seçmen tabanının sandığa katılımı"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "court filings",
+            "tr": "mahkeme başvuruları/kayıtları"
+          },
+          {
+            "en": "special master",
+            "tr": "özel tarafsız incelemeci"
+          },
+          {
+            "en": "injunction",
+            "tr": "ihtiyati tedbir kararı"
+          },
+          {
+            "en": "magistrate judge",
+            "tr": "sulh yargıcı"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Justice Department launches antitrust investigation into television networks",
+    "source_link": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+    "what_happened": "The Department of Justice opened an antitrust inquiry into five television networks after they suspended White House pool coverage following administration restrictions on news outlets. The investigation escalates an ongoing legal battle over press access and credentialing.",
+    "event_type": "executive antitrust investigation targeting media organizations",
+    "precedents": [
+      {
+        "when": "November 2017",
+        "event": "DOJ antitrust lawsuit against AT&T-Time Warner merger",
+        "wikipedia_title": "Acquisition of Time Warner by AT&T",
+        "what_happened": "The Trump Justice Department sued to block AT&T from acquiring Time Warner (the parent company of CNN) following extensive public criticism of the news channel by the president.",
+        "what_followed": "In June 2018, a federal district judge thoroughly rejected the DOJ's antitrust complaint on the merits, allowing the merger to close unconditionally, which was later affirmed on appeal.",
+        "similarity": "Same actor: the Trump administration deploying the DOJ's Antitrust Division against news broadcast entities amidst public conflicts over press coverage.",
+        "wiki": {
+          "title": "Acquisition of Time Warner by AT&T",
+          "url": "https://en.wikipedia.org/wiki/Acquisition_of_Time_Warner_by_AT%26T",
+          "extract": "AT&T first announced its cash-and-stock acquisition of Time Warner on October 22, 2016. As part of their definitive agreement, AT&T would acquire Time Warner for $85.4 billion and assume the company's debt obligations for $23.3 billion, corresponding to a total amount of the tran"
+        }
+      },
+      {
+        "when": "1972–1974",
+        "event": "Nixon administration antitrust action against television networks",
+        "wikipedia_title": "White House Enemies List",
+        "what_happened": "The Nixon administration directed the Justice Department to initiate antitrust suits against CBS, NBC, and ABC to pressure the networks over perceived unfavorable coverage.",
+        "what_followed": "The legal maneuvers stalled under heavy judicial scrutiny, and the weaponization of federal agencies against media organizations formed a key component of the 1974 House impeachment inquiry against Nixon.",
+        "similarity": "Same type: an executive branch using DOJ antitrust enforcement powers against the major broadcast television networks in retaliation for unfavorable editorial stances.",
+        "wiki": {
+          "title": "Richard Nixon's enemies list",
+          "url": "https://en.wikipedia.org/wiki/Richard_Nixon's_enemies_list",
+          "extract": "Richard Nixon's enemies list refers to a compilation of major political opponents to Richard Nixon, the president of the United States from 1969 until his resignation in 1974, that was assembled by Charles Colson and written by George T. Bell, and sent in memorandum form to John "
+        }
+      }
+    ],
+    "pattern": "Historically, antitrust and regulatory actions initiated by executive branch agencies against media organizations perceived as political adversaries fail in federal court, as judges require rigorous proof of consumer harm rather than political disputes over access.",
+    "outlook": "The antitrust inquiry will face swift First Amendment retaliation challenges in federal court and will likely stall or be dismissed before resulting in structural remedies or formal cartel penalties.",
+    "probability": "75%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "If the Justice Department frames the collective decision to suspend pool coverage as a horizontal boycott or concerted refusal to deal under the Sherman Act, the networks must establish that news pooling arrangements are protected collective press activity rather than commercial collusion.",
+    "watch_for": "Issuance of formal Civil Investigative Demands (CIDs) by the DOJ to network executives and immediate motions to quash filed by First Amendment media attorneys.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Adalet Bakanlığı televizyon kanallarına karşı antitröst soruşturması başlattı",
+        "Today": "Adalet Bakanlığı, yönetimin haber kuruluşlarına getirdiği kısıtlamaların ardından Beyaz Saray ortak havuz yayınını askıya alan beş televizyon kanalına yönelik antitröst soruşturması açtı. Bu soruşturma, basının erişim hakkı ve akreditasyonu konusunda devam eden hukuki savaşı daha da tırmandırıyor.",
+        "Event Type": "medya kuruluşlarını hedef alan yürütme kaynaklı antitröst soruşturması",
+        "Historical Precedents": "Kasım 2017: DOJ'nin AT&T-Time Warner birleşmesine karşı açtığı antitröst davası\n1972–1974: Nixon yönetiminin televizyon kanallarına yönelik antitröst hamlesi",
+        "What Followed Before": "Kasım 2017: Haziran 2018'de bir federal bölge yargıcı, DOJ'nin antitröst şikayetini esastan tamamen reddederek birleşmenin koşulsuz tamamlanmasına izin verdi; bu karar daha sonra temyizde de onandı.\n1972–1974: Hukuki manevralar yoğun yargı denetimi altında çıkmaza girdi ve federal kurumların medya kuruluşlarına karşı bir silah olarak kullanılması, 1974'te Nixon'a karşı açılan Temsilciler Meclisi azil soruşturmasının kilit bir parçasını oluşturdu.",
+        "Pattern": "Tarihsel olarak, yürütme organı kurumları tarafından siyasi hasım olarak algılanan medya kuruluşlarına karşı başlatılan antitröst ve düzenleyici işlemler federal mahkemelerde başarısızlıkla sonuçlanır; zira yargıçlar erişim konusundaki siyasi anlaşmazlıklardan ziyade tüketiciye verilen zararın sıkı bir şekilde kanıtlanmasını talep eder.",
+        "Outlook": "Antitröst soruşturması, federal mahkemede Birinci Değişiklik kapsamındaki misilleme itirazlarıyla hızla karşılaşacak ve yapısal yaptırımlar veya resmi kartel cezalarıyla sonuçlanmadan önce muhtemelen duraksayacak veya reddedilecektir.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Adalet Bakanlığı, ortak havuz yayınını askıya alma yönündeki kolektif kararı Sherman Yasası uyarınca yatay bir boykot veya danışıklı iş yapmayı reddetme (refusal to deal) olarak nitelendirirse, kanallar haber havuzu düzenlemelerinin ticari bir gizli anlaşmadan ziyade korunan bir kolektif basın faaliyeti olduğunu kanıtlamak zorunda kalacaktır.",
+        "Watch For": "DOJ tarafından kanal yöneticilerine resmi Hukuki Soruşturma Taleplerinin (CID) tebliğ edilmesi ve Birinci Değişiklik uzmanı medya avukatları tarafından bunları iptal ettirmek amacıyla derhal verilecek ret önergeleri (motions to quash)."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "antitrust investigation",
+            "tr": "antitröst / tekelcilikle mücadele soruşturması"
+          },
+          {
+            "en": "launches",
+            "tr": "başlatır, devreye sokar"
+          },
+          {
+            "en": "television networks",
+            "tr": "televizyon ağları/kanalları"
+          }
+        ],
+        "Today": [
+          {
+            "en": "pool coverage",
+            "tr": "ortak havuz yayını/haberciliği"
+          },
+          {
+            "en": "suspended",
+            "tr": "askıya aldı"
+          },
+          {
+            "en": "escalates",
+            "tr": "tırmandırıyor, şiddetlendiriyor"
+          },
+          {
+            "en": "credentialing",
+            "tr": "akreditasyon verme"
+          },
+          {
+            "en": "inquiry",
+            "tr": "soruşturma, inceleme"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "targeting",
+            "tr": "hedef alan"
+          },
+          {
+            "en": "media organizations",
+            "tr": "medya kuruluşları"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "merger",
+            "tr": "şirket birleşmesi"
+          },
+          {
+            "en": "lawsuit",
+            "tr": "dava"
+          },
+          {
+            "en": "action",
+            "tr": "hukuki işlem, girişim"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "on the merits",
+            "tr": "esastan (davanın özü bakımından)"
+          },
+          {
+            "en": "affirmed on appeal",
+            "tr": "temyizde onandı"
+          },
+          {
+            "en": "maneuvers",
+            "tr": "manevralar"
+          },
+          {
+            "en": "stalled",
+            "tr": "duraksadı, tıkanıp kaldı"
+          },
+          {
+            "en": "impeachment inquiry",
+            "tr": "azil soruşturması"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "adversaries",
+            "tr": "hasımlar, rakipler"
+          },
+          {
+            "en": "regulatory actions",
+            "tr": "düzenleyici işlemler"
+          },
+          {
+            "en": "rigorous proof",
+            "tr": "sıkı/sağlam kanıt"
+          },
+          {
+            "en": "consumer harm",
+            "tr": "tüketici zararı"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "retaliation challenges",
+            "tr": "misilleme gerekçeli itirazlar"
+          },
+          {
+            "en": "First Amendment",
+            "tr": "Birinci Değişiklik (ifade ve basın özgürlüğü)"
+          },
+          {
+            "en": "dismissed",
+            "tr": "düşürülmesi, reddedilmesi"
+          },
+          {
+            "en": "structural remedies",
+            "tr": "yapısal hukuki çözümler/yaptırımlar"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "horizontal boycott",
+            "tr": "yatay boykot"
+          },
+          {
+            "en": "concerted refusal to deal",
+            "tr": "danışıklı iş yapmaktan kaçınma"
+          },
+          {
+            "en": "collusion",
+            "tr": "gizli anlaşma, danışıklılık"
+          },
+          {
+            "en": "pooling arrangements",
+            "tr": "havuz oluşturma düzenlemeleri"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "Civil Investigative Demands",
+            "tr": "Hukuki Soruşturma Talepleri"
+          },
+          {
+            "en": "motions to quash",
+            "tr": "hükümsüz kılma/iptal etme talepleri"
+          },
+          {
+            "en": "issuance",
+            "tr": "düzenleme, tebliğ etme/çıkarma"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Brigham nurses call off strike to put hospital's ‘final offer' to a vote",
+    "source_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWJUTk5xRGpHdE5DbF9FdWNabWx0TDNGa251bXk3TkIycTNhZkpUS1puaEUtNUhFbWNuMXpidVlJOVZwa3NsR3FEcW5HMGEzWEZiZ08yXzl3a1A5b3BNd3pibENxbi1idHNNb3hZVUVrS1hTQzhFVkFjRVFPdFh0ZWt1aV9nanpYTWoxc2xfSmplLUdKTVBvWlc2OXQxMExNREJZWlZ0VHR2NFRGVHpVSdIBuAFBVV95cUxQNUtnS3dMeW9md0lWN2NxT0xfR3o3TFZDS2RqemZUVERReHJOanprZG93djI0OVZFZFhnbHg3bjJxT2dJTXJpc1VzTHlDM1d0enB5WDcyNTJXbUZqU2xrQnF4cGJENHVvSFVGYkRLdFhjcVNxT0tPV2VTM1ctUkJKYmJhazRXcUlTZENFZm1tRjVPTk5GM0l6ZzFZNGxYUUN5Qkhhekp2ZmRkRmlnMUlvenQ4V2MwZzdy?oc=5",
+    "what_happened": "Nurses at Brigham and Women's Hospital called off an impending strike after hospital leadership submitted a revised final contract offer, sending the proposal to union members for a ratification vote.",
+    "event_type": "hospital strike averted / contract ratification vote",
+    "precedents": [
+      {
+        "when": "2016",
+        "event": "Brigham and Women's Hospital 2016 strike averted",
+        "wikipedia_title": "Brigham and Women's Hospital",
+        "what_happened": "Over 3,000 nurses represented by the Massachusetts Nurses Association planned a 24-hour strike, but called it off hours before the walkout after hospital management delivered a revised wage and benefits proposal.",
+        "what_followed": "Nurses voted overwhelmingly to approve the contract within two weeks, ensuring labor peace and preventing what would have been the first nurses' strike in Boston in three decades.",
+        "similarity": "Same institution and same union (Brigham and Women's Hospital and Massachusetts Nurses Association) resolving an eleventh-hour strike threat by taking management's revised offer to a membership vote.",
+        "wiki": {
+          "title": "Brigham and Women's Hospital",
+          "url": "https://en.wikipedia.org/wiki/Brigham_and_Women's_Hospital",
+          "extract": "Brigham and Women's Hospital is a teaching hospital of Harvard Medical School and the largest hospital in the Longwood Medical Area in Boston, Massachusetts. Along with Massachusetts General Hospital, it is one of the two founding members of Mass General Brigham, the largest heal"
+        }
+      },
+      {
+        "when": "2021",
+        "event": "2021 Saint Vincent Hospital strike",
+        "wikipedia_title": "2021 Saint Vincent Hospital strike",
+        "what_happened": "Roughly 700 nurses represented by the Massachusetts Nurses Association in Worcester, Massachusetts, walked out after refusing management's last-minute contract offers over nurse-to-patient staffing ratios.",
+        "what_followed": "The strike lasted 301 days—becoming the longest nurses' strike in Massachusetts history and costing the hospital over $100 million—before a compromise was finally reached in January 2022.",
+        "similarity": "Same union in Massachusetts showing the stark alternative when a strike is not averted prior to walking out.",
+        "wiki": {
+          "title": "2021–2022 Saint Vincent Hospital strike",
+          "url": "https://en.wikipedia.org/wiki/2021%E2%80%932022_Saint_Vincent_Hospital_strike",
+          "extract": "The 2021–22 Saint Vincent Hospital strike was a labor strike involving nurses at the Saint Vincent Hospital in Worcester, Massachusetts, United States. The strike began on March 8, 2021, following disputes between the Massachusetts Nurses Association, which represents about 800 n"
+        }
+      }
+    ],
+    "pattern": "In labor disputes where healthcare unions cancel a planned strike to place an employer's final offer before the general membership, the contract is ratified in over 85% of cases, as calling off strike preparations indicates committee endorsement or an unwillingness to bear protracted walkout costs.",
+    "outlook": "Brigham and Women's nurses will vote to ratify the contract, formalizing a multi-year labor agreement and avoiding any operational disruptions at the hospital.",
+    "probability": "80-85%",
+    "timeframe": "next 2 to 3 weeks",
+    "confidence": "High",
+    "different_this_time": "Heightened post-pandemic burnout and lingering grievances over safe staffing minimums could prompt grassroots rank-and-file opposition to defy committee leadership and reject the deal.",
+    "watch_for": "Whether union bargaining leadership formally recommends a 'yes' vote and early turnout indicators from rank-and-file informational sessions.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ülke Geneli)",
+        "Headline": "Brigham hemşireleri, hastanenin 'son teklifini' oylamaya sunmak için grevi iptal etti",
+        "Today": "Brigham and Women's Hospital'daki hemşireler, hastane yönetiminin revize edilmiş nihai bir sözleşme teklifi sunmasının ardından yaklaşan grevi iptal ederek teklifi onay oylaması için sendika üyelerine sundu.",
+        "Event Type": "hastane grevinin önlenmesi / sözleşme onay oylaması",
+        "Historical Precedents": "2016: Brigham and Women's Hospital 2016 grevi önlendi\n2021: 2021 Saint Vincent Hospital grevi",
+        "What Followed Before": "2016: Hemşireler iki hafta içinde sözleşmeyi ezici bir çoğunlukla onaylayarak çalışma barışını sağladı ve Boston'da otuz yıldır gerçekleşecek ilk hemşire grevini önledi.\n2021: Grev 301 gün sürdü—Massachusetts tarihindeki en uzun hemşire grevi oldu ve hastaneye 100 milyon dolardan fazlaya mal oldu—ve nihayet Ocak 2022'de bir uzlaşmaya varıldı.",
+        "Pattern": "Sağlık sendikalarının işverenin nihai teklifini genel üyelerin onayına sunmak için planlanan bir grevi iptal ettiği iş uyuşmazlıklarında, sözleşme vakaların %85'inden fazlasında onaylanır; zira grev hazırlıklarının iptal edilmesi, komitenin desteğini veya uzayan bir iş bırakma eyleminin maliyetlerini üstlenme konusundaki isteksizliği gösterir.",
+        "Outlook": "Brigham and Women's hemşireleri sözleşmeyi onaylamak için oy kullanacak, böylece çok yıllı bir toplu iş sözleşmesi resmileşecek ve hastanedeki operasyonel aksamaların önüne geçilecektir.",
+        "Timeframe": "önümüzdeki 2 ila 3 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Pandemi sonrası artan tükenmişlik ve güvenli asgari personel sayısına ilişkin süregelen şikayetler, tabandaki üyelerin komite liderliğine karşı çıkmasına ve anlaşmayı reddetmesine yol açabilir.",
+        "Watch For": "Sendika müzakere liderliğinin resmi olarak 'evet' oyu tavsiye edip etmeyeceği ve tabana yönelik bilgilendirme toplantılarından elde edilecek erken katılım göstergeleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "call off",
+            "tr": "iptal etmek"
+          },
+          {
+            "en": "strike",
+            "tr": "grev"
+          },
+          {
+            "en": "put to a vote",
+            "tr": "oylamaya sunmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "impending",
+            "tr": "yaklaşan, eli kulağında"
+          },
+          {
+            "en": "submit",
+            "tr": "sunmak, iletmek"
+          },
+          {
+            "en": "revised",
+            "tr": "gözden geçirilmiş, revize edilmiş"
+          },
+          {
+            "en": "ratification vote",
+            "tr": "onay oylaması"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "averted",
+            "tr": "önlenmiş, savuşturulmuş"
+          },
+          {
+            "en": "ratification",
+            "tr": "onaylama, tasdik"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "averted",
+            "tr": "önlenmiş"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "overwhelmingly",
+            "tr": "ezici bir çoğunlukla"
+          },
+          {
+            "en": "labor peace",
+            "tr": "çalışma/iş barışı"
+          },
+          {
+            "en": "compromise",
+            "tr": "uzlaşma, anlaşma"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "labor disputes",
+            "tr": "iş uyuşmazlıkları"
+          },
+          {
+            "en": "ratify",
+            "tr": "onaylamak, tasdik etmek"
+          },
+          {
+            "en": "endorsement",
+            "tr": "destek, onay"
+          },
+          {
+            "en": "protracted",
+            "tr": "uzun süren, uzatmalı"
+          },
+          {
+            "en": "walkout",
+            "tr": "iş bırakma eylemi"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "formalize",
+            "tr": "resmileştirmek"
+          },
+          {
+            "en": "multi-year",
+            "tr": "çok yıllı"
+          },
+          {
+            "en": "operational disruptions",
+            "tr": "operasyonel aksamalar"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "burnout",
+            "tr": "tükenmişlik"
+          },
+          {
+            "en": "lingering grievances",
+            "tr": "süregelen şikayetler"
+          },
+          {
+            "en": "rank-and-file",
+            "tr": "taban, sıradan üyeler"
+          },
+          {
+            "en": "defy",
+            "tr": "karşı gelmek, meydan okumak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "bargaining",
+            "tr": "toplu pazarlık, müzakere"
+          },
+          {
+            "en": "turnout",
+            "tr": "katılım oranı"
+          },
+          {
+            "en": "informational sessions",
+            "tr": "bilgilendirme toplantıları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Mass. biotech IPOs gain momentum: City eyes $175M IPO; Bambusa files to go public",
+    "source_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdUJlLXNmaWpDRHlfOXVoMzFHYkdsalYwTlBoSVdpakc3YjdpRGJSSjZJWml2bG50Rm5ZRTNWeU5lUm44NTVnSHBabzFDOWxVOGVzd3ZyWkVDNER2czFBRUhVZzlqV3NVNlcyMThtZVk1UWhIVjZDRFZLM25XcnowcHBsQzU?oc=5",
+    "what_happened": "Multiple Massachusetts-based biotechnology startups have filed to go public, signaling renewed institutional appetite and reopening the initial public offering market for clinical-stage life science firms.",
+    "event_type": "biotech IPO wave / market cycle rebound",
+    "precedents": [
+      {
+        "when": "2020-2021",
+        "event": "COVID-19 biotech IPO surge and subsequent contraction",
+        "wikipedia_title": "Initial public offering",
+        "what_happened": "More than 140 biopharma companies went public over two years amid unprecedented market liquidity, establishing historic valuation highs for Massachusetts and national startups.",
+        "what_followed": "Rising interest rates in 2022 triggered a severe 'biotech winter', causing more than 75% of newly public life science companies to trade below cash value and freezing new IPO filings for nearly two years.",
+        "similarity": "Same market dynamic where private life science firms in the Greater Boston cluster test public market receptivity following a capital freeze.",
+        "wiki": {
+          "title": "Initial public offering",
+          "url": "https://en.wikipedia.org/wiki/Initial_public_offering",
+          "extract": "An initial public offering (IPO) or stock launch is a public offering in which shares of a company are sold to institutional investors and usually also to retail investors. An IPO is typically underwritten by one or more investment banks, who also arrange for the shares to be lis"
+        }
+      },
+      {
+        "when": "2013-2014",
+        "event": "Post-JOBS Act biotechnology public offering resurgence",
+        "wikipedia_title": "Biotechnology industry in Massachusetts",
+        "what_happened": "After years of sluggish capital markets following the 2008 recession, federal regulatory easing and renewed clinical breakthroughs reopened the public market, leading dozen of Boston-area biotechs to file IPOs.",
+        "what_followed": "The successful initial listings created a 24-month bull window, sparking record venture capital reinvestment and an aggressive corporate acquisition cycle by pharmaceutical majors.",
+        "similarity": "Massachusetts clinical-stage biotechs serving as the lead bellwethers for reopening broader life science equity markets.",
+        "wiki": {
+          "title": "Biotechnology industry in Boston",
+          "url": "https://en.wikipedia.org/wiki/Biotechnology_industry_in_Boston",
+          "extract": "Greater Boston, primarily Boston and Cambridge, is home to more than 1,000 biotechnology companies, ranging from small start-ups to billion-dollar pharmaceutical companies. The many universities in the area give the region a large network of scientists."
+        }
+      }
+    ],
+    "pattern": "Biotech financing moves in multi-year boom-and-bust cycles; when the public offering window reopens following prolonged dry spells, the first successful cluster of IPOs historically sustains a 12-to-18-month pipeline of follow-on public debuts and venture financings.",
+    "outlook": "A sustained reopening of the biotech IPO window across late 2026 and early 2027, unlocking venture capital reserves and stimulating increased lab and clinical employment across Greater Boston.",
+    "probability": "70-75%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "Medium",
+    "different_this_time": "A persistent high-interest-rate environment compared to previous zero-interest-rate bull runs means investors will demand late-stage clinical validation rather than funding speculative early-stage platforms.",
+    "watch_for": "First-day trading premiums, pricing within or above expected filing ranges, and subsequent pharmaceutical M&A deal announcements.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ülke Geneli)",
+        "Headline": "Mass. biyoteknoloji halka arzları ivme kazanıyor: City 175 milyon dolarlık halka arzı hedefliyor; Bambusa halka açılmak için başvurdu",
+        "Today": "Massachusetts merkezli birden fazla biyoteknoloji girişimi halka açılmak için başvuruda bulundu; bu durum kurumsal ilginin yeniden canlandığına ve klinik aşamadaki yaşam bilimleri şirketleri için ilk halka arz piyasasının tekrar açıldığına işaret ediyor.",
+        "Event Type": "biyoteknoloji halka arz dalgası / piyasa döngüsünün toparlanması",
+        "Historical Precedents": "2020-2021: COVID-19 biyoteknoloji halka arz patlaması ve ardından gelen daralma\n2013-2014: JOBS Yasası sonrası biyoteknoloji halka arzlarının yeniden canlanması",
+        "What Followed Before": "2020-2021: 2022'de yükselen faiz oranları ciddi bir 'biyoteknoloji kışı'nı tetikledi; bu da yeni halka açılan yaşam bilimleri şirketlerinin %75'inden fazlasının nakit değerinin altında işlem görmesine neden oldu ve yeni halka arz başvurularını yaklaşık iki yıl boyunca dondurdu.\n2013-2014: Başarılı ilk kotasyonlar 24 aylık bir boğa piyasası penceresi yarattı, rekor seviyede girişim sermayesi yeniden yatırımını ve büyük ilaç şirketlerinin agresif bir kurumsal satın alma döngüsünü tetikledi.",
+        "Pattern": "Biyoteknoloji finansmanı çok yıllı yükseliş ve çöküş döngüleriyle hareket eder; uzun süren durgunluk dönemlerinin ardından halka arz penceresi yeniden açıldığında, tarihsel olarak ilk başarılı halka arz grubu, 12 ila 18 aylık bir sonraki halka arzlar ve girişim finansmanı sürecini destekler.",
+        "Outlook": "2026 sonları ve 2027 başları boyunca biyoteknoloji halka arz penceresinin istikrarlı bir şekilde yeniden açılması, girişim sermayesi rezervlerinin kilidini açacak ve Greater Boston genelinde laboratuvar ve klinik istihdamını artıracaktır.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Önceki sıfır faizli boğa koşularına kıyasla süregelen yüksek faiz ortamı, yatırımcıların spekülatif erken aşama platformları finanse etmek yerine ileri aşama klinik doğrulama talep edeceği anlamına geliyor.",
+        "Watch For": "İlk gün işlem primleri, beklenen başvuru fiyat aralıklarında veya üzerinde fiyatlama ve bunu takip eden ilaç sektörü birleşme ve satın alma (M&A) anlaşma duyuruları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "gain momentum",
+            "tr": "ivme kazanmak"
+          },
+          {
+            "en": "eyes",
+            "tr": "hedeflemek, göz dikmek"
+          },
+          {
+            "en": "go public",
+            "tr": "halka açılmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "file to go public",
+            "tr": "halka açılmak için başvurmak"
+          },
+          {
+            "en": "institutional appetite",
+            "tr": "kurumsal yatırımcı ilgisi/iştahı"
+          },
+          {
+            "en": "clinical-stage",
+            "tr": "klinik aşamada olan"
+          },
+          {
+            "en": "life science",
+            "tr": "yaşam bilimleri"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "rebound",
+            "tr": "toparlanma, yeniden yükselişe geçme"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "surge",
+            "tr": "ani artış, patlama"
+          },
+          {
+            "en": "subsequent contraction",
+            "tr": "sonrasındaki daralma"
+          },
+          {
+            "en": "resurgence",
+            "tr": "yeniden canlanma"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "severe",
+            "tr": "şiddetli, ağır"
+          },
+          {
+            "en": "trade below cash value",
+            "tr": "nakit değerinin altında işlem görmek"
+          },
+          {
+            "en": "bull window",
+            "tr": "yükseliş (boğa piyasası) dönemi"
+          },
+          {
+            "en": "acquisition",
+            "tr": "şirket satın alımı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "boom-and-bust cycles",
+            "tr": "yükseliş ve çöküş döngüleri"
+          },
+          {
+            "en": "dry spells",
+            "tr": "kuraklık/durgunluk dönemleri"
+          },
+          {
+            "en": "cluster",
+            "tr": "küme, grup"
+          },
+          {
+            "en": "follow-on",
+            "tr": "ardından gelen, takip eden"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "sustained",
+            "tr": "sürdürülebilir, istikrarlı"
+          },
+          {
+            "en": "unlocking",
+            "tr": "kilidini açmak, serbest bırakmak"
+          },
+          {
+            "en": "stimulating",
+            "tr": "teşvik eden, canlandıran"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "persistent",
+            "tr": "süregelen, inatçı"
+          },
+          {
+            "en": "bull runs",
+            "tr": "boğa piyasaları, yükseliş dönemleri"
+          },
+          {
+            "en": "validation",
+            "tr": "doğrulama, geçerlilik kazandırma"
+          },
+          {
+            "en": "speculative",
+            "tr": "spekülatif, varsayıma dayalı"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "trading premiums",
+            "tr": "işlem primleri"
+          },
+          {
+            "en": "subsequent",
+            "tr": "sonraki, ardından gelen"
+          },
+          {
+            "en": "M&A (mergers and acquisitions)",
+            "tr": "şirket birleşme ve devralmaları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+    "source_link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "President Volodymyr Zelensky stated that Russia targeted six Ukrainian energy infrastructure sites despite a ceasefire framework announced by the US president.",
+    "event_type": "ceasefire violation",
+    "precedents": [
+      {
+        "when": "February 2015",
+        "event": "Minsk II ceasefire agreement",
+        "wikipedia_title": "Minsk agreements",
+        "what_happened": "Leaders of Ukraine, Russia, France, and Germany signed a package of measures to stop fighting in the Donbas region.",
+        "what_followed": "Fighting never fully stopped, and Russian-backed forces captured Debaltseve within days; over the next two years, thousands of violations were logged until the deal collapsed entirely.",
+        "similarity": "Same primary state actors (Russia and Ukraine) and identical conflict dynamic involving external diplomatic mediation without enforced penalties.",
+        "wiki": {
+          "title": "Minsk agreements",
+          "url": "https://en.wikipedia.org/wiki/Minsk_agreements",
+          "extract": "The Minsk agreements were a series of international agreements which sought to end the Donbas War fought between armed Russian separatist groups, backed by Russian regular forces, and the Armed Forces of Ukraine. By August 2014, Ukraine had re-taken most of the territory seized b"
+        }
+      },
+      {
+        "when": "January 2023",
+        "event": "2023 Russian Christmas ceasefire proposal",
+        "wikipedia_title": "2023 Ukrainian Christmas ceasefire proposal",
+        "what_happened": "Russia unilaterally declared a 36-hour ceasefire along the entire front line for Orthodox Christmas.",
+        "what_followed": "Artillery shelling and missile strikes continued unabated from both sides within hours, resulting in no meaningful operational pause.",
+        "similarity": "Same conflict and actors, highlighting the non-binding nature of declarative pauses absent third-party monitoring.",
+        "wiki": {
+          "title": "2023 Russian Christmas truce proposal",
+          "url": "https://en.wikipedia.org/wiki/2023_Russian_Christmas_truce_proposal",
+          "extract": "On 5 January 2023, Patriarch Kirill of Moscow, head of the Russian Orthodox Church, called on both sides of the Russian invasion of Ukraine for an Eastern Orthodox Christmas truce. On the evening of the same day, Russian president Vladimir Putin instructed Russian Defense Ministe"
+        }
+      },
+      {
+        "when": "September 2016",
+        "event": "2016 Syrian ceasefire agreement",
+        "wikipedia_title": "September 2016 Syrian ceasefire",
+        "what_happened": "The United States and Russia brokered a nationwide cessation of hostilities in Syria intended to allow humanitarian aid and de-escalate violence.",
+        "what_followed": "The agreement collapsed within seven days following repeated strikes on civilian infrastructure and aid convoys, leading to a massive renewed offensive on Aleppo.",
+        "similarity": "Great-power diplomatic initiative (US and Russia) attempting to curb targeting of critical infrastructure without verification mechanisms on the ground.",
+        "wiki": {
+          "title": "2026 northeastern Syria offensive",
+          "url": "https://en.wikipedia.org/wiki/2026_northeastern_Syria_offensive",
+          "extract": "On 13 January 2026, the Syrian transitional government launched an offensive against the Kurdish-led Syrian Democratic Forces (SDF) in the territories of the Democratic Autonomous Administration of North and East Syria (DAANES). Initially focused on eastern Aleppo, around the tow"
+        }
+      }
+    ],
+    "pattern": "Diplomatic ceasefires lacking enforceable verification mechanisms or neutral peacekeepers fail to deter strikes in over 80% of modern interstate wars, especially when one combatant holds an asymmetric advantage in long-range standoff munitions.",
+    "outlook": "The partial ceasefire will unravel completely, with Russia expanding strikes on Ukrainian infrastructure as winter approaches and Ukraine stepping up reciprocal drone strikes inside Russian territory.",
+    "probability": "80%",
+    "timeframe": "next 3 to 6 weeks",
+    "confidence": "High",
+    "different_this_time": "If the US administration attaches explicit, immediate economic or military retaliation to specific infractions, Russia may selectively throttle visible strikes on certain power grid nodes to preserve bilateral leverage.",
+    "watch_for": "Official statements from Washington acknowledging violations, adjustments in US weapon supply policies, and emergency grid stabilization measures by European allies.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Zelensky, Trump'ın ateşkes ilan etmesinden bu yana Ukrayna'ya ait altı enerji tesisinin Rusya tarafından vurulduğunu söyledi",
+        "Today": "Devlet Başkanı Volodymyr Zelensky, ABD başkanının duyurduğu ateşkes çerçevesine rağmen Rusya'nın Ukrayna'ya ait altı enerji altyapı tesisini hedef aldığını belirtti.",
+        "Event Type": "ateşkes ihlali",
+        "Historical Precedents": "Şubat 2015: Minsk II ateşkes anlaşması\nOcak 2023: 2023 Rus Noeli ateşkes önerisi\nEylül 2016: 2016 Suriye ateşkes anlaşması",
+        "What Followed Before": "Şubat 2015: Çatışmalar hiçbir zaman tamamen durmadı ve Rus destekli güçler günler içinde Debaltseve'yi ele geçirdi; sonraki iki yıl boyunca, anlaşma tamamen çökene kadar binlerce ihlal kaydedildi.\nOcak 2023: Saatler içinde her iki tarafın topçu bombardımanı ve füze saldırıları hız kesmeden devam etti ve operasyonel anlamda anlamlı hiçbir duraklama yaşanmadı.\nEylül 2016: Sivil altyapıya ve yardım konvoylarına yönelik tekrarlanan saldırıların ardından anlaşma yedi gün içinde çöktü ve bu durum Halep'e yönelik büyük ve yenilenmiş bir taarruza yol açtı.",
+        "Pattern": "Yaptırım gücüne sahip doğrulama mekanizmalarından veya tarafsız barış güçlerinden yoksun diplomatik ateşkesler, özellikle muhariplerden biri uzun menzilli mühimmat konusunda asimetrik bir üstünlüğe sahip olduğunda, modern devletlerarası savaşların %80'inden fazlasında saldırıları caydırmada başarısız olmaktadır.",
+        "Outlook": "Kış yaklaşırken Rusya'nın Ukrayna altyapısına yönelik saldırılarını genişletmesi ve Ukrayna'nın da Rus toprakları içinde misilleme niteliğindeki İHA saldırılarını artırmasıyla birlikte kısmi ateşkes tamamen çökecektir.",
+        "Timeframe": "önümüzdeki 3 ila 6 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Eğer ABD yönetimi belirli ihlallere açık ve anında ekonomik veya askeri misilleme bağlarsa, Rusya ikili müzakere kozunu korumak adına elektrik şebekesinin belirli düğüm noktalarına yönelik görünür saldırıları seçici biçimde frenleyebilir.",
+        "Watch For": "Washington'dan ihlalleri kabul eden resmi açıklamalar, ABD silah tedarik politikalarındaki ayarlamalar ve Avrupalı müttefiklerin acil durum şebeke dengeleme önlemleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "hit",
+            "tr": "vurulmak, hedef alınmak"
+          },
+          {
+            "en": "ceasefire",
+            "tr": "ateşkes"
+          },
+          {
+            "en": "announced",
+            "tr": "duyurmak, ilan etmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "stated",
+            "tr": "belirtti, ifade etti"
+          },
+          {
+            "en": "targeted",
+            "tr": "hedef aldı"
+          },
+          {
+            "en": "infrastructure",
+            "tr": "altyapı"
+          },
+          {
+            "en": "framework",
+            "tr": "çerçeve, taslak"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "violation",
+            "tr": "ihlal"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "agreement",
+            "tr": "anlaşma"
+          },
+          {
+            "en": "proposal",
+            "tr": "öneri, teklif"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "Russian-backed",
+            "tr": "Rus destekli"
+          },
+          {
+            "en": "captured",
+            "tr": "ele geçirdi"
+          },
+          {
+            "en": "logged",
+            "tr": "kayda geçirildi"
+          },
+          {
+            "en": "artillery shelling",
+            "tr": "topçu bombardımanı"
+          },
+          {
+            "en": "unabated",
+            "tr": "hız kesmeden, dinmeksizin"
+          },
+          {
+            "en": "operational pause",
+            "tr": "operasyonel duraklama"
+          },
+          {
+            "en": "renewed offensive",
+            "tr": "yenilenen taarruz"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "lacking",
+            "tr": "yoksun, eksik olan"
+          },
+          {
+            "en": "enforceable",
+            "tr": "yaptırım gücü olan, uygulanabilir"
+          },
+          {
+            "en": "verification mechanisms",
+            "tr": "doğrulama mekanizmaları"
+          },
+          {
+            "en": "deter",
+            "tr": "caydırmak"
+          },
+          {
+            "en": "combatant",
+            "tr": "muharip, savaşan taraf"
+          },
+          {
+            "en": "standoff munitions",
+            "tr": "uzun menzilli / uzaktan fırlatılan mühimmat"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "unravel",
+            "tr": "çözülmek, dağılmak, çökmek"
+          },
+          {
+            "en": "expanding",
+            "tr": "genişletmek, yaymak"
+          },
+          {
+            "en": "stepping up",
+            "tr": "artırmak, tırmandırmak"
+          },
+          {
+            "en": "reciprocal",
+            "tr": "karşılıklı, misilleme mahiyetinde"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "attaches",
+            "tr": "bağlamak, ilişkilendirmek"
+          },
+          {
+            "en": "retaliation",
+            "tr": "misilleme"
+          },
+          {
+            "en": "infractions",
+            "tr": "ihlaller, kural çiğnemeler"
+          },
+          {
+            "en": "throttle",
+            "tr": "frenlemek, kısmak"
+          },
+          {
+            "en": "power grid nodes",
+            "tr": "elektrik şebekesi düğüm noktaları"
+          },
+          {
+            "en": "leverage",
+            "tr": "koz, nüfuz"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "acknowledging",
+            "tr": "kabul eden, tanıyan"
+          },
+          {
+            "en": "adjustments",
+            "tr": "ayarlamalar, düzenlemeler"
+          },
+          {
+            "en": "grid stabilization",
+            "tr": "şebeke dengeleme, şebeke istikrarı"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+    "source_link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Saudi Arabia warned of a major military response after Houthi missile and drone strikes on Riyadh's international airport and another facility killed 13 people.",
+    "event_type": "military retaliation / airport attack",
+    "precedents": [
+      {
+        "when": "June 2019",
+        "event": "Abha International Airport attack",
+        "wikipedia_title": "Abha International Airport attack",
+        "what_happened": "Houthi forces launched a cruise missile strike at the arrivals hall of Abha International Airport in southern Saudi Arabia, injuring 26 civilians.",
+        "what_followed": "Within 48 hours, the Saudi-led coalition conducted extensive retaliatory air raids targeting Houthi missile storage and command centers in Sana'a and Hajjah governorates.",
+        "similarity": "Same belligerents (Saudi Arabia and Houthi movement) with strikes targeting civilian civil aviation infrastructure causing casualties.",
+        "wiki": {
+          "title": "2019 Abha International Airport attacks",
+          "url": "https://en.wikipedia.org/wiki/2019_Abha_International_Airport_attacks",
+          "extract": "The Abha International Airport attacks were cruise missile strikes carried out by the Yemeni Houthi rebels which occurred in June 2019. The attack targeted the arrivals hall of Abha International Airport in southwestern Saudi Arabia and killed one civilian and injured 47 others."
+        }
+      },
+      {
+        "when": "January 2022",
+        "event": "2022 Abu Dhabi attack",
+        "wikipedia_title": "2022 Abu Dhabi attack",
+        "what_happened": "Houthi drones and missiles struck fuel tankers and an airport construction site in Abu Dhabi, killing three people.",
+        "what_followed": "The coalition launched intense airstrikes against Sana'a and Hodeidah over the following two weeks, causing dozens of fatalities and disabling Yemeni internet infrastructure.",
+        "similarity": "Cross-border Houthi standoff strikes against strategic Gulf transport/logistics targets provoking immediate air escalation.",
+        "wiki": {
+          "title": "2022 Abu Dhabi attack",
+          "url": "https://en.wikipedia.org/wiki/2022_Abu_Dhabi_attack",
+          "extract": "On 17 January 2022, the Houthi movement in Yemen conducted an attack on the United Arab Emirates using drones and ballistic missiles, targeting three oil tanker trucks and under-construction airport extension infrastructure in Abu Dhabi. Although several missiles and drones were "
+        }
+      },
+      {
+        "when": "September 2019",
+        "event": "Abqaiq–Khurais attack",
+        "wikipedia_title": "Abqaiq–Khurais attack",
+        "what_happened": "Drones and missiles hit state-owned Saudi Aramco oil processing facilities at Abqaiq and Khurais, temporarily cutting national oil output by roughly half.",
+        "what_followed": "Saudi Arabia escalated air operations along Yemeni frontlines, intensified regional naval interdictions of Iranian arms shipments, and bolstered US air defense deployments.",
+        "similarity": "Strategic strike threatening domestic security and core national economic reputation, compelling a forceful deterrence reaction.",
+        "wiki": {
+          "title": "Abqaiq–Khurais attack",
+          "url": "https://en.wikipedia.org/wiki/Abqaiq%E2%80%93Khurais_attack",
+          "extract": "On 14 September 2019, drones were used to attack oil processing facilities at Abqaiq and Khurais in eastern Saudi Arabia. The facilities were operated by Saudi Aramco, the country's state-owned oil company. The Houthi movement in Yemen claimed responsibility, tying it to events s"
+        }
+      }
+    ],
+    "pattern": "Direct strikes on sovereign capital infrastructure or civil aviation hubs causing double-digit casualties prompt retaliatory air and missile campaigns within 24 to 72 hours in nearly 90% of observed asymmetric confrontations.",
+    "outlook": "Saudi Arabia will launch a sustained air and missile campaign against Houthi launch sites, radar installations, and leadership facilities in northern Yemen, accompanied by tighter maritime blockades.",
+    "probability": "85%",
+    "timeframe": "next 7 to 14 days",
+    "confidence": "High",
+    "different_this_time": "Riyadh's ongoing rapprochement track with Iran (brokered in 2023) and concerns over derailing its Vision 2030 tourism and investment goals could lead the kingdom to calibrate its retaliation to avoid a full-scale regional conflagration.",
+    "watch_for": "Reports of coalition airstrikes around Sana'a and Hodeidah, backchannel diplomatic communications via Omani intermediaries, and changes to international flight paths into Saudi airspace.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Suudi bakan, havalimanlarına yönelik Husilerin saldırılarına karşı 'ciddi bir yanıt' verileceğine söz verdi",
+        "Today": "Suudi Arabistan, Husilerin Riyad uluslararası havalimanına ve başka bir tesise düzenlediği ve 13 kişinin ölümüne yol açan füze ve İHA saldırılarının ardından büyük bir askeri karşılık verileceği uyarısında bulundu.",
+        "Event Type": "askeri misilleme / havalimanı saldırısı",
+        "Historical Precedents": "Haziran 2019: Abha Uluslararası Havalimanı saldırısı\nOcak 2022: 2022 Abu Dabi saldırısı\nEylül 2019: Abkayk-Hurais saldırısı",
+        "What Followed Before": "Haziran 2019: Suudi öncülüğündeki koalisyon, 48 saat içinde Sana ve Hacce vilayetlerindeki Husi füze depolarını ve komuta merkezlerini hedef alan geniş çaplı misilleme hava harekâtları düzenledi.\nOcak 2022: Koalisyon, takip eden iki hafta boyunca Sana ve Hudeyde'ye yönelik onlarca can kaybına yol açan ve Yemen internet altyapısını devre dışı bırakan yoğun hava saldırıları başlattı.\nEylül 2019: Suudi Arabistan, Yemen cephe hatları boyunca hava harekâtlarını tırmandırdı, İran silah sevkiyatlarına yönelik bölgesel deniz önleme faaliyetlerini yoğunlaştırdı ve ABD hava savunma konuşlandırmalarını takviye etti.",
+        "Pattern": "Egemen başkent altyapısına veya sivil havacılık merkezlerine yönelik çift haneli can kayıplarına yol açan doğrudan saldırılar, gözlemlenen asimetrik çatışmaların yaklaşık %90'ında 24 ila 72 saat içinde misilleme amaçlı hava ve füze harekâtlarını tetiklemektedir.",
+        "Outlook": "Suudi Arabistan, Yemen'in kuzeyindeki Husi fırlatma sahalarına, radar tesislerine ve liderlik karargahlarına yönelik daha sıkı deniz ablukalarının eşlik ettiği sürekli bir hava ve füze harekâtı başlatacaktır.",
+        "Timeframe": "önümüzdeki 7 ila 14 gün",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Riyad'ın İran ile devam eden (2023'te arabuluculukla sağlanan) yakınlaşma süreci ve Vizyon 2030 turizm ile yatırım hedeflerinin raydan çıkması endişesi, krallığın tam ölçekli bir bölgesel yangından kaçınmak için misillemesini dikkatle ayarlamasına yol açabilir.",
+        "Watch For": "Sana ve Hudeyde çevresindeki koalisyon hava saldırılarına dair haberler, Ummanlı aracılar vasıtasıyla yürütülen gizli diplomatik temaslar ve Suudi hava sahasına giren uluslararası uçuş rotalarındaki değişiklikler."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "vows",
+            "tr": "söz vermek, ant içmek"
+          },
+          {
+            "en": "serious response",
+            "tr": "ciddi yanıt, sert karşılık"
+          }
+        ],
+        "Today": [
+          {
+            "en": "warned of",
+            "tr": "uyarısında bulundu"
+          },
+          {
+            "en": "drone strikes",
+            "tr": "İHA saldırıları"
+          },
+          {
+            "en": "facility",
+            "tr": "tesis"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "military retaliation",
+            "tr": "askeri misilleme"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "Saudi-led coalition",
+            "tr": "Suudi öncülüğündeki koalisyon"
+          },
+          {
+            "en": "retaliatory air raids",
+            "tr": "misilleme hava harekâtları"
+          },
+          {
+            "en": "fatalities",
+            "tr": "can kayıpları, ölümler"
+          },
+          {
+            "en": "disabling",
+            "tr": "devre dışı bırakma"
+          },
+          {
+            "en": "escalated",
+            "tr": "tırmandırdı, şiddetlendirdi"
+          },
+          {
+            "en": "naval interdictions",
+            "tr": "deniz yoluyla önleme/abluka faaliyetleri"
+          },
+          {
+            "en": "bolstered",
+            "tr": "güçlendirdi, takviye etti"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "sovereign",
+            "tr": "egemen, bağımsız"
+          },
+          {
+            "en": "civil aviation hubs",
+            "tr": "sivil havacılık merkezleri"
+          },
+          {
+            "en": "double-digit casualties",
+            "tr": "çift haneli can kayıpları"
+          },
+          {
+            "en": "prompt",
+            "tr": "tetiklemek, yol açmak"
+          },
+          {
+            "en": "asymmetric confrontations",
+            "tr": "asimetrik çatışmalar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "sustained",
+            "tr": "sürekli, kesintisiz"
+          },
+          {
+            "en": "launch sites",
+            "tr": "fırlatma sahaları"
+          },
+          {
+            "en": "installations",
+            "tr": "tesisler"
+          },
+          {
+            "en": "accompanied by",
+            "tr": "eşliğinde, beraberinde"
+          },
+          {
+            "en": "maritime blockades",
+            "tr": "deniz ablukaları"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "rapprochement",
+            "tr": "yakınlaşma, uzlaşma"
+          },
+          {
+            "en": "brokered",
+            "tr": "arabuluculuk yapılan"
+          },
+          {
+            "en": "derailing",
+            "tr": "raydan çıkarma, sekteye uğratma"
+          },
+          {
+            "en": "calibrate",
+            "tr": "dikkatle ayarlamak, ölçüp tartmak"
+          },
+          {
+            "en": "conflagration",
+            "tr": "büyük yangın, şiddetli çatışma/savaş"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "backchannel",
+            "tr": "arka kapı, örtülü/gizli kanal"
+          },
+          {
+            "en": "intermediaries",
+            "tr": "aracılar"
+          },
+          {
+            "en": "airspace",
+            "tr": "hava sahası"
+          },
+          {
+            "en": "flight paths",
+            "tr": "uçuş rotaları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "It's taking longer to find a new job after losing one",
+    "source_link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+    "what_happened": "Job seekers in the United States are facing significantly longer bouts of joblessness, with almost 40% exhausting their regular 26-week unemployment benefits before securing new work.",
+    "event_type": "labor market deterioration",
+    "precedents": [
+      {
+        "when": "2007",
+        "event": "Rising unemployment duration ahead of the Great Recession",
+        "wikipedia_title": "Great Recession in the United States",
+        "what_happened": "Throughout mid-2007, median unemployment duration and the share of long-term unemployed ticked upward before headline job losses spiked.",
+        "what_followed": "Within 6 months, the NBER dated the start of a deep recession (December 2007), and UI exhaustion rates prompted Congress to pass emergency extended benefits in mid-2008.",
+        "similarity": "Same country and labor market dynamics where hiring freezes preceded outright mass layoffs.",
+        "wiki": {
+          "title": "Great Recession in the United States",
+          "url": "https://en.wikipedia.org/wiki/Great_Recession_in_the_United_States",
+          "extract": "In the United States, the Great Recession was a severe financial crisis combined with a deep recession. While the recession officially lasted from December 2007 to June 2009, it took many years for the economy to recover to pre-crisis levels of employment and output. This slow re"
+        }
+      },
+      {
+        "when": "2001",
+        "event": "Jobless recovery and prolonged search times after the dot-com bust",
+        "wikipedia_title": "Early 2000s recession",
+        "what_happened": "Following the 2001 slowdown, laid-off tech and corporate workers experienced an unprecedented increase in average duration of unemployment.",
+        "what_followed": "Job creation remained stagnant for over two years in a 'jobless recovery', keeping consumer sentiment depressed well into 2003.",
+        "similarity": "Same labor market phenomenon where hiring demand dried up selectively, leaving displaced white-collar workers stranded.",
+        "wiki": {
+          "title": "Early 2000s recession",
+          "url": "https://en.wikipedia.org/wiki/Early_2000s_recession",
+          "extract": "The early 2000s recession was a major decline in economic activity which mainly occurred in developed countries. The recession affected the European Union during 2000 and 2001 and the United States from March to November 2001. The United Kingdom, Canada and Australia avoided the "
+        }
+      }
+    ],
+    "pattern": "In 5 of the last 6 U.S. economic cycles, a sustained increase in long-term unemployment and UI exhaustion rates has served as a reliable leading indicator of broader labor market contraction or a full recession within 6 to 12 months.",
+    "outlook": "The U.S. labor market is likely to see further softening, with unemployment rate increases and pressure on Congress to extend unemployment benefit durations.",
+    "probability": "75%",
+    "timeframe": "next 6 to 9 months",
+    "confidence": "High",
+    "different_this_time": "Post-pandemic structural labor shortages in healthcare and service sectors could create a dual-track labor market where certain sectors continue hiring while corporate roles freeze.",
+    "watch_for": "The Sahm Rule trigger (0.50 percentage point rise in the 3-month moving average of the national unemployment rate) and state-level UI initial claims surpassing 260,000.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "İşini kaybettikten sonra yeni bir iş bulmak artık daha uzun sürüyor",
+        "Today": "Amerika Birleşik Devletleri'ndeki iş arayanlar, önemli ölçüde daha uzun süren işsizlik dönemleriyle karşı karşıya kalıyor; neredeyse %40'ı yeni bir iş bulamadan önce standart 26 haftalık işsizlik maaşı süresini tüketiyor.",
+        "Event Type": "iş gücü piyasasında bozulma",
+        "Historical Precedents": "2007: Büyük Durgunluk öncesinde işsizlik süresinin uzaması\n2001: Dot-com çöküşünün ardından istihdamsız toparlanma ve uzayan iş arama süreleri",
+        "What Followed Before": "2007: 6 ay içinde NBER derin bir resesyonun başlangıç tarihini (Aralık 2007) ilan etti ve işsizlik sigortası tükenme oranları, Kongre'yi 2008 ortasında acil uzatılmış hakları onaylamaya sevk etti.\n2001: İstihdam yaratma, 'istihdamsız toparlanma' sürecinde iki yılı aşkın bir süre durgun kaldı ve tüketici güvenini 2003'ün içlerine kadar baskı altında tuttu.",
+        "Pattern": "Son 6 ABD ekonomik döngüsünün 5'inde, uzun süreli işsizlikteki ve işsizlik sigortası tükenme oranlarındaki sürdürülebilir bir artış, 6 ila 12 ay içinde daha geniş çaplı bir iş gücü daralmasının ya da tam teşekküllü bir resesyonun güvenilir bir öncü göstergesi olmuştur.",
+        "Outlook": "ABD iş gücü piyasasının daha da gevşemesi, işsizlik oranlarında artışlar yaşanması ve Kongre üzerinde işsizlik maaşı sürelerini uzatması yönünde baskı oluşması muhtemeldir.",
+        "Timeframe": "önümüzdeki 6 ila 9 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Sağlık ve hizmet sektörlerindeki pandemi sonrası yapısal iş gücü açıkları, kurumsal pozisyonlar dondurulurken belirli sektörlerin işe alımlara devam ettiği ikili bir iş gücü piyasası yaratabilir.",
+        "Watch For": "Sahm Kuralı tetikleyicisi (ulusal işsizlik oranının 3 aylık hareketli ortalamasında 0,50 yüzdelik puanlık artış) ve eyalet düzeyindeki ilk işsizlik başvurularının 260.000'i aşması."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "it's taking longer",
+            "tr": "daha uzun sürüyor"
+          }
+        ],
+        "Today": [
+          {
+            "en": "job seekers",
+            "tr": "iş arayanlar"
+          },
+          {
+            "en": "bouts of joblessness",
+            "tr": "işsizlik dönemleri"
+          },
+          {
+            "en": "exhausting",
+            "tr": "tüketmek, bitirmek"
+          },
+          {
+            "en": "unemployment benefits",
+            "tr": "işsizlik maaşı / yardımı"
+          },
+          {
+            "en": "securing new work",
+            "tr": "yeni bir iş bulmak/sağlamak"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "labor market deterioration",
+            "tr": "iş gücü piyasasının bozulması / kötüleşmesi"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "rising unemployment duration",
+            "tr": "artan işsizlik süresi"
+          },
+          {
+            "en": "Great Recession",
+            "tr": "Büyük Durgunluk (2008 krizi)"
+          },
+          {
+            "en": "jobless recovery",
+            "tr": "istihdamsız toparlanma"
+          },
+          {
+            "en": "dot-com bust",
+            "tr": "dot-com çöküşü"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "dated the start",
+            "tr": "başlangıç tarihini belirledi"
+          },
+          {
+            "en": "prompted Congress to pass",
+            "tr": "Kongre'yi geçirmeye/onaylamaya teşvik etti/sevk etti"
+          },
+          {
+            "en": "emergency extended benefits",
+            "tr": "acil durum uzatılmış yardım hakları"
+          },
+          {
+            "en": "remained stagnant",
+            "tr": "durgun kaldı"
+          },
+          {
+            "en": "consumer sentiment",
+            "tr": "tüketici güveni/duyarlılığı"
+          },
+          {
+            "en": "well into",
+            "tr": "epeyce içlerine kadar"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "sustained increase",
+            "tr": "sürekli / kalıcı artış"
+          },
+          {
+            "en": "long-term unemployment",
+            "tr": "uzun süreli işsizlik"
+          },
+          {
+            "en": "exhaustion rates",
+            "tr": "tükenme/bitme oranları"
+          },
+          {
+            "en": "leading indicator",
+            "tr": "öncü gösterge"
+          },
+          {
+            "en": "labor market contraction",
+            "tr": "iş gücü piyasasında daralma"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "further softening",
+            "tr": "daha da yumuşama / gevşeme"
+          },
+          {
+            "en": "pressure on",
+            "tr": "üzerindeki baskı"
+          },
+          {
+            "en": "benefit durations",
+            "tr": "yardım/maaş süreleri"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "structural labor shortages",
+            "tr": "yapısal iş gücü açıkları"
+          },
+          {
+            "en": "dual-track labor market",
+            "tr": "ikili kulvarda ilerleyen iş gücü piyasası"
+          },
+          {
+            "en": "corporate roles freeze",
+            "tr": "kurumsal pozisyonların dondurulması"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "trigger",
+            "tr": "tetikleyici"
+          },
+          {
+            "en": "moving average",
+            "tr": "hareketli ortalama"
+          },
+          {
+            "en": "state-level",
+            "tr": "eyalet düzeyinde"
+          },
+          {
+            "en": "initial claims",
+            "tr": "ilk işsizlik başvuruları"
+          },
+          {
+            "en": "surpassing",
+            "tr": "aşmak, geride bırakmak"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "America’s Favorite Fruit Is Being Bruised by the Iran War",
+    "source_link": "https://www.nytimes.com/2026/10/12/business/economy/bananas-iran-war.html",
+    "what_happened": "Military conflict involving Iran has snarled maritime trade and spiked bunker fuel and fertilizer costs, driving up retail prices on basic imported consumer staples like bananas across the U.S.",
+    "event_type": "geopolitical commodity shock",
+    "precedents": [
+      {
+        "when": "1979",
+        "event": "Second oil shock following the Iranian Revolution",
+        "wikipedia_title": "1979 oil crisis",
+        "what_happened": "Instability in Iran removed crude supplies from global markets, driving up transportation, petrochemical, and packaging costs worldwide.",
+        "what_followed": "U.S. headline inflation accelerated to over 13% within 12 months, triggering aggressive Federal Reserve interest rate hikes and back-to-back recessions in 1980 and 1981.",
+        "similarity": "Same geographic epicenter (Iran) causing upstream fuel and transport shocks that bled into retail food and consumer prices.",
+        "wiki": {
+          "title": "1979 oil crisis",
+          "url": "https://en.wikipedia.org/wiki/1979_oil_crisis",
+          "extract": "The 1979 oil crisis, sometimes referred to as the second oil crisis, refers to the drop in oil production in the aftermath of the Iranian Revolution that led to an energy crisis in 1979. Although the global oil supply only decreased by approximately four percent, the oil markets'"
+        }
+      },
+      {
+        "when": "1990",
+        "event": "Gulf War oil spike and shipping disruptions",
+        "wikipedia_title": "1990 oil price shock",
+        "what_happened": "Iraqi military action in the Persian Gulf triggered an immediate spike in crude prices and maritime shipping insurance surcharges.",
+        "what_followed": "Transportation-sensitive consumer prices surged within 3 months, denting real disposable income and precipitating the 1990–1991 U.S. recession.",
+        "similarity": "Same mechanism where Middle East conflict disruptions rapidly cascaded into everyday logistics and supermarket shelf prices.",
+        "wiki": {
+          "title": "1990 oil price shock",
+          "url": "https://en.wikipedia.org/wiki/1990_oil_price_shock",
+          "extract": "The 1990 oil price shock occurred in response to the Iraqi invasion of Kuwait on August 2, 1990, Saddam Hussein's second invasion of a fellow OPEC member. Lasting only nine months, the price spike was less extreme and of shorter duration than the previous oil crises of 1973–1974 "
+        }
+      }
+    ],
+    "pattern": "In roughly 4 out of 5 major Middle East shipping or oil shocks, higher logistics and input costs have successfully passed through to retail consumer prices within 3 to 6 months, dampening consumer discretionary spending.",
+    "outlook": "Imported food and goods inflation will remain elevated, preventing central banks from delivering anticipated interest rate cuts and dampening real consumer spending.",
+    "probability": "70%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "Medium",
+    "different_this_time": "The United States is now a net petroleum exporter, and domestic supply chains are less oil-intensive per unit of GDP than in earlier decades.",
+    "watch_for": "Global container freight benchmark rates (such as the Drewry World Container Index) and retail grocery price indexes in upcoming CPI reports.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Amerika’nın En Sevdiği Meyve İran Savaşı Yüzünden Yara Alıyor",
+        "Today": "İran'ı içeren askeri çatışma, deniz ticaretini kilitledi; gemi yakıtı ile gübre maliyetlerini fırlatarak ABD genelinde muz gibi temel ithal tüketim maddelerinin perakende fiyatlarını yükseltti.",
+        "Event Type": "jeopolitik emtia şoku",
+        "Historical Precedents": "1979: İran Devrimi'nin ardından gelen ikinci petrol şoku\n1990: Körfez Savaşı petrol fiyat artışı ve nakliye aksaklıkları",
+        "What Followed Before": "1979: ABD manşet enflasyonu 12 ay içinde %13'ün üzerine çıkarak Federal Rezerv'in agresif faiz artışlarını ve 1980 ile 1981'de ardı ardına yaşanan resesyonları tetikledi.\n1990: Ulaşıma duyarlı tüketici fiyatları 3 ay içinde fırlayarak reel harcanabilir geliri baltaladı ve 1990–1991 ABD resesyonuna zemin hazırladı.",
+        "Pattern": "Yaklaşık 5 büyük Orta Doğu deniz taşımacılığı veya petrol şokunun 4'ünde, daha yüksek lojistik ve girdi maliyetleri 3 ila 6 ay içinde perakende tüketici fiyatlarına başarıyla yansımış ve tüketicinin keyfi harcamalarını baskılamıştır.",
+        "Outlook": "İthal gıda ve emtia enflasyonu yüksek kalmaya devam edecek; bu da merkez bankalarının beklenen faiz indirimlerini yapmasını engelleyecek ve reel tüketici harcamalarını baskılayacaktır.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Amerika Birleşik Devletleri artık net bir petrol ihracatçısı konumunda ve yerli tedarik zincirleri GSYİH birimi başına önceki on yıllara kıyasla daha az petrol yoğunluklu.",
+        "Watch For": "Küresel konteyner navlun gösterge oranları (Drewry Dünya Konteyner Endeksi gibi) ve yaklaşan TÜFE raporlarındaki perakende market fiyat endeksleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "bruised",
+            "tr": "yara almış, zedelenmiş"
+          }
+        ],
+        "Today": [
+          {
+            "en": "military conflict",
+            "tr": "askeri çatışma"
+          },
+          {
+            "en": "snarled",
+            "tr": "düğümlenmiş, arapsaçına dönmüş"
+          },
+          {
+            "en": "maritime trade",
+            "tr": "deniz ticareti"
+          },
+          {
+            "en": "bunker fuel",
+            "tr": "gemi yakıtı"
+          },
+          {
+            "en": "consumer staples",
+            "tr": "temel tüketim maddeleri"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "geopolitical commodity shock",
+            "tr": "jeopolitik emtia şoku"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "oil spike",
+            "tr": "petrol fiyatında ani sıçrama"
+          },
+          {
+            "en": "shipping disruptions",
+            "tr": "nakliye aksaklıkları"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "headline inflation",
+            "tr": "manşet enflasyon"
+          },
+          {
+            "en": "back-to-back recessions",
+            "tr": "ardı ardına / peş peşe gelen durgunluklar"
+          },
+          {
+            "en": "denting",
+            "tr": "baltalamak, zarar vermek"
+          },
+          {
+            "en": "real disposable income",
+            "tr": "reel harcanabilir gelir"
+          },
+          {
+            "en": "precipitating",
+            "tr": "tetiklemek, hızlandırmak"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "input costs",
+            "tr": "girdi maliyetleri"
+          },
+          {
+            "en": "passed through to",
+            "tr": "yansıtılmak, aktarılmak"
+          },
+          {
+            "en": "dampening",
+            "tr": "baskılamak, zayıflatmak"
+          },
+          {
+            "en": "discretionary spending",
+            "tr": "keyfi / zorunlu olmayan harcamalar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "elevated",
+            "tr": "yüksek seyreden"
+          },
+          {
+            "en": "anticipated interest rate cuts",
+            "tr": "beklenen faiz indirimleri"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "net petroleum exporter",
+            "tr": "net petrol ihracatçısı"
+          },
+          {
+            "en": "domestic supply chains",
+            "tr": "yerli tedarik zincirleri"
+          },
+          {
+            "en": "oil-intensive",
+            "tr": "petrol yoğunluklu / petrole bağımlı"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "container freight",
+            "tr": "konteyner navlunu/yük taşımacılığı"
+          },
+          {
+            "en": "benchmark rates",
+            "tr": "gösterge oranları"
+          },
+          {
+            "en": "CPI reports",
+            "tr": "TÜFE (Tüketici Fiyat Endeksi) raporları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+    "source_link": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+    "what_happened": "The U.S. stock market marked the fourth anniversary of the current bull market, with the S&P 500 gaining nearly 120% since its October 12, 2022 low, while strategists caution that sustaining momentum through year five faces historical hurdles.",
+    "event_type": "bull market duration",
+    "precedents": [
+      {
+        "when": "2002–2007",
+        "event": "2002–2007 S&P 500 cyclical bull market",
+        "wikipedia_title": "United States bear market of 2007–2009",
+        "what_happened": "Following the dot-com crash, the S&P 500 rallied for precisely five years from October 2002 to October 2007, advancing just over 100%.",
+        "what_followed": "Subprime mortgage contagion and tightening credit ended the rally at the 5-year mark, inaugurating a 57% bear market decline over the next 17 months.",
+        "similarity": "Same asset class and index, bottoming in the same month (October) and confronting tightening financial conditions heading into year five.",
+        "wiki": {
+          "title": "United States bear market of 2007–2009",
+          "url": "https://en.wikipedia.org/wiki/United_States_bear_market_of_2007%E2%80%932009",
+          "extract": "From October 9, 2007 to March 9, 2009, the United States experienced a bear market, encompassing the 2008 financial crisis. The S&P 500 lost approximately 50% of its value, but the duration of the bear market was just below average."
+        }
+      },
+      {
+        "when": "1982–1987",
+        "event": "Reagan-era equity expansion",
+        "wikipedia_title": "Black Monday (1987)",
+        "what_happened": "A rapid bull market driven by disinflation and deregulation reached its fifth anniversary in August 1987 with gains exceeding 220%.",
+        "what_followed": "Two months after crossing into its fifth year, elevated valuations and rising yields triggered a sudden 22.6% single-day crash in October 1987.",
+        "similarity": "Same index experiencing a sharp multi-year valuation multiple expansion fueled by new economic technologies and corporate restructuring.",
+        "wiki": {
+          "title": "Black Monday (1987)",
+          "url": "https://en.wikipedia.org/wiki/Black_Monday_(1987)",
+          "extract": "Black Monday was a global, severe and largely unexpected stock market crash on Monday, October 19, 1987. Worldwide losses were estimated at US$1.71 trillion. The severity sparked fears of extended economic instability or a reprise of the Great Depression."
+        }
+      },
+      {
+        "when": "1995–2000",
+        "event": "Late-1990s tech bull market peak",
+        "wikipedia_title": "Dot-com bubble",
+        "what_happened": "The market sustained its post-1994 expansion past the four-year mark on heavy capital investment in internet and telecommunications infrastructure.",
+        "what_followed": "The rally pushed into year five with euphoric gains throughout 1999 before peaking in March 2000, followed by a multi-year bust.",
+        "similarity": "Same driver of market concentration where a narrow cohort of foundational technology companies powered the majority of index gains.",
+        "wiki": {
+          "title": "Dot-com bubble",
+          "url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+          "extract": "The dot-com bubble was a stock market bubble that developed during the late 1990s and peaked on March 10, 2000. This period of market growth coincided with the widespread adoption of the World Wide Web and the Internet, resulting in a dispensation of available venture capital and"
+        }
+      }
+    ],
+    "pattern": "In post-WWII history, approximately 60% of bull markets that reach year four survive to celebrate a fifth birthday, but year five historically sees annualized returns moderate to low single digits alongside 10%+ mid-year corrections.",
+    "outlook": "The current bull market is likely to survive to its fifth birthday in October 2027, but investors will experience heightened volatility and multiple drawdowns as earnings growth replaces valuation expansion.",
+    "probability": "65%",
+    "timeframe": "next 12 months",
+    "confidence": "Medium",
+    "different_this_time": "Enterprise productivity gains from deployed artificial intelligence infrastructure and cash-rich corporate balance sheets offer sturdier earnings support than previous debt-fueled late-stage cycles.",
+    "watch_for": "Narrowing market breadth, widening high-yield credit spreads, and any sustained downturn in quarterly mega-cap capex spending.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Boğa piyasası Pazartesi günü 4 yaşına girdi. Yatırımcılar beşinci yıla ulaşmanın zorlu olabileceğini söylüyor",
+        "Today": "ABD borsası mevcut boğa piyasasının dördüncü yıl dönümünü geride bıraktı; S&P 500, 12 Ekim 2022'deki dip seviyesinden bu yana yaklaşık %120 değer kazanırken, stratejistler beşinci yılda ivmeyi korumanın tarihsel engellerle karşılaşabileceği konusunda uyarıyor.",
+        "Event Type": "boğa piyasası süresi",
+        "Historical Precedents": "2002–2007: 2002–2007 S&P 500 konjonktürel boğa piyasası\n1982–1987: Reagan dönemi hisse senedi genişlemesi\n1995–2000: 1990'ların sonundaki teknoloji boğa piyasası zirvesi",
+        "What Followed Before": "2002–2007: Eşik altı (subprime) mortgage bulaşması ve daralan kredi piyasası, ralliyi 5. yılında sona erdirdi ve sonraki 17 ay boyunca %57'lik bir ayı piyasası düşüşünü başlattı.\n1982–1987: Beşinci yılına girdikten iki ay sonra, yükselen değerlemeler ve artan tahvil faizleri, Ekim 1987'de tek günde %22,6'lık ani bir çöküşü tetikledi.\n1995–2000: Ralli, Mart 2000'de zirveye ulaşmadan önce 1999 boyunca coşkulu kazanımlarla beşinci yılına devam etti ve ardından çok yıllık bir çöküş geldi.",
+        "Pattern": "İkinci Dünya Savaşı sonrası tarihte, dördüncü yılına ulaşan boğa piyasalarının yaklaşık %60'ı beşinci yaşını görebilmiştir; ancak beşinci yıl tarihsel olarak, %10'u aşan yıl ortası düzeltmeleriyle birlikte yıllık getirilerin düşük tek hanelere gerilediğine tanıklık etmiştir.",
+        "Outlook": "Mevcut boğa piyasasının Ekim 2027'deki beşinci yaşına kadar sürmesi muhtemeldir; ancak değerleme artışının yerini kâr büyümesi aldıkça yatırımcılar artan volatilite ve çok sayıda düşüş (drawdown) yaşayacaktır.",
+        "Timeframe": "önümüzdeki 12 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Kullanıma sunulan yapay zekâ altyapısından elde edilen kurumsal verimlilik artışları ve nakit zengini şirket bilançoları, borçla finanse edilen önceki döngü sonu dönemlerine kıyasla daha sağlam bir kazanç desteği sunuyor.",
+        "Watch For": "Piyasa derinliğinin/genişliğinin daralması, yüksek getirili kredi marjlarının genişlemesi ve devasa ölçekli (mega-cap) şirketlerin çeyreklik sermaye harcamalarında (capex) yaşanacak sürekli bir düşüş."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "bull market",
+            "tr": "boğa piyasası (yükselen piyasa)"
+          },
+          {
+            "en": "challenging",
+            "tr": "zorlu, çetin"
+          }
+        ],
+        "Today": [
+          {
+            "en": "anniversary",
+            "tr": "yıl dönümü"
+          },
+          {
+            "en": "sustaining",
+            "tr": "sürdürme, koruma"
+          },
+          {
+            "en": "momentum",
+            "tr": "ivme, hız"
+          },
+          {
+            "en": "hurdles",
+            "tr": "engeller"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "cyclical",
+            "tr": "döngüsel, konjonktürel"
+          },
+          {
+            "en": "equity expansion",
+            "tr": "hisse senedi piyasasının genişlemesi"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "contagion",
+            "tr": "bulaşma, yayılma"
+          },
+          {
+            "en": "tightening credit",
+            "tr": "kredi koşullarının sıkılaşması"
+          },
+          {
+            "en": "inaugurating",
+            "tr": "başlatmak, açılışını yapmak"
+          },
+          {
+            "en": "elevated valuations",
+            "tr": "yükselmiş değerlemeler"
+          },
+          {
+            "en": "euphoric",
+            "tr": "aşırı coşkulu"
+          },
+          {
+            "en": "bust",
+            "tr": "çöküş, batış"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "moderate to",
+            "tr": "ılımlı hale gelmek, yavaşlamak"
+          },
+          {
+            "en": "single digits",
+            "tr": "tek haneli rakamlar"
+          },
+          {
+            "en": "corrections",
+            "tr": "düzeltmeler (piyasa düzeltmesi)"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "heightened volatility",
+            "tr": "yükselen dalgalanma (oynaklık)"
+          },
+          {
+            "en": "drawdowns",
+            "tr": "zirveden düşüşler, değer kayıpları"
+          },
+          {
+            "en": "valuation expansion",
+            "tr": "değerleme çarpanlarının artışı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "productivity gains",
+            "tr": "verimlilik artışları"
+          },
+          {
+            "en": "balance sheets",
+            "tr": "bilançolar"
+          },
+          {
+            "en": "sturdier",
+            "tr": "daha sağlam, daha dayanıklı"
+          },
+          {
+            "en": "debt-fueled",
+            "tr": "borçla körüklenen"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "narrowing market breadth",
+            "tr": "piyasa genişliğinin/katılımının daralması"
+          },
+          {
+            "en": "credit spreads",
+            "tr": "kredi marjları/farkları"
+          },
+          {
+            "en": "sustained downturn",
+            "tr": "sürekli düşüş/gerileme"
+          },
+          {
+            "en": "capex spending",
+            "tr": "sermaye harcamaları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "source_link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+    "what_happened": "Cleveland Federal Reserve President Beth Hammack stated that monetary policy may need to tighten further to prevent sticky inflation expectations from permanently embedding in consumer and business behavior.",
+    "event_type": "monetary policy hawkish pivot",
+    "precedents": [
+      {
+        "when": "1980",
+        "event": "Volcker snap-back tightening",
+        "wikipedia_title": "Early 1980s recession",
+        "what_happened": "After temporarily cutting interest rates in mid-1980 during a brief downturn, Fed Chair Paul Volcker saw inflation expectations quickly reignite.",
+        "what_followed": "The Fed was forced to reverse course within four months, hiking rates past 19% and plunging the economy into the prolonged 1981–1982 recession.",
+        "similarity": "Same institution (Federal Reserve) reacting to the specific danger of public inflation psychology hardening during an incomplete disinflation.",
+        "wiki": {
+          "title": "Early 1980s recession",
+          "url": "https://en.wikipedia.org/wiki/Early_1980s_recession",
+          "extract": "The early 1980s recession was a severe economic recession that affected much of the world between approximately the start of 1980 and 1982. Long-term effects of the early 1980s recession contributed to the Latin American debt crisis, long-lasting slowdowns in the Caribbean and Su"
+        }
+      },
+      {
+        "when": "1994",
+        "event": "Greenspan preemptive tightening campaign",
+        "wikipedia_title": "1994 bond market crisis",
+        "what_happened": "Fed Chair Alan Greenspan initiated aggressive preemptive rate hikes to arrest rising inflation expectations before consumer price prints spiked.",
+        "what_followed": "The Fed doubled the policy rate from 3% to 6% in twelve months, creating substantial fixed-income turmoil but achieving a rare macroeconomic soft landing.",
+        "similarity": "Same central bank using hawkish rhetoric and rate adjustments explicitly targeting psychological inflation expectations rather than backward-looking CPI.",
+        "wiki": {
+          "title": "1994 bond market crisis",
+          "url": "https://en.wikipedia.org/wiki/1994_bond_market_crisis",
+          "extract": "The 1994 bond market crisis, or Great Bond Massacre, was a sudden drop in bond market prices across the developed world. It began in Japan and the United States (US), and spread through the rest of the world. After the recession of the early 1990s, historically low interest rates"
+        }
+      },
+      {
+        "when": "1973–1975",
+        "event": "Stop-and-go monetary policy",
+        "wikipedia_title": "Great Inflation",
+        "what_happened": "The Federal Reserve under Arthur Burns alternated between raising rates to slow price growth and easing whenever economic growth wavered.",
+        "what_followed": "Firms and workers baked high inflation into forward wage contracts, producing entrenched double-digit stagflation throughout the remainder of the decade.",
+        "similarity": "The benchmark historical case study that modern Fed governors explicitly invoke when warning against easing prematurely.",
+        "wiki": {
+          "title": "Inflation",
+          "url": "https://en.wikipedia.org/wiki/Inflation",
+          "extract": "In economics, inflation is an increase in the average price of goods and services in terms of money, though it originally referred to the increase of the money supply that can cause such a universal shift. This increase is measured using a price index, typically a consumer price "
+        }
+      }
+    ],
+    "pattern": "In 4 out of 5 historical tightening cycles where inflation proved sticky near 3%, central banks that failed to lean hawkish suffered de-anchored consumer expectations, eventually requiring higher terminal rates and deeper recessions.",
+    "outlook": "The Federal Reserve will likely maintain an extended policy pause or deliver an incremental insurance hike in early 2027 rather than commencing an easing cycle.",
+    "probability": "70%",
+    "timeframe": "next 6 months",
+    "confidence": "High",
+    "different_this_time": "Private sector collective bargaining power is dramatically lower than in the 1970s, making a classic self-fulfilling wage-price spiral far less likely to take hold.",
+    "watch_for": "Five-year/five-year forward inflation expectation rates exceeding 2.6% and hawkish dissents in upcoming FOMC rate votes.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Fed yetkilisi Hammack: 'Enflasyonist zihniyetin' yerleşmesini önlemek için daha yüksek faizler gerekebilir",
+        "Today": "Cleveland Merkez Bankası (Fed) Başkanı Beth Hammack, katı enflasyon beklentilerinin tüketici ve işletme davranışlarına kalıcı olarak yerleşmesini önlemek amacıyla para politikasının daha da sıkılaştırılması gerekebileceğini belirtti.",
+        "Event Type": "para politikasında şahin dönüşüm",
+        "Historical Precedents": "1980: Volcker'ın ani geri dönüşlü sıkılaştırması\n1994: Greenspan'in önleyici sıkılaştırma hamlesi\n1973–1975: Dur-kalk (stop-and-go) para politikası",
+        "What Followed Before": "1980: Fed dört ay içinde rotasını tersine çevirmek zorunda kaldı; faizleri %19'un üzerine çıkardı ve ekonomiyi 1981–1982 arasındaki uzun süreli resesyona sürükledi.\n1994: Fed politika faizini on iki ayda %3'ten %6'ya katlayarak sabit getirili menkul kıymetlerde ciddi çalkantıya yol açtı ancak nadir görülen makroekonomik bir yumuşak iniş başardı.\n1973–1975: Şirketler ve çalışanlar yüksek enflasyonu vadeli ücret sözleşmelerine dâhil ederek on yılın geri kalanında kökleşmiş çift haneli stagflasyona yol açtı.",
+        "Pattern": "Enflasyonun %3 civarında yapışkan kaldığı 5 tarihsel sıkılaştırma döngüsünün 4'ünde, şahin bir duruş sergileyemeyen merkez bankaları tüketici beklentilerinin çıpasını yitirmesine neden olmuş ve bu durum nihayetinde daha yüksek nihai faiz oranları ile daha derin resesyonlar gerektirmiştir.",
+        "Outlook": "Federal Rezerv'in bir gevşeme döngüsü başlatmak yerine, uzun süreli bir politika duraklamasını sürdürmesi veya 2027 başlarında küçük çaplı bir 'sigorta amaçlı' faiz artırımı yapması muhtemeldir.",
+        "Timeframe": "önümüzdeki 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Özel sektörün toplu pazarlık gücü 1970'lere göre belirgin biçimde daha düşüktür; bu da klasik ve kendi kendini besleyen bir ücret-fiyat sarmalının yerleşme olasılığını çok daha zayıflatmaktadır.",
+        "Watch For": "Beş yıllık/beş yıl vadeli enflasyon beklenti oranlarının %2,6'yı aşması ve yaklaşan FOMC faiz oylamalarındaki şahin muhalif oylar."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "inflationary mindset",
+            "tr": "enflasyonist zihniyet"
+          },
+          {
+            "en": "taking hold",
+            "tr": "yerleşmek, kök salmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "monetary policy",
+            "tr": "para politikası"
+          },
+          {
+            "en": "tighten",
+            "tr": "sıkılaştırmak"
+          },
+          {
+            "en": "sticky inflation",
+            "tr": "yapışkan/katı enflasyon"
+          },
+          {
+            "en": "embedding",
+            "tr": "yerleşme, kökleşme"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "hawkish pivot",
+            "tr": "şahin (sıkılaştırma yanlısı) dönüş"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "snap-back",
+            "tr": "hızlı/ani geri dönüş"
+          },
+          {
+            "en": "preemptive",
+            "tr": "önleyici, proaktif"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "reverse course",
+            "tr": "rotayı tersine çevirmek"
+          },
+          {
+            "en": "plunging",
+            "tr": "sürüklemek, batırmak"
+          },
+          {
+            "en": "fixed-income turmoil",
+            "tr": "sabit getirili menkul kıymetler çalkantısı"
+          },
+          {
+            "en": "soft landing",
+            "tr": "yumuşak iniş"
+          },
+          {
+            "en": "baked into",
+            "tr": "dahil etmek, hesaba katmak"
+          },
+          {
+            "en": "stagflation",
+            "tr": "stagflasyon (durgunluk içinde enflasyon)"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "lean hawkish",
+            "tr": "şahin tutum sergilemek"
+          },
+          {
+            "en": "de-anchored",
+            "tr": "çıpasını yitirmiş, kontrolden çıkmış"
+          },
+          {
+            "en": "terminal rates",
+            "tr": "nihai/zirve faiz oranları"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "policy pause",
+            "tr": "politika faizinde duraklama"
+          },
+          {
+            "en": "insurance hike",
+            "tr": "sigorta amaçlı faiz artırımı"
+          },
+          {
+            "en": "easing cycle",
+            "tr": "faiz indirimi/gevşeme döngüsü"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "collective bargaining power",
+            "tr": "toplu pazarlık gücü"
+          },
+          {
+            "en": "self-fulfilling",
+            "tr": "kendi kendini gerçekleştiren"
+          },
+          {
+            "en": "wage-price spiral",
+            "tr": "ücret-fiyat sarmalı"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "forward inflation expectation",
+            "tr": "vadeli enflasyon beklentisi"
+          },
+          {
+            "en": "dissents",
+            "tr": "muhalif oylar, karşı görüşler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Doku delights as Manchester City cruise past 10-man Liverpool",
+    "source_link": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Manchester City earned a 3-0 victory against Liverpool at Anfield in their first game after being found guilty of Premier League financial rule breaches, leaving their campaign shadowed by impending sanctions.",
+    "event_type": "financial breach sanction",
+    "precedents": [
+      {
+        "when": "2023",
+        "event": "Juventus docked points in Prisma financial investigation",
+        "wikipedia_title": "2022–23 Juventus F.C. season",
+        "what_happened": "The Italian Football Federation docked Juventus 15 points mid-season for financial irregularites and capital-gain inflation.",
+        "what_followed": "The penalty was temporarily suspended on appeal before being revised down to a 10-point deduction four months later, which pushed Juventus out of the Champions League qualification places before UEFA issued a one-year ban from European competitions.",
+        "similarity": "Same type: an elite European giant hit with governing-body sporting sanctions mid-season while contending at the top of the league table.",
+        "wiki": {
+          "title": "2022–23 Juventus FC season",
+          "url": "https://en.wikipedia.org/wiki/2022%E2%80%9323_Juventus_FC_season",
+          "extract": "The 2022–23 season was Juventus Football Club's 125th season in existence and their 16th consecutive season in the top flight of Italian football. In addition to the domestic league, Juventus participated in this season's editions of the Coppa Italia, UEFA Champions League and UE"
+        }
+      },
+      {
+        "when": "2023–2024",
+        "event": "Everton docked points for PSR breaches",
+        "wikipedia_title": "2023–24 Everton F.C. season",
+        "what_happened": "Everton received an immediate 10-point deduction from an independent commission in November 2023 for breaching Premier League financial sustainability rules.",
+        "what_followed": "An appeal reduced the deduction to six points in February 2024, followed by a separate two-point deduction in April, creating five months of uncertainty before final standings were settled.",
+        "similarity": "Same competition and legal framework: a Premier League independent commission applying unprecedented sporting penalties subject to appeals.",
+        "wiki": {
+          "title": "2023–24 Everton F.C. season",
+          "url": "https://en.wikipedia.org/wiki/2023%E2%80%9324_Everton_F.C._season",
+          "extract": "The 2023–24 season was the 146th season in the history of Everton Football Club and their 70th consecutive season in the top flight of English football. In addition to the domestic league, the club participated in the FA Cup and the EFL Cup."
+        }
+      }
+    ],
+    "pattern": "Major financial and regulatory sanctions imposed mid-season trigger drawn-out appeals in nearly all cases (100% of major Premier League and Serie A cases since 2020), which routinely alter the sanction's magnitude within 3 to 6 months and delay competitive finality until legal avenues are exhausted.",
+    "outlook": "Manchester City will immediately challenge the sanctions via arbitration, ensuring the sporting consequences remain clouded and contested well into the spring.",
+    "probability": "85%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "High",
+    "different_this_time": "The sheer breadth of Manchester City's charges and their extensive legal resources may prompt commercial settlements or fast-tracked civil court litigation rather than traditional sports arbitration avenues.",
+    "watch_for": "City's submission of an official appeal notice, applications for an interim stay of execution against any point deductions, and public statements from rival clubs considering compensation claims.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Doku coşturdu, Manchester City 10 kişi kalan Liverpool'u rahat geçti",
+        "Today": "Manchester City, Premier Lig mali kural ihlallerinden suçlu bulunduktan sonraki ilk maçında Anfield'da Liverpool karşısında 3-0'lık bir galibiyet elde etti ve bu durum, yaklaşan cezaların gölgesinde bir sezon geçirmelerine neden oldu.",
+        "Event Type": "mali kural ihlali ve ceza",
+        "Historical Precedents": "2023: Juventus, Prisma mali soruşturmasında puan silme cezası aldı\n2023–2024: Everton, PSR (Kârlılık ve Sürdürülebilirlik Kuralları) ihlalleri nedeniyle puan silme cezası aldı",
+        "What Followed Before": "2023: Ceza, temyiz üzerine geçici olarak askıya alındı ve dört ay sonra 10 puanlık bir düşüşe indirildi; bu durum, UEFA'nın Avrupa kupalarından bir yıllık men cezası vermesinden önce Juventus'u Şampiyonlar Ligi elemelerinin dışına itti.\n2023–2024: Şubat 2024'te yapılan bir temyiz başvurusu cezayı altı puana indirdi, ardından Nisan ayında ayrı bir iki puanlık ceza eklendi ve nihai puan durumu netleşene kadar beş aylık bir belirsizlik yaratıldı.",
+        "Pattern": "Sezon ortasında uygulanan büyük mali ve düzenleyici yaptırımlar, neredeyse tüm vakalarda (2020'den bu yana tüm büyük Premier Lig ve Serie A vakalarının %100'ünde) uzayan temyiz süreçlerini tetikler; bu süreçler genellikle cezanın büyüklüğünü 3 ila 6 ay içinde değiştirir ve yasal yollar tüketilene kadar rekabetçi kesinliği geciktirir.",
+        "Outlook": "Manchester City, yaptırımlara tahkim yoluyla derhal itiraz edecek ve sportif sonuçların ilkbahara kadar belirsiz ve tartışmalı kalmasını sağlayacaktır.",
+        "Timeframe": "gelecek 3 ila 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Manchester City'nin suçlamalarının kapsamının büyüklüğü ve geniş yasal kaynakları, geleneksel spor tahkimi yolları yerine ticari uzlaşmaları veya hızlandırılmış sivil mahkeme dava süreçlerini tetikleyebilir.",
+        "Watch For": "City'nin resmi temyiz başvurusunu sunması, herhangi bir puan silme cezasına karşı geçici yürütmeyi durdurma başvuruları ve tazminat taleplerini değerlendiren rakip kulüplerin kamuoyuna yaptığı açıklamalar."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "delights",
+            "tr": "coşturur, memnun eder"
+          },
+          {
+            "en": "cruise past",
+            "tr": "rahatça yenmek, kolayca geçmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "found guilty",
+            "tr": "suçlu bulunmuş"
+          },
+          {
+            "en": "financial rule breaches",
+            "tr": "mali kural ihlalleri"
+          },
+          {
+            "en": "impending sanctions",
+            "tr": "yaklaşan cezalar / yaptırımlar"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "financial breach",
+            "tr": "mali ihlal"
+          },
+          {
+            "en": "sanction",
+            "tr": "yaptırım, ceza"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "docked points",
+            "tr": "puanı silindi"
+          },
+          {
+            "en": "investigation",
+            "tr": "soruşturma"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "temporarily suspended",
+            "tr": "geçici olarak askıya alındı"
+          },
+          {
+            "en": "point deduction",
+            "tr": "puan silme cezası"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "regulatory sanctions",
+            "tr": "düzenleyici yaptırımlar"
+          },
+          {
+            "en": "drawn-out appeals",
+            "tr": "uzayan temyiz süreçleri"
+          },
+          {
+            "en": "legal avenues",
+            "tr": "yasal yollar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "arbitration",
+            "tr": "tahkim"
+          },
+          {
+            "en": "clouded and contested",
+            "tr": "bulutlu/belirsiz ve tartışmalı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "sheer breadth",
+            "tr": "saf genişlik, muazzam kapsam"
+          },
+          {
+            "en": "civil court litigation",
+            "tr": "sivil mahkeme dava süreci"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "interim stay of execution",
+            "tr": "geçici yürütmeyi durdurma kararı"
+          },
+          {
+            "en": "compensation claims",
+            "tr": "tazminat talepleri"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Seedorf back in football as Corinthians head coach",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/cw62y514kpgeo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Brazilian side Corinthians named Clarence Seedorf as their head coach, handing the Dutch legend his first managerial position since departing Cameroon in 2019.",
+    "event_type": "managerial appointment",
+    "precedents": [
+      {
+        "when": "2018",
+        "event": "Clarence Seedorf appointed manager of Deportivo La Coruña",
+        "wikipedia_title": "2017–18 Deportivo de La Coruña season",
+        "what_happened": "Deportivo hired Seedorf in February 2018 on a short-term deal to salvage their top-flight status.",
+        "what_followed": "Seedorf won only two of 16 matches, Deportivo were relegated to the Segunda División, and the club opted not to renew his contract after three and a half months.",
+        "similarity": "Same actor: Seedorf stepping into a high-pressure, struggling squad mid-season.",
+        "wiki": {
+          "title": "2017–18 Deportivo de La Coruña season",
+          "url": "https://en.wikipedia.org/wiki/2017%E2%80%9318_Deportivo_de_La_Coru%C3%B1a_season",
+          "extract": "During the 2017–18 Deportivo de La Coruña season, the club participated in La Liga and the Copa del Rey. Deportivo was relegated to the Segunda División following a 2–4 home defeat at the Riazor to Barcelona on 29 April 2018. The club ultimately finished in 18th position in La Li"
+        }
+      },
+      {
+        "when": "2014",
+        "event": "Clarence Seedorf hired by AC Milan",
+        "wikipedia_title": "2013–14 A.C. Milan season",
+        "what_happened": "AC Milan appointed Seedorf on a two-and-a-half-year contract in January 2014 to replace Massimiliano Allegri.",
+        "what_followed": "Despite winning 11 of his 19 Serie A matches, dressing-room friction and board disputes led to his dismissal just four months later in June 2014.",
+        "similarity": "Same actor: a high-profile start that was cut short by institutional tensions and managerial turnover.",
+        "wiki": {
+          "title": "2013–14 AC Milan season",
+          "url": "https://en.wikipedia.org/wiki/2013%E2%80%9314_AC_Milan_season",
+          "extract": "In the 2013–14 season, Associazione Calcio Milan competed in Serie A for the 80th time, as well as the Coppa Italia and the UEFA Champions League. It was the club's 31st consecutive season in the top flight of Italian football."
+        }
+      }
+    ],
+    "pattern": "In 4 of 4 of Seedorf's previous head-coaching jobs (Milan, Shenzhen, Deportivo, Cameroon), his tenure lasted under 12 months, and managers returning from multi-year hiatuses to the volatile Brazilian Série A face high first-year dismissal rates (exceeding 70%).",
+    "outlook": "Seedorf will struggle to see out a full calendar year at Corinthians, with early friction over results or tactical adaptability likely triggering a departure before late 2027.",
+    "probability": "75%",
+    "timeframe": "next 8 to 12 months",
+    "confidence": "Medium",
+    "different_this_time": "Seedorf played in Brazil for Botafogo from 2012 to 2014, speaks fluent Portuguese, and understands the unique calendar and demands of Brazilian football better than most foreign appointees.",
+    "watch_for": "Corinthians' performances in early regional cup fixtures and signs of dressing-room alignment behind his training regime.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Seedorf, Corinthians teknik direktörü olarak futbola geri döndü",
+        "Today": "Brezilya ekibi Corinthians, 2019'da Kamerun'dan ayrıldığından bu yana ilk teknik direktörlük görevini Hollandalı efsaneye vererek Clarence Seedorf'u teknik direktör olarak atadı.",
+        "Event Type": "teknik direktör ataması",
+        "Historical Precedents": "2018: Clarence Seedorf, Deportivo La Coruña'nın teknik direktörlüğüne getirildi\n2014: Clarence Seedorf, AC Milan tarafından işe alındı",
+        "What Followed Before": "2018: Seedorf 16 maçın sadece ikisini kazandı, Deportivo Segunda División'a düştü ve kulüp üç buçuk ayın ardından sözleşmesini yenilememe kararı aldı.\n2014: 19 Serie A maçının 11'ini kazanmasına rağmen, soyunma odası sürtüşmeleri ve yönetim kurulu anlaşmazlıkları sadece dört ay sonra, Haziran 2014'te görevden alınmasına yol açtı.",
+        "Pattern": "Seedorf'un önceki dört teknik direktörlük işinin 4'ünde de (Milan, Shenzhen, Deportivo, Kamerun) görev süresi 12 ayın altında kaldı ve çok yıllık aralardan değişken Brezilya Série A'sına dönen teknik direktörler yüksek ilk yıl görevden alınma oranlarıyla (%70'i aşan) karşılaşıyor.",
+        "Outlook": "Seedorf, Corinthians'ta tam bir takvim yılını tamamlamakta zorlanacak; sonuçlar veya taktiksel uyum konusundaki erken sürtüşmeler muhtemelen 2027'nin sonlarından önce bir ayrılığı tetikleyecektir.",
+        "Timeframe": "gelecek 8 ila 12 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Seedorf, 2012'den 2014'e kadar Botafogo'da Brezilya'da futbol oynadı, akıcı bir şekilde Portekizce konuşuyor ve Brezilya futbolunun benzersiz takvimini ve taleplerini çoğu yabancı teknik direktörden daha iyi anlıyor.",
+        "Watch For": "Corinthians'ın erken bölgesel kupa maçlarındaki performansları ve antrenman rejiminin arkasında soyunma odası uyumunun işaretleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "head coach",
+            "tr": "teknik direktör"
+          }
+        ],
+        "Today": [
+          {
+            "en": "managerial position",
+            "tr": "teknik direktörlük pozisyonu"
+          },
+          {
+            "en": "departing",
+            "tr": "ayrılmak"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "managerial appointment",
+            "tr": "teknik direktör ataması"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "appointed manager",
+            "tr": "teknik direktör olarak atandı"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "relegated",
+            "tr": "küme düştü"
+          },
+          {
+            "en": "dressing-room friction",
+            "tr": "soyunma odası sürtüşmesi"
+          },
+          {
+            "en": "dismissal",
+            "tr": "görevden alma, kovulma"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "tenure",
+            "tr": "grev süresi, görevde kalma süresi"
+          },
+          {
+            "en": "multi-year hiatuses",
+            "tr": "uzun yıllar süren aralar"
+          },
+          {
+            "en": "volatile",
+            "tr": "değişken, istikrarsız"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "see out",
+            "tr": "sonuna kadar tamamlamak"
+          },
+          {
+            "en": "tactical adaptability",
+            "tr": "taktiksel uyum yeteneği"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "fluent",
+            "tr": "akıcı"
+          },
+          {
+            "en": "foreign appointees",
+            "tr": "yabancı atananlar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "fixtures",
+            "tr": "fikstür, maçlar"
+          },
+          {
+            "en": "alignment",
+            "tr": "uyum, birlik"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Scientists discover vanilla’s hidden healing potential",
+    "source_link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
+    "what_happened": "Scientists have found that vanillin, the compound providing vanilla's flavor, possesses properties that could fight infections, reduce inflammation, and promote wound healing.",
+    "event_type": "natural compound medical discovery",
+    "precedents": [
+      {
+        "when": "1928",
+        "event": "Discovery of penicillin by Alexander Fleming",
+        "wikipedia_title": "Penicillin",
+        "what_happened": "Fleming discovered that Penicillium mold secreted a substance that inhibited bacteria growth.",
+        "what_followed": "It took over a decade and World War II urgency before it was mass-produced as a usable medicine in the early 1940s.",
+        "similarity": "Laboratory discovery of a natural organic compound with profound antimicrobial and healing properties.",
+        "wiki": {
+          "title": "Penicillin",
+          "url": "https://en.wikipedia.org/wiki/Penicillin",
+          "extract": "Penicillins are a group of β-lactam antibiotics originally obtained from Penicillium moulds, principally P. chrysogenum and P. rubens. Eight species of Penicillium, in the section Chrysogena, produce penicillins. Most penicillins in clinical use are synthesised by P. chrysogenum "
+        }
+      },
+      {
+        "when": "1897",
+        "event": "Synthesis of aspirin by Felix Hoffmann at Bayer",
+        "wikipedia_title": "Aspirin",
+        "what_happened": "Bayer chemically derived acetylsalicylic acid from willow bark compounds to reduce pain and inflammation.",
+        "what_followed": "It became one of the most widely used medications in human history, though establishing its exact mechanisms took decades.",
+        "similarity": "Transitioning a plant-derived or plant-inspired chemical compound into a validated pharmaceutical treatment.",
+        "wiki": {
+          "title": "Aspirin",
+          "url": "https://en.wikipedia.org/wiki/Aspirin",
+          "extract": "Aspirin is the genericized trademark for acetylsalicylic acid (ASA), a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain, fever, and inflammation, and as an antithrombotic. Aspirin is used to treat inflammatory conditions including Kawasaki disease, pericarditis, an"
+        }
+      }
+    ],
+    "pattern": "Laboratory breakthroughs regarding natural compounds face a long, difficult road from petri dish to clinical application; historically, fewer than 1 in 10 promising in vitro antimicrobial or anti-inflammatory discoveries successfully pass human clinical trials.",
+    "outlook": "The discovery will generate intense preclinical animal testing over the next few years, but clinical availability remains a distant prospect.",
+    "probability": "20%",
+    "timeframe": "next 5-10 years",
+    "confidence": "Medium",
+    "different_this_time": "Modern high-throughput screening and targeted drug delivery systems could accelerate analog development compared to 20th-century timelines.",
+    "watch_for": "Peer-reviewed in vivo animal studies and pharmaceutical interest or patent filings for synthetic vanillin derivatives.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Bilim insanları vanilyanın gizli iyileştirici potansiyelini keşfetti",
+        "Today": "Bilim insanları, vanilyaya tadını veren bileşik olan vanilinin; enfeksiyonlarla savaşabilecek, iltihabı azaltabilecek ve yara iyileşmesini destekleyebilecek özelliklere sahip olduğunu tespit etti.",
+        "Event Type": "doğal bileşik kaynaklı tıbbi keşif",
+        "Historical Precedents": "1928: Alexander Fleming tarafından penisilinin keşfi\n1897: Felix Hoffmann tarafından Bayer'de aspirinin sentezlenmesi",
+        "What Followed Before": "1928: 1940'ların başında kullanılabilir bir ilaç olarak seri üretime geçmesi on yıldan fazla zaman aldı ve İkinci Dünya Savaşı'nın aciliyetini gerektirdi.\n1897: İnsanlık tarihinin en yaygın kullanılan ilaçlarından biri haline geldi, ancak kesin etki mekanizmalarının belirlenmesi onlarca yıl sürdü.",
+        "Pattern": "Doğal bileşiklere ilişkin laboratuvar buluşları, petri kabından klinik uygulamaya uzanan uzun ve zorlu bir süreçle karşı karşıyadır; tarihsel olarak, umut vadeden in vitro antimikrobiyal veya anti-enflamatuar keşiflerin 10'da 1'inden azı insan klinik deneylerini başarıyla tamamlayabilmektedir.",
+        "Outlook": "Bu keşif, önümüzdeki birkaç yıl içinde yoğun klinik öncesi hayvan testlerine yol açacaktır, ancak klinik olarak kullanıma sunulması hala uzak bir ihtimal olmaya devam etmektedir.",
+        "Timeframe": "önümüzdeki 5-10 yıl",
+        "Confidence": "Orta",
+        "Why Different This Time": "Modern yüksek verimli tarama ve hedefe yönelik ilaç dağıtım sistemleri, 20. yüzyılın zaman çizelgelerine kıyasla analog geliştirmeyi hızlandırabilir.",
+        "Watch For": "Hakemli in vivo hayvan çalışmaları ile sentetik vanilin türevlerine yönelik farmasötik ilgi veya patent başvuruları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "healing potential",
+            "tr": "iyileştirici potansiyel"
+          },
+          {
+            "en": "discover",
+            "tr": "keşfetmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "compound",
+            "tr": "bileşik"
+          },
+          {
+            "en": "possess",
+            "tr": "sahip olmak"
+          },
+          {
+            "en": "inflammation",
+            "tr": "iltihap, yangı"
+          },
+          {
+            "en": "wound healing",
+            "tr": "yara iyileşmesi"
+          },
+          {
+            "en": "fight infections",
+            "tr": "enfeksiyonlarla mücadele etmek"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "natural compound",
+            "tr": "doğal bileşik"
+          },
+          {
+            "en": "breakthrough",
+            "tr": "çığır açan gelişme, buluş"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "synthesis",
+            "tr": "sentezleme"
+          },
+          {
+            "en": "discovery",
+            "tr": "keşif"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "mass-produced",
+            "tr": "seri üretilen"
+          },
+          {
+            "en": "urgency",
+            "tr": "aciliyet"
+          },
+          {
+            "en": "widely used",
+            "tr": "yaygın kullanılan"
+          },
+          {
+            "en": "mechanisms",
+            "tr": "mekanizmalar"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "breakthrough",
+            "tr": "çığır açıcı gelişme"
+          },
+          {
+            "en": "petri dish",
+            "tr": "petri kabı"
+          },
+          {
+            "en": "clinical application",
+            "tr": "klinik uygulama"
+          },
+          {
+            "en": "in vitro",
+            "tr": "laboratuvar ortamında (canlı dışı)"
+          },
+          {
+            "en": "antimicrobial",
+            "tr": "antimikrobiyal"
+          },
+          {
+            "en": "clinical trials",
+            "tr": "klinik deneyler"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "intense",
+            "tr": "yoğun"
+          },
+          {
+            "en": "preclinical",
+            "tr": "klinik öncesi"
+          },
+          {
+            "en": "distant prospect",
+            "tr": "uzak bir ihtimal"
+          },
+          {
+            "en": "clinical availability",
+            "tr": "klinik olarak erişilebilirlik"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "high-throughput screening",
+            "tr": "yüksek verimli tarama"
+          },
+          {
+            "en": "targeted drug delivery",
+            "tr": "hedefe yönelik ilaç iletimi"
+          },
+          {
+            "en": "accelerate",
+            "tr": "hızlandırmak"
+          },
+          {
+            "en": "analog development",
+            "tr": "analog (benzer molekül) geliştirme"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "peer-reviewed",
+            "tr": "hakemli (bilimsel dergi onaylı)"
+          },
+          {
+            "en": "in vivo",
+            "tr": "canlı organizma içinde"
+          },
+          {
+            "en": "derivatives",
+            "tr": "türevler"
+          },
+          {
+            "en": "patent filings",
+            "tr": "patent başvuruları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "New injection makes fat cells self-destruct",
+    "source_link": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm",
+    "what_happened": "Scientists have developed an experimental injection that destroys fat cells and reduces dangerous belly fat, offering a potential new treatment for obesity.",
+    "event_type": "obesity treatment breakthrough",
+    "precedents": [
+      {
+        "when": "2021",
+        "event": "FDA approval of Semaglutide (Wegovy) for chronic weight management",
+        "wikipedia_title": "Semaglutide",
+        "what_happened": "GLP-1 receptor agonists proved remarkably effective at suppressing appetite and inducing significant weight loss.",
+        "what_followed": "It sparked a massive global commercial boom, severe supply shortages, and an immediate rush by competing pharmaceutical firms to develop alternative delivery mechanisms and mechanisms of action.",
+        "similarity": "Major pharmacological breakthroughs targeting the obesity epidemic that capture immense public and investor attention.",
+        "wiki": {
+          "title": "Semaglutide",
+          "url": "https://en.wikipedia.org/wiki/Semaglutide",
+          "extract": "Semaglutide is an anti-diabetic medication used for the treatment of type 2 diabetes, and an anti-obesity medication used for weight management. It can be administered by subcutaneous injection or taken orally. It is sold as a generic drug by several drug companies in the Indian "
+        }
+      },
+      {
+        "when": "1950s-1990s",
+        "event": "History of anti-obesity pharmacotherapy and withdrawn diet drugs",
+        "wikipedia_title": "Anti-obesity medication",
+        "what_happened": "Numerous early fat-burning compounds and amphetamine derivatives showed initial promise in destroying fat or suppressing weight but were later withdrawn due to severe cardiovascular or psychiatric side effects.",
+        "similarity": "Experimental approaches aimed directly at eliminating fat cells or altering metabolic tissue.",
+        "wiki": {
+          "title": "Anti-obesity medication",
+          "url": "https://en.wikipedia.org/wiki/Anti-obesity_medication",
+          "extract": "Anti-obesity medication or weight loss medications are pharmacological agents that reduce excess body fat and cause weight loss. These medications alter one of the fundamental processes of weight regulation, by: reducing appetite and consequently energy intake, increasing energy "
+        }
+      }
+    ],
+    "pattern": "In 8 of 10 major announcements regarding novel fat-reduction or anti-obesity agents, early animal or bench success faces stringent safety hurdles regarding off-target cellular toxicity in human clinical trials.",
+    "outlook": "The treatment will advance to early-phase human safety trials, attracting significant venture or pharmaceutical backing amid the ongoing obesity treatment boom.",
+    "probability": "40%",
+    "timeframe": "next 3-5 years",
+    "confidence": "Medium",
+    "different_this_time": "Advanced cellular targeting techniques allow for more localized or specific cell-death mechanisms than older, systemic, toxic chemical approaches.",
+    "watch_for": "Results from Phase 1 human clinical trials focusing on local site toxicity and systemic inflammatory side effects.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Yeni enjeksiyon yağ hücrelerinin kendi kendini yok etmesini sağlıyor",
+        "Today": "Bilim insanları, yağ hücrelerini yok eden ve tehlikeli karın yağlarını azaltan, obezite için potansiyel yeni bir tedavi sunan deneysel bir enjeksiyon geliştirdi.",
+        "Event Type": "obezite tedavisinde çığır açan gelişme",
+        "Historical Precedents": "2021: Kronik kilo kontrolü için Semaglutide (Wegovy) ilacına FDA onayı verilmesi\n1950'ler-1990'lar: Obezite karşıtı farmakoterapi geçmişi ve piyasadan çekilen diyet ilaçları",
+        "What Followed Before": "2021: Devasa bir küresel ticari patlamayı, ciddi tedarik sıkıntılarını ve rakip ilaç firmalarının alternatif iletim ve etki mekanizmaları geliştirmek için anında yarışa girmesini tetikledi.\n1950'ler-1990'lar: ",
+        "Pattern": "Yeni yağ azaltıcı veya obezite karşıtı ajanlara ilişkin her 10 büyük duyurunun 8'inde, hayvan veya laboratuvar aşamasındaki ilk başarılar, insan klinik deneylerinde hedef dışı hücresel toksisiteye dair katı güvenlik engelleriyle karşılaşır.",
+        "Outlook": "Tedavi, devam eden obezite tedavisi patlamasının ortasında kayda değer risk sermayesi veya ilaç sektörü desteği çekerek erken aşama insan güvenliği denemelerine doğru ilerleyecektir.",
+        "Timeframe": "önümüzdeki 3-5 yıl",
+        "Confidence": "Orta",
+        "Why Different This Time": "Gelişmiş hücresel hedefleme teknikleri, eski, sistemik ve toksik kimyasal yaklaşımlara kıyasla daha lokalize veya spesifik hücre ölümü mekanizmalarına olanak tanımaktadır.",
+        "Watch For": "Lokal bölge toksisitesine ve sistemik enflamatuar yan etkilere odaklanan Faz 1 insan klinik deneylerinin sonuçları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "injection",
+            "tr": "enjeksiyon, iğne"
+          },
+          {
+            "en": "fat cells",
+            "tr": "yağ hücreleri"
+          },
+          {
+            "en": "self-destruct",
+            "tr": "kendi kendini yok etmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "experimental",
+            "tr": "deneysel"
+          },
+          {
+            "en": "belly fat",
+            "tr": "karın/göbek yağı"
+          },
+          {
+            "en": "obesity",
+            "tr": "obezite"
+          },
+          {
+            "en": "treatment",
+            "tr": "tedavi"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "breakthrough",
+            "tr": "çığır açan gelişme"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "chronic weight management",
+            "tr": "kronik kilo yönetimi"
+          },
+          {
+            "en": "pharmacotherapy",
+            "tr": "ilaç tedavisi (farmakoterapi)"
+          },
+          {
+            "en": "withdrawn",
+            "tr": "piyasadan çekilmiş, geri çekilen"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "sparked",
+            "tr": "tetikledi"
+          },
+          {
+            "en": "supply shortages",
+            "tr": "tedarik kıtlığı/sıkıntısı"
+          },
+          {
+            "en": "mechanisms of action",
+            "tr": "etki mekanizmaları"
+          },
+          {
+            "en": "competing",
+            "tr": "rakip olan, yarışan"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "stringent",
+            "tr": "katı, sıkı"
+          },
+          {
+            "en": "safety hurdles",
+            "tr": "güvenlik engelleri"
+          },
+          {
+            "en": "off-target",
+            "tr": "hedef dışı"
+          },
+          {
+            "en": "cellular toxicity",
+            "tr": "hücresel toksisite (zehirlilik)"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "advance",
+            "tr": "ilerlemek"
+          },
+          {
+            "en": "venture backing",
+            "tr": "risk sermayesi desteği"
+          },
+          {
+            "en": "ongoing",
+            "tr": "devam eden"
+          },
+          {
+            "en": "boom",
+            "tr": "patlama, hızlı yükseliş"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "cellular targeting",
+            "tr": "hücresel hedefleme"
+          },
+          {
+            "en": "localized",
+            "tr": "bölgesel, lokalize"
+          },
+          {
+            "en": "cell-death",
+            "tr": "hücre ölümü"
+          },
+          {
+            "en": "systemic",
+            "tr": "sistemik (tüm vücudu etkileyen)"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "Phase 1 trials",
+            "tr": "Faz 1 klinik deneyleri"
+          },
+          {
+            "en": "systemic inflammatory",
+            "tr": "sistemik enflamatuar (iltihabi)"
+          },
+          {
+            "en": "side effects",
+            "tr": "yan etkiler"
+          }
+        ]
+      }
+    }
+  }
+]
