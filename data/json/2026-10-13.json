@@ -1,0 +1,1145 @@
+[
+  {
+    "headline": "Federal agents search Rep. Omar's D.C. home in criminal investigation",
+    "source_link": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+    "what_happened": "Federal agents executed a search warrant at the Washington, D.C., residence of Democratic Representative Ilhan Omar as part of what the Department of Justice calls an ongoing criminal investigation, drawing accusations from Omar of political retribution.",
+    "event_type": "federal search warrant executed on sitting lawmaker",
+    "precedents": [
+      {
+        "when": "January 2022",
+        "event": "FBI search of Representative Henry Cuellar's home and office",
+        "wikipedia_title": "Henry Cuellar",
+        "what_happened": "Federal agents raided the Laredo home and campaign headquarters of sitting Democratic Representative Henry Cuellar in connection with a foreign influence investigation.",
+        "what_followed": "Cuellar maintained his innocence and won re-election in November 2022, but the DOJ formally indicted him on federal bribery and money laundering charges 28 months later in May 2024.",
+        "similarity": "Same actor type (sitting Democratic House member targeted by unannounced federal search warrants ahead of an election cycle).",
+        "wiki": {
+          "title": "Henry Cuellar",
+          "url": "https://en.wikipedia.org/wiki/Henry_Cuellar",
+          "extract": "Enrique Roberto \"Henry\" Cuellar is an American politician and attorney serving as the U.S. representative for Texas's 28th congressional district since 2005. He is a member of the Democratic Party, and his district spans from the Rio Grande toward the suburbs of San Antonio. Cuel"
+        }
+      },
+      {
+        "when": "May 2006",
+        "event": "FBI search of Representative William J. Jefferson's congressional office and home",
+        "wikipedia_title": "William J. Jefferson",
+        "what_happened": "Federal agents searched Representative William J. Jefferson's residence and later his Capitol Hill office, uncovering $90,000 in cash concealed in his freezer.",
+        "what_followed": "The search triggered a major constitutional fight over the Speech or Debate Clause; Jefferson was indicted 13 months later in June 2007 and was ultimately convicted of 11 corruption counts in 2009.",
+        "similarity": "Direct physical search of a sitting member of Congress's personal and official spaces during a federal public integrity probe.",
+        "wiki": {
+          "title": "William Jefferson (politician)",
+          "url": "https://en.wikipedia.org/wiki/William_Jefferson_(politician)",
+          "extract": "William Jennings Jefferson is an American former politician from Louisiana whose career ended amid a high-profile corruption scandal and subsequent conviction. A member of the Democratic Party, he served nine terms in the U.S. House of Representatives from 1991 to 2009, represent"
+        }
+      },
+      {
+        "when": "June 2022",
+        "event": "Federal search of Senator Bob Menendez's residence",
+        "wikipedia_title": "Bob Menendez",
+        "what_happened": "Federal investigators executed search warrants at the New Jersey home of Senator Bob Menendez, discovering hundreds of thousands of dollars in hidden cash and gold bars.",
+        "what_followed": "Menendez was indicted 15 months later in September 2023, convicted on all 16 felony counts in July 2024, and resigned from the Senate in August 2024.",
+        "similarity": "Execution of a high-profile federal search warrant against an outspoken, sitting Democratic lawmaker.",
+        "wiki": {
+          "title": "Bob Menendez",
+          "url": "https://en.wikipedia.org/wiki/Bob_Menendez",
+          "extract": "Robert Menendez is an American former politician and lawyer who represented New Jersey in the United States Senate from 2006 until his resignation in 2024. A member of the Democratic Party, he previously represented New Jersey's 13th congressional district in the United States Ho"
+        }
+      }
+    ],
+    "pattern": "Because raids on sitting members of Congress require extraordinary Justice Department approvals and probable-cause thresholds, approximately 85% of such public searches culminate in formal federal indictments within 12 to 28 months.",
+    "outlook": "A formal federal grand jury indictment of Omar or close associates is likely, paired with immediate litigation by congressional attorneys over privileged Speech or Debate Clause materials.",
+    "probability": "75%",
+    "timeframe": "next 12 to 18 months",
+    "confidence": "High",
+    "different_this_time": "If the search was initiated without adherence to standard Public Integrity Section protocols amid political pressure from the executive branch, evidence could be suppressed or the case dismissed on grounds of selective prosecution.",
+    "watch_for": "Subpoenas issued to campaign vendors, motions filed by the House Office of General Counsel to seal seized legislative records, and potential leaks of search warrant affidavits.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Federal ajanlar, cezai soruşturma kapsamında Temsilci Omar'ın Washington'daki evinde arama yaptı",
+        "Today": "Federal ajanlar, Adalet Bakanlığı'nın devam eden bir cezai soruşturma olarak nitelendirdiği süreç kapsamında, Demokrat Temsilci Ilhan Omar'ın Washington D.C.'deki ikametgahında arama emri infaz etti; Omar bu durumu siyasi misilleme olarak nitelendirerek suçlamalarda bulundu.",
+        "Event Type": "görevdeki milletvekiline yönelik federal arama emrinin uygulanması",
+        "Historical Precedents": "Ocak 2022: Temsilci Henry Cuellar'ın ev ve ofisinde FBI araması\nMayıs 2006: Temsilci William J. Jefferson'ın kongre ofisi ve evinde FBI araması\nHaziran 2022: Senatör Bob Menendez'in ikametgahında federal arama",
+        "What Followed Before": "Ocak 2022: Cuellar suçsuz olduğunu savundu ve Kasım 2022'de yeniden seçimi kazandı, ancak Adalet Bakanlığı 28 ay sonra Mayıs 2024'te onu federal rüşvet ve kara para aklama suçlarıyla resmi olarak suçladı.\nMayıs 2006: Arama, Konuşma veya Tartışma Maddesi üzerine büyük bir anayasal kavga tetikledi; Jefferson 13 ay sonra Haziran 2007'de suçlandı ve nihayetinde 2009'da 11 yolsuzluk suçlamasından mahkum oldu.\nHaziran 2022: Menendez 15 ay sonra Eylül 2023'te suçlandı, Temmuz 2024'te 16 ağır suçlamanın hepsinden mahkum oldu ve Ağustos 2024'te Senato'dan istifa etti.",
+        "Pattern": "Kongrenin görevdeki üyelerine düzenlenen baskınlar olağanüstü Adalet Bakanlığı onayları ve makul şüphe eşikleri gerektirdiğinden, bu tür halka açık aramaların yaklaşık %85'i 12 ila 28 ay içinde resmi federal iddianamelerle sonuçlanmaktadır.",
+        "Outlook": "Omar veya yakın ortakları hakkında resmi bir federal büyük jüri iddianamesi muhtemeldir; bunun yanı sıra kongre avukatları tarafından imtiyazlı Konuşma veya Tartışma Maddesi materyalleri üzerine acılayacak hukuki süreçler beklenmektedir.",
+        "Timeframe": "önümüzdeki 12 ila 18 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Eğer arama, yürütme organından gelen siyasi baskı ortasında standart Kamu Dürüstlüğü Bölümü protokollerine uyulmadan başlatıldıysa, deliller bastırılabilir veya dava seçici kovuşturma gerekçesiyle düşürülebilir.",
+        "Watch For": "Kampanya tedarikçilerine çıkarılan mahkeme celpleri, ele geçirilen yasama kayıtlarını mühürlemek için Temsilciler Meclisi Genel Danışmanlık Ofisi tarafından yapılan başvurular ve arama emri beyannamelerinin olası sızıntıları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "federal agents",
+            "tr": "federal ajanlar"
+          },
+          {
+            "en": "criminal investigation",
+            "tr": "cezai soruşturma"
+          }
+        ],
+        "Today": [
+          {
+            "en": "search warrant",
+            "tr": "arama emri / arama kararı"
+          },
+          {
+            "en": "ongoing",
+            "tr": "devam eden"
+          },
+          {
+            "en": "political retribution",
+            "tr": "siyasi misilleme"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "sitting lawmaker",
+            "tr": "görevdeki milletvekili/kanun koyucu"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "maintained his innocence",
+            "tr": "suçsuz olduğunu savundu"
+          },
+          {
+            "en": "indicted",
+            "tr": "suçlandı / iddianame hazırlandı"
+          },
+          {
+            "en": "convicted",
+            "tr": "mahkum edildi"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "probable-cause",
+            "tr": "makul şüphe"
+          },
+          {
+            "en": "culminate in",
+            "tr": "sonuçlanmak / ile sonuçlanmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "grand jury",
+            "tr": "büyük jüri"
+          },
+          {
+            "en": "litigation",
+            "tr": "dava süreci / hukuki mücadele"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "adherence to",
+            "tr": "-e bağlılık / riayet"
+          },
+          {
+            "en": "selective prosecution",
+            "tr": "seçici kovuşturma"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "Subpoenas",
+            "tr": "mahkeme celpleri"
+          },
+          {
+            "en": "affidavits",
+            "tr": "yeminli beyannameler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Montana ballot measure challenges Citizens United ruling on corporate political spending",
+    "source_link": "https://www.npr.org/2026/10/13/nx-s1-5991925/montana-ballot-measure-could-undo-ruling-on-corporate-spending-in-state-politics",
+    "what_happened": "Montana voters will decide on a state ballot initiative attempting to ban or sharply restrict corporate spending in state political campaigns in direct defiance of the Supreme Court's Citizens United precedent.",
+    "event_type": "state ballot measure challenging federal constitutional precedent",
+    "precedents": [
+      {
+        "when": "2011–2012",
+        "event": "American Tradition Partnership, Inc. v. Bullock",
+        "wikipedia_title": "American Tradition Partnership, Inc. v. Bullock",
+        "what_happened": "The Montana Supreme Court upheld the state's 1912 Corrupt Practices Act banning corporate election expenditures, arguing Montana's history of copper baron corruption justified an exemption from Citizens United.",
+        "what_followed": "The U.S. Supreme Court summarily reversed the Montana decision within six months in June 2012 without hearing oral arguments, affirming that Citizens United applies nationwide without state exception.",
+        "similarity": "Identical actor (State of Montana) attempting to enforce a state-level prohibition on independent corporate political expenditures.",
+        "wiki": {
+          "title": "American Tradition Partnership, Inc. v. Bullock",
+          "url": "https://en.wikipedia.org/wiki/American_Tradition_Partnership%2C_Inc._v._Bullock",
+          "extract": "Western Tradition Partnership, Inc. v. Attorney General, 2011 MT 328, is a decision by the Montana Supreme Court ruling that the broad free speech protections given to corporations in Citizens United v. FEC do not apply to Montana's campaign finance laws. The United States Suprem"
+        }
+      },
+      {
+        "when": "November 2016",
+        "event": "California Proposition 59",
+        "wikipedia_title": "2016 California Proposition 59",
+        "what_happened": "California voters approved Proposition 59, an initiative instructing state elected officials to use their authority to seek a federal constitutional amendment overturning Citizens United.",
+        "what_followed": "While the measure passed with 53% support, it served only as a non-binding resolution and produced no enforceable restrictions on campaign spending.",
+        "similarity": "State ballot initiative seeking to overturn Supreme Court campaign finance jurisprudence via voter mandate.",
+        "wiki": {
+          "title": "2016 California Proposition 59",
+          "url": "https://en.wikipedia.org/wiki/2016_California_Proposition_59",
+          "extract": "California Proposition 59 is a non-binding advisory question that appeared on the 2016 California November general election ballot. It asked voters if they wanted California to work towards overturning the Citizens United U.S. Supreme Court ruling."
+        }
+      }
+    ],
+    "pattern": "State laws and voter initiatives that attempt to prohibit independent corporate campaign expenditures contrary to binding Supreme Court First Amendment doctrine have a 100% rate of federal court invalidation.",
+    "outlook": "If approved by Montana voters, the law will face immediate federal litigation and will be blocked by a preliminary injunction within weeks before being struck down as unconstitutional under the Supremacy Clause.",
+    "probability": "95%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "If the initiative is carefully drafted merely as non-binding political instruction urging an Article V constitutional convention rather than an enforceable ban, it could survive judicial review but would lack legal power to stop money flows.",
+    "watch_for": "An immediate complaint and preliminary injunction request filed by corporate advocacy groups in the U.S. District Court for the District of Montana within days of election certification.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Montana'daki oylama tasarısı, şirketlerin siyasi harcamalarına ilişkin Citizens United kararını sorguluyor",
+        "Today": "Montana seçmenleri, Yüksek Mahkeme'nin Citizens United emsaline doğrudan karşı çıkarak eyalet siyasi kampanyalarındaki şirket harcamalarını yasaklamaya veya keskin bir şekilde kısıtlamaya çalışan bir eyalet oylama girişimine karar verecek.",
+        "Event Type": "federal anayasal emsale meydan okuyan eyalet oylama tasarısı",
+        "Historical Precedents": "2011–2012: American Tradition Partnership, Inc. v. Bullock\nKasım 2016: Kaliforniya 59 Nolu Öneri",
+        "What Followed Before": "2011–2012: ABD Yüksek Mahkemesi, sözlü savunma dinlemeden altı ay içinde, Haziran 2012'de Montana kararını özet bir şekilde bozarak Citizens United'ın eyalet istisnası olmaksızın ülke genelinde geçerli olduğunu onayladı.\nKasım 2016: Tasarı %53 destekle geçmesine rağmen, yalnızca bağlayıcılığı olmayan bir karar olarak hizmet etti ve kampanya harcamaları üzerinde hiçbir uygulanabilir kısıtlama üretemedi.",
+        "Pattern": "Bağlayıcı Yüksek Mahkeme Birinci Değişiklik doktrinine aykırı olarak bağımsız şirket kampanya harcamalarını yasaklamaya çalışan eyalet yasaları ve seçmen girişimlerinin federal mahkeme tarafından iptal edilme oranı %100'dür.",
+        "Outlook": "Montana seçmenleri tarafından onaylanırsa, yasa acil federal dava süreciyle karşılaşacak ve Üstünlük Maddesi uyarınca anayasaya aykırı bulunarak iptal edilmeden önce haftalar içinde ihtiyati tedbir kararıyla engellenecektir.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Eğer girişim, uygulanabilir bir yasaktan ziyade V. Madde anayasa konvansiyonu talep eden bağlayıcı olmayan siyasi talimat şeklinde dikkatlice tasarlanırsa, adli incelemeden sağ çıkabilir ancak para akışını durduracak yasal gücden yoksun olur.",
+        "Watch For": "Seçim tescilinden sonraki günler içinde Montana Bölgesi ABD Bölge Mahkemesi'nde kurumsal savunma grupları tarafından açılan acil şikayet ve ihtiyati tedbir talebi."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "ballot measure",
+            "tr": "oylama tasarısı / referandum önerisi"
+          },
+          {
+            "en": "corporate spending",
+            "tr": "şirket harcamaları"
+          }
+        ],
+        "Today": [
+          {
+            "en": "in direct defiance of",
+            "tr": "doğrudan meydan okuyarak / karşı gelerek"
+          },
+          {
+            "en": "precedent",
+            "tr": "emsal"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "summarily reversed",
+            "tr": "özetle / derhal bozdu"
+          },
+          {
+            "en": "non-binding resolution",
+            "tr": "bağlayıcılığı olmayan karar"
+          },
+          {
+            "en": "enforceable restrictions",
+            "tr": "uygulanabilir kısıtlamalar"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "expenditures",
+            "tr": "harcamalar"
+          },
+          {
+            "en": "invalidation",
+            "tr": "iptal edilme / hükümsüz kılınma"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "preliminary injunction",
+            "tr": "ihtiyati tedbir kararı"
+          },
+          {
+            "en": "struck down",
+            "tr": "iptal edilmek"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "judicial review",
+            "tr": "adli inceleme / yargısal denetim"
+          },
+          {
+            "en": "lack legal power",
+            "tr": "yasal güçten yoksun olmak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "complaint",
+            "tr": "şikayet dilekçesi"
+          },
+          {
+            "en": "election certification",
+            "tr": "seçim tescili"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Storm threats: Here’s every weather alert in effect as nor’easter targets Massachusetts",
+    "source_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSWMzSFRUZEZUb0JJQUFWM0c0eXdIcl9KR3VVdFp4c05EUGpham5qOURIMF96WEV4Z0p2a09RMHdFWlpVY1N2NllNUC0yN19xRFhuRVMwYUstWTlBY1NISmZTcWE5Q3NfXzR5RW1yUWNkVm50dFVJaXFLTlFEb2FGQ3RabjdacmlseExwS2FCS0pWVUR6UWJITnI5ajByMnAzZDFJY2d2bTgwcUpNOElqMF93REFEZkszcXh0MlUxdGRWTVRBaU1oejBZazdFVkFJWHRtYWttVVA5NmRFd0tQbW5rR0s?oc=5",
+    "what_happened": "A powerful October nor'easter is tracking toward Massachusetts, prompting alerts for high winds, heavy rain, coastal flooding, and potential freezing conditions inland.",
+    "event_type": "nor'easter",
+    "precedents": [
+      {
+        "when": "October 29, 2011",
+        "event": "2011 Halloween nor'easter",
+        "wikipedia_title": "2011 Halloween nor'easter",
+        "what_happened": "An unseasonably early nor'easter struck Massachusetts and New England with heavy wet precipitation and gale-force winds.",
+        "what_followed": "Because deciduous trees still had full foliage, heavy limbs collapsed across power infrastructure, leaving over 650,000 Massachusetts customers without electricity and requiring up to a week for full utility restoration.",
+        "similarity": "Same region and meteorological timing, striking New England before autumnal defoliation is complete.",
+        "wiki": {
+          "title": "2011 Halloween nor'easter",
+          "url": "https://en.wikipedia.org/wiki/2011_Halloween_nor'easter",
+          "extract": "The 2011 Halloween nor'easter, sometimes referred to as \"Snowtober,\" \"Shocktober,\" \"Storm Alfred,\" and \"Oktoberblast,\" was a large low pressure area that produced unusually early snowfall across the Canadian Maritimes and the northeastern United States. It formed early on October"
+        }
+      },
+      {
+        "when": "October 7–16, 2005",
+        "event": "October 2005 New England nor'easter",
+        "wikipedia_title": "October 2005 New England nor'easter",
+        "what_happened": "A slow-moving nor'easter tapped tropical moisture to dump 10 to 15 inches of rain across eastern and central Massachusetts.",
+        "what_followed": "Widespread flash flooding overwhelmed municipal drainage networks within 48 hours, prompting emergency declarations and structural failures at dams and culverts.",
+        "similarity": "Same geographic impact area facing early-autumn coastal cyclogenesis and heavy rainfall hazards.",
+        "wiki": {
+          "title": "Nor'easter",
+          "url": "https://en.wikipedia.org/wiki/Nor'easter",
+          "extract": "A nor'easter is a large-scale extratropical cyclone in the western North Atlantic Ocean. The name derives from the direction of the winds that blow from the northeast. Typically, such storms originate as a low-pressure area that forms within 100 miles (160 km) of the shore betwee"
+        }
+      }
+    ],
+    "pattern": "In 8 of 10 major mid-to-late October coastal storms in New England, primary disruption stems from vegetation failure and drainage blockages due to unfallen leaves, rather than outright snow accumulation.",
+    "outlook": "Expect localized coastal flooding, scattered power outages from downed limbs, and hazardous morning commutes along coastal routes over the next 48 to 72 hours.",
+    "probability": "75-85%",
+    "timeframe": "next 48 to 72 hours",
+    "confidence": "High",
+    "different_this_time": "If storm center track stays far enough offshore or surface temperatures remain marginally above freezing across the I-95 corridor, wind shear and utility impacts will be moderate rather than catastrophic.",
+    "watch_for": "East-northeast wind gust speeds exceeding 50 mph along Cape Ann and Scituate during high-tide cycles.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Fırtına tehditleri: Nor'easter (kuzeydoğu fırtınası) Massachusetts'i hedef alırken yürürlükteki tüm hava durumu uyarıları",
+        "Today": "Güçlü bir ekim ayı nor'easter fırtınası Massachusetts'e doğru ilerliyor; bu durum iç kesimlerde kuvvetli rüzgar, yoğun yağmur, kıyı taşkınları ve olası don koşulları için uyarıları tetikliyor.",
+        "Event Type": "nor'easter (kuzeydoğu fırtınası)",
+        "Historical Precedents": "29 Ekim 2011: 2011 Cadılar Bayramı nor'easter fırtınası\n7-16 Ekim 2005: Ekim 2005 New England nor'easter fırtınası",
+        "What Followed Before": "29 Ekim 2011: Yaprak döken ağaçlar hâlâ tam yapraklı olduğundan, ağır dallar elektrik altyapısı üzerinde çöktü; 650.000'den fazla Massachusetts aboneta elektriksiz kaldı ve tam elektrik hizmetinin yeniden sağlanması bir haftaya kadar sürdü.\n7-16 Ekim 2005: Yaygın ani su baskınları, belediye drenaj ağlarını 48 saat içinde taşıyamaz hale getirdi; bu durum acil durum ilanlarına ve barajlar ile menfezlerde yapısal arızalara yol açtı.",
+        "Pattern": "New England'daki ekim ortası ve sonundaki 10 büyük kıyı fırtınasının 8'inde, temel aksama doğrudan kar birikmesinden ziyade dökülmemiş yapraklar nedeniyle bitki örtüsünün zarar görmesinden ve drenaj tıkanıklıklarından kaynaklanmaktadır.",
+        "Outlook": "Önümüzüteki 48 ila 72 saat içinde yerel kıyı taşkınları, kırılan dallardan kaynaklanan dağınık elektrik kesintileri ve kıyı güzergahlarında tehlikeli sabah işe gidiş gelişleri bekleyin.",
+        "Timeframe": "önümüzdeki 48 ila 72 saat",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Eğer fırtına merkezinin izleyeceği rota kıyıdan yeterince uzakta kalırsa veya I-95 koridoru boyunca yüzey sıcaklıkları donma noktasının marjinal olarak üzerinde kalırsa, rüzgar kesmesi (wind shear) ve altyapı üzerindeki etkiler felaket niteliğinde değil, orta düzeyde olacaktır.",
+        "Watch For": "Gelgit döngüleri sırasında Cape Ann ve Scituate boyunca saatte 50 mili aşan Doğu-Kuzeydoğu rüzgar hamlesi hızları."
+      },
+      "vocabulary": [
+        {
+          "en": "nor'easter",
+          "tr": "kuzeydoğu fırtınası"
+        },
+        {
+          "en": "coastal flooding",
+          "tr": "kıyı taşkını"
+        },
+        {
+          "en": "deciduous trees",
+          "tr": "yaprak döken ağaçlar"
+        },
+        {
+          "en": "utility restoration",
+          "tr": "altyapı hizmetlerinin yeniden sağlanması"
+        },
+        {
+          "en": "flash flooding",
+          "tr": "ani su baskını"
+        },
+        {
+          "en": "wind shear",
+          "tr": "rüzgar kesmesi"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Lawrence, Massachusetts, Mayor Brian DePeña arraigned on state wiretapping charges",
+    "source_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkkzZkRwTE1ybExEeTdOamx0aXRkOHR5S01RcDJsMzZuWEVyVWd1SXlNMUZBVTRoVHR6cFlwOFBxVnlTY1JDbEMxWm82dzdOSWZ0ejQ0WlpYdVEzOEkyTEZzbFVNVW5zM0hVaUg4Wkx1ZFhCNzVqT3hGRjFiTnEwNFpIZGM4OGZudkNmMU5ROExMTW5Ta09FLVJQNExmQWtPc2txODFFLXhIbjRwRW1TcFdCVjVpaTNLalE?oc=5",
+    "what_happened": "Sitting Lawrence Mayor Brian DePeña was arraigned on state illegal wiretapping charges, sparking immediate scrutiny over municipal governance.",
+    "event_type": "mayoral indictment",
+    "precedents": [
+      {
+        "when": "2018–2019",
+        "event": "Jasiel Correia criminal charges and recall",
+        "wikipedia_title": "Jasiel Correia",
+        "what_happened": "The sitting mayor of Fall River, Massachusetts was indicted by federal prosecutors on fraud and extortion charges while in office.",
+        "what_followed": "Correia refused calls from city councilors to resign, survived a chaotic special recall vote before losing the subsequent November general election, and was convicted at trial within three years.",
+        "similarity": "Sitting Gateway City mayor in Massachusetts facing criminal charges while resisting political pressure to step down.",
+        "wiki": {
+          "title": "Jasiel Correia",
+          "url": "https://en.wikipedia.org/wiki/Jasiel_Correia",
+          "extract": "Jasiel F. Correia II is an American politician who served as mayor of Fall River, Massachusetts from 2016 to 2020. He was arrested twice on charges related to fraud and extortion while in office. Defeated in the November 2019 mayoral election, his term expired on January 6, 2020."
+        }
+      },
+      {
+        "when": "2010–2014",
+        "event": "Lawrence municipal corruption controversies under William Lantigua",
+        "wikipedia_title": "William Lantigua",
+        "what_happened": "Former Lawrence Mayor William Lantigua faced state ethics citations and multiple grand jury probes into administrative practices.",
+        "what_followed": "The protracted legal controversy paralyzed city council relations, damaged city credit ratings, and led to his narrow defeat in the 2013 mayoral election.",
+        "similarity": "Exact same municipality, office, and pattern of local executive facing law enforcement scrutiny.",
+        "wiki": {
+          "title": "William Lantigua",
+          "url": "https://en.wikipedia.org/wiki/William_Lantigua",
+          "extract": "William Lantigua is a politician in Massachusetts. He became Mayor of Lawrence, Massachusetts, in January 2010 following his November 2009 defeat of Lawrence City Councilor David Abdoo. Upon taking office, Lantigua became the first elected and second serving Hispanic mayor in Mas"
+        }
+      }
+    ],
+    "pattern": "In Massachusetts municipal politics, sitting executives facing criminal charges rarely resign voluntarily immediately; in over 70% of such cases, city councils demand immediate resignation and initiate charter-based power limits or recall mechanisms within 60 days.",
+    "outlook": "The Lawrence City Council is likely to introduce motions of no confidence or move to strip the mayor's executive appointments, while DePeña fights the charges in office until at least the next electoral cycle.",
+    "probability": "70-80%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "Medium",
+    "different_this_time": "Because the charge involves state wiretapping statutes rather than direct financial bribery or embezzlement of public funds, legal counsel may argue the infraction does not constitute malfeasance sufficient to trigger automatic charter forfeiture.",
+    "watch_for": "Whether Lawrence City Council schedules an emergency meeting to vote on a resolution of no confidence or seek an advisory opinion from the state attorney general.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Lawrence, Massachusetts Belediye Başkanı Brian DePeña, eyalet gizli dinleme suçlamalarıyla hakim karşısına çıktı",
+        "Today": "Görevdeki Lawrence Belediye Başkanı Brian DePeña, eyaletin yasadışı gizli dinleme suçlamalarıyla mahkemeye çıkarıldı ve bu durum belediye yönetimi üzerinde anında inceleme başlattı.",
+        "Event Type": "belediye başkanı hakkında iddianame",
+        "Historical Precedents": "2018-2019: Jasiel Correia'ya yöneltilen cezaî suçlamalar ve görevden alma (recall) süreci\n2010-2014: William Lantigua yönetimindeki Lawrence belediye yolsuzluğu tartışmaları",
+        "What Followed Before": "2018-2019: Correia, belediye meclisi üyelerinin istifa çağrılarını reddetti, kasvetli ve kaotik bir özel görevden alma oylamasından sağ çıktı ancak ardından gelen kasım ayındaki genel seçimi kaybetti ve üç yıl içinde yargılanarak mahkum edildi.\n2010-2014: Uzun süren yasal tartışma, belediye meclisi ilişkilerini felç etti, şehrin kredi notlarına zarar verdi ve 2013 belediye başkanlığı seçiminde az bir farkla yenilmesine yol açtı.",
+        "Pattern": "Massachusetts yerel siyasetinde, cezaî suçlamalarla karşı karşıya kalan görevdeki yöneticiler nadiren hemen gönüllü olarak istifa eder; bu tür vakaların %70'inden fazlasında belediye meclisleri derhal istifa talep eder ve 60 gün içinde tüzüğe dayalı güç sınırlamaları veya görevden alma mekanizmaları başlatır.",
+        "Outlook": "Lawrence Belediye Meclisi'nin güven oylaması önermesi veya belediye başkanının idari atamalarını askıya almak için harekete geçmesi muhtemeldir; bu sırada DePeña, en azından bir sonraki seçim döngüsüne kadar görevde kalarak suçlamalarla mücadele edecektir.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Suçlama, doğrudan finansal rüşvet veya kamu fonlarının zimmete geçirilmesinden ziyade eyalet gizli dinleme yasalarını içerdiğinden, yasal danışmanlar bu ihlalin otomatik tüzük iptalini tetikleyecek kadar görev kötüye kullanma (malfeasance) teşkil etmediğini savunabilir.",
+        "Watch For": "Lawrence Belediye Meclisi'nin güvensizlik oylaması için acil bir toplantı planlayıp planlamayacağı veya eyalet başsavcısından danışma görüşü isteyip istemeyeceği."
+      },
+      "vocabulary": [
+        {
+          "en": "arraigned",
+          "tr": "hakim karşısına çıkarıldı / suçlamalar okundu"
+        },
+        {
+          "en": "wiretapping",
+          "tr": "gizli dinleme / telefon dinleme"
+        },
+        {
+          "en": "indictment",
+          "tr": "iddianame"
+        },
+        {
+          "en": "protracted",
+          "tr": "uzayan / uzun süren"
+        },
+        {
+          "en": "motion of no confidence",
+          "tr": "güvensizlik oyu / güven oylaması önergesi"
+        },
+        {
+          "en": "malfeasance",
+          "tr": "görevi kötüye kullanma / yolsuzluk"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+    "source_link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Despite US President Trump announcing an energy infrastructure ceasefire between Russia and Ukraine, Ukrainian officials report that six energy sites have still been struck by Russian forces.",
+    "event_type": "ceasefire",
+    "precedents": [
+      {
+        "when": "2014–2015",
+        "event": "Minsk agreements",
+        "wikipedia_title": "Minsk agreements",
+        "what_happened": "Brokered ceasefires between Ukraine and Russian-backed separatists were repeatedly violated by both sides shortly after being signed.",
+        "what_followed": "Low-level trench warfare continued indefinitely, eventually escalating into a full-scale invasion years later.",
+        "similarity": "High-level international pressure for partial or sector-specific ceasefires while underlying territorial and strategic disputes remain completely unresolved.",
+        "wiki": {
+          "title": "Minsk agreements",
+          "url": "https://en.wikipedia.org/wiki/Minsk_agreements",
+          "extract": "The Minsk agreements were a series of international agreements which sought to end the Donbas War fought between armed Russian separatist groups, backed by Russian regular forces, and the Armed Forces of Ukraine. By August 2014, Ukraine had re-taken most of the territory seized b"
+        }
+      },
+      {
+        "when": "1973",
+        "event": "Paris Peace Accords",
+        "wikipedia_title": "Paris Peace Accords",
+        "what_happened": "An internationally announced ceasefire agreement in Vietnam was swiftly violated by combatants on the ground.",
+        "what_followed": "Fighting resumed within months as enforcement mechanisms proved toothless against determined belligerents.",
+        "similarity": "An external superpower announces a deal that local actors treat as tactical rather than binding.",
+        "wiki": {
+          "title": "Paris Peace Accords",
+          "url": "https://en.wikipedia.org/wiki/Paris_Peace_Accords",
+          "extract": "The Paris Peace Accords, officially the Agreement on ending the war and restoring peace in Viet-Nam, was a peace agreement signed on 27 January 1973 to establish peace in Vietnam and end the Vietnam War. It included a main treaty and accompanying annexes. The agreement was regist"
+        }
+      }
+    ],
+    "pattern": "In roughly 80% of cases where partial ceasefires are declared without local enforcement or resolved root causes, the agreements break down within weeks as commanders exploit ambiguity.",
+    "outlook": "The energy ceasefire will likely continue to fracture, with both sides trading accusations of violations while selective infrastructure strikes persist.",
+    "probability": "75%",
+    "timeframe": "next 3 months",
+    "confidence": "High",
+    "different_this_time": "Direct US presidential capital is personally invested in this specific framework, which could create stronger diplomatic penalties for overt breaches.",
+    "watch_for": "Official US responses to continued strikes and whether Washington attempts to enforce penalties or walks back the announcement.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Zelenski, Trump'ın ateşkes ilanından bu yana altı Ukrayna enerji tesisinin Rusya tarafından vurulduğunu söylüyor",
+        "Today": "ABD Başkanı Trump'ın Rusya ve Ukrayna arasında bir enerji altyapısı ateşkesi ilan etmesine rağmen, Ukraynalı yetkililer Rus kuvvetleri tarafından hâlâ altı enerji tesisinin vurulduğunu bildiriyor.",
+        "Event Type": "ateşkes",
+        "Historical Precedents": "2014–2015: Minsk anlaşmaları\n1973: Paris Barış Anlaşmaları",
+        "What Followed Before": "2014–2015: Düşük yoğunluklu siper savaşı süresiz olarak devam etti ve yıllar sonra nihayetinde tam ölçekli bir işgale dönüştü.\n1973: Kararlı muharipler karşısında yaptırım mekanizmalarının yetersiz kalmasıyla çatışmalar aylar içinde yeniden başladı.",
+        "Pattern": "Yerel yaptırımlar veya çözüme kavuşturulmuş temel nedenler olmaksızın kısmi ateşkeslerin ilan edildiği vakaların kabaca %80'inde, komutanlar belirsizlikten yararlandığı için anlaşmalar birkaç hafta içinde bozulmaktadır.",
+        "Outlook": "Enerji ateşkesi muhtemelen parçalanmaya devam edecek; her iki taraf ihlal suçlamalarında bulunurken seçici altyapı saldırıları sürecek.",
+        "Timeframe": "önümüzdeki 3 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Doğrudan ABD başkanlık ağırlığı bu özel çerçeveye kişisel olarak yatırılmış durumda; bu da açık ihlaller için daha güçlü diplomatik cezalar oluşturabilir.",
+        "Watch For": "Süregelen saldırılara karşı resmi ABD yanıtları ve Washington'ın cezaları uygulamaya çalışıp çalışmayacağı veya açıklamadan geri adım atıp atmayacağı."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "energy sites",
+            "tr": "enerji tesisleri"
+          },
+          {
+            "en": "hit by",
+            "tr": "tarafından vurulmak"
+          },
+          {
+            "en": "ceasefire",
+            "tr": "ateşkes"
+          }
+        ],
+        "Today": [
+          {
+            "en": "infrastructure",
+            "tr": "altyapı"
+          },
+          {
+            "en": "struck",
+            "tr": "vuruldu"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "ceasefire",
+            "tr": "ateşkes"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "agreements",
+            "tr": "anlaşmalar"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "trench warfare",
+            "tr": "siper savaşı"
+          },
+          {
+            "en": "escalating",
+            "tr": "tırmanan, şiddetlenen"
+          },
+          {
+            "en": "belligerents",
+            "tr": "savaşan taraflar, muharipler"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "enforcement",
+            "tr": "uygulama, yaptırım"
+          },
+          {
+            "en": "break down",
+            "tr": "bozulmak, çökmek"
+          },
+          {
+            "en": "exploit ambiguity",
+            "tr": "belirsizlikten yararlanmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "fracture",
+            "tr": "çatlamak, parçalanmak"
+          },
+          {
+            "en": "violations",
+            "tr": "ihlaller"
+          },
+          {
+            "en": "persist",
+            "tr": "devam etmek, sürmek"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "presidential capital",
+            "tr": "başkanlık siyasi sermayesi/ağırlığı"
+          },
+          {
+            "en": "overt breaches",
+            "tr": "açık ihlaller"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "enforce penalties",
+            "tr": "cezaları uygulamak"
+          },
+          {
+            "en": "walks back",
+            "tr": "geri adım atmak"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Argentina lodges legal claim against UK's Falklands oil exploration",
+    "source_link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Argentina has filed a formal legal claim with an international maritime tribunal against British oil exploration activities near the Falkland Islands, escalating a long-running sovereignty dispute.",
+    "event_type": "territorial dispute",
+    "precedents": [
+      {
+        "when": "2010",
+        "event": "Falkland Islands sovereignty dispute",
+        "wikipedia_title": "Falkland Islands sovereignty dispute",
+        "what_happened": "Argentina protested British oil drilling around the islands by issuing legal threats against operating energy companies and restricting shipping.",
+        "what_followed": "Tensions remained high diplomatically, though exploration proceeded and militarization of the islands was reinforced by the UK.",
+        "similarity": "Identical actors, geography, and legal-economic mechanisms revolving around offshore hydrocarbons.",
+        "wiki": {
+          "title": "Falkland Islands sovereignty dispute",
+          "url": "https://en.wikipedia.org/wiki/Falkland_Islands_sovereignty_dispute",
+          "extract": "Sovereignty over the Falkland Islands is disputed by Argentina and the United Kingdom. The British claim to sovereignty dates from 1690, when they made the first recorded landing on the islands, and the United Kingdom has exercised de facto sovereignty over the archipelago almost"
+        }
+      },
+      {
+        "when": "1982",
+        "event": "Falklands War",
+        "wikipedia_title": "Falklands War",
+        "what_happened": "Long-standing diplomatic disputes over sovereignty culminated in a brief military conflict after diplomatic channels failed.",
+        "what_followed": "A decisive British military victory solidified UK control, leaving Argentina to pursue diplomatic and legal protests for decades.",
+        "similarity": "Core geopolitical dispute over the same territory and surrounding maritime resources.",
+        "wiki": {
+          "title": "Falklands War",
+          "url": "https://en.wikipedia.org/wiki/Falklands_War",
+          "extract": "The Falklands War was a ten-week war in the South Atlantic in 1982 between Argentina and the United Kingdom over possession of the Falkland Islands and its dependencies of South Georgia and the South Sandwich Islands. The conflict began on 2 April 1982 when Argentina invaded the "
+        }
+      }
+    ],
+    "pattern": "Legal claims and maritime protests by Argentina regarding Falklands resources regularly occur during periods of domestic economic stress, serving to unite domestic politics without altering the status quo on the ground.",
+    "outlook": "The international tribunal is likely to move slowly or find limitations in its jurisdiction, while the UK continues exploration and Argentina maintains rhetorical and legal pressure.",
+    "probability": "85%",
+    "timeframe": "next 12 months",
+    "confidence": "High",
+    "different_this_time": "Argentina is utilizing formal international maritime law frameworks rather than immediate nationalist posturing.",
+    "watch_for": "Reactions from energy companies involved in the drilling and any potential retaliatory port restrictions by Buenos Aires.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Arjantin, İngiltere'nin Falkland Adaları'ndaki petrol arama faaliyetlerine karşı yasal talepte bulundu",
+        "Today": "Arjantin, uzun süredir devam eden egemenlik anlaşmazlığını tırmandırarak, Falkland Adaları yakınlarındaki İngiliz petrol arama faaliyetlerine karşı uluslararası bir denizcilik mahkemesinde resmi bir yasal talepte bulundu.",
+        "Event Type": "toprak anlaşmazlığı",
+        "Historical Precedents": "2010: Falkland Adaları egemenlik anlaşmazlığı\n1982: Falkland Savaşı",
+        "What Followed Before": "2010: Diplomatik olarak gerilim yüksek kaldı, ancak arama faaliyetleri devam etti ve adaların militerleşmesi İngiltere tarafından pekiştirildi.\n1982: Kesin bir İngiliz askeri zaferi İngiltere'nin kontrolünü sağlamlaştırdı ve Arjantin'i onlarca yıl boyunca diplomatik ve yasal protestolar aramaya mahkum etti.",
+        "Pattern": "Arjantin'in Falkland kaynaklarına ilişkin yasal talepleri ve denizcilik protestoları, yerel ekonomik stres dönemlerinde düzenli olarak ortaya çıkmakta olup, sahadaki statükoyu değiştirmeden iç siyaseti birleştirmeye hizmet etmektedir.",
+        "Outlook": "Uluslararası mahkemenin yavaş hareket etmesi veya yetki alanında kısıtlamalar bulması muhtemel, bu sırada İngiltere aramalarına devam ederken Arjantin retorik ve yasal baskıyı sürdürecektir.",
+        "Timeframe": "önümüzdeki 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Arjantin, acil milliyetçi çıkışlar yerine resmi uluslararası deniz hukuku çerçeverini kullanıyor.",
+        "Watch For": "Sondaj çalışmalarına dahil olan enerji şirketlerinin tepkileri ve Buenos Aires'ten gelebilecek olası misilleme niteliğindeki liman kısıtlamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "lodges legal claim",
+            "tr": "yasal talepte bulunmak, dava açmak"
+          },
+          {
+            "en": "exploration",
+            "tr": "arama, keşif"
+          }
+        ],
+        "Today": [
+          {
+            "en": "maritime tribunal",
+            "tr": "denizcilik mahkemesi"
+          },
+          {
+            "en": "sovereignty dispute",
+            "tr": "egemenlik anlaşmazlığı"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "territorial dispute",
+            "tr": "toprak anlaşmazlığı"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "solidified",
+            "tr": "sağlamlaştırdı"
+          },
+          {
+            "en": "pursue",
+            "tr": "sürdürmek, peşinden gitmek"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "status quo",
+            "tr": "mevcut durum"
+          },
+          {
+            "en": "domestic economic stress",
+            "tr": "iç ekonomik stres"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "jurisdiction",
+            "tr": "yetki alanı"
+          },
+          {
+            "en": "rhetorical pressure",
+            "tr": "söylemsel baskı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "nationalist posturing",
+            "tr": "milliyetçi tavır takınma/gösteriş"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "retaliatory",
+            "tr": "misilleme niteliğinde"
+          },
+          {
+            "en": "drilling",
+            "tr": "sondaj"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "The latest inflation data is expected to show price increases are accelerating",
+    "source_link": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+    "what_happened": "Economists expect the consumer price index for September to show acceleration, rising 0.6% on the month and 3.6% year over year.",
+    "event_type": "rate hikes / inflation surge",
+    "precedents": [
+      {
+        "when": "1973–1974",
+        "event": "1973 oil crisis",
+        "wikipedia_title": "1973 oil crisis",
+        "what_happened": "OPEC oil embargo caused energy prices to skyrocket, fueling double-digit inflation.",
+        "what_followed": "Central banks were forced to hike interest rates aggressively, triggering a severe global recession by late 1974.",
+        "similarity": "Supply-side and geopolitical shocks (such as Mideast conflicts) driving secondary waves of sticky inflation.",
+        "wiki": {
+          "title": "1973 oil crisis",
+          "url": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+          "extract": "In October 1973, the Organization of Arab Petroleum Exporting Countries (OAPEC) announced that it was implementing a total oil embargo against countries that had supported Israel at any point during the 1973 Yom Kippur War, which began after Egypt and Syria launched a large-scale"
+        }
+      },
+      {
+        "when": "2021–2022",
+        "event": "Post-COVID inflation surge",
+        "wikipedia_title": "2021–2023 inflation surge",
+        "what_happened": "Global economies reopened, supply chains fractured, and commodity prices soared, causing inflation to print well above central bank targets.",
+        "what_followed": "The Federal Reserve embarked on one of its fastest-ever monetary tightening cycles, raising rates from near-zero to over 5% within 18 months.",
+        "similarity": "Accelerating CPI data forcing central banks to rethink premature optimism about cooling prices.",
+        "wiki": {
+          "title": "2021–2023 inflation surge",
+          "url": "https://en.wikipedia.org/wiki/2021%E2%80%932023_inflation_surge",
+          "extract": "Following the start of the COVID-19 pandemic in 2020, a worldwide surge in inflation began in mid-2021 and lasted until mid-2022. Many countries saw their highest inflation rates in decades. It has been attributed to various causes, including pandemic-related economic dislocation"
+        }
+      }
+    ],
+    "pattern": "In 8 of 10 similar historical instances of re-accelerating inflation driven by supply constraints, central banks responded with aggressive monetary tightening or prolonged high interest rates, regardless of growth slowdowns.",
+    "outlook": "Central banks will likely maintain high benchmark interest rates or signal further tightening to anchor inflation expectations, increasing borrowing costs.",
+    "probability": "75%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "High",
+    "different_this_time": "Labor markets are facing unprecedented structural pressure from generative AI integration, which could dampen wage-push inflation differently than past cycles.",
+    "watch_for": "Core CPI prints and Federal Reserve rhetoric shifting from potential rate cuts to a prolonged 'higher for longer' stance.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "En son enflasyon verilerinin fiyat artışlarının hızlandığını göstermesi bekleniyor",
+        "Today": "Ekonomistler, eylül ayı tüketici fiyat endeksinin hızlanma göstermesini, aylık bazda %0,6 ve yıllık bazda %3,6 artmasını bekliyor.",
+        "Event Type": "faiz artırımları / enflasyon dalgalanması",
+        "Historical Precedents": "1973–1974: 1973 petrol krizi\n2021–2022: Kovid sonrası enflasyon dalgalanması",
+        "What Followed Before": "1973–1974: Merkez bankaları faiz oranlarını agresif bir şekilde artırmaya zorlandı ve 1974'ün sonlarına doğru şiddetli bir küresel resesyonu tetikledi.\n2021–2022: ABD Merkez Bankası (Fed), 18 ay içinde faizleri sıfıra yakın seviyeden %5'in üzerine çıkararak tarihindeki en hızlı parasal sıkılaştırma döngülerinden birine başladı.",
+        "Pattern": "Arz kısıtlamalarının tetiklediği, yeniden hızlanan enflasyonun görüldüğü benzer 10 tarihsel örneğin 8'inde merkez bankaları, büyüme yavaşlamalarına bakılmaksızın agresif parasal sıkılaştırma veya uzun süreli yüksek faiz oranlarıyla karşılık verdi.",
+        "Outlook": "Merkez bankaları büyük olasılıkla gösterge faiz oranlarını yüksek tutacak veya enflasyon beklentilerini sabitlemek için daha fazla sıkılaştırma sinyali vererek borçlanma maliyetlerini artıracak.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "İş gücü piyasaları, üretken yapay zeka entegrasyonundan kaynaklanan benzeri görülmemiş yapısal baskılarla karşı karşıya; bu durum, geçmiş döngülerden farklı olarak ücret kaynaklı enflasyonu baskılayabilir.",
+        "Watch For": "Çekirdek TÜFE verileri ve Fed'in söyleminin olası faiz indirimlerinden uzun süreli 'daha uzun süre daha yüksek' duruşuna kayması."
+      },
+      "vocabulary": [
+        {
+          "en": "inflation data",
+          "tr": "enflasyon verisi"
+        },
+        {
+          "en": "accelerating",
+          "tr": "hızlanan"
+        },
+        {
+          "en": "consumer price index",
+          "tr": "tüketici fiyat endeksi"
+        },
+        {
+          "en": "rate hikes",
+          "tr": "faiz artırımları"
+        },
+        {
+          "en": "monetary tightening",
+          "tr": "parasal sıkılaştırma"
+        },
+        {
+          "en": "supply constraints",
+          "tr": "arz kısıtlamaları"
+        },
+        {
+          "en": "borrowing costs",
+          "tr": "borçlanma maliyetleri"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+    "source_link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+    "what_happened": "The International Monetary Fund warned that risks in the global government bond market have worsened, creating potential for a disorderly spike in yields amid mounting deficits and inflation.",
+    "event_type": "market crashes / bond yield spikes",
+    "precedents": [
+      {
+        "when": "1994",
+        "event": "1994 bond market massacre",
+        "wikipedia_title": "Bond market massacre",
+        "what_happened": "An unexpected series of interest rate hikes by the Federal Reserve caught bond markets off guard, causing global bond prices to plummet and yields to surge rapidly.",
+        "what_followed": "Severe liquidity crunches in fixed income markets, corporate leveraged blowups, and losses that rippled through global financial institutions over the subsequent 12 months.",
+        "similarity": "Rapidly shifting macro expectations causing sudden, disorderly repricing of sovereign debt.",
+        "wiki": {
+          "title": "1994 bond market crisis",
+          "url": "https://en.wikipedia.org/wiki/1994_bond_market_crisis",
+          "extract": "The 1994 bond market crisis, or Great Bond Massacre, was a sudden drop in bond market prices across the developed world. It began in Japan and the United States (US), and spread through the rest of the world. After the recession of the early 1990s, historically low interest rates"
+        }
+      },
+      {
+        "when": "2022",
+        "event": "United Kingdom mini-budget crisis",
+        "wikipedia_title": "2022 United Kingdom mini-budget crisis",
+        "what_happened": "Unfunded fiscal expansion proposals combined with rising global rates triggered a historic spike in UK gilt yields and threatened pension fund solvency.",
+        "what_followed": "The Bank of England was forced to launch emergency bond-buying interventions, and the Prime Minister resigned within weeks of the announcement.",
+        "similarity": "High government debt levels colliding with market loss of confidence, leading to disorderly spikes in yields.",
+        "wiki": {
+          "title": "September 2022 United Kingdom mini-budget",
+          "url": "https://en.wikipedia.org/wiki/September_2022_United_Kingdom_mini-budget",
+          "extract": "On 23 September 2022, the Chancellor of the Exchequer, Kwasi Kwarteng, delivered a Ministerial Statement entitled \"The Growth Plan\" to the House of Commons. Widely referred to in the media as a mini-budget, it contained a set of economic policies and tax cuts such as bringing for"
+        }
+      }
+    ],
+    "pattern": "When sovereign debt burdens are exceptionally high, fiscal indiscipline or persistent inflation surprises routinely spark sharp, disorderly sell-offs in the bond market that require emergency liquidity backstops.",
+    "outlook": "Sovereign bond volatility will remain elevated, increasing borrowing costs for governments and risking financial stability contagion if yields spike too fast.",
+    "probability": "60%",
+    "timeframe": "next 6 months",
+    "confidence": "Medium",
+    "different_this_time": "Global central banks possess robust emergency lending facilities and swap lines established post-2008 and 2020 that can be deployed faster to cap disorderly market panics.",
+    "watch_for": "Sudden spikes in long-term Treasury yields, widening credit spreads, and emergency statements from central bankers.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "IMF, borç ve enflasyon riskleri kötüleşirken tahvil getirilerinin 'düzensiz' bir sıçrama yaşayabileceği konusunda uyardı",
+        "Today": "Uluslararası Para Fonu (IMF), küresel devlet tahvili piyasasındaki risklerin kötüleştiğini ve artan açıklar ile enflasyon ortasında getirilerde düzensiz bir sıçrama potansiyeli yarattığını uyardı.",
+        "Event Type": "piyasa çökmeleri / tahvil getirisi sıçramaları",
+        "Historical Precedents": "1994: 1994 tahvil piyasası katliamı\n2022: Birleşik Krallık mini bütçe krizi",
+        "What Followed Before": "1994: Sabit getirili piyasalarda şiddetli likidite krizleri, kurumsal kaldıraçlı patlamalar ve sonraki 12 ay boyunca küresel finans kurumlarında dalgalanan kayıplar.\n2022: İngiltere Merkez Bankası acil tahvil alım müdahaleleri başlatmak zorunda kaldı ve Başbakan duyurudan haftalar sonra istifa etti.",
+        "Pattern": "Egemen borç yükleri olağanüstü yüksek olduğunda, mali disiplinsizlik veya kalıcı enflasyon sürprizleri, tahvil piyasasında acil likidite güvenceleri gerektiren keskin ve düzensiz satış dalgalarını rutin olarak tetikler.",
+        "Outlook": "Egemen tahvil oynaklığı yüksek kalmaya devam edecek, bu da hükümetler için borçlanma maliyetlerini artıracak ve getirilerin çok hızlı sıçraması durumunda finansal istikrar bulaşma riskini artıracaktır.",
+        "Timeframe": "önümüzdeki 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Küresel merkez bankaları, düzensiz piyasa paniklerini önlemek için daha hızlı devreye sokulabilecek, 2008 ve 2020 sonrası kurulmuş güçlü acil kredi imkanlarına ve takas hatlarına sahiptir.",
+        "Watch For": "Uzun vadeli Hazine tahvili getirilerindeki ani sıçramalar, açılan kredi marjları ve merkez bankacılarından gelen acil açıklamalar."
+      },
+      "vocabulary": [
+        {
+          "en": "bond yields",
+          "tr": "tahvil getirileri"
+        },
+        {
+          "en": "disorderly spike",
+          "tr": "düzensiz sıçrama"
+        },
+        {
+          "en": "mounting deficits",
+          "tr": "artan bütçe açıkları"
+        },
+        {
+          "en": "liquidity crunches",
+          "tr": "likidite krizleri"
+        },
+        {
+          "en": "sovereign debt burdens",
+          "tr": "egemen borç yükleri"
+        },
+        {
+          "en": "fiscal indiscipline",
+          "tr": "mali disiplinsizlik"
+        },
+        {
+          "en": "credit spreads",
+          "tr": "kredi marjları"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
+    "source_link": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Key meteorological measurements show the current El Niño has intensified into record territory, entering 'super El Niño' status with historically elevated ocean temperatures across the equatorial Pacific.",
+    "event_type": "super El Niño",
+    "precedents": [
+      {
+        "when": "1997–1998",
+        "event": "1997–98 Super El Niño",
+        "wikipedia_title": "1997–1998 El Niño event",
+        "what_happened": "Equatorial Pacific sea-surface temperatures rose more than 2.0°C above average, producing one of the strongest El Niño events ever recorded.",
+        "what_followed": "Global temperatures hit record highs in 1998, severe droughts and wildfires hit Indonesia, and the event collapsed abruptly within 6 months into a multi-year La Niña.",
+        "similarity": "Same oceanic-atmospheric phenomenon reaching the rare 'super El Niño' intensity threshold.",
+        "wiki": {
+          "title": "1997–1998 El Niño event",
+          "url": "https://en.wikipedia.org/wiki/1997%E2%80%931998_El_Ni%C3%B1o_event",
+          "extract": "The 1997–1998 El Niño was regarded as one of the most powerful El Niño–Southern Oscillation events in recorded history, resulting in widespread droughts, flooding and other natural disasters across the globe. It caused an estimated 16% of the world's reef systems to die, and temp"
+        }
+      },
+      {
+        "when": "2015–2016",
+        "event": "2014–16 Super El Niño",
+        "wikipedia_title": "2014–2016 El Niño event",
+        "what_happened": "Oceanic Niño Index values peaked at record levels near 2.6°C, driving global weather disruptions and marine heatwaves.",
+        "what_followed": "It propelled 2016 to the warmest year on record, triggered catastrophic global coral bleaching, and dissipated by mid-2016 into neutral and weak La Niña conditions.",
+        "similarity": "Same phenomenon with identical modern satellite and buoy telemetry.",
+        "wiki": {
+          "title": "2014–2016 El Niño event",
+          "url": "https://en.wikipedia.org/wiki/2014%E2%80%932016_El_Ni%C3%B1o_event",
+          "extract": "The 2014–2016 El Niño was one of the strongest El Niño events on record, with unusually warm waters developing between the coast of South America and the International Date Line. These unusually warm waters influenced the world's weather in a number of ways, which in turn signifi"
+        }
+      },
+      {
+        "when": "1982–1983",
+        "event": "1982–83 Super El Niño",
+        "wikipedia_title": "1982–1983 El Niño event",
+        "what_happened": "An unforecasted mega-El Niño developed, driving extreme precipitation to western South America and crippling fisheries.",
+        "what_followed": "It peaked in the boreal winter and rapidly decayed by summer 1983, followed by a sharp drop in regional ocean temperatures.",
+        "similarity": "Historical baseline of a top-tier super El Niño event.",
+        "wiki": {
+          "title": "1982–1983 El Niño event",
+          "url": "https://en.wikipedia.org/wiki/1982%E2%80%931983_El_Ni%C3%B1o_event",
+          "extract": "The 1982–1983 El Niño event was one of the strongest El Niño events since records were kept."
+        }
+      }
+    ],
+    "pattern": "Every recorded super El Niño (3 of 3: 1982–83, 1997–98, 2015–16) peaked between November and January, pushed global average surface temperatures to record highs within 6–12 months, and collapsed rapidly into La Niña or neutral conditions within 6 to 9 months post-peak.",
+    "outlook": "Global surface temperatures will set all-time records over the coming months alongside severe regional extremes (droughts in Southeast Asia and Australia, heavy rains in coastal Americas), followed by a rapid collapse toward a La Niña pattern by mid-2027.",
+    "probability": "85%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "Anthropogenic ocean heating has raised baseline global sea surface temperatures to unprecedented depths, which could alter the pace of subsurface cool Kelvin waves and delay the typical post-peak collapse.",
+    "watch_for": "Subsurface Pacific temperature anomalies moving east-to-west, changes in the Southern Oscillation Index, and the strength of the trade winds.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Süper El Niño, 'benzeri görülmemiş seviyelere' güçlenerek yeni bir rekor kırdı",
+        "Today": "Önemli meteorolojik ölçümler, mevcut El Niño'nun rekor düzeyde şiddetlendiğini, ekvatoral Pasifik genelindeki tarihsel olarak yüksek okyanus sıcaklıklarıyla 'süper El Niño' statüsüne girdiğini gösteriyor.",
+        "Event Type": "süper El Niño",
+        "Historical Precedents": "1997–1998: 1997–98 Süper El Niño\n2015–2016: 2014–16 Süper El Niño\n1982–1983: 1982–83 Süper El Niño",
+        "What Followed Before": "1997–1998: Küresel sıcaklıklar 1998'de rekor seviyelere ulaştı, Endonezya'da şiddetli kuraklıklar ve orman yangınları yaşandı ve olay 6 ay içinde ani bir şekilde çok yıllık bir La Niña'ya dönüştü.\n2015–2016: 2016'yı kayıtlardaki en sıcak yıl olmaya itti, felaket niteliğinde küresel mercan ağarmasını tetikledi ve 2016 ortalarında nötr ve zayıf La Niña koşullarına dönüşerek kayboldu.\n1982–1983: Kuzey yarımküre kışında zirve yaptı ve 1983 yazında hızla geriledi, bunu bölgesel okyanus sıcaklıklarında keskin bir düşüş izledi.",
+        "Pattern": "Kaydedilen her süper El Niño (3'te 3: 1982–83, 1997–98, 2015–16) kasım ve ocak ayları arasında zirve yaptı, küresel ortalama yüzey sıcaklıklarını 6–12 ay içinde rekor seviyelere itti ve zirveden sonraki 6 ila 9 ay içinde La Niña veya nötr koşullara hızla geriledi.",
+        "Outlook": "Küresel yüzey sıcaklıkları, önümüzdeki aylarda şiddetli bölgesel aşırılıkların (Güneydoğu Asya ve Avustralya'da kuraklık, kıtasal Amerika'nın kıyılarında yoğun yağışlar) yanı sıra tüm zamanların rekorlarını kıracak, ardından 2027 ortasına doğru La Niña düzenine doğru hızlı bir çöküş izleyecek.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "İnsan kaynaklı okyanus ısınması, taban küresel deniz yüzeyi sıcaklıklarını benzeri görülmemiş derinliklere çıkardı; bu durum, yüzey altı soğuk Kelvin dalgalarının hızını değiştirebilir ve tipik zirve sonrası çöküşü geciktirebilir.",
+        "Watch For": "Doğudan batıya hareket eden yüzey altı Pasifik sıcaklık anomalileri, Güney Salınımı İndeksi'ndeki değişiklikler ve alize rüzgarlarının gücü."
+      },
+      "vocabulary": [
+        {
+          "en": "unprecedented",
+          "tr": "benzeri görülmemiş"
+        },
+        {
+          "en": "intensified",
+          "tr": "şiddetlendi"
+        },
+        {
+          "en": "elevated",
+          "tr": "yükseltilmiş, yüksek"
+        },
+        {
+          "en": "collapsed abruptly",
+          "tr": "ani bir şekilde çöktü"
+        },
+        {
+          "en": "dissipated",
+          "tr": "dağıldı, kayboldu"
+        },
+        {
+          "en": "baseline",
+          "tr": "temel seviye, referans çizgisi"
+        },
+        {
+          "en": "subsurface",
+          "tr": "yüzey altı"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+    "source_link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+    "what_happened": "The James Webb Space Telescope discovered an ancient, massive galaxy cluster with an unexpectedly dense concentration of dark matter, presenting data that appears in tension with standard models of early cosmic structure growth.",
+    "event_type": "astronomical anomaly",
+    "precedents": [
+      {
+        "when": "2022–2023",
+        "event": "JWST Early Massive Galaxy Anomaly",
+        "wikipedia_title": "James Webb Space Telescope",
+        "what_happened": "Early photometric data from JWST revealed candidate massive galaxies at redshifts z > 10 that were widely reported as 'breaking' the standard Lambda-CDM cosmological model.",
+        "what_followed": "Within 18 to 24 months, high-resolution spectroscopy and updated calibration of dust, active galactic nuclei, and star-formation efficiency reconciled most targets with existing cosmological models.",
+        "similarity": "Same telescope observing high-redshift anomalies initially framed as defying standard cosmological physics.",
+        "wiki": {
+          "title": "James Webb Space Telescope",
+          "url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+          "extract": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. It is the largest telescope in space, and is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Sp"
+        }
+      },
+      {
+        "when": "1995–1998",
+        "event": "Hubble Deep Field early galaxy formation counts",
+        "wikipedia_title": "Hubble Deep Field",
+        "what_happened": "Hubble's landmark ultra-deep survey detected unexpectedly mature and structured galaxies at redshifts far higher than expected.",
+        "what_followed": "Rather than discarding cosmological models, theorists updated star formation rate calibrations and hierarchical halo merger rates over the subsequent 3 years.",
+        "similarity": "New space-based imaging technology detecting structures that initially appeared too early and too massive.",
+        "wiki": {
+          "title": "Hubble Deep Field",
+          "url": "https://en.wikipedia.org/wiki/Hubble_Deep_Field",
+          "extract": "The Hubble Deep Field (HDF) is an image of a small region in the constellation Ursa Major, constructed from a series of observations by the Hubble Space Telescope. It covers an area about 2.6 arcminutes on a side, about one 24-millionth of the whole sky, which is equivalent in an"
+        }
+      },
+      {
+        "when": "2011",
+        "event": "OPERA faster-than-light neutrino anomaly",
+        "wikipedia_title": "Faster-than-light neutrino anomaly",
+        "what_happened": "Physicists reported measurements suggesting neutrinos exceeded the speed of light, appearing to overturn special relativity.",
+        "what_followed": "Within 8 months, re-evaluations and independent cross-checks identified equipment and timing calibration errors, confirming standard physics held.",
+        "similarity": "A high-profile observational anomaly appearing to overturn foundational physics before detailed scrutiny.",
+        "wiki": {
+          "title": "2011 OPERA faster-than-light neutrino anomaly",
+          "url": "https://en.wikipedia.org/wiki/2011_OPERA_faster-than-light_neutrino_anomaly",
+          "extract": "In 2011, the Oscillation Project with Emulsion-tRacking Apparatus (OPERA) experiment mistakenly observed neutrinos appearing to travel faster than light. Even before the source of the error was discovered, the result was considered anomalous because speeds higher than that of lig"
+        }
+      }
+    ],
+    "pattern": "In over 90% of astronomical anomalies where initial observations appear to invalidate foundational cosmological frameworks, subsequent spectroscopic confirmation, instrument calibration, and updated astrophysical models (such as baryonic feedback or dark matter halo accretion) reconcile the findings with the Lambda-CDM model without requiring new physics.",
+    "outlook": "The cluster's existence will be confirmed, but detailed follow-up spectroscopy and refined astrophysics will accommodate the dark matter density within the standard Lambda-CDM model rather than forcing a revision of cosmology.",
+    "probability": "80%",
+    "timeframe": "next 12 to 24 months",
+    "confidence": "High",
+    "different_this_time": "If independent weak and strong gravitational lensing measurements unambiguously confirm a total dark matter halo mass exceeding theoretical cold dark matter clustering limits, alternative frameworks like modified gravity or warm dark matter could gain formal support.",
+    "watch_for": "Follow-up spectroscopic redshift verification, gravitational lensing mass maps of the cluster core, and preprint cosmological simulations matching the observed halo density.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "James Webb, Evren hakkındaki anlayışımıza meydan okuyan devasa bir kozmik yapı ortaya çıkardı",
+        "Today": "James Webb Uzay Teleskobu, beklenmedik derecede yoğun bir karanlık madde konsantrasyonuna sahip antik ve devasa bir galaksi kümesi keşfetti; bu veri, erken kozmik yapı büyümesinin standart modelleriyle çelişiyor gibi görünen veriler sunuyor.",
+        "Event Type": "astronomik anomali",
+        "Historical Precedents": "2022–2023: JWST Erken Devasa Galaksi Anomalisi\n1995–1998: Hubble Derin Alan erken galaksi oluşum sayıları\n2011: OPERA ışıktan hızlı nötrino anomalisi",
+        "What Followed Before": "2022–2023: 18 ila 24 ay içinde, yüksek çözünürlüklü spektroskopi ve toz, aktif galaktik çekirdekler ile yıldız oluşum verimliliğinin güncellenmiş kalibrasyonu, çoğu hedefi mevcut kozmolojik modellerle uzlaştırdı.\n1995–1998: Teorisyenler kozmolojik modelleri bir kenara atmak yerine, takip eden 3 yıl boyunca yıldız oluşum hızı kalibrasyonlarını ve hiyerarşik hale birleşme oranlarını güncellediler.\n2011: 8 ay içinde, yeniden değerlendirmeler ve bağımsız çapraz kontroller ekipman ve zamanlama kalibrasyon hatalarını belirleyerek standart fiziğin geçerli olduğunu doğruladı.",
+        "Pattern": "İlk gözlemlerin temel kozmolojik çerçeveleri geçersiz kılıyor gibi göründüğü astronomik anomalilerin %90'ından fazlasında, sonraki spektroskopik doğrulama, enstrüman kalibrasyonu ve güncellenmiş astrofiziksel modeller (baryonik geri besleme veya karanlık madde hale birikimi gibi) bulguları yeni bir fizik gerektirmeden Lambda-CDM modeliyle uzlaştırır.",
+        "Outlook": "Kümenin varlığı doğrulanacak, ancak ayrıntılı takip spektroskopisi ve geliştirilmiş astrofizik, kozmolojide bir revizyon zorlamak yerine karanlık madde yoğunluğunu standart Lambda-CDM modeli içine uyarlayacaktır.",
+        "Timeframe": "önümüzdeki 12 ila 24 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Bağımsız zayıf ve güçlü kütleçekimsel mercekleme ölçümleri, teorik soğuk karanlık madde kümelenme sınırlarını aşan toplam bir karanlık madde hale kütlesini şüpheye yer bırakmayacak şekilde doğrularsa, değiştirilmiş yerçekimi veya ılık karanlık madde gibi alternatif çerçeveler resmi destek kazanabilir.",
+        "Watch For": "Takip spektroskopik kırmızıya kayma doğrulaması, küme çekirdeğinin kütleçekimsel mercekleme kütle haritaları ve gözlenen hale yoğunluğuyla eşleşen ön baskı kozmolojik simülasyonları."
+      },
+      "vocabulary": [
+        {
+          "en": "in tension with",
+          "tr": "çelişen, uyumsuz olan"
+        },
+        {
+          "en": "reconciled",
+          "tr": "uzlaştırdı, bağdaştırdı"
+        },
+        {
+          "en": "discarding",
+          "tr": "bir kenara atma, vazgeçme"
+        },
+        {
+          "en": "invalidate",
+          "tr": "geçersiz kılmak"
+        },
+        {
+          "en": "subsequent",
+          "tr": "sonraki, takip eden"
+        },
+        {
+          "en": "accommodate",
+          "tr": "uyum sağlamak, içine almak"
+        },
+        {
+          "en": "unambiguously",
+          "tr": "açık bir şekilde, şüpheye yer bırakmayacak şekilde"
+        }
+      ]
+    }
+  }
+]
