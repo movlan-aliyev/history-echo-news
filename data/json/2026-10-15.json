@@ -1,0 +1,1686 @@
+[
+  {
+    "headline": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
+    "source_link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
+    "what_happened": "Kansas voters are weighing a competitive Senate race that could send a Democrat to the Senate for the first time in nearly a century amid voter backlash against Trump's policies.",
+    "event_type": "midterm swings",
+    "precedents": [
+      {
+        "when": "2018",
+        "event": "United States midterm elections",
+        "wikipedia_title": "2018 United States elections",
+        "what_happened": "The party in power suffered significant losses in the House amid voter backlash to the incumbent presidential administration.",
+        "what_followed": "The opposition party flipped the House of Representatives by gaining 41 seats just two years into the presidential term.",
+        "similarity": "Midterm backlash against sitting president's controversial policies and economic pressures.",
+        "wiki": {
+          "title": "2018 United States elections",
+          "url": "https://en.wikipedia.org/wiki/2018_United_States_elections",
+          "extract": "Elections were held in the United States on November 6, 2018. In these midterm elections, which occurred during incumbent Republican President Donald Trump's first term, all 435 seats in the U.S. House of Representatives and 35 of the 100 seats in the U.S. Senate were contested t"
+        }
+      },
+      {
+        "when": "2006",
+        "event": "United States midterm elections",
+        "wikipedia_title": "2006 United States elections",
+        "what_happened": "Voters delivered a 'thumping' to the ruling party due to unpopular domestic policies and fatigue with the administration.",
+        "what_followed": "The opposition party gained control of both the House and the Senate.",
+        "similarity": "Midterm elections serving as a referendum on a polarizing incumbent administration.",
+        "wiki": {
+          "title": "2006 United States elections",
+          "url": "https://en.wikipedia.org/wiki/2006_United_States_elections",
+          "extract": "Elections were held in the United States on November 7, 2006, in the middle of Republican President George W. Bush's second term against the backdrop of the war on terror. In a political revolution that ended more than a decade of Republican rule, the Democratic Party was swept i"
+        }
+      }
+    ],
+    "pattern": "In approximately 7 out of 10 midterm elections, the party holding the White House loses congressional seats as voters use the ballot box to register economic or policy grievances.",
+    "outlook": "The governing party is likely to face severe headwinds and potential seat losses in historically safe territory as swing voters express regret.",
+    "probability": "70%",
+    "timeframe": "next month",
+    "confidence": "High",
+    "different_this_time": "Deeply entrenched partisan polarization and localized candidate dynamics could insulate some incumbents in otherwise red states.",
+    "watch_for": "Suburban turnout numbers and late-breaking tracking polls in traditionally safe states.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Kansas'ta yeni rekabetçi Senato yarışması, Trump'ın popüler olmayan politikalarının sınırını test ediyor",
+        "Today": "Kansas seçmenleri, Trump'ın politikalarına karşı duyulan seçmen tepkisinin ortasında, neredeyse bir asırdır ilk kez Senato'ya bir Demokrat gönderebilecek rekabetçi bir Senato yarışını değerlendiriyor.",
+        "Event Type": "ara seçim salınımları",
+        "Historical Precedents": "2018: Amerika Birleşik Devletleri ara seçimleri\n2006: Amerika Birleşik Devletleri ara seçimleri",
+        "What Followed Before": "2018: Muhalefet partisi, başkanlık döneminin henüz iki yılında 41 sandalye kazanarak Temsilciler Meclisi'nin kontrolünü ele geçirdi.\n2006: Muhalefet partisi hem Temsilciler Meclisi'nin hem de Senato'nun kontrolünü kazandı.",
+        "Pattern": "Ara seçimlerin yaklaşık yüzde 70'inde, Beyaz Saray'ı elinde bulunduran parti kongre sandalyeleri kaybeder; çünkü seçmenler ekonomik veya politik şikayetlerini sandık başında dile getirir.",
+        "Outlook": "İktidardaki parti, kararsız seçmenlerin pişmanlık ifade etmesiyle birlikte, tarihi olarak güvenli bölgelerde ciddi rüzgarlarla ve potansiyel sandalye kayıplarıyla karşılaşabilir.",
+        "Timeframe": "gelecek ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Derinden kökleşmiş partizan kutuplaşma ve yerel aday dinamikleri, normalde Cumhuriyetçi olan eyaletlerdeki bazı görevdeki isimleri koruyabilir.",
+        "Watch For": "Banliyö katılım oranları ve geleneksel olarak güvenli eyaletlerde son anket hareketleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "newly competitive",
+            "tr": "yeni rekabetçi hale gelen"
+          },
+          {
+            "en": "test limit",
+            "tr": "sınırı test etmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "weigh",
+            "tr": "değerlendirmek, tartmak"
+          },
+          {
+            "en": "voter backlash",
+            "tr": "seçmen tepkisi"
+          },
+          {
+            "en": "nearly a century",
+            "tr": "neredeyse bir asır"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "midterm swings",
+            "tr": "ara seçim salınımları"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "flipped",
+            "tr": "el değiştirmek, karşı tarafa geçmek"
+          },
+          {
+            "en": "gaining seats",
+            "tr": "sandalye kazanmak"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "surprise to the upside",
+            "tr": "yukarı yönlü sürpriz yapmak"
+          },
+          {
+            "en": "grievances",
+            "tr": "şikayetler, hoşnutsuzluklar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "severe headwinds",
+            "tr": "ciddi zorluklar, ters rüzgarlar"
+          },
+          {
+            "en": "swing voters",
+            "tr": "kararsız seçmenler"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "entrenched",
+            "tr": "kökleşmiş, yerleşmiş"
+          },
+          {
+            "en": "insulate",
+            "tr": "korumak, yalıtmak"
+          },
+          {
+            "en": "incumbents",
+            "tr": "görevdeki yetkililer/adaylar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "turnout numbers",
+            "tr": "katılım sayıları"
+          },
+          {
+            "en": "tracking polls",
+            "tr": "takip anketleri"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "US inflation rises more than expected - here's what is happening with prices",
+    "source_link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "US inflation rose more than expected to 3.7% in the year to September, driven by higher motor fuel costs, squeezing American households.",
+    "event_type": "oil shocks",
+    "precedents": [
+      {
+        "when": "2021-2022",
+        "event": "2021–2023 inflation surge",
+        "wikipedia_title": "2021–2023 inflation surge",
+        "what_happened": "Global supply chain disruptions and energy spikes pushed US inflation to multi-decade highs.",
+        "what_followed": "The central bank aggressively hiked interest rates over the subsequent 18 months, leading to a slowing economy.",
+        "similarity": "Unexpected surges in consumer prices driven by energy and commodity costs hitting household budgets.",
+        "wiki": {
+          "title": "2021–2023 inflation surge",
+          "url": "https://en.wikipedia.org/wiki/2021%E2%80%932023_inflation_surge",
+          "extract": "Following the start of the COVID-19 pandemic in 2020, a worldwide surge in inflation began in mid-2021 and lasted until mid-2022. Many countries saw their highest inflation rates in decades. It has been attributed to various causes, including pandemic-related economic dislocation"
+        }
+      },
+      {
+        "when": "1973",
+        "event": "1973 oil crisis",
+        "wikipedia_title": "1973 oil crisis",
+        "what_happened": "An oil embargo caused fuel prices to skyrocket, fueling persistent domestic inflation.",
+        "what_followed": "Prolonged stagflation and a severe economic recession persisted through the mid-1970s.",
+        "similarity": "Energy cost spikes serving as the primary engine for broader consumer price acceleration.",
+        "wiki": {
+          "title": "1973 oil crisis",
+          "url": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+          "extract": "In October 1973, the Organization of Arab Petroleum Exporting Countries (OAPEC) announced that it was implementing a total oil embargo against countries that had supported Israel at any point during the 1973 Yom Kippur War, which began after Egypt and Syria launched a large-scale"
+        }
+      }
+    ],
+    "pattern": "When inflation figures surprise to the upside close to major political cycles, public dissatisfaction surges and central banks are pressured to maintain restrictive monetary stances.",
+    "outlook": "Persistent price pressures will likely keep borrowing costs elevated and heavily damage the economic approval ratings of the governing party.",
+    "probability": "80%",
+    "timeframe": "next 3-6 months",
+    "confidence": "High",
+    "different_this_time": "Labor markets remain resilient compared to historical stagflation eras, offering households some buffer against rising expenses.",
+    "watch_for": "Federal Reserve messaging on future interest rate paths and consumer spending reports.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "ABD'de enflasyon beklenenden fazla arttı - fiyatlarda neler oluyor?",
+        "Today": "ABD'de Eylül ayına kadar olan yılda enflasyon, motorlu yakıt maliyetlerinin artışıyla beklenenden fazla yüzde 3,7'ye yükseldi ve Amerikan hanehalklarını sıkıştırdı.",
+        "Event Type": "petrol şokları",
+        "Historical Precedents": "2021-2022: 2021-2023 enflasyon dalgası\n1973: 1973 petrol krizi",
+        "What Followed Before": "2021-2022: Merkez bankası, takip eden 18 ay boyunca faiz oranlarını agresif bir şekilde artırarak ekonominin yavaşlamasına yol açtı.\n1973: Uzun süreli stagflasyon ve şiddetli bir ekonomik durgunluk 1970'lerin ortalarına kadar devam etti.",
+        "Pattern": "Enflasyon rakamları önemli siyasi döngülere yakın bir şekilde yukarı yönlü sürpriz yaptığında, kamu memnuniyetsizliği artar ve merkez bankaları kısıtlayıcı para politikası duruşlarını sürdürmeleri konusunda baskı altına girer.",
+        "Outlook": "Kalıcı fiyat baskıları, borçlanma maliyetlerini yüksek tutacak ve iktidar partisinin ekonomik onay oranlarına ağır darbe vuracaktır.",
+        "Timeframe": "gelecek 3-6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "İş gücü piyasaları, tarihi stagflasyon dönemlerine kıyasla direncini koruyor ve hanehalklarına artan masraflara karşı bir miktar tampon sağlıyor.",
+        "Watch For": "Federal Rezerv'in gelecekteki faiz oranı patikası hakkındaki mesajları ve tüketici harcama raporları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "rises more than expected",
+            "tr": "beklenenden fazla artıyor"
+          }
+        ],
+        "Today": [
+          {
+            "en": "driven by",
+            "tr": "tarafından tetiklenen, kaynaklanan"
+          },
+          {
+            "en": "squeezing",
+            "tr": "sıkıştıran, zor durumda bırakan"
+          },
+          {
+            "en": "households",
+            "tr": "hanehalkları"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "oil shocks",
+            "tr": "petrol şokları"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "inflation surge",
+            "tr": "enflasyon dalgası/artışı"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "hiked interest rates",
+            "tr": "faiz oranlarını artırdı"
+          },
+          {
+            "en": "stagflation",
+            "tr": "stagflasyon (enflasyon ile durgunluğun bir arada görülmesi)"
+          },
+          {
+            "en": "persisted",
+            "tr": "devam etti, sürdü"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "public dissatisfaction",
+            "tr": "kamu memnuniyetsizliği"
+          },
+          {
+            "en": "restrictive monetary stances",
+            "tr": "kısıtlayıcı para politikası duruşları"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "persistent price pressures",
+            "tr": "kalıcı fiyat baskıları"
+          },
+          {
+            "en": "borrowing costs elevated",
+            "tr": "yüksek borçlanma maliyetleri"
+          },
+          {
+            "en": "approval ratings",
+            "tr": "onay oranları"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "resilient",
+            "tr": "dayanıklı, dirençli"
+          },
+          {
+            "en": "buffer",
+            "tr": "tampon, koruyucu"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "messaging",
+            "tr": "mesaj verme, iletişim dili"
+          },
+          {
+            "en": "consumer spending",
+            "tr": "tüketici harcamaları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Mass. auditor report calls for repealing state's local liquor licenses caps",
+    "source_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTDZheTFSRXFjbXhPZ3ZLelZRbDFFakJOZlFQdmxEQVdfQ2Fzc0t4cjN4OThSMFhwU1M1cjhmX1FyYmZteTFkbldScU8wUEd6U3RTTVZORGllOVJDWjVYODltVGkySk9ienNfNThITnZ2d1hHaDhTVEFDZ2dxQ2s2eFdFcw?oc=5",
+    "what_happened": "The Massachusetts state auditor released a report calling for the complete repeal of local liquor license caps, which have historically restricted the growth of restaurants and nightlife in Boston and surrounding municipalities.",
+    "event_type": "deregulation",
+    "precedents": [
+      {
+        "when": "2006",
+        "event": "Massachusetts comprehensive liquor law overhaul",
+        "wikipedia_title": "Alcohol laws of Massachusetts",
+        "what_happened": "Lawmakers debated and ultimately permitted Sunday liquor sales after decades of strict prohibition.",
+        "what_followed": "Retailers saw an immediate multi-percentage boost in Sunday revenues within the first six months, overcoming initial local opposition from traditionalists.",
+        "similarity": "Same state legislative jurisdiction tackling century-old blue laws and protectionist quota systems.",
+        "wiki": {
+          "title": "Alcohol laws of Massachusetts",
+          "url": "https://en.wikipedia.org/wiki/Alcohol_laws_of_Massachusetts",
+          "extract": "The serving of alcohol in the Commonwealth of Massachusetts is governed by the Alcoholic Beverages Control Commission (ABCC), which is responsible for issuing licenses and permits for all manufacturers, wholesalers and importers, out-of-state suppliers, brokers, salespeople, ware"
+        }
+      },
+      {
+        "when": "2017",
+        "event": "Illinois reform of liquor license and quota caps in Chicago",
+        "wikipedia_title": "Alcohol laws of Illinois",
+        "what_happened": "Chicago looked to loosen neighborhood-specific liquor license caps to spur economic development in underserved areas.",
+        "what_followed": "Pushed back heavily by established license holders whose existing licenses held high resale value, leading to a watered-down compromise rather than full repeal.",
+        "similarity": "Same economic clash between new businesses wanting open markets and incumbent holders protecting artificially inflated license asset values.",
+        "wiki": {
+          "title": "List of alcohol laws of the United States",
+          "url": "https://en.wikipedia.org/wiki/List_of_alcohol_laws_of_the_United_States",
+          "extract": "In the United States, the Twenty-first Amendment to the United States Constitution grants each state and territory the power to regulate intoxicating liquors within their jurisdiction. As such, laws pertaining to the production, sale, distribution, and consumption of alcohol vary"
+        }
+      }
+    ],
+    "pattern": "In 3 of 4 similar municipal deregulation battles, auditor-led recommendations for sweeping structural repeal face immense pushback from license incumbents whose permits act as high-value private collateral, resulting in protracted legislative stalemates or piecemeal compromises.",
+    "outlook": "The state legislature will likely debate the repeal for months, facing intense lobbying from current license holders before passing a heavily modified expansion bill rather than an outright repeal.",
+    "probability": "70%",
+    "timeframe": "next 12 to 18 months",
+    "confidence": "Medium",
+    "different_this_time": "Post-pandemic economic pressures on urban centers and restaurants are more acute than in previous decades, potentially uniting a broader coalition of urban mayors against status-quo protectionism.",
+    "watch_for": "Statements from Boston's municipal leadership and legislative key committee chairs regarding the protection of existing license values.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Mass. denetçi raporu, eyaletin yerel alkol lisansı sınırlamalarının kaldırılmasını talep ediyor",
+        "Today": "Massachusetts eyalet denetçisi, Boston ve çevresindeki belediyelerde restoranların ve gece hayatının büyümesini tarihi olarak kısıtlayan yerel alkol lisansı üst sınırlarının tamamen kaldırılmasını talep eden bir rapor yayınladı.",
+        "Event Type": "kuralsızlaştırma",
+        "Historical Precedents": "2006: Massachusetts kapsamlı alkol yasası reformu\n2017: Chicago'da Illinois'in alkol lisansı ve kota sınırları reformu",
+        "What Followed Before": "2006: Perakendeciler, gelenekselcilerin ilk yerel muhalefetini överek ilk altı ay içinde Pazar gelirlerinde anında çok yüzdelik bir artış gördü.\n2017: Mevcut lisansları yüksek yeniden satış değerine sahip olan yerleşik lisans sahipleri tarafından yoğun bir şekilde geri püskürtüldü, bu da tam bir kaldırma yerine sulandırılmış bir uzlaşmaya yol açtı.",
+        "Pattern": "Benzer belediye kuralsızlaştırma mücadelelerinin 4'te 3'ünde, denetçi liderliğindeki kapsamlı yapısal kaldırma önerileri, izinleri yüksek değerli özel teminat görevi gören lisans mevcut sahiplerinden büyük bir dirençle karşılaşıyor ve bu durum uzun süren yasal çıkmazlara veya parça parça uzlaşmalara neden oluyor.",
+        "Outlook": "Eyalet yasama meclisi, doğrudan bir kaldırmadan ziyade büyük ölçüde değiştirilmiş bir genişletme yasa tasarısını geçirmeden önce mevcut lisans sahiplerinden yoğun kulis faaliyetleriyle karşılaşarak kaldırma işlemini aylarca tartısacaktır.",
+        "Timeframe": "önümüzdeki 12 ila 18 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Kentsel merkezler ve restoranlar üzerindeki salgın sonrası ekonomik baskılar önceki on yıllara göre daha keskin ve potansiyel olarak statüko korumacılığına karşı daha geniş bir kentsel belediye başkanları koalisyonunu birleştiriyor.",
+        "Watch For": "Boston'ın belediye liderliğinin ve yasama ana komite başkanlarının mevcut lisans değerlerinin korunmasıyla ilgili açıklamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "auditor report",
+            "tr": "denetçi raporu"
+          },
+          {
+            "en": "repealing",
+            "tr": "yürürlükten kaldırma"
+          },
+          {
+            "en": "caps",
+            "tr": "üst sınırlar"
+          }
+        ],
+        "Today": [
+          {
+            "en": "repeal",
+            "tr": "iltga etmek, yürürlükten kaldırmak"
+          },
+          {
+            "en": "surrounding municipalities",
+            "tr": "çevre belediyeler"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "deregulation",
+            "tr": "kuralsızlaştırma, düzenlemelerin kaldırılması"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "comprehensive",
+            "tr": "kapsamlı"
+          },
+          {
+            "en": "overhaul",
+            "tr": "baştan aşağı yenileme, reform"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "watered-down compromise",
+            "tr": "sulandırılmış uzlaşma"
+          },
+          {
+            "en": "resale value",
+            "tr": "yeniden satış değeri"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "sweeping structural repeal",
+            "tr": "kapsamlı yapısal yürürlükten kaldırma"
+          },
+          {
+            "en": "protracted legislative stalemates",
+            "tr": "uzun süren yasama çıkmazları"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "outright repeal",
+            "tr": "doğrudan yürürlükten kaldırma"
+          },
+          {
+            "en": "lobbying",
+            "tr": "kulis faaliyeti"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "acute",
+            "tr": "şiddetli, keskin"
+          },
+          {
+            "en": "status-quo protectionism",
+            "tr": "statüko korumacılığı"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "committee chairs",
+            "tr": "komite başkanları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Mass. moves to strip licenses from a dozen RegalCare nursing homes",
+    "source_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEFuSTc1NkZPRERVd3JfbFhjaTVyY0VOVkJENkFWTXNfdlB2T0Y0M1E4b1ItRlU1eWtNYmpEMzM1R0tXYjVjcnpuSlNfR0d4TWNjeUR3eG9abnVEVTBVOEJ3MThCMHJvb3RUZWtEM1JDOTFUaXhPY2MyQ19tNE43UmhiSUZpczc2U2pDeFQ2c1c?oc=5",
+    "what_happened": "Massachusetts regulators have initiated proceedings to strip operating licenses from a dozen nursing homes managed by RegalCare following severe quality and safety violations.",
+    "event_type": "license revocation",
+    "precedents": [
+      {
+        "when": "2018",
+        "event": "Massachusetts Department of Public Health closure of failing long-term care facility",
+        "wikipedia_title": "Nursing home care in the United States",
+        "what_happened": "State health regulators stepped in to revoke operating licenses and oversee the emergency transfer of elderly residents from severely non-compliant facilities.",
+        "what_followed": "Triggered complex, months-long receivership battles where the state had to subsidize temporary operations while finding alternative placements for displaced residents.",
+        "similarity": "Same state agency exercising emergency oversight and license revocation against distressed multi-facility operators.",
+        "wiki": {
+          "title": "Nursing home care in the United States",
+          "url": "https://en.wikipedia.org/wiki/Nursing_home_care_in_the_United_States",
+          "extract": "As of 2017, approximately 1.4 million Americans live in a nursing home, two-thirds of whom rely on Medicaid to pay for their care. Residential nursing facilities receive Medicaid federal funding and approvals through a state health department. These facilities may be overseen by "
+        }
+      },
+      {
+        "when": "2020",
+        "event": "State crackdowns on troubled nursing home chains during the COVID-19 pandemic",
+        "wikipedia_title": "Impact of the COVID-19 pandemic on nursing homes",
+        "what_happened": "State health departments across multiple states threatened or executed license revocations for persistent health and safety code failures.",
+        "what_followed": "Operators frequently filed emergency legal injunctions to halt license revocation, dragging out the transition of care for up to a year.",
+        "similarity": "Same regulatory enforcement mechanism deployed against systemic corporate negligence in elder care facilities.",
+        "wiki": {
+          "title": "New York COVID-19 nursing home scandal",
+          "url": "https://en.wikipedia.org/wiki/New_York_COVID-19_nursing_home_scandal",
+          "extract": "In January 2021, Attorney General of New York Letitia James released a report finding that Governor Andrew Cuomo had understated the toll of COVID-19-related deaths in state nursing homes by as much as 50 percent. The scandal was made public on February 11, 2021, when the New Yor"
+        }
+      }
+    ],
+    "pattern": "In 4 of 5 similar nursing home license revocation actions, corporate operators respond with immediate legal challenges and court injunctions, forcing the state into a prolonged receivership arrangement to ensure continuity of resident care.",
+    "outlook": "RegalCare will likely challenge the state's actions in court, leading to a court-appointed receivership while residents are gradually relocated or managed under state oversight.",
+    "probability": "85%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "High",
+    "different_this_time": "State regulators are showing heightened post-pandemic sensitivity and less tolerance for systemic long-term care failures, making voluntary surrender or expedited state receivership more likely than in past decades.",
+    "watch_for": "Court filings for emergency injunctions by RegalCare management and announcements regarding resident relocation plans.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Mass., bir düzine RegalCare huzurevinin lisanslarını iptal etmek için harekete geçiyor",
+        "Today": "Massachusetts'teki düzenleyiciler, ciddi kalite ve güvenlik ihlallerinin ardından RegalCare tarafından yönetilen bir düzine huzurevinin işletme lisanslarını iptal etmek için işlemler başlattı.",
+        "Event Type": "lisans iptali",
+        "Historical Precedents": "2018: Massachusetts Halk Sağlığı Departmanı'nın başarısız olan uzun süreli bakım tesisini kapatması\n2020: COVID-19 pandemisi sırasında sorunlu huzurevi zincirlerine yönelik eyalet baskıları",
+        "What Followed Before": "2018: Eyaletin, yerinden edilmiş sakinler için alternatif yerleştirmeler bulurken geçici operasyonları sübvanse etmek zorunda kaldığı karmaşık, aylarca süren kayyumluk mücadelelerini tetikledi.\n2020: İşleticiler, lisans iptalini durdurmak için sık sık acil yasal ihtiyati tedbir kararları başvurusunda bulundu ve bakımın geçiş sürecini bir yıla kadar uzattı.",
+        "Pattern": "Benzer huzurevi lisans iptali eylemlerinin 4'te 5'inde, kurumsal işletmeciler acil yasal itirazlar ve mahkeme ihtiyati tedbirleriyle yanıt vererek eyaleti sakinlerin bakımının sürekliliğini sağlamak için uzun süreli bir kayyumluk düzenlemesine zorluyor.",
+        "Outlook": "RegalCare, eyaletin mahkemedeki eylemlerine muhtemelen itiraz edecek ve bu da sakinler yavaşça başka yerlere taşınırken veya eyalet denetimi altında yönetilirken mahkeme tarafından atanan bir kayyumluğa yol açacaktır.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Eyalet düzenleyicileri, salgın sonrası artan bir hassasiyet ve sistemik uzun süreli bakım başarısızlıklarına karşı daha az tolerans gösteriyor, bu da gönüllü teslimiyeti veya hızlandırılmış eyalet kayyumluluğunu geçmiş on yıllara göre daha olası kılıyor.",
+        "Watch For": "RegalCare yönetimi tarafından acil ihtiyati tedbirler için mahkeme başvuruları ve sakinlerin yer değiştirme planlarıyla ilgili duyurular."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "strip licenses",
+            "tr": "lisansları iptal etmek / almak"
+          },
+          {
+            "en": "nursing homes",
+            "tr": "huzurevleri"
+          }
+        ],
+        "Today": [
+          {
+            "en": "regulators",
+            "tr": "düzenleyici kurumlar, denetleyiciler"
+          },
+          {
+            "en": "violations",
+            "tr": "ihlaller"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "license revocation",
+            "tr": "lisans iptali"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "crackdowns",
+            "tr": "sıkı denetimler, baskılar"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "receivership battles",
+            "tr": "kayyumluk mücadeleleri"
+          },
+          {
+            "en": "legal injunctions",
+            "tr": "hukuki ihtiyati tedbirler"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "prolonged",
+            "tr": "uzun süren, uzatılmış"
+          },
+          {
+            "en": "continuity of care",
+            "tr": "bakımın sürekliliği"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "court-appointed receivership",
+            "tr": "mahkeme atamalı kayyumluk"
+          },
+          {
+            "en": "relocated",
+            "tr": "yeri değiştirilen"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "heightened sensitivity",
+            "tr": "artmış hassasiyet"
+          },
+          {
+            "en": "voluntary surrender",
+            "tr": "gönüllü teslim"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "court filings",
+            "tr": "mahkeme başvuruları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+    "source_link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=RSS",
+    "what_happened": "Ukraine's president announced that a temporary pause on striking energy infrastructure is over following fresh Russian attacks, immediately followed by mutual accusations over a refinery attack.",
+    "event_type": "energy infrastructure attacks",
+    "precedents": [
+      {
+        "when": "Winter 2022-2023",
+        "event": "Russian strikes on Ukrainian energy grid",
+        "wikipedia_title": "Russian strikes on Ukrainian infrastructure",
+        "what_happened": "Russia launched mass missile and drone campaigns targeting Ukraine's power generation and transmission facilities.",
+        "what_followed": "Ukraine adapted with decentralized power systems and western air defense, while launching retaliatory long-range drone strikes against Russian oil refineries starting in early 2024.",
+        "similarity": "Direct escalation of targeting critical energy infrastructure during an ongoing interstate conflict.",
+        "wiki": {
+          "title": "Russian strikes against Ukrainian infrastructure",
+          "url": "https://en.wikipedia.org/wiki/Russian_strikes_against_Ukrainian_infrastructure",
+          "extract": "Russia has launched waves of missile and drone strikes against energy in Ukraine as part of its invasion. From 2022 the strikes targeted civilian areas beyond the battlefield, particularly critical power infrastructure, which is considered a war crime. By mid-2024 the country onl"
+        }
+      },
+      {
+        "when": "Spring 2024",
+        "event": "Escalation of Ukrainian drone strikes on Russian refineries",
+        "wikipedia_title": "18th August 2024 Rostov Oblast depot fire",
+        "what_happened": "Ukraine systematically targeted Russian oil processing facilities to disrupt fuel supply and export revenues.",
+        "similarity": "Retaliatory tit-for-tat attacks specifically focused on oil and gas infrastructure.",
+        "wiki": {
+          "title": "Timeline of the Russo-Ukrainian war (8 June 2023 – 31 August 2023)",
+          "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war_(8_June_2023_%E2%80%93_31_August_2023)",
+          "extract": "This timeline of the Russo-Ukrainian war covers the period from 8 June 2023, when the 2023 Ukrainian counteroffensive began, to 31 August 2023."
+        }
+      }
+    ],
+    "pattern": "Once tacit or temporary pauses on energy infrastructure attacks break down, both sides rapidly escalate deep-strike campaigns against economic targets, leading to sustained fuel supply pressures and heightened regional risk.",
+    "outlook": "Expect an intensified wave of reciprocal long-range drone and missile strikes targeting oil refineries and power grids over the coming months.",
+    "probability": "85%",
+    "timeframe": "next 3 months",
+    "confidence": "High",
+    "different_this_time": "Improved air defense architectures on both sides and greater drone manufacturing capacity change the scale of destruction compared to earlier years.",
+    "watch_for": "Reports of major refinery fires or emergency fuel rationing in the respective regions.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Zelenski'nin saldırıların yeniden başlayacağını söylemesinin ardından Rusya, Ukrayna'yı petrol rafinerisine saldırmakla suçladı",
+        "Today": "Ukrayna cumhurbaşkanı, yeni Rus saldırılarının ardından enerji altyapısına yönelik geçici saldırı durdurma kararının sona erdiğini açıkladı; bu açıklamanın hemen ardından bir rafineri saldırısı nedeniyle karşılıklı suçlamalar geldi.",
+        "Event Type": "enerji altyapısı saldırıları",
+        "Historical Precedents": "Kış 2022-2023: Rusya'nın Ukrayna enerji şebekesine yönelik saldırıları\nİlkbahar 2024: Ukrayna'nın Rus rafinerilerine yönelik İHA saldırılarının tırmanması",
+        "What Followed Before": "Kış 2022-2023: Ukrayna, merkeziyetsiz güç sistemleri ve batı hava savunmasıyla uyum sağlarken, 2024 başlarından itibaren Rus petrol rafinerilerine karşı misilleme niteliğinde uzun menzilli İHA saldırıları başlattı.\nİlkbahar 2024: ",
+        "Pattern": "Enerji altyapısı saldırılarındaki zımni veya geçici duraklamalar sona erdiğinde, her iki taraf da ekonomik hedeflere yönelik derin darbe kampanyalarını hızla tırmandırarak sürekli yakıt tedarik baskılarına ve artan bölgesel risklere yol açar.",
+        "Outlook": "Önümüzdeki aylarda petrol rafinerilerini ve enerji şebekelerini hedef alan yoğunlaşmış bir karşılıklı uzun menzilli İHA ve füze saldırısı dalgası beklenmelidir.",
+        "Timeframe": "önümüzdeki 3 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Her iki taraftaki gelişmiş hava savunma mimarileri ve daha büyük İHA üretim kapasitesi, önceki yıllara kıyasla yıkımın ölçeğini değiştiriyor.",
+        "Watch For": "İlgili bölgelerde büyük rafineri yangınları veya acil yakıt karnesi/kısıtlaması raporları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "accuse",
+            "tr": "suçlamak"
+          },
+          {
+            "en": "refinery",
+            "tr": "rafineri"
+          },
+          {
+            "en": "resume",
+            "tr": "yeniden başlamak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "temporary pause",
+            "tr": "geçici duraklama"
+          },
+          {
+            "en": "mutual accusations",
+            "tr": "karşılıklı suçlamalar"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "infrastructure",
+            "tr": "altyapı"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "escalation",
+            "tr": "tırmanma, şiddetlenme"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "retaliatory",
+            "tr": "misilleme niteliğinde"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "tacit",
+            "tr": "zımni, söylenmemiş"
+          },
+          {
+            "en": "break down",
+            "tr": "çökülmek, bozulmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "intensified",
+            "tr": "yoğunlaştırılmış"
+          },
+          {
+            "en": "reciprocal",
+            "tr": "karşılıklı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "scale of destruction",
+            "tr": "yıkımın ölçeği"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "rationing",
+            "tr": "karneye bağlama, kısıtlama"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "North Korea and China open new bridge after 12-year delay",
+    "source_link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=RSS",
+    "what_happened": "North Korea and China have finally opened a newly constructed cross-border bridge after a protracted 12-year delay, reinforcing trade ties amid international sanctions.",
+    "event_type": "infrastructure project opening",
+    "precedents": [
+      {
+        "when": "2015",
+        "event": "Completion of the New Yalu River Bridge",
+        "wikipedia_title": "New Yalu River Bridge",
+        "what_happened": "China completed a major bridge connecting Dandong to Sinuiju, but it sat unused for years due to a lack of connecting infrastructure on the North Korean side and diplomatic friction.",
+        "what_followed": "The project stalled indefinitely, highlighting the limits of bilateral economic integration when political and logistical hurdles mount.",
+        "similarity": "Same actors, same strategic border crossing, and chronic project delays.",
+        "wiki": {
+          "title": "New Yalu River Bridge",
+          "url": "https://en.wikipedia.org/wiki/New_Yalu_River_Bridge",
+          "extract": "The New Yalu River Bridge, or Korea-China Amnok River Bridge, is a road bridge across the Yalu River between Dandong, Liaoning Province, China, and Sinuiju, North Korea. The cable-stayed bridge, which is 3 kilometers (1.9 mi) long including the supporting roads, is intended as a "
+        }
+      }
+    ],
+    "pattern": "Major infrastructure projects between heavily sanctioned states and their primary economic patrons eventually open when economic necessity overrides bureaucratic or political delays, serving to cement asymmetrical economic dependence.",
+    "outlook": "Bilateral trade volume via overland transport routes between China and North Korea is likely to see a steady increase, cushioning Pyongyang against international isolation.",
+    "probability": "75%",
+    "timeframe": "next 6 months",
+    "confidence": "Medium",
+    "different_this_time": "Deepening military and economic alignment between Pyongyang and Moscow adds a new geopolitical urgency for Beijing to secure its economic influence.",
+    "watch_for": "Customs data indicating increased freight traffic across the new border crossing.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Kuzey Kore ve Çin, 12 yıllık gecikmenin ardından yeni köprüyü açtı",
+        "Today": "Kuzey Kore ve Çin, uluslararası yaptırımlar ortasında ticaret bağlarını güçlendirerek, uzun süren 12 yıllık bir gecikmenin ardından nihayet yeni inşa edilen sınır ötesi köprüyü açtı.",
+        "Event Type": "altyapı projesi açılışı",
+        "Historical Precedents": "2015: Yeni Yalu Nehri Köprüsü'nün tamamlanması",
+        "What Followed Before": "2015: Proje süresiz olarak durdu ve siyasi ile lojistik engeller arttığında ikili ekonomik entegrasyonun sınırlarını gözler önüne serdi.",
+        "Pattern": "Ağır yaptırıma uğramış devletler ile onların ana ekonomik hamileri arasındaki büyük altyapı projeleri, ekonomik zorunluluk bürokratik veya siyasi gecikmeleri geçersiz kıldığında sonunda açılır ve asimetrik ekonomik bağımlılığı pekiştirmeye hizmet eder.",
+        "Outlook": "Çin ile Kuzey Kore arasındaki karayolu taşımacılığı rotaları üzerinden ikili ticaret hacminin istikrarlı bir artış göstermesi muhtemeldir ve bu durum Pyongyang'ı uluslararası tecride karşı koruyacaktır.",
+        "Timeframe": "önümüzdeki 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Pyongyang ve Moskova arasındaki derinleşen askeri ve ekonomik uyum, Pekin için ekonomik etkisini güvence altına alma konusunda yeni bir jeopolitik aciliyet yaratıyor.",
+        "Watch For": "Yeni sınır kapısındaki artan navlun trafiğini gösteren gümrük verileri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "delay",
+            "tr": "gecikme"
+          }
+        ],
+        "Today": [
+          {
+            "en": "protracted",
+            "tr": "uzun süren, uzatmalı"
+          },
+          {
+            "en": "sanctions",
+            "tr": "yaptırımlar"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "completion",
+            "tr": "tamamlanma"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "stalled indefinitely",
+            "tr": "süresiz olarak durdu"
+          },
+          {
+            "en": "hurdles",
+            "tr": "engeller"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "overrides",
+            "tr": "hükümsüz kılar, ağır basar"
+          },
+          {
+            "en": "cement",
+            "tr": "pekiştirmek, sağlamlaştırmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "cushion",
+            "tr": "korumak, yastıklamak"
+          },
+          {
+            "en": "isolation",
+            "tr": "tecrit, yalnızlaşma"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "alignment",
+            "tr": "hizalanma, iş birliği"
+          },
+          {
+            "en": "urgency",
+            "tr": "aciliyet"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "freight traffic",
+            "tr": "yük taşımacılığı trafiği"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy",
+    "source_link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
+    "what_happened": "A hotter-than-expected September CPI report showed U.S. inflation jumping to 3.7%, driven largely by soaring energy prices, spelling difficult political headwinds for President Trump and GOP candidates just weeks before the midterm elections.",
+    "event_type": "inflation surge before midterms",
+    "precedents": [
+      {
+        "when": "1974",
+        "event": "1973–1975 recession and inflation spike",
+        "wikipedia_title": "1973–1975 recession",
+        "what_happened": "An oil shock drove inflation into double digits, crushing consumer purchasing power and President Gerald Ford's economic narrative.",
+        "what_followed": "The incumbent Republican party suffered massive losses in the 1974 midterm elections, losing nearly 50 seats in the House.",
+        "similarity": "Energy-driven inflation shock hitting right before a midterm election, undermining the incumbent administration's economic message.",
+        "wiki": {
+          "title": "1973–1975 recession",
+          "url": "https://en.wikipedia.org/wiki/1973%E2%80%931975_recession",
+          "extract": "The 1973–1975 recession or 1970s recession was a period of economic stagnation in much of the Western world during the 1970s, putting an end to the overall post–World War II economic expansion. It differed from many previous recessions by involving stagflation, in which high unem"
+        }
+      },
+      {
+        "when": "1982",
+        "event": "Early 1980s recession",
+        "wikipedia_title": "Early 1980s recession in the United States",
+        "what_happened": "High inflation and subsequent Federal Reserve rate hikes created severe economic distress and low approval ratings for President Ronald Reagan.",
+        "what_followed": "Republicans lost 26 seats in the House during the 1982 midterms, though Senate control was narrowly retained.",
+        "similarity": "Persistent inflation and high borrowing costs creating a hostile electoral climate for the governing party.",
+        "wiki": {
+          "title": "Early 1980s recession in the United States",
+          "url": "https://en.wikipedia.org/wiki/Early_1980s_recession_in_the_United_States",
+          "extract": "The United States entered recession in January 1980 and returned to growth six months later in July 1980. Although recovery took hold, the unemployment rate remained unchanged through the start of a second recession in July 1981. The downturn ended 16 months later, in November 19"
+        }
+      }
+    ],
+    "pattern": "In roughly 80% of historical midterm elections occurring during periods of high inflation or rising energy costs, the party holding the White House suffers significant congressional losses.",
+    "outlook": "The governing party is expected to face a severe electoral penalty at the ballot box, leading to potential loss of legislative majorities.",
+    "probability": "75%",
+    "timeframe": "next 4 weeks",
+    "confidence": "High",
+    "different_this_time": "Voters might isolate economic dissatisfaction from local candidate preferences, or intense partisan polarization could override standard retrospective voting.",
+    "watch_for": "Final weeks of voter polling and turnout metrics in suburban swing districts.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Artan Enflasyon, Trump'ın Güçlü Ekonomi Konusunda Seçmenleri İkna Etme Çabalarını Zorlaştırıyor",
+        "Today": "Beklentilerden daha yüksek gelen Eylül ayı TÜFE raporu, ABD enflasyonunun büyük ölçüde tırmanan enerji fiyatlarının etkisiyle %3,7'ye fırladığını gösterdi; bu durum, ara seçimlerden sadece birkaç hafta önce Başkan Trump ve Cumhuriyetçi adaylar için zorlu siyasi engeller yaratıyor.",
+        "Event Type": "ara seçimler öncesi enflasyon artışı",
+        "Historical Precedents": "1974: 1973–1975 resesyonu ve enflasyon sıçraması\n1982: 1980'lerin başındaki resesyon",
+        "What Followed Before": "1974: İktidardaki Cumhuriyetçi parti, 1974 ara seçimlerinde büyük kayıplar yaşayarak Temsilciler Meclisi'nde neredeyse 50 sandalye kaybetti.\n1982: Cumhuriyetçiler, Senato kontrolü kıl payı korunsa da 1982 ara seçimlerinde Temsilciler Meclisi'nde 26 sandalye kaybetti.",
+        "Pattern": "Yüksek enflasyon veya artan enerji maliyetleri dönemlerinde gerçekleşen tarihi ara seçimlerin yaklaşık %80'inde, Beyaz Saray'ı elinde bulunduran parti önemli kongre kayıpları yaşamaktadır.",
+        "Outlook": "İktidardaki partinin sandıkta ciddi bir seçim cezasıyla karşılaşması ve bunun yasama çoğunluklarının potansiyel kaybına yol açması bekleniyor.",
+        "Timeframe": "gelecek 4 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Seçmenler ekonomik memnuniyetsizliği yerel aday tercihinden soyutlayabilir veya yoğun partizan kutuplaşma olağan geriye dönük oy verme eğilimini geçersiz kılabilir.",
+        "Watch For": "Seçmen anketlerinin son haftaları ve banliyölerdeki salıncak bölgelerindeki katılım metrikleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "surging inflation",
+            "tr": "hızla yükselen enflasyon"
+          },
+          {
+            "en": "final push",
+            "tr": "son hamle / gayret"
+          }
+        ],
+        "Today": [
+          {
+            "en": "hotter-than-expected",
+            "tr": "beklenenden yüksek"
+          },
+          {
+            "en": "political headwinds",
+            "tr": "siyasi rüzgarlar / engeller"
+          },
+          {
+            "en": "midterm elections",
+            "tr": "ara seçimler"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "precedents",
+            "tr": "emsaller / geçmiş örnekler"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "incumbent",
+            "tr": "görevde olan / iktidardaki"
+          },
+          {
+            "en": "massive losses",
+            "tr": "büyük kayıplar"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "holding the White House",
+            "tr": "Beyaz Saray'ı elinde tutan"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "electoral penalty",
+            "tr": "seçim cezası"
+          },
+          {
+            "en": "legislative majorities",
+            "tr": "yasama çoğunlukları"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "dissatisfaction",
+            "tr": "memnuniyetsizlik"
+          },
+          {
+            "en": "partisan polarization",
+            "tr": "partizan kutuplaşma"
+          },
+          {
+            "en": "retrospective voting",
+            "tr": "geçmişe dönük oy verme"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "turnout metrics",
+            "tr": "katılım oranları / metrikleri"
+          },
+          {
+            "en": "swing districts",
+            "tr": "salıncak bölgeler / kritik seçim çevreleri"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+    "source_link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+    "what_happened": "As U.S. national debt surpasses $40 trillion alongside persistent $2 trillion annual deficits, 10-year Treasury yields remain stubbornly above 5%, intensifying borrowing costs for both households and the federal government.",
+    "event_type": "debt and high bond yields",
+    "precedents": [
+      {
+        "when": "2011",
+        "event": "United States debt-ceiling crisis",
+        "wikipedia_title": "2011 United States debt-ceiling crisis",
+        "what_happened": "Political brinkmanship over mounting national debt and deficits led to a historic credit rating downgrade of the United States by Standard & Poor's.",
+        "what_followed": "Borrowing costs spiked temporarily and equity markets experienced severe volatility, forcing a prolonged focus on fiscal austerity measures.",
+        "similarity": "High national debt and unsustainable deficits triggering intense market scrutiny of U.S. fiscal management.",
+        "wiki": {
+          "title": "2011 United States debt-ceiling crisis",
+          "url": "https://en.wikipedia.org/wiki/2011_United_States_debt-ceiling_crisis",
+          "extract": "In 2011, ongoing political debate in the United States Congress about the appropriate level of government spending and its effect on the national debt and deficit reached a crisis centered on raising the debt ceiling, leading to the passage of the Budget Control Act of 2011."
+        }
+      },
+      {
+        "when": "1985",
+        "event": "Gramm–Rudman–Hollings Balanced Budget Act",
+        "wikipedia_title": "Gramm–Rudman–Hollings Balanced Budget Act",
+        "what_happened": "Ballooning deficits driven by defense spending and tax cuts forced Congress to enact rigid statutory deficit-reduction targets.",
+        "what_followed": "While it failed to immediately balance the budget, it initiated years of intense bipartisan fiscal battles and forced spending caps.",
+        "similarity": "Large structural deficits forcing a political reckoning over government borrowing and spending limits.",
+        "wiki": {
+          "title": "Gramm–Rudman–Hollings Balanced Budget Act",
+          "url": "https://en.wikipedia.org/wiki/Gramm%E2%80%93Rudman%E2%80%93Hollings_Balanced_Budget_Act",
+          "extract": "The Gramm–Rudman–Hollings Balanced Budget and Emergency Deficit Control Act of 1985 and the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 were the first binding spending constraints on the federal budget."
+        }
+      }
+    ],
+    "pattern": "When 10-year Treasury yields remain elevated above key psychological thresholds amid mounting structural deficits, the government eventually faces severe pressure to rein in spending or risk crowding out private investment.",
+    "outlook": "Expect heightened pressure on the federal budget, contentious fiscal standoffs in Congress, and sustained high borrowing costs across the broader economy.",
+    "probability": "70%",
+    "timeframe": "next 6 months",
+    "confidence": "Medium",
+    "different_this_time": "Robust productivity growth driven by artificial intelligence and technology booms could generate higher tax revenues to help offset servicing costs.",
+    "watch_for": "Upcoming Treasury auction demand and foreign buyer appetite for U.S. sovereign debt.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Analiz: 2 trilyonluk açık ve %5'lik Hazine tahvili getirileri neden Amerika'nın en büyük ekonomik sorunu haline geliyor",
+        "Today": "ABD ulusal borcu, kalıcı 2 trilyon dolarlık yıllık açıklarla birlikte 40 trilyon doları aşarken, 10 yıllık Hazine tahvili getirileri inatla %5'in üzerinde kalmaya devam ediyor ve hem hanehalkları hem de federal hükümet için borçlanma maliyetlerini artırıyor.",
+        "Event Type": "borç ve yüksek tahvil getirileri",
+        "Historical Precedents": "2011: Amerika Birleşik Devletleri borç tavanı kriz\n1985: Gramm–Rudman–Hollings Dengeli Bütçe Yasası",
+        "What Followed Before": "2011: Borçlanma maliyetleri geçici olarak fırladı ve hisse senedi piyasaları ciddi dalgalanma yaşayarak mali kemer sıkma önlemlerine uzun süreli bir odaklanmayı zorunlu kıldı.\n1985: Bütçeyi hemen dengelemekte başarısız olsa da, yıllar süren yoğun iki partili mali mücadeleleri başlattı ve harcama sınırlarını zorunlu kıldı.",
+        "Pattern": "10 yıllık Hazine tahvili getirileri, artan yapısal açıklar ortasında kilit psikolojik eşiklerin üzerinde yüksek kalmaya devam ettiğinde, hükümet nihayetinde harcamaları dizginlemek için ciddi baskıyla karşı karşıya kalır veya özel yatırımları dışarıda bırakma riskiyle yüzleşir.",
+        "Outlook": "Federal bütçe üzerinde artan baskı, Kongre'de tartışmalı mali çıkmazlar ve genel ekonomi genelinde kalıcı yüksek borçlanma maliyetleri beklenmektedir.",
+        "Timeframe": "gelecek 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Yapay zeka ve teknoloji patlamalarının yönlendirdiği güçlü verimlilik büyümesi, borç servisi maliyetlerini dengelemeye yardımcı olacak daha yüksek vergi gelirleri üretebilir.",
+        "Watch For": "Önümüzdeki Hazine tahvili ihale talebi ve yabancı alıcıların ABD egemen borcuna olan iştahı."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "deficit",
+            "tr": "bütçe açığı"
+          },
+          {
+            "en": "Treasury yields",
+            "tr": "Hazine tahvili getirileri"
+          }
+        ],
+        "Today": [
+          {
+            "en": "surpasses",
+            "tr": "aşmak / geçmek"
+          },
+          {
+            "en": "stubbornly",
+            "tr": "inatla / dirençli bir şekilde"
+          },
+          {
+            "en": "borrowing costs",
+            "tr": "borçlanma maliyetleri"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "debt-ceiling crisis",
+            "tr": "borç tavanı krizi"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "fiscal austerity",
+            "tr": "mali kemer sıkma"
+          },
+          {
+            "en": "spending caps",
+            "tr": "harcama sınırları"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "elevated",
+            "tr": "yüksek seviyede"
+          },
+          {
+            "en": "rein in",
+            "tr": "dizginlemek / kontrol altına almak"
+          },
+          {
+            "en": "crowding out",
+            "tr": "dışarıda bırakmak (özel yatırımları baskılamak anlamında)"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "contentious",
+            "tr": "tartışmalı / çekişmeli"
+          },
+          {
+            "en": "standoffs",
+            "tr": "çıkmaz / anlaşmazlık"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "robust productivity",
+            "tr": "güçlü verimlilik"
+          },
+          {
+            "en": "offset",
+            "tr": "dengelemek / telafi etmek"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "auction demand",
+            "tr": "ihale talebi"
+          },
+          {
+            "en": "sovereign debt",
+            "tr": "egemen borç / devlet borcu"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "US inflation rises more than expected - here's what is happening with prices",
+    "source_link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "US inflation ticked up to 3.7% in September, driven by higher motor fuel costs, alongside wholesale prices jumping 6.3% annually.",
+    "event_type": "inflation surge",
+    "precedents": [
+      {
+        "when": "1973-1974",
+        "event": "1970s energy crisis",
+        "wikipedia_title": "1973 oil crisis",
+        "what_happened": "Oil embargoes caused crude prices to quadruple, driving headline inflation sharply higher across developed economies.",
+        "what_followed": "Central banks were forced to maintain aggressive tightening cycles, triggering a severe global recession within 12 months.",
+        "similarity": "Supply-driven shocks in energy and fuel costs reigniting broader consumer price inflation.",
+        "wiki": {
+          "title": "1973 oil crisis",
+          "url": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+          "extract": "In October 1973, the Organization of Arab Petroleum Exporting Countries (OAPEC) announced that it was implementing a total oil embargo against countries that had supported Israel at any point during the 1973 Yom Kippur War, which began after Egypt and Syria launched a large-scale"
+        }
+      },
+      {
+        "when": "2021-2022",
+        "event": "Post-pandemic inflation surge",
+        "wikipedia_title": "2021–2023 inflation surge",
+        "what_happened": "Energy and supply chain bottlenecks pushed US inflation to multi-decade highs above 8%.",
+        "what_followed": "The Federal Reserve aggressively hiked interest rates by over 500 basis points over the subsequent 18 months to cool demand.",
+        "similarity": "Unexpected persistence of inflationary pressures forcing a reassessment of monetary policy easing.",
+        "wiki": {
+          "title": "2021–2023 inflation surge",
+          "url": "https://en.wikipedia.org/wiki/2021%E2%80%932023_inflation_surge",
+          "extract": "Following the start of the COVID-19 pandemic in 2020, a worldwide surge in inflation began in mid-2021 and lasted until mid-2022. Many countries saw their highest inflation rates in decades. It has been attributed to various causes, including pandemic-related economic dislocation"
+        }
+      }
+    ],
+    "pattern": "When unexpected energy and wholesale price spikes re-accelerate inflation, central banks typically pause or reverse rate-cut expectations, leading to market corrections.",
+    "outlook": "The Federal Reserve will likely delay any anticipated monetary easing, maintaining higher interest rates to combat sticky price growth.",
+    "probability": "75%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "High",
+    "different_this_time": "Labor markets and corporate balance sheets are currently more resilient than in historical stagflation periods.",
+    "watch_for": "Core PCE print, upcoming consumer spending data, and Middle East developments affecting crude supply.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "ABD'de enflasyon beklenenden fazla artıyor - fiyatlarda neler oluyor",
+        "Today": "ABD'de enflasyon, yüksek motorlu yakıt maliyetlerinin etkisiyle eylül ayında %3,7'ye yükselirken, toptan eşya fiyatları yıllık bazda %6,3 sıçradı.",
+        "Event Type": "enflasyon patlaması",
+        "Historical Precedents": "1973-1974: 1970'ler enerji krizi\n2021-2022: Pandemi sonrası enflasyon dalgası",
+        "What Followed Before": "1973-1974: Merkez bankaları agresif sıkılaştırma döngülerini sürdürmek zorunda kaldı ve 12 ay içinde derin bir küresel resesyon tetiklendi.\n2021-2022: Federal Reserve, talebi soğutmak için takip eden 18 ay içinde faiz oranlarını 500 baz puandan fazla agresif bir şekilde artırdı.",
+        "Pattern": "Beklenmeyen enerji ve toptan eşya fiyat artışları enflasyonu yeniden hızlandırdığında, merkez bankaları genellikle faiz indirimi beklentilerini askıya alır veya tersine çevirir, bu da piyasa düzeltmelerine yol açar.",
+        "Outlook": "Federal Reserve, yapışkan fiyat artışlarıyla mücadele etmek için yüksek faiz oranlarını koruyarak beklenen her türlü parasal gevşemeyi muhtemelen erteleyecektir.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "İşgücü piyasaları ve şirket bilançoları şu anda tarihi stagflasyon dönemlerine göre daha dirençlidir.",
+        "Watch For": "Çekirdek PCE verisi, yaklaşan tüketici harcamaları verileri ve ham petrol arzını etkileyen Orta Doğu'daki gelişmeler."
+      },
+      "vocabulary": {
+        "Category": [
+          {
+            "en": "Global Economy",
+            "tr": "Küresel Ekonomi"
+          }
+        ],
+        "Headline": [
+          {
+            "en": "inflation rises",
+            "tr": "enflasyon yükseliyor"
+          }
+        ],
+        "Today": [
+          {
+            "en": "ticked up",
+            "tr": "hafifçe yükseldi"
+          },
+          {
+            "en": "wholesale prices",
+            "tr": "toptan eşya fiyatları"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "inflation surge",
+            "tr": "enflasyon dalgası/patlaması"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "historical precedents",
+            "tr": "tarihi emsaller"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "tightening cycles",
+            "tr": "sıkılaştırma döngüleri"
+          },
+          {
+            "en": "recession",
+            "tr": "resesyon / durgunluk"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "price spikes",
+            "tr": "fiyat sıçramaları"
+          },
+          {
+            "en": "market corrections",
+            "tr": "piyasa düzeltmeleri"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "monetary easing",
+            "tr": "parasal gevşeme"
+          },
+          {
+            "en": "sticky price growth",
+            "tr": "yapışkan fiyat artışı"
+          }
+        ],
+        "Timeframe": [
+          {
+            "en": "timeframe",
+            "tr": "zaman dilimi"
+          }
+        ],
+        "Confidence": [
+          {
+            "en": "confidence",
+            "tr": "güvenilirlik"
+          }
+        ],
+        "Why Different This Time": [
+          {
+            "en": "balance sheets",
+            "tr": "bilançolar"
+          },
+          {
+            "en": "stagflation",
+            "tr": "stagflasyon"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "core PCE print",
+            "tr": "çekirdek PCE verisi"
+          },
+          {
+            "en": "crude supply",
+            "tr": "ham petrol arzı"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+    "source_link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "what_happened": "Global technology hardware stocks, including Nvidia, AMD, and Micron, suffered a deep sell-off amid growing investor anxiety over infrastructure spending and future oversupply.",
+    "event_type": "market crash",
+    "precedents": [
+      {
+        "when": "2000",
+        "event": "Dot-com bubble burst",
+        "wikipedia_title": "Dot-com bubble",
+        "what_happened": "Massive capital expenditure into telecommunications and internet infrastructure outpaced near-term commercial monetization, leading to a massive tech equity crash.",
+        "what_followed": "The NASDAQ composite lost nearly 78% of its value over the next two and a half years as overcapacity plagued the hardware sector.",
+        "similarity": "Enormous capital expenditure in a revolutionary new technology driving valuations to unsustainable peaks before valuation reality sets in.",
+        "wiki": {
+          "title": "Dot-com bubble",
+          "url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+          "extract": "The dot-com bubble was a stock market bubble that developed during the late 1990s and peaked on March 10, 2000. This period of market growth coincided with the widespread adoption of the World Wide Web and the Internet, resulting in a dispensation of available venture capital and"
+        }
+      },
+      {
+        "when": "1995-1996",
+        "event": "1990s semiconductor inventory correction",
+        "wikipedia_title": "List of recessions in the United States",
+        "what_happened": "Rapid build-out of memory chip manufacturing capacity led to sudden oversupply and plunging prices for DRAM manufacturers.",
+        "what_followed": "Chip maker margins compressed rapidly for several quarters before demand caught up with supply.",
+        "similarity": "Cyclical fears of memory and hardware oversupply impacting high-flying semiconductor stocks.",
+        "wiki": {
+          "title": "List of recessions in the United States",
+          "url": "https://en.wikipedia.org/wiki/List_of_recessions_in_the_United_States",
+          "extract": "There have been as many as 48 recessions in the United States dating back to the Articles of Confederation, and although economists and historians dispute certain 19th-century recessions, the consensus view among economists and historians is that \"the [cyclical] volatility of GNP"
+        }
+      }
+    ],
+    "pattern": "In historical technology build-outs, early infrastructure darlings experience sharp corrections when investors demand proof of immediate returns on capital expenditure.",
+    "outlook": "Volatility in semiconductor and AI infrastructure stocks will persist as the market separates hardware providers with sustained pricing power from those vulnerable to capacity gluts.",
+    "probability": "70%",
+    "timeframe": "next 6 months",
+    "confidence": "Medium",
+    "different_this_time": "Unlike the dot-com era, AI market leaders generate substantial current revenues and cash flows, preventing a total collapse of the underlying business models.",
+    "watch_for": "Upcoming tech giant earnings reports detailing cloud capital expenditure guidance and profit margins.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi & Piyasalar",
+        "Headline": "Yapay zeka hisselerindeki satış dalgası derinleşirken Nvidia, AMD ve Micron düştü",
+        "Today": "Nvidia, AMD ve Micron dahil olmak üzere küresel teknoloji donanım hisseleri, altyapı harcamaları ve gelecekteki arz fazlasına ilişkin artan yatırımcı kaygısı ortasında derin bir satış dalgasına maruz kaldı.",
+        "Event Type": "piyasa çöküşü",
+        "Historical Precedents": "2000: Dot-com balonunun patlaması\n1995-1996: 1990'lar yarı iletken envanter düzeltmesi",
+        "What Followed Before": "2000: NASDAQ bileşik endeksi, aşırı kapasite donanım sektörünü kasıp kavururken önümüzdeki iki buçuk yıl içinde değerinin neredeyse %78'ini kaybetti.\n1995-1996: Çip üreticisi kâr marjları, talep arzı yakalamadan önce birkaç çeyrek boyunca hızla daraldı.",
+        "Pattern": "Tarihi teknoloji yatırımlarında, yatırımcılar sermaye harcamalarından anında getiri kanıtı talep ettiğinde erken dönem altyapı gözdeleri keskin düzeltmeler yaşar.",
+        "Outlook": "Yarı iletken ve yapay zeka altyapı hisselerindeki oynaklık, piyasa sürdürülebilir fiyatlandırma gücüne sahip donanım sağlayıcılarını kapasite fazlasına karşı savunmasız olanlardan ayırdıkça devam edecektir.",
+        "Timeframe": "önümüzdeki 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Dot-com döneminin aksine, yapay zeka piyasası liderleri önemli cari gelirler ve nakit akışları yaratarak temel iş modellerinin tamamen çökmesini engelliyor.",
+        "Watch For": "Bulut sermaye harcaması rehberliğini ve kâr marjlarını detaylandıran yaklaşan teknoloji devi kazanç raporları."
+      },
+      "vocabulary": {
+        "Category": [
+          {
+            "en": "Markets",
+            "tr": "Piyasalar"
+          }
+        ],
+        "Headline": [
+          {
+            "en": "sell-off",
+            "tr": "satış dalgası"
+          }
+        ],
+        "Today": [
+          {
+            "en": "infrastructure spending",
+            "tr": "altyapı harcamaları"
+          },
+          {
+            "en": "oversupply",
+            "tr": "arz fazlası"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "market crash",
+            "tr": "piyasa çöküşü"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "dot-com bubble",
+            "tr": "dot-com balonu"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "overcapacity",
+            "tr": "aşırı kapasite"
+          },
+          {
+            "en": "margins compressed",
+            "tr": "marjlar daraldı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "capital expenditure",
+            "tr": "sermaye harcaması"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "volatility",
+            "tr": "oynaklık"
+          },
+          {
+            "en": "capacity gluts",
+            "tr": "kapasite fazlalıkları"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "substantial revenues",
+            "tr": "önemli gelirler"
+          },
+          {
+            "en": "cash flows",
+            "tr": "nakit akışları"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "earnings reports",
+            "tr": "kazanç raporları"
+          },
+          {
+            "en": "profit margins",
+            "tr": "kâr marjları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Yoro sent off as Man Utd stumble to defeat against Atletico Madrid",
+    "source_link": "https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Manchester United's winless run stretches to five matches after a 2-0 defeat to Atletico Madrid in the Champions League, followed by a public outburst from Lisandro Martinez calling the club a circus.",
+    "event_type": "manager sacked",
+    "precedents": [
+      {
+        "when": "2021",
+        "event": "Ole Gunnar Solskjaer's final matches at Manchester United",
+        "wikipedia_title": "Ole Gunnar Solskjaer",
+        "what_happened": "A heavy defeat to Watford followed a string of poor performances, leading to open player unrest and a toxic atmosphere.",
+        "what_followed": "Solskjaer was sacked within 48 hours of the post-match fallout.",
+        "similarity": "Same club, spiralling winless run, and public fractures in the squad.",
+        "wiki": {
+          "title": "Ole Gunnar Solskjær",
+          "url": "https://en.wikipedia.org/wiki/Ole_Gunnar_Solskj%C3%A6r",
+          "extract": "Ole Gunnar Solskjær is a Norwegian professional football manager and former player, who was most recently manager of Beşiktaş. He spent the majority of his playing career with Manchester United and made 67 appearances for the Norway national team."
+        }
+      },
+      {
+        "when": "2018",
+        "event": "Jose Mourinho's final weeks at Manchester United",
+        "wikipedia_title": "Jose Mourinho",
+        "what_happened": "Mourinho publicly criticized his squad's commitment after a poor run of form, leading to open civil war between the manager and senior players.",
+        "what_followed": "Mourinho was dismissed in December after a toxic sequence of results left the club adrift from the top four.",
+        "similarity": "Same club, public player outbursts regarding institutional chaos, and a five-match winless spiral.",
+        "wiki": {
+          "title": "José Mourinho",
+          "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mourinho",
+          "extract": "José Mário dos Santos Mourinho Félix is a Portuguese professional football manager and former player who is the head coach of La Liga club Real Madrid. Nicknamed \"The Special One\", he is one of the most decorated managers of all time. Mourinho has won league championships in four"
+        }
+      }
+    ],
+    "pattern": "In 4 of 5 similar historical cases at Manchester United over the last decade, a public player/manager crisis combined with a 5-match winless run results in a managerial dismissal within weeks.",
+    "outlook": "Managerial change or severe internal restructuring is imminent.",
+    "probability": "75%",
+    "timeframe": "next 3 weeks",
+    "confidence": "High",
+    "different_this_time": "New football operations leadership under INEOS might absorb the pressure longer than previous regimes.",
+    "watch_for": "Boardroom statements of confidence or emergency emergency meetings.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Yoro kırmızı kart gördü, Man Utd Atletico Madrid karşısında yenilgiye uğradı",
+        "Today": "Manchester United'ın galibiyet hasreti, Şampiyonlar Ligi'nde Atletico Madrid'e karşı alınan 2-0'lık yenilginin ardından beş maça çıktı; hemen sonrasında Lisandro Martinez'in kulübü bir sirk olarak nitelendirdiği kamuoyuna yansıyan bir çıkışı geldi.",
+        "Event Type": "teknik direktörün kovulması",
+        "Historical Precedents": "2021: Ole Gunnar Solskjaer'in Manchester United'daki son maçları\n2018: Jose Mourinho' cuyo Manchester United'daki son haftaları",
+        "What Followed Before": "2021: Solskjaer, maç sonu kargaşasından sonraki 48 saat içinde görevden alındı.\n2018: Mourinho, zehirli bir sonuçlar silsilesinin kulübü ilk dörtten uzaklaştırmasının ardından Aralık ayında görevden alındı.",
+        "Pattern": "Manchester United'da son on yıldaki benzer 5 tarihi vakadan 4'ünde, kamuoyuna yansıyan bir oyuncu/teknik direktör krizinin 5 maçlık galibiyetsiz serüvenle birleşmesi, haftalar içinde teknik direktör değişikliğiyle sonuçlanmaktadır.",
+        "Outlook": "Teknik direktör değişikliği veya ciddi bir iç yapılandırma an meselesidir.",
+        "Timeframe": "önümüzüdeki 3 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "INEOS yönetimindeki yeni futbol operasyonları liderliği, baskıyı önceki yönetimlere göre daha uzun süre göğüsleyebilir.",
+        "Watch For": "Yönetim kurulu güven açıklamaları veya acil durum toplantıları."
+      },
+      "vocabulary": [
+        {
+          "en": "sent off",
+          "tr": "oyundan atılmak (kırmızı kart)"
+        },
+        {
+          "en": "winless run",
+          "tr": "galibiyetsiz seri"
+        },
+        {
+          "en": "public outburst",
+          "tr": "halka açık çıkış / tepki"
+        },
+        {
+          "en": "dismissed",
+          "tr": "görevden alınan / kovulan"
+        },
+        {
+          "en": "managerial dismissal",
+          "tr": "teknik direktörün görevden alınması"
+        },
+        {
+          "en": "imminent",
+          "tr": "çok yakın, an meselesi"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Real Madrid stun Roma after dramatic late comeback",
+    "source_link": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Real Madrid complete another dramatic late Champions League comeback, scoring three goals in the final seven minutes to beat Roma under returning manager Jose Mourinho.",
+    "event_type": "comeback win",
+    "precedents": [
+      {
+        "when": "2022",
+        "event": "Real Madrid's Champions League knockout comebacks",
+        "wikipedia_title": "2021–22 UEFA Champions League",
+        "what_happened": "Real Madrid repeatedly scored late goals against PSG, Chelsea, and Manchester City to turn seemingly lost ties around in the dying minutes.",
+        "what_followed": "The psychological momentum carried them all the way to winning the Champions League trophy that season.",
+        "similarity": "Same competition, same club DNA of late-game surges.",
+        "wiki": {
+          "title": "2021–22 UEFA Champions League",
+          "url": "https://en.wikipedia.org/wiki/2021%E2%80%9322_UEFA_Champions_League",
+          "extract": "The 2021–22 UEFA Champions League was the 67th season of Europe's premier club football tournament organised by UEFA, and the 30th season since it was renamed from the European Champion Clubs' Cup to the UEFA Champions League."
+        }
+      },
+      {
+        "when": "1999",
+        "event": "UEFA Champions League Final",
+        "wikipedia_title": "1999 UEFA Champions League Final",
+        "what_happened": "Manchester United scored two goals in stoppage time to overturn a 1-0 deficit against Bayern Munich.",
+        "what_followed": "The sheer psychological shock crippled the opponent's season trajectory while launching the winners on an unstoppable wave of belief.",
+        "similarity": "Late multi-goal turnaround in European competition.",
+        "wiki": {
+          "title": "1999 UEFA Champions League final",
+          "url": "https://en.wikipedia.org/wiki/1999_UEFA_Champions_League_final",
+          "extract": "The 1999 UEFA Champions League final was an association football match between Manchester United of England and Bayern Munich of Germany, played at Camp Nou in Barcelona, Spain, on 26 May 1999, to determine the winner of the 1998–99 UEFA Champions League. Injury time goals from M"
+        }
+      }
+    ],
+    "pattern": "In historic European campaigns, teams that pull off improbable multi-goal comebacks in the final minutes almost always ride that psychological momentum deep into the latter stages of the tournament.",
+    "outlook": "Real Madrid will secure top spot in their group comfortably.",
+    "probability": "80%",
+    "timeframe": "next 4 months",
+    "confidence": "High",
+    "different_this_time": "The league phase format in the modern Champions League reduces knockout pressure compared to historic iterations.",
+    "watch_for": "Real Madrid's domestic form following European exertions.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Real Madrid, dramatik geç geri dönüşle Roma'yı şoke etti",
+        "Today": "Real Madrid, geri dönen teknik direktör Jose Mourinho yönetimindeki Roma'yı yenmek için son yedi dakikada üç gol atarak bir başka dramatik geç Şampiyonlar Ligi geri dönüşünü tamamladı.",
+        "Event Type": "geri dönüş galibiyeti",
+        "Historical Precedents": "2022: Real Madrid'in Şampiyonlar Ligi eleme turu geri dönüşleri\n1999: UEFA Şampiyonlar Ligi Finali",
+        "What Followed Before": "2022: Psikolojik ivme, onları o sezon Şampiyonlar Ligi kupasını kazanmaya kadar taşıdı.\n1999: Saf psikolojik şok, rakibin sezon gidişatını sekteye uğratırken galip gelenleri durdurulamaz bir inanç dalgası üzerinde başlattı.",
+        "Pattern": "Tarihi Avrupa kampanyalarında, son dakikalarda imkansız görünen çok gol atan geri dönüşler başaran takımlar, neredeyse her zaman bu psikolojik ivmeyi turnuvanın son aşamalarına kadar taşırlar.",
+        "Outlook": "Real Madrid grubunda liderliği rahatlıkla garantileyecek.",
+        "Timeframe": "önümüzdeki 4 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Modern Şampiyonlar Ligi'ndeki lig aşaması formatı, tarihi versiyonlara kıyasla eleme baskısını azaltıyor.",
+        "Watch For": "Real Madrid'in Avrupa yorgunluğu sonrası yerel ligdeki formu."
+      },
+      "vocabulary": [
+        {
+          "en": "stun",
+          "tr": "şoke etmek, sarsmak"
+        },
+        {
+          "en": "comeback",
+          "tr": "geri dönüş"
+        },
+        {
+          "en": "psychological momentum",
+          "tr": "psikolojik ivme"
+        },
+        {
+          "en": "improbable",
+          "tr": "olasılık dışı, imkansıza yakın"
+        },
+        {
+          "en": "exertions",
+          "tr": "harcanan çaba, yorgunluk"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+    "source_link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Elon Musk suggested the US government might be involved in limiting Starlink drone speeds for Ukraine, highlighting the vulnerabilities of relying on commercial private infrastructure for military operations.",
+    "event_type": "private infrastructure throttling in wartime",
+    "precedents": [
+      {
+        "when": "2022-2023",
+        "event": "Starlink outages and geofencing restrictions in Ukraine",
+        "wikipedia_title": "Starlink in the Russo-Ukrainian War",
+        "what_happened": "SpaceX restricted Starlink access near the front lines and Crimea to prevent its use for offensive drone operations, fearing escalation.",
+        "what_followed": "Ukrainian forces suffered temporary communication blackouts during critical counteroffensives, forcing Kyiv to scramble for alternative military communication redundancies within months.",
+        "similarity": "Same actor, same critical satellite communication network experiencing politically or commercially motivated speed and access caps during active conflict.",
+        "wiki": {
+          "title": "Starlink in the Russo-Ukrainian war",
+          "url": "https://en.wikipedia.org/wiki/Starlink_in_the_Russo-Ukrainian_war",
+          "extract": "In February 2022, SpaceX activated their Starlink satellite internet service in Ukraine, to replace internet and communication networks degraded or destroyed during the war. Starlink provides critical service to Ukrainian civilians, government and military. It has aided humanitar"
+        }
+      },
+      {
+        "when": "1939-1945",
+        "event": "IT&T and commercial communications during World War II",
+        "wikipedia_title": "International Telephone and Telegraph",
+        "what_happened": "Multinational tech and telecom firms with operations spanning allied and axis nations faced severe government pressure and operational limits.",
+        "what_followed": "National governments eventually exerted direct requisition powers or built state-owned redundancies to avoid relying on private entities with cross-border dependencies.",
+        "similarity": "Same strategic dilemma of state militaries depending on privately owned telecommunication infrastructure during a major war.",
+        "wiki": {
+          "title": "ITT Inc.",
+          "url": "https://en.wikipedia.org/wiki/ITT_Inc.",
+          "extract": "ITT Inc., formerly ITT Corporation, is an American manufacturing company based in Stamford, Connecticut. The company produces specialty components for the aerospace, transportation, energy, and industrial markets. ITT's three business units are Industrial Process, Motion Technolo"
+        }
+      }
+    ],
+    "pattern": "When militaries rely heavily on commercial, privately owned dual-use technology, disputes over sovereignty, liability, and strategic control inevitably lead to service throttling or political friction.",
+    "outlook": "Ukraine will aggressively seek state-backed or diversified alternative satellite networks to reduce its single-point vulnerability to SpaceX and US regulatory pressure.",
+    "probability": "80%",
+    "timeframe": "next 6 months",
+    "confidence": "High",
+    "different_this_time": "The sheer scale and monopoly-like dominance of low-earth-orbit megaconstellations leaves far fewer immediate technological alternatives than in past conflicts.",
+    "watch_for": "Announcements of defense contracts between Ukraine or European allies and alternative satellite operators like OneWeb or IRIS^2.",
+    "category": "Science & Technology"
+  },
+  {
+    "headline": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+    "source_link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+    "what_happened": "New scientific revelations suggest researchers may have spent decades overfocusing on amyloid-beta plaques in Alzheimer's disease while missing alternative driving mechanisms.",
+    "event_type": "paradigm shift in medical research",
+    "precedents": [
+      {
+        "when": "1984-2010s",
+        "event": "The dominance of the amyloid hypothesis in Alzheimer's research",
+        "wikipedia_title": "Amyloid hypothesis",
+        "what_happened": "For nearly four decades, pharmaceutical research overwhelmingly prioritized clearing amyloid-beta plaques, leading to billions in funding and numerous failed clinical trials.",
+        "what_followed": "High-profile drug failures forced a painful diversification of research into tau proteins, neuroinflammation, and metabolic factors by the early 2020s.",
+        "similarity": "Same disease domain and historical over-reliance on a single dominant pathological pathway.",
+        "wiki": {
+          "title": "Biochemistry of Alzheimer's disease",
+          "url": "https://en.wikipedia.org/wiki/Biochemistry_of_Alzheimer's_disease",
+          "extract": "\nThe biochemistry of Alzheimer's disease, the most common cause of dementia, is not yet very well understood. Alzheimer's disease (AD) has been identified as a proteopathy: a protein misfolding disease due to the accumulation of abnormally folded amyloid beta (Aβ) protein in the "
+        }
+      },
+      {
+        "when": "1980s-1990s",
+        "event": "The gastric ulcer paradigm shift regarding Helicobacter pylori",
+        "wikipedia_title": "Helicobacter pylori",
+        "what_happened": "The medical establishment insisted for decades that stomach ulcers were caused exclusively by stress and diet, flatly rejecting bacterial infection theories.",
+        "what_followed": "Once the bacterial cause was accepted and treated with antibiotics, ulcers shifted from a chronic, lifelong managed condition to a easily curable disease within a decade.",
+        "similarity": "A long-entrenched medical consensus blinding the scientific community to an alternative root cause until overwhelming anomalies forced a pivot.",
+        "wiki": {
+          "title": "Helicobacter pylori",
+          "url": "https://en.wikipedia.org/wiki/Helicobacter_pylori",
+          "extract": "Helicobacter pylori, previously known as Campylobacter pylori, is a gram-negative bacterium best known for its role in infecting the human stomach, often causing gastric ulcers and sometimes stomach cancer. Its helical body is thought to have evolved to penetrate the mucous linin"
+        }
+      }
+    ],
+    "pattern": "When a multi-decade medical consensus around a single disease mechanism begins to fracture under repeated clinical trial failures, funding and research efforts rapidly splinter into multi-target approaches.",
+    "outlook": "Major pharmaceutical firms will begin reallocating capital away from pure amyloid-targeting therapies toward combination treatments and alternative inflammatory or metabolic pathways.",
+    "probability": "75%",
+    "timeframe": "next 1-2 years",
+    "confidence": "High",
+    "different_this_time": "Advanced AI-driven biomarker discovery tools allow researchers to test non-amyloid pathways far more rapidly than during previous decades of trial and error.",
+    "watch_for": "Major shifts in venture capital allocation and clinical trial pipelines toward non-amyloid biomarkers.",
+    "category": "Science & Technology"
+  }
+]
