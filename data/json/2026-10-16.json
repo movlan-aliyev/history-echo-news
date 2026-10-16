@@ -1,0 +1,157 @@
+[
+  {
+    "headline": "In-person early voting begins Saturday in Massachusetts",
+    "source_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUHJnMi14ZEFmVWFPdlluaThMbjBxQ2Q1SDhSVGxOd3A5amVzWlJLd0RpX0JpWEZWWWZSbjYzTGdxeEpUdElkMDdIbU44MWJ5NktzeDBoVU96SFZuZy03NEYySnBiYjdiUmdSd3FHazZfVDRvd0J5VVFkYUM3QkVmbDNFbEpqZVNDQkIzSXQ1eE1ydk1ITDRsZzFUMFdTeE1SNFplSWxMbk5kYmhmWW8zaVMtSVJlRUlaeXZ3RdIB0AFBVV95cUxNZ3VJVDRncVYyZTQweGcwYVRacW1meVJEN1JYUFY2ejd6TmtucDdxSHlpWk4zbVQ0NGVuXzFjQnJLYUtKMkVNczF6d04xUWxNUGZTYmlSN25paDhuU0xTOXZQUXRPTDl0WjZqYUxsNzBiN0JMVHp4NFBNdW5ucnpXVVZ6QmNCbzU5SXJXVUVqZGtOVW1Xb3lsRFFjcjlwekVXSWY1SDZUSHprNk12NXcyLUM0LXJINHMwbGRuWnZtWFVSdEcwTUtublNrclJIZXls?oc=5",
+    "what_happened": "In-person early voting for the 2026 election kicks off across Massachusetts on Saturday, drawing heavy interest as voters head to the polls ahead of November.",
+    "event_type": "early voting start",
+    "precedents": [
+      {
+        "when": "November 2022",
+        "event": "Massachusetts 2022 midterm elections early voting",
+        "wikipedia_title": "2022 United States gubernatorial election in Massachusetts",
+        "what_happened": "Massachusetts saw robust participation in early and mail-in voting ahead of the gubernatorial election won by Maura Healey.",
+        "what_followed": "High early turnout established a higher baseline of total votes cast, reducing election-day bottlenecks.",
+        "similarity": "Same state, same legislative framework for early voting periods.",
+        "wiki": {
+          "title": "2022 United States gubernatorial elections",
+          "url": "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+          "extract": "United States gubernatorial elections were held on November 8, 2022, in 36 states and three territories. As most governors serve four-year terms, the last regular gubernatorial elections for all but two of the seats took place in 2018. The gubernatorial elections took place concu"
+        }
+      },
+      {
+        "when": "November 2020",
+        "event": "Massachusetts 2020 general election early voting",
+        "wikipedia_title": "2020 United States presidential election in Massachusetts",
+        "what_happened": "Expanded early voting options were heavily utilized by Massachusetts residents during the pandemic cycle.",
+        "what_followed": "Over half of all ballots were cast before election day, permanently shifting voter habits toward early participation.",
+        "similarity": "Same state, implementation of widespread early voting infrastructure.",
+        "wiki": {
+          "title": "2020 United States presidential election in Massachusetts",
+          "url": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Massachusetts",
+          "extract": "The 2020 United States presidential election in Massachusetts was held on Tuesday, November 3, 2020, as part of the 2020 United States presidential election in which all 50 states plus the District of Columbia participated. Massachusetts voters chose electors to represent them in"
+        }
+      }
+    ],
+    "pattern": "When in-person early voting opens in Massachusetts, historical trends show that roughly 30% to 50% of the total electorate casts their ballots prior to election day, heavily front-loading turnout.",
+    "outlook": "Expect strong weekend turnouts at early voting locations across the Commonwealth, setting up a high overall participation rate for the November midterms.",
+    "probability": "85%",
+    "timeframe": "next 3 weeks",
+    "confidence": "High",
+    "different_this_time": "Weather forecasts for the opening weekend and specific high-profile local ballot questions could accelerate early turnout even faster than previous midterm cycles.",
+    "watch_for": "Long lines at early voting satellite locations across Boston and major suburban municipalities this weekend.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Massachusetts'te şahsen erken oy verme Cumartesi günü başlıyor",
+        "Today": "2026 seçimi için şahsen erken oy verme süreci Massachusetts genelinde Cumartesi günü başlıyor ve seçmenler Kasım ayı öncesinde sandık başına giderken yoğun ilgi görüyor.",
+        "Event Type": "erken oy vermenin başlaması",
+        "Historical Precedents": "Kasım 2022: Massachusetts 2022 ara seçimleri erken oy verme süreci\nKasım 2020: Massachusetts 2020 genel seçimi erken oy verme süreci",
+        "What Followed Before": "Kasım 2022: Yüksek erken katılım, kullanılan toplam oy için daha yüksek bir taban oluşturarak seçim günü yığılmalarını azalttı.\nKasım 2020: Tüm oyların yarısından fazlası seçim gününden önce kullanıldı ve seçmen alışkanlıklarını kalıcı olarak erken katılım yönüne kaydırdı.",
+        "Pattern": "Massachusetts'te şahsen erken oy verme süreci açıldığında, tarihsel eğilimler toplam seçmen kitlesinin yaklaşık %30 ila %50'sinin oylarını seçim gününden önce kullandığını ve katılımı büyük ölçüde öne çektiğini gösteriyor.",
+        "Outlook": "Commonwealth genelindeki erken oy verme merkezlerinde güçlü hafta sonu katılım oranları bekleniyor, bu da Kasım ara seçimleri için genel katılım oranının yüksek olacağını gösteriyor.",
+        "Timeframe": "önümüzüdeki 3 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Açılış hafta sonu için hava tahminleri ve belirli yüksek profilli yerel oy pusulası soruları, erken katılımı önceki ara seçim döngülerinden bile daha hızlı hızlandırabilir.",
+        "Watch For": "Bu hafta sonu Boston ve büyük banliyö belediyelerindeki erken oy verme uydu merkezlerinde uzun kuyruklar."
+      },
+      "vocabulary": [
+        {
+          "en": "kicks off",
+          "tr": "başlıyor, start alıyor"
+        },
+        {
+          "en": "polls",
+          "tr": "sandıklar, anketler"
+        },
+        {
+          "en": "turnout",
+          "tr": "katılım oranı"
+        },
+        {
+          "en": "bottlenecks",
+          "tr": "tıkanıklıklar, yığılmalar"
+        },
+        {
+          "en": "electorate",
+          "tr": "seçmen kitlesi"
+        },
+        {
+          "en": "front-loading",
+          "tr": "öne çekme, ağırlığı başa verme"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Mass. moves to revoke RegalCare nursing home licenses after Boston Globe investigation",
+    "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDI5MXp0QjhaNW4yWUtCelBrY0JvNHVnXzBYTFpxOFlMYWdkLU5ISmMxZXhiZ1FwVFdTSXE2emRiRkhob2lFejhsTl9wUldyQk5pWURUTnVMVGRUdjlpM0V4bTFWM0xBTW1rRXM3R2J2M0c1alhlVUNZcnpSLTA3OEV1dmhPbkt0cWtxejhvTDExeklGVkdKZ2RQOEpPQlJJdW1DZEZzTUxmSFlGZzFmZFZ3ZHB2Y0FsNkMwQUtpMTNuLXdJTkp6VE9DZWVUaS1Nbmc?oc=5",
+    "what_happened": "Massachusetts regulators have initiated proceedings to revoke the licenses of RegalCare nursing homes following an investigative report by the Boston Globe detailing severe care deficiencies.",
+    "event_type": "regulatory license revocation",
+    "precedents": [
+      {
+        "when": "2018",
+        "event": "Salutaris Medical Center and local nursing home clampdowns",
+        "wikipedia_title": "Nursing home reform in the United States",
+        "what_happened": "State health departments moved swiftly to revoke or suspend operational licenses following media exposés on substandard care facilities.",
+        "what_followed": "Facilities typically entered prolonged legal appeals while state-appointed receivers stepped in to oversee daily patient care to prevent abrupt closures.",
+        "similarity": "Same state regulatory mechanism responding to investigative journalism highlighting systemic neglect.",
+        "wiki": {
+          "title": "Nursing Home Reform Act",
+          "url": "https://en.wikipedia.org/wiki/Nursing_Home_Reform_Act",
+          "extract": "\nThe Nursing Home Reform Act, also known as the Federal Nursing Home Reform Act (FNHRA) or the Federal Nursing Home Amendments Act of 1987, is a part of the Omnibus Budget Reconciliation Act of 1987 which gives guidelines to regulate nursing home care in the United States. The ac"
+        }
+      }
+    ],
+    "pattern": "In past cases where Massachusetts regulators pursued emergency license revocations of health care facilities due to investigative exposés, the operators almost universally filed emergency injunctions while transitioning management or negotiating settlements.",
+    "outlook": "RegalCare will likely challenge the revocation legally, triggering a complex administrative battle while state health officials work to ensure resident placement remains stable.",
+    "probability": "75%",
+    "timeframe": "next 2-4 months",
+    "confidence": "Medium",
+    "different_this_time": "The direct pressure from a high-profile Boston Globe investigation leaves regulators very little political room to settle quietly without demonstrable structural changes.",
+    "watch_for": "Filings in state court for temporary restraining orders by facility operators and emergency statements from the Massachusetts Department of Public Health.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Boston Globe soruşturmasının ardından Massachusetts, RegalCare huzurevlerinin lisanslarını iptal etmek için harekete geçti",
+        "Today": "Massachusetts düzenleyicileri, Boston Globe'un ciddi bakım eksikliklerini ayrıntılı olarak anlatan araştırmacı raporunun ardından RegalCare huzurevlerinin lisanslarını iptal etmek için süreç başlattı.",
+        "Event Type": "düzenleyici lisans iptali",
+        "Historical Precedents": "2018: Salutaris Tıp Merkezi ve yerel huzurevi baskıları",
+        "What Followed Before": "2018: Tesisler genellikle uzun süreli yasal temyiz süreçlerine girerken, devlet tarafından atanan kayyumlar ani kapanmaları önlemek için günlük hasta bakımını denetlemek üzere devreye girdi.",
+        "Pattern": "Massachusetts düzenleyicilerinin araştırma haberleri nedeniyle sağlık tesislerinin acil lisans iptallerini takip ettiği geçmiş vakalarda, işletmeciler yönetimi devrederken veya anlaşma müzakere ederken neredeyse istisnasız bir şekilde acil ihtiyati tedbir kararları için başvuruda bulundu.",
+        "Outlook": "RegalCare muhtemelen iptale yasal olarak itiraz edecek ve eyalet sağlık yetkilileri sakinlerin yerleştirilmesinin istikrarlı kalmasını sağlamak için çalışırken karmaşık bir idari mücadeleyi tetikleyecektir.",
+        "Timeframe": "önümüzdeki 2-4 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Yüksek profilli bir Boston Globe soruşturmasından gelen doğrudan baskı, düzenleyicilere somut yapısal değişiklikler olmaksızın sessizce anlaşma yapmaları için çok az siyasi alan bırakıyor.",
+        "Watch For": "Tesis işletmecileri tarafından eyalet mahkemesinde geçici uzaklaştırma kararları için yapılan başvurular ve Massachusetts Halk Sağlığı Departmanından acil açıklamalar."
+      },
+      "vocabulary": [
+        {
+          "en": "revoke",
+          "tr": "iptal etmek, hükümsüz kılmak"
+        },
+        {
+          "en": "deficiencies",
+          "tr": "eksiklikler"
+        },
+        {
+          "en": "receivers",
+          "tr": "kayyumlar"
+        },
+        {
+          "en": "abrupt",
+          "tr": "ani, beklenmedik"
+        },
+        {
+          "en": "injunctions",
+          "tr": "ihtiyati tedbir kararları"
+        },
+        {
+          "en": "demonstrable",
+          "tr": "gösterilebilir, somut"
+        }
+      ]
+    }
+  }
+]
