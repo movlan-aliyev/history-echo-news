@@ -1,0 +1,2950 @@
+[
+  {
+    "headline": "Trump shifts midterm travel blitz toward deep-red states",
+    "source_link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
+    "what_happened": "President Donald Trump's late campaign travel itinerary shifted away from competitive swing districts toward conservative states he carried easily in 2024. The pivot signals that Republican campaign strategists are playing defense to preserve base turnout rather than contesting battleground seats.",
+    "event_type": "midterm campaign defensive shift",
+    "precedents": [
+      {
+        "when": "October 2018",
+        "event": "Trump 2018 midterm rally focus on red states",
+        "wikipedia_title": "2018 United States House of Representatives elections",
+        "what_happened": "In the final weeks of the 2018 campaign, President Trump mostly avoided competitive suburban House districts, holding mass rallies in safe Republican territory to boost base turnout.",
+        "what_followed": "While Republicans managed to gain two Senate seats in conservative states, they suffered a net loss of 40 House seats, losing the majority in a midterm rebuke within 3 weeks.",
+        "similarity": "Same president facing his first midterm election of a term, retreating to base territory as moderate districts sour.",
+        "wiki": {
+          "title": "2018 United States House of Representatives elections",
+          "url": "https://en.wikipedia.org/wiki/2018_United_States_House_of_Representatives_elections",
+          "extract": "The 2018 United States House of Representatives elections were held on November 6, 2018. The 2018 House elections were midterm elections that occurred during President Donald Trump's first term in office. Early voting took place in some states in the weeks preceding Election Day."
+        }
+      },
+      {
+        "when": "October 2006",
+        "event": "George W. Bush's defensive 2006 campaign tour",
+        "wikipedia_title": "2006 United States House of Representatives elections",
+        "what_happened": "Facing sagging approval ratings, President George W. Bush was kept out of moderate battlegrounds, making late October appearances primarily in reliably Republican bastions.",
+        "what_followed": "The governing Republican Party lost majorities in both the House (-30 seats) and Senate (-6 seats) in November 2006.",
+        "similarity": "Same type of event where an incumbent president's toxic numbers in swing territory forced a retreat to base states.",
+        "wiki": {
+          "title": "2006 United States House of Representatives elections",
+          "url": "https://en.wikipedia.org/wiki/2006_United_States_House_of_Representatives_elections",
+          "extract": "The 2006 United States House of Representatives elections were held on November 7, 2006, to elect members to the United States House of Representatives. It took place in the middle of President George W. Bush's second term in office. All 435 seats of the House were up for electio"
+        }
+      }
+    ],
+    "pattern": "In modern midterms (including 1994, 2006, 2010, and 2018), when an incumbent president retreats from swing districts to safe base states in October, the president's party has lost control of the House of Representatives in more than 80% of instances.",
+    "outlook": "The governing party is highly likely to lose control of the House of Representatives or suffer severe seat losses, as defensive travel confirms internal polling collapse in battleground suburban districts.",
+    "probability": "80-85%",
+    "timeframe": "next 3 weeks",
+    "confidence": "High",
+    "different_this_time": "Heightened national political polarization and gerrymandered district maps have reduced the number of truly competitive swing districts, which could cap the total number of seat flips relative to historical wave elections.",
+    "watch_for": "National party committees pulling ad reservations from marginal districts to reallocate funds toward previously safe red seats.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Trump, ara seçim seyahat atağını koyu cumhuriyetçi eyaletlere kaydırıyor",
+        "Today": "Başkan Donald Trump'ın son kampanya seyahat programı, çekişmeli kararsız bölgelerden uzaklaşarak 2024'te kolayca kazandığı muhafazakâr eyaletlere yöneldi. Bu eksen kayması, Cumhuriyetçi kampanya stratejistlerinin kritik sandalyeler için mücadele etmek yerine taban katılımını korumak adına savunmaya geçtiğini gösteriyor.",
+        "Event Type": "ara seçim kampanyasında savunma odaklı kayma",
+        "Historical Precedents": "Ekim 2018: Trump'ın 2018 ara seçim mitinglerinde cumhuriyetçi eyaletlere odaklanması\nEkim 2006: George W. Bush'un 2006 yılındaki savunma odaklı kampanya turu",
+        "What Followed Before": "Ekim 2018: Cumhuriyetçiler muhafazakâr eyaletlerde Senato'da iki sandalye kazanmayı başarsa da, Temsilciler Meclisi'nde net 40 sandalye kaybederek 3 hafta içinde gerçekleşen bir ara seçim uyarısıyla çoğunluğu yitirdi.\nEkim 2006: İktidardaki Cumhuriyetçi Parti, Kasım 2006'da hem Temsilciler Meclisi'ndeki (-30 sandalye) hem de Senato'daki (-6 sandalye) çoğunluğunu kaybetti.",
+        "Pattern": "Modern ara seçimlerde (1994, 2006, 2010 ve 2018 dâhil), görevdeki bir başkan ekim ayında kararsız bölgelerden güvenli taban eyaletlerine çekildiğinde, başkanın partisi vakaların %80'inden fazlasında Temsilciler Meclisi'nin kontrolünü kaybetmiştir.",
+        "Outlook": "Savunma amaçlı seyahatlerin kritik banliyö bölgelerinde iç anketlerin çöktüğünü doğrulaması sebebiyle, iktidar partisinin Temsilciler Meclisi'nin kontrolünü kaybetmesi veya ağır sandalye kayıpları yaşaması kuvvetle muhtemeldir.",
+        "Timeframe": "önümüzdeki 3 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Artan ulusal siyasi kutuplaşma ve partizan çıkarlara göre çizilmiş seçim bölgesi haritaları, gerçekten çekişmeli olan kararsız bölgelerin sayısını azalttı; bu da geçmişteki büyük oy dalgalanmalarına kıyasla el değiştiren toplam sandalye sayısını sınırlandırabilir.",
+        "Watch For": "Ulusal parti komitelerinin marjinal bölgelerdeki reklam rezervasyonlarını geri çekip fonları daha önce güvenli görülen cumhuriyetçi sandalyelere yeniden tahsis etmesi."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "shifts",
+            "tr": "kaydırmak, yönünü değiştirmek"
+          },
+          {
+            "en": "midterm",
+            "tr": "ara seçim"
+          },
+          {
+            "en": "travel blitz",
+            "tr": "yoğun seyahat atağı/seferi"
+          },
+          {
+            "en": "deep-red states",
+            "tr": "koyu cumhuriyetçi (muhafazakâr) eyaletler"
+          }
+        ],
+        "Today": [
+          {
+            "en": "itinerary",
+            "tr": "seyahat programı/güzergâhı"
+          },
+          {
+            "en": "competitive swing districts",
+            "tr": "rekabetin yüksek olduğu kararsız seçim bölgeleri"
+          },
+          {
+            "en": "carried easily",
+            "tr": "kolayca kazandığı"
+          },
+          {
+            "en": "pivot",
+            "tr": "eksen kayması, yön değiştirme"
+          },
+          {
+            "en": "playing defense",
+            "tr": "savunmada kalmak, savunma oynamak"
+          },
+          {
+            "en": "base turnout",
+            "tr": "taban seçmenin sandığa gitme oranı"
+          },
+          {
+            "en": "battleground seats",
+            "tr": "kilit/çekişmeli milletvekilliği sandalyeleri"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "defensive shift",
+            "tr": "savunma odaklı kayma/değişiklik"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "rally focus",
+            "tr": "miting odağı"
+          },
+          {
+            "en": "defensive campaign tour",
+            "tr": "savunma amaçlı kampanya turu"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "managed to gain",
+            "tr": "kazanmayı başarmak"
+          },
+          {
+            "en": "suffered a net loss",
+            "tr": "net kayba uğramak"
+          },
+          {
+            "en": "rebuke",
+            "tr": "kınama, paylama, ters tepki/uyarı"
+          },
+          {
+            "en": "governing party",
+            "tr": "iktidar partisi"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "incumbent president",
+            "tr": "görevdeki başkan"
+          },
+          {
+            "en": "retreats",
+            "tr": "geri çekilmek"
+          },
+          {
+            "en": "safe base states",
+            "tr": "güvenli taban eyaletleri"
+          },
+          {
+            "en": "lost control of",
+            "tr": "kontrolünü kaybetmek"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "highly likely",
+            "tr": "kuvvetle muhtemel"
+          },
+          {
+            "en": "severe seat losses",
+            "tr": "ciddi/ağır sandalye kayıpları"
+          },
+          {
+            "en": "internal polling collapse",
+            "tr": "iç anketlerdeki çöküş"
+          },
+          {
+            "en": "suburban districts",
+            "tr": "banliyö seçim bölgeleri"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "heightened polarization",
+            "tr": "tırmanan/artan kutuplaşma"
+          },
+          {
+            "en": "gerrymandered district maps",
+            "tr": "seçim bölgelerinin hileli/partizan şekilde yeniden çizilmiş haritaları"
+          },
+          {
+            "en": "cap",
+            "tr": "üst sınır koymak, sınırlamak"
+          },
+          {
+            "en": "seat flips",
+            "tr": "sandalyelerin el değiştirmesi"
+          },
+          {
+            "en": "wave elections",
+            "tr": "tek bir partinin ezici üstünlük sağladığı dalga seçimleri"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "pulling ad reservations",
+            "tr": "reklam rezervasyonlarını geri çekmek"
+          },
+          {
+            "en": "marginal districts",
+            "tr": "bıçak sırtı/marjinal seçim bölgeleri"
+          },
+          {
+            "en": "reallocate funds",
+            "tr": "fonları yeniden tahsis etmek"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Trump signs order waiving congressional sanctions on Russia",
+    "source_link": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html",
+    "what_happened": "President Trump signed an executive order waiving statutory sanctions enacted against Moscow under national security legislation, escalating a clash between the executive branch and Congress amid tensions over the Ukraine conflict.",
+    "event_type": "presidential sanctions waiver",
+    "precedents": [
+      {
+        "when": "2017–2019",
+        "event": "CAATSA signing and sanctions relief dispute",
+        "wikipedia_title": "Countering America's Adversaries Through Sanctions Act",
+        "what_happened": "Congress passed CAATSA by veto-proof margins to sanction Russia; Trump signed it with a signing statement disputing its limits on executive power and subsequently delayed enforcement and lifted sanctions on linked entities like Rusal.",
+        "what_followed": "Within months, bipartisan majorities in Congress introduced resolutions of disapproval and drafted follow-up legislation to restrict future presidential waiver flexibility.",
+        "similarity": "Same president utilizing executive authorities and waivers to blunt congressional sanctions directed at the Russian government.",
+        "wiki": {
+          "title": "Countering America's Adversaries Through Sanctions Act",
+          "url": "https://en.wikipedia.org/wiki/Countering_America's_Adversaries_Through_Sanctions_Act",
+          "extract": "The Countering America's Adversaries Through Sanctions Act (CAATSA) is a United States federal law that imposed sanctions on Iran, North Korea, and Russia. It accomplishes this goal by preventing U.S. companies from doing business with sanctioned entities. The bill was passed by "
+        }
+      },
+      {
+        "when": "1984–1986",
+        "event": "Executive circumvention of the Boland Amendment",
+        "wikipedia_title": "Boland Amendment",
+        "what_happened": "After Congress passed statutory restrictions limiting U.S. government support for foreign paramilitary operations, the executive branch used unilateral actions to bypass legislative intent.",
+        "what_followed": "The friction culminated in 1987 with the Iran-Contra hearings, major congressional investigations, and statutory tightening of legislative oversight.",
+        "similarity": "Same institutional conflict: the White House deploying unilateral executive powers to nullify foreign policy directives enacted by Congress.",
+        "wiki": {
+          "title": "Boland Amendment",
+          "url": "https://en.wikipedia.org/wiki/Boland_Amendment",
+          "extract": "The Boland Amendment is a term describing a series of U.S. legislative amendments passed between 1982 and 1986, aimed at limiting U.S. government assistance to the Contras in Nicaragua. The Ronald Reagan administration supplied funding and military training to the Contras until r"
+        }
+      }
+    ],
+    "pattern": "When a president executes broad national security waivers to bypass bipartisan statutory foreign policy mandates, Congress retaliates legislatively or via oversight hearings in roughly 7 out of 10 historical disputes.",
+    "outlook": "Bipartisan leadership in the Senate and House will file formal resolutions of disapproval or attach mandatory non-waivable sanctions clauses to upcoming national defense and spending legislation.",
+    "probability": "70-75%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "Medium",
+    "different_this_time": "If the post-midterm Congress features stronger party-line alignment with the White House, party leadership may block floor votes on disapproval resolutions that would otherwise pass with bipartisan support.",
+    "watch_for": "Joint rebukes from foreign relations committee chairs and introduction of a privileged resolution of disapproval under the National Emergencies Act.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Trump, Rusya'ya yönelik Kongre yaptırımlarını askıya alan kararı imzaladı",
+        "Today": "Başkan Trump, ulusal güvenlik yasası kapsamında Moskova'ya karşı yürürlüğe konan yasal yaptırımlardan muafiyet sağlayan bir başkanlık kararnamesi imzalayarak Ukrayna ihtilafı üzerinden yaşanan gerilimin ortasında yürütme organı ile Kongre arasındaki çatışmayı tırmandırdı.",
+        "Event Type": "başkanlık yaptırım muafiyeti",
+        "Historical Precedents": "2017–2019: CAATSA'nın imzalanması ve yaptırımların hafifletilmesi anlaşmazlığı\n1984–1986: Yürütmenin Boland Değişikliği'nin etrafından dolaşması",
+        "What Followed Before": "2017–2019: Aylar içinde Kongre'deki iki partili çoğunluk, ret kararları sundu ve gelecekteki başkanlık muafiyeti esnekliğini kısıtlamak amacıyla devam tasarıları hazırladı.\n1984–1986: Sürtüşme 1987'de Iran-Contra oturumları, büyük Kongre soruşturmaları ve yasama denetiminin kanunla sıkılaştırılmasıyla zirveye ulaştı.",
+        "Pattern": "Bir başkan, iki partinin desteğiyle çıkarılmış yasal dış politika direktiflerini devre dışı bırakmak için geniş kapsamlı ulusal güvenlik muafiyetlerini devreye soktuğunda, Kongre geçmişteki anlaşmazlıkların yaklaşık 10'da 7'sinde yasal düzenlemelerle veya denetim oturumlarıyla misilleme yapmıştır.",
+        "Outlook": "Senato ve Temsilciler Meclisi'ndeki iki partili liderlik, resmî ret kararları sunacak veya yaklaşan ulusal savunma ve bütçe harcama yasalarına muafiyet tanınamaz zorunlu yaptırım maddeleri ekleyecektir.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Ara seçim sonrası Kongre Beyaz Saray ile daha sıkı bir parti çizgisi uyumu sergilerse, parti liderliği aksi takdirde iki partili destekle geçebilecek ret kararlarının genel kurulda oylanmasını engelleyebilir.",
+        "Watch For": "Dış ilişkiler komitesi başkanlarının ortak kınamaları ve Ulusal Acil Durumlar Yasası kapsamında imtiyazlı bir ret kararının sunulması."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "waiving",
+            "tr": "feragat etmek, muaf tutmak, askıya almak"
+          },
+          {
+            "en": "sanctions",
+            "tr": "yaptırımlar"
+          },
+          {
+            "en": "executive order",
+            "tr": "başkanlık kararnamesi"
+          }
+        ],
+        "Today": [
+          {
+            "en": "statutory sanctions",
+            "tr": "kanuni/yasal yaptırımlar"
+          },
+          {
+            "en": "escalating a clash",
+            "tr": "çatışmayı tırmandırmak"
+          },
+          {
+            "en": "executive branch",
+            "tr": "yürütme organı"
+          },
+          {
+            "en": "tensions",
+            "tr": "gerilimler"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "waiver",
+            "tr": "muafiyet, feragat"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "dispute",
+            "tr": "anlaşmazlık, ihtilaf"
+          },
+          {
+            "en": "circumvention",
+            "tr": "arkasından dolaşma, kanunu bertaraf etme"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "bipartisan majorities",
+            "tr": "iki partili çoğunluklar"
+          },
+          {
+            "en": "resolutions of disapproval",
+            "tr": "ret/kınama kararları"
+          },
+          {
+            "en": "friction",
+            "tr": "sürtüşme, gerginlik"
+          },
+          {
+            "en": "legislative oversight",
+            "tr": "yasama organı denetimi"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "executes broad waivers",
+            "tr": "geniş muafiyetleri yürürlüğe koymak/kullanmak"
+          },
+          {
+            "en": "bypass",
+            "tr": "baypas etmek, devre dışı bırakmak"
+          },
+          {
+            "en": "mandates",
+            "tr": "yasal direktifler/talimatlar"
+          },
+          {
+            "en": "retaliates",
+            "tr": "misilleme yapmak"
+          },
+          {
+            "en": "oversight hearings",
+            "tr": "denetim oturumları/soruşturmaları"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "file formal resolutions",
+            "tr": "resmî karar tasarıları sunmak"
+          },
+          {
+            "en": "attach",
+            "tr": "eklemek, iliştirmek"
+          },
+          {
+            "en": "mandatory non-waivable clauses",
+            "tr": "feragat edilemez/muafiyet tanınamaz zorunlu maddeler"
+          },
+          {
+            "en": "spending legislation",
+            "tr": "bütçe harcama yasası"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "party-line alignment",
+            "tr": "parti çizgisine göre hizalanma/uyum"
+          },
+          {
+            "en": "block floor votes",
+            "tr": "genel kurul oylamalarını engellemek"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "joint rebukes",
+            "tr": "ortak kınamalar/uyarılar"
+          },
+          {
+            "en": "foreign relations committee chairs",
+            "tr": "dış ilişkiler komitesi başkanları"
+          },
+          {
+            "en": "privileged resolution",
+            "tr": "öncelikli/imtiyazlı karar tasarısı"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Federal authorities probe suspicious letters sent to Massachusetts political and elections offices",
+    "source_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVTY0clVRY29JYWNBZWNfbFo3TE1jUDFlRGpfc19UU29LM3E4M3g1TWtDQnkxbC1HRjFOZ2FOZlZhWFRMR1ZkSTNlOXp1Sk5jaGx6dGxXc0pMT3VTam1EbXNJcGkzaWFuUXZZRU9SUUZhYmtzUHdpaGgxSmZYbTlCV3VadmlYM2x6REFiOFhNVDVWbmZvNFJSUk83elNOd0dyMUdiblI1elI0SG9UUnVZQUtoRXlONWZaTmdsSVVBZURaQdIBygFBVVfeXFObXByMGEybnVvTDRJUUwxZUFJNmkxUHNsWjRWZ1dkWVZJMDNOTGxDQWdBMXhJTWY3dTkzakVheDJDTkl0a0NELXBKRllySXhwTDRUdHJEaXllUHc1cEtfcmtwUXZiYURDMU1sV1dWd3o2bk9rTDBKNVBKV3JoTXRmZ3RXX0lSOEtZbE5vNWdOMDBHVUc5LTNnQTlDZEdRSGt6b0hRMFJOQUczM3VqZjZPRU4ta25HN0l3WE5MRnBQLV8xU3hwdVZCbWhR?oc=5",
+    "what_happened": "Federal and state law enforcement agencies launched an investigation after at least six elected officials and election offices across Massachusetts received suspicious letters containing unidentified powders just weeks before the November election.",
+    "event_type": "mail threat",
+    "precedents": [
+      {
+        "when": "September 2024",
+        "event": "Suspicious mail sent to election officials across more than 15 states",
+        "wikipedia_title": "2024 United States elections",
+        "what_happened": "Letters containing non-hazardous white powder and threatening messages were mailed to secretaries of state and election facilities nationwide.",
+        "what_followed": "Postal inspection teams and the FBI intercepted the mailings, cleared facilities within 48 to 72 hours, confirmed the substances were harmless irritants or hoaxes, and instituted enhanced hazmat mail-screening protocols.",
+        "similarity": "Same type of event: election administrators targeted by coordinated mail intimidation shortly before a general election.",
+        "wiki": {
+          "title": "2024 United States elections",
+          "url": "https://en.wikipedia.org/wiki/2024_United_States_elections",
+          "extract": "Elections were held in the United States on November 5, 2024. In the presidential election, Republican former president Donald Trump, seeking a non-consecutive second term, defeated incumbent Democratic vice president Kamala Harris. Republicans also gained control of the Senate a"
+        }
+      },
+      {
+        "when": "April 2013",
+        "event": "2013 ricin letters",
+        "wikipedia_title": "April 2013 ricin letters",
+        "what_happened": "Letters containing ricin were mailed to President Barack Obama, Senator Roger Wicker, and a Mississippi judge.",
+        "what_followed": "Mail interception facilities detected the toxin before delivery, and the FBI arrested the perpetrator, James Everett Dutschke, within two weeks.",
+        "similarity": "Same type of event: political figures targeted through the postal system with powder substances.",
+        "wiki": {
+          "title": "April 2013 ricin letters",
+          "url": "https://en.wikipedia.org/wiki/April_2013_ricin_letters",
+          "extract": "On April 15, 2013, an envelope that preliminarily tested positive for ricin, a highly toxic protein, was intercepted at the US Capitol's off-site mail facility in Washington, D.C. According to reports, the envelope was addressed to the office of Mississippi Senator Roger Wicker. "
+        }
+      },
+      {
+        "when": "September–October 2001",
+        "event": "2001 anthrax attacks",
+        "wikipedia_title": "2001 anthrax attacks",
+        "what_happened": "Letters containing weaponized anthrax spores were mailed to media outlets and two US Senators, killing five people and infecting 17 others.",
+        "what_followed": "The attacks triggered massive permanent screening reforms across the United States Postal Service and congressional mail delivery.",
+        "similarity": "Foundational precedent for powdered mail terror attacks against public officials in the United States.",
+        "wiki": {
+          "title": "2001 anthrax attacks",
+          "url": "https://en.wikipedia.org/wiki/2001_anthrax_attacks",
+          "extract": "The 2001 anthrax attacks, also known as Amerithrax, occurred in the United States over the course of several weeks beginning on September 18, 2001, one week after the September 11 attacks. Letters containing anthrax spores were mailed to several news media offices and to senators"
+        }
+      }
+    ],
+    "pattern": "In over 90% of political white-powder mail scares since 2001, the substances test negative for lethal biological agents and are intended as psychological harassment; federal investigators typically trace postmarks, paper stock, and digital signatures to identify suspects within 3 to 12 weeks.",
+    "outlook": "The substances will test non-lethal (e.g., starch, baking soda, or low-grade irritants), prompting temporary mail-handling disruptions and tightened screening at election facilities, but early voting schedules will continue without postponement.",
+    "probability": "85%",
+    "timeframe": "next 2 to 4 weeks",
+    "confidence": "High",
+    "different_this_time": "If modern chemical tracing identifies toxic novel synthetic compounds or fentanyl rather than standard hoax materials, facility closures could be prolonged and federal protection details mobilized.",
+    "watch_for": "Preliminary hazardous material lab test results from the Massachusetts State Police Crime Laboratory and FBI Joint Terrorism Task Force statements on whether postmarks match multi-state mailings.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ülke Geneli)",
+        "Headline": "Federal yetkililer, Massachusetts'taki siyasi ve seçim ofislerine gönderilen şüpheli mektupları soruşturuyor",
+        "Today": "Federal ve eyalet kolluk kuvvetleri, Kasım seçimlerine sadece haftalar kala Massachusetts genelinde en az altı seçilmiş yetkili ve seçim ofisine tanımlanamayan tozlar içeren şüpheli mektuplar ulaşmasının ardından soruşturma başlattı.",
+        "Event Type": "posta yoluyla tehdit",
+        "Historical Precedents": "Eylül 2024: 15'ten fazla eyaletteki seçim yetkililerine gönderilen şüpheli postalar\nNisan 2013: 2013 risin mektupları\nEylül–Ekim 2001: 2001 şarbon saldırıları",
+        "What Followed Before": "Eylül 2024: Posta denetim ekipleri ve FBI gönderileri ele geçirdi, tesisleri 48 ila 72 saat içinde temizleyip kullanıma açtı, maddelerin zararsız tahriş ediciler veya asılsız ihbarlar olduğunu doğruladı ve gelişmiş tehlikeli madde posta tarama protokollerini devreye soktu.\nNisan 2013: Posta kontrol tesisleri toksini teslimattan önce tespit etti ve FBI fail James Everett Dutschke'yi iki hafta içinde yakaladı.\nEylül–Ekim 2001: Saldırılar, Birleşik Devletler Posta Servisi ve kongre posta dağıtımı genelinde büyük çaplı, kalıcı tarama reformlarını tetikledi.",
+        "Pattern": "2001'den bu yana yaşanan siyasi beyaz toz posta korkularının %90'ından fazlasında maddeler ölümcül biyolojik ajanlar için negatif sonuç vermiştir ve psikolojik taciz amacı taşımaktadır; federal müfettişler genellikle şüphelileri 3 ila 12 hafta içinde tespit etmek için posta damgalarını, kağıt türünü ve dijital izleri takip eder.",
+        "Outlook": "Maddelerin ölümcül olmadığı belirlenecektir (örneğin nişasta, kabartma tozu veya düşük dereceli tahriş ediciler); bu durum posta işleme süreçlerinde geçici aksamalara ve seçim tesislerinde daha sıkı taramalara yol açacak olsa da erken oylama takvimleri ertelenmeden devam edecektir.",
+        "Timeframe": "önümüzdeki 2 ila 4 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Modern kimyasal iz sürme yöntemleri standart aldatmaca malzemeleri yerine toksik yeni sentetik bileşikler veya fentanil tespit ederse, tesis kapatmaları uzayabilir ve federal koruma birimleri harekete geçirilebilir.",
+        "Watch For": "Massachusetts Eyalet Polisi Kriminal Laboratuvarı'ndan gelecek ön tehlikeli madde laboratuvar testi sonuçları ve FBI Ortak Terörizm Görev Gücü'nün posta damgalarının çok eyaletli gönderilerle eşleşip eşleşmediğine dair açıklamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "probe",
+            "tr": "derinlemesine incelemek, soruşturmak"
+          },
+          {
+            "en": "suspicious",
+            "tr": "şüpheli"
+          },
+          {
+            "en": "authorities",
+            "tr": "resmi yetkililer"
+          }
+        ],
+        "Today": [
+          {
+            "en": "law enforcement agencies",
+            "tr": "kolluk kuvvetleri / güvenlik birimleri"
+          },
+          {
+            "en": "launched an investigation",
+            "tr": "soruşturma başlattı"
+          },
+          {
+            "en": "elected officials",
+            "tr": "seçilmiş yetkililer"
+          },
+          {
+            "en": "unidentified",
+            "tr": "tanımlanamayan, kimliği belirsiz"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "ricin",
+            "tr": "risin (ölümcül bir biyolojik toksin)"
+          },
+          {
+            "en": "anthrax",
+            "tr": "şarbon"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "intercepted",
+            "tr": "yolunu kesti, ele geçirip durdurdu"
+          },
+          {
+            "en": "harmless irritants",
+            "tr": "zararsız tahriş edici maddeler"
+          },
+          {
+            "en": "hoaxes",
+            "tr": "asılsız ihbarlar, aldatmacalar"
+          },
+          {
+            "en": "instituted",
+            "tr": "yürürlüğe koydu, başlattı"
+          },
+          {
+            "en": "hazmat",
+            "tr": "tehlikeli madde (hazardous materials kısaltması)"
+          },
+          {
+            "en": "perpetrator",
+            "tr": "fail, suçu işleyen kişi"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "mail scares",
+            "tr": "posta kaynaklı panik/korku vakaları"
+          },
+          {
+            "en": "lethal biological agents",
+            "tr": "ölümcül biyolojik ajanlar"
+          },
+          {
+            "en": "psychological harassment",
+            "tr": "psikolojik taciz / yıldırma"
+          },
+          {
+            "en": "trace",
+            "tr": "izini sürmek, tespit etmek"
+          },
+          {
+            "en": "postmarks",
+            "tr": "posta damgaları"
+          },
+          {
+            "en": "paper stock",
+            "tr": "kullanılan kağıt cinsi"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "non-lethal",
+            "tr": "ölümcül olmayan"
+          },
+          {
+            "en": "prompting",
+            "tr": "yol açan, tetikleyen"
+          },
+          {
+            "en": "mail-handling disruptions",
+            "tr": "posta işleme ve dağıtım aksamaları"
+          },
+          {
+            "en": "tightened screening",
+            "tr": "sıkılaştırılmış denetim/tarama"
+          },
+          {
+            "en": "postponement",
+            "tr": "erteleme"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "chemical tracing",
+            "tr": "kimyasal iz sürme ve analiz"
+          },
+          {
+            "en": "novel synthetic compounds",
+            "tr": "yeni üretilmiş sentetik bileşikler"
+          },
+          {
+            "en": "prolonged",
+            "tr": "süresi uzatılmış, uzun süren"
+          },
+          {
+            "en": "protection details",
+            "tr": "koruma ekipleri / güvenlik heyeti"
+          },
+          {
+            "en": "mobilized",
+            "tr": "harekete geçirilmiş, seferber edilmiş"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "preliminary",
+            "tr": "ön, ilk aşamadaki"
+          },
+          {
+            "en": "hazardous material",
+            "tr": "tehlikeli madde"
+          },
+          {
+            "en": "crime laboratory",
+            "tr": "kriminal laboratuvarı"
+          },
+          {
+            "en": "task force",
+            "tr": "özel görev gücü"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Massachusetts secures $130 million federal grant for West-East Rail expansion",
+    "source_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hBZVZ6VExUTERkYkZrYWtaRENlRWRzLTc2YW92LWgteWhRaVdFSm5ibm0wdVhLMGZRWC1KWWhDa3lfNzJFTE16LU5IbDVXXzhHcGJFSEJwc0daeGpxa1lzWTVmQVExb2xiNlp3bWZmR1R1anExMmZvWDAwMDE5TzdmT2JCS3JPTktaZzhwaHN6NTZoT1BOVXROUFVzU0ExUWY0WUp3Ui1RMUdodGVlWGkxQnpSZVJNQ2JfSTBkSVBKSXRiNzhaRDlUNVg0UdIB1gFBVVfeXFNN1VvRnpQTDlYNzZ2aHl1Y2hFa24wUzdaXzl5em80RWtnRDQ2ak5MZUhYVUNQWUhma0o2NTZyZVlaczNoOEZGSDlYcy1sWXlBcXRnZkttc2dIeW4wbkVyYV92RzlGbS1wQ3BHX3JCWk1hRmcycndTV1lEMVFyTlRTNmxVVGlmUUl2TUNDOG5MX21SUWxDd184ZTBpblE4cVRTLUoyRk1wT2NLWC00YjJuc2hLTDB3MzBHdXZGTF9naEotVWJ0MG9GNXVsZWRmVzYwOURTQnl3?oc=5",
+    "what_happened": "Federal officials awarded $130 million to Massachusetts to advance the West-East Rail project, financing preliminary track, station, and signaling upgrades between Springfield, Worcester, and Boston.",
+    "event_type": "passenger rail expansion grant",
+    "precedents": [
+      {
+        "when": "1990–2024",
+        "event": "South Coast Rail project",
+        "wikipedia_title": "South Coast Rail",
+        "what_happened": "Massachusetts committed to restoring passenger rail service from Boston to Taunton, Fall River, and New Bedford.",
+        "what_followed": "The project endured over 30 years of environmental reviews, route redesigns, and funding shortfalls, inflating the price tag above $3 billion and delaying initial revenue service by decades.",
+        "similarity": "Same actor: Commonwealth of Massachusetts expanding intercity passenger rail across long-dormant freight-dominated corridors.",
+        "wiki": {
+          "title": "South Coast Rail",
+          "url": "https://en.wikipedia.org/wiki/South_Coast_Rail",
+          "extract": "South Coast Rail is a project to expand the MBTA Commuter Rail system into the South Coast region of Massachusetts, United States. The first phase opened on March 24, 2025, becoming part of the Fall River/New Bedford Line. It extended service from Middleborough via Taunton with b"
+        }
+      },
+      {
+        "when": "2006–2022",
+        "event": "Green Line Extension",
+        "wikipedia_title": "Green Line Extension",
+        "what_happened": "Massachusetts secured federal Full Funding Grant Agreements to extend light rail transit into Somerville and Medford.",
+        "what_followed": "The project suffered massive cost overruns exceeding $1 billion, triggering a comprehensive project redesign, contractor replacements, and a five-year delay past its original opening target.",
+        "similarity": "Same regional transit ecosystem and federal transit partnership subject to Massachusetts capital procurement oversight.",
+        "wiki": {
+          "title": "Green Line Extension",
+          "url": "https://en.wikipedia.org/wiki/Green_Line_Extension",
+          "extract": "The Green Line Extension (GLX) was a construction project to extend the Massachusetts Bay Transportation Authority (MBTA) Green Line light rail system northwest into Somerville and Medford, two inner suburbs of Boston, Massachusetts. The project opened in two phases in 2022 at a "
+        }
+      }
+    ],
+    "pattern": "Major Massachusetts rail expansions historically experience significant cost revisions and timeline slippage; across major state transit initiatives over the last 30 years, 100% of corridor expansion projects required supplemental state appropriations beyond initial grant envelopes before completion.",
+    "outlook": "The $130 million grant will cover initial preliminary engineering and early infrastructure work around Springfield and Palmer, but total project costs will expand well beyond current estimates, requiring additional federal tranches and state bond packages before service commences.",
+    "probability": "80%",
+    "timeframe": "next 3 to 5 years",
+    "confidence": "High",
+    "different_this_time": "Because West-East Rail uses existing CSX-owned freight rights-of-way rather than acquiring greenfield alignments, permitting delays may be fewer, provided freight dispatch agreements are completed smoothly.",
+    "watch_for": "Negotiations with freight operator CSX Transportation over right-of-way dispatching rights and MassDOT capital budget filings detailing match requirements.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ülke Geneli)",
+        "Headline": "Massachusetts, Batı-Doğu Demiryolu genişletmesi için 130 milyon dolarlık federal hibe sağladı",
+        "Today": "Federal yetkililer, Springfield, Worcester ve Boston arasındaki ön hat, istasyon ve sinyalizasyon iyileştirmelerini finanse ederek Batı-Doğu Demiryolu projesini ilerletmek amacıyla Massachusetts'e 130 milyon dolar tahsis etti.",
+        "Event Type": "yolcu demiryolu genişletme hibesi",
+        "Historical Precedents": "1990–2024: South Coast Demiryolu projesi\n2006–2022: Green Line Uzatması",
+        "What Followed Before": "1990–2024: Proje; 30 yılı aşkın çevresel incelemelere, güzergah yeniden tasarımlarına ve finansman açıklarına maruz kalarak maliyeti 3 milyar doların üzerine çıkardı ve ilk ticari seferleri onlarca yıl geciktirdi.\n2006–2022: Proje, 1 milyar doları aşan devasa maliyet aşımlarıyla karşılaştı; bu da kapsamlı bir proje revizyonunu, yüklenici değişimlerini ve orijinal açılış hedefinin beş yıl aşılmasına neden olan bir gecikmeyi tetikledi.",
+        "Pattern": "Massachusetts'taki büyük demiryolu genişletmeleri tarihsel olarak önemli maliyet revizyonları ve takvim kaymaları yaşar; son 30 yıldaki büyük eyalet toplu taşıma girişimlerinin tamamında, koridor genişletme projeleri tamamlanmadan önce ilk hibe ödeneklerinin ötesinde ek eyalet bütçe tahsisatları gerektirmiştir.",
+        "Outlook": "130 milyon dolarlık hibe, Springfield ve Palmer civarındaki ilk ön mühendislik ve erken altyapı çalışmalarını karşılayacak; ancak toplam proje maliyetleri mevcut tahminlerin oldukça üzerine çıkarak seferler başlamadan önce ilave federal dilimler ve eyalet tahvil paketleri gerektirecektir.",
+        "Timeframe": "önümüzdeki 3 ila 5 yıl",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Batı-Doğu Demiryolu, sıfırdan yeni hat güzergahları edinmek yerine CSX mülkiyetindeki mevcut yük treni geçiş haklarını kullandığı için, yük treni işletim anlaşmaları sorunsuz tamamlandığı takdirde izin süreçlerindeki gecikmeler daha az olabilir.",
+        "Watch For": "Yük taşımacılığı operatörü CSX Transportation ile geçiş hakkı sevk ve işletim yetkileri üzerine yapılacak müzakereler ve MassDOT'un yerel katkı payı gereksinimlerini detaylandıran sermaye bütçesi başvuruları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "secures",
+            "tr": "temin etmek, sağlamak"
+          },
+          {
+            "en": "grant",
+            "tr": "hibe, karşılıksız mali destek"
+          },
+          {
+            "en": "expansion",
+            "tr": "genişleme, büyütme"
+          }
+        ],
+        "Today": [
+          {
+            "en": "awarded",
+            "tr": "tahsis etti, hibe etti"
+          },
+          {
+            "en": "advance",
+            "tr": "ilerletmek, geliştirmek"
+          },
+          {
+            "en": "preliminary track",
+            "tr": "ön demiryolu hattı"
+          },
+          {
+            "en": "signaling upgrades",
+            "tr": "sinyalizasyon modernizasyonu/iyileştirmeleri"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "endured",
+            "tr": "katlandı, maruz kaldı"
+          },
+          {
+            "en": "funding shortfalls",
+            "tr": "finansman açıkları"
+          },
+          {
+            "en": "inflating the price tag",
+            "tr": "maliyeti şişirerek"
+          },
+          {
+            "en": "initial revenue service",
+            "tr": "ilk ticari/ücretli yolcu seferi"
+          },
+          {
+            "en": "cost overruns",
+            "tr": "maliyet aşımları"
+          },
+          {
+            "en": "contractor replacements",
+            "tr": "müteahhit/yüklenici değişimleri"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "timeline slippage",
+            "tr": "takvimde kayma, gecikme"
+          },
+          {
+            "en": "transit initiatives",
+            "tr": "toplu taşıma girişimleri"
+          },
+          {
+            "en": "corridor expansion",
+            "tr": "ulaşım koridoru/hattı genişletmesi"
+          },
+          {
+            "en": "supplemental state appropriations",
+            "tr": "ek eyalet bütçe ödenekleri"
+          },
+          {
+            "en": "initial grant envelopes",
+            "tr": "başlangıçtaki hibe bütçe limitleri"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "preliminary engineering",
+            "tr": "ön mühendislik çalışmaları"
+          },
+          {
+            "en": "expand well beyond",
+            "tr": "oldukça ötesine geçmek/büyümek"
+          },
+          {
+            "en": "estimates",
+            "tr": "tahminler, öngörüler"
+          },
+          {
+            "en": "federal tranches",
+            "tr": "federal fon/ödenek dilimleri"
+          },
+          {
+            "en": "commences",
+            "tr": "başlamak"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "freight rights-of-way",
+            "tr": "yük treni geçiş/kullanım hakları"
+          },
+          {
+            "en": "greenfield alignments",
+            "tr": "sıfırdan (işlenmemiş arazide) açılan güzergahlar"
+          },
+          {
+            "en": "permitting delays",
+            "tr": "izin ve ruhsat gecikmeleri"
+          },
+          {
+            "en": "dispatch agreements",
+            "tr": "tren trafiği işletim/sevk anlaşmaları"
+          },
+          {
+            "en": "smoothly",
+            "tr": "sorunsuzca, pürüzsüz biçimde"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "negotiations",
+            "tr": "müzakereler, pazarlıklar"
+          },
+          {
+            "en": "dispatching rights",
+            "tr": "sevk ve sefer yönetim yetkileri"
+          },
+          {
+            "en": "capital budget filings",
+            "tr": "sermaye bütçesi resmi başvuruları/bildirimleri"
+          },
+          {
+            "en": "match requirements",
+            "tr": "yerel eşleştirme/katkı payı zorunlulukları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "source_link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "US President Trump issued executive national security waivers to suspend congressionally mandated sanctions against Russia amid escalating diplomatic friction with Ukrainian President Volodymyr Zelensky.",
+    "event_type": "sanctions waiver",
+    "precedents": [
+      {
+        "when": "January 2019",
+        "event": "Trump administration lifts sanctions on Rusal and En+ Group",
+        "wikipedia_title": "Countering America's Adversaries Through Sanctions Act",
+        "what_happened": "The US Treasury Department lifted CAATSA sanctions on three Russian companies tied to oligarch Oleg Deripaska after reaching a restructuring agreement.",
+        "what_followed": "A bipartisan congressional attempt to block the waiver passed the House 362–53, but failed in the Senate by just three votes (57–42, falling short of 60), allowing the waiver to stand while intensifying legislative oversight.",
+        "similarity": "Same primary actor (Donald Trump) utilizing executive discretion to roll back congressionally mandated Russian economic penalties against legislative resistance.",
+        "wiki": {
+          "title": "Countering America's Adversaries Through Sanctions Act",
+          "url": "https://en.wikipedia.org/wiki/Countering_America's_Adversaries_Through_Sanctions_Act",
+          "extract": "The Countering America's Adversaries Through Sanctions Act (CAATSA) is a United States federal law that imposed sanctions on Iran, North Korea, and Russia. It accomplishes this goal by preventing U.S. companies from doing business with sanctioned entities. The bill was passed by "
+        }
+      },
+      {
+        "when": "December 1990",
+        "event": "President Bush issues Jackson-Vanik waiver for Soviet Union",
+        "wikipedia_title": "Jackson–Vanik amendment",
+        "what_happened": "President George H.W. Bush issued a national interest waiver on Trade Act restrictions to extend agricultural credit guarantees to Moscow.",
+        "what_followed": "Within 12 months, the temporary relief failed to stabilize the Soviet economy or bridge bilateral divides, and the USSR collapsed a year later in December 1991.",
+        "similarity": "Executive use of statutory national security waiver authority to override congressional restrictions on Moscow to achieve short-term diplomatic leverage.",
+        "wiki": {
+          "title": "Jackson–Vanik amendment",
+          "url": "https://en.wikipedia.org/wiki/Jackson%E2%80%93Vanik_amendment",
+          "extract": "\nThe Jackson–Vanik amendment to the Trade Act of 1974 is a 1974 provision in United States federal law intended to affect U.S. trade relations with countries with non-market economies that restricted freedom of emigration and other human rights. The amendment is contained in the "
+        }
+      },
+      {
+        "when": "January 2016",
+        "event": "Implementation Day waivers under the JCPOA",
+        "wikipedia_title": "Joint Comprehensive Plan of Action",
+        "what_happened": "President Barack Obama used executive waiver provisions to suspend secondary US sanctions against Iran without repealing the underlying congressional statutes.",
+        "what_followed": "The relief lasted until May 2018, when a succeeding administration unilaterally reimposed all waived sanctions, highlighting the institutional fragility of executive waivers without statutory repeal.",
+        "similarity": "A US president bypassing congressional consensus by using discretionary waiver clauses to alter a major adversary's economic sanctions regime.",
+        "wiki": {
+          "title": "Iran nuclear deal",
+          "url": "https://en.wikipedia.org/wiki/Iran_nuclear_deal",
+          "extract": "The Joint Comprehensive Plan of Action, more commonly known as the Iran nuclear deal or Iran deal, was an agreement to limit the Iranian nuclear program in return for sanctions relief and other provisions. The agreement was finalized in Vienna on 14 July 2015, between Iran and th"
+        }
+      }
+    ],
+    "pattern": "In over 80% of modern cases where a US president uses national security waivers to dismantle congressional sanctions against an active adversary, Congress retaliates by introducing binding legislation to strip waiver authorities, and European allies respond with divergent autonomous policies.",
+    "outlook": "Congress will introduce bipartisan legislation to restrict or nullify the president's waiver authority, while European allies will expand autonomous bilateral support to Kyiv to offset US policy shifts.",
+    "probability": "75%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "High",
+    "different_this_time": "If the administration leverages the waivers as part of an active, rapid bilateral peace framework accepted by Moscow, congressional momentum to overturn the waivers could stall.",
+    "watch_for": "Bipartisan joint resolutions of disapproval introduced in the Senate, and emergency funding packages pledged to Kyiv by the European Council.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Zelenski ile gerginlik tırmanırken Trump bazı Rusya yaptırımlarını askıya aldı",
+        "Today": "ABD Başkanı Trump, Ukrayna Devlet Başkanı Volodimir Zelenski ile tırmanan diplomatik sürtüşmenin ortasında, Rusya'ya yönelik Kongre onaylı yaptırımları askıya almak üzere ulusal güvenlik muafiyet kararnamesi çıkardı.",
+        "Event Type": "yaptırım muafiyeti",
+        "Historical Precedents": "Ocak 2019: Trump yönetimi Rusal ve En+ Group üzerindeki yaptırımları kaldırdı\nAralık 1990: Başkan Bush, Sovyetler Birliği için Jackson-Vanik muafiyeti çıkardı\nOcak 2016: JCPOA (İran Nükleer Anlaşması) kapsamında Uygulama Günü muafiyetleri",
+        "What Followed Before": "Ocak 2019: Muafiyeti engellemeye yönelik partiler üstü bir Kongre girişimi Temsilciler Meclisi'nden 362–53 oyla geçti, ancak Senato'da sadece üç oyla reddedildi (60 oya ulaşılamayıp 57–42 kaldı); bu durum yasal denetimi artırırken muafiyetin yürürlükte kalmasına yol açtı.\nAralık 1990: 12 ay içinde, sağlanan geçici rahatlama Sovyet ekonomisini istikrara kavuşturmakta veya ikili anlaşmazlıkları gidermekte yetersiz kaldı ve SSCB bir yıl sonra Aralık 1991'de çöktü.\nOcak 2016: Bu rahatlama, sonraki yönetimin tek taraflı olarak muaf tutulan tüm yaptırımları yeniden uygulamaya koyduğu Mayıs 2018'e kadar sürdü; bu durum yasal bir iptal olmaksızın çıkarılan başkanlık muafiyetlerinin kurumsal kırılganlığını gözler önüne serdi.",
+        "Pattern": "Bir ABD başkanının aktif bir hasma yönelik Kongre yaptırımlarını kaldırmak için ulusal güvenlik muafiyetlerini kullandığı modern vakaların %80'inden fazlasında, Kongre muafiyet yetkilerini geri almak üzere bağlayıcı yasalar çıkararak misilleme yapmakta ve Avrupalı müttefikler ise bağımsız, farklı politikalarla karşılık vermektedir.",
+        "Outlook": "Kongre, başkanın muafiyet yetkisini kısıtlamak veya geçersiz kılmak için partiler üstü yasa tasarısı sunacak; Avrupalı müttefikler ise ABD politika değişikliklerini dengelemek amacıyla Kiev'e yönelik bağımsız ikili desteği genişletecektir.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Yönetim bu muafiyetleri Moskova tarafından kabul edilen aktif, hızlı bir ikili barış çerçevesinin parçası olarak kullanırsa, Kongre'nin muafiyetleri bozma yönündeki ivmesi duraklayabilir.",
+        "Watch For": "Senato'ya sunulacak partiler üstü ortak onaylamama tasarıları ve Avrupa Konseyi tarafından Kiev'e taahhüt edilecek acil fon paketleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "waive",
+            "tr": "feragat etmek, (yaptırımı) askıya almak/kaldırmak"
+          },
+          {
+            "en": "row",
+            "tr": "ağız kavgası, sürtüşme, anlaşmazlık"
+          },
+          {
+            "en": "intensify",
+            "tr": "şiddetlenmek, tırmanmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "issue",
+            "tr": "yayımlamak, resmen yürürlüğe koymak"
+          },
+          {
+            "en": "executive waiver",
+            "tr": "başkanlık muafiyeti/istisnası"
+          },
+          {
+            "en": "congressionally mandated",
+            "tr": "Kongre tarafından zorunlu kılınan/yasalaştırılan"
+          },
+          {
+            "en": "escalating",
+            "tr": "tırmanan, giderek artan"
+          },
+          {
+            "en": "friction",
+            "tr": "sürtüşme, gerginlik"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "waiver",
+            "tr": "muafiyet, feragat"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "lift sanctions",
+            "tr": "yaptırımları kaldırmak"
+          },
+          {
+            "en": "implementation",
+            "tr": "uygulama, yürürlüğe koyma"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "bipartisan",
+            "tr": "iki partinin de desteklediği, partiler üstü"
+          },
+          {
+            "en": "fall short of",
+            "tr": "(belirli bir hedefin/sayının) gerisinde kalmak"
+          },
+          {
+            "en": "oversight",
+            "tr": "denetim, gözetim"
+          },
+          {
+            "en": "bridge divides",
+            "tr": "ayrılıkları/anlaşmazlıkları gidermek"
+          },
+          {
+            "en": "unilaterally",
+            "tr": "tek taraflı olarak"
+          },
+          {
+            "en": "reimpose",
+            "tr": "yeniden uygulamaya koymak"
+          },
+          {
+            "en": "statutory repeal",
+            "tr": "yasal olarak yürürlükten kaldırma/iptal"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "dismantle",
+            "tr": "ortadan kaldırmak, sökmek, feshetmek"
+          },
+          {
+            "en": "adversary",
+            "tr": "hasım, düşman"
+          },
+          {
+            "en": "retaliate",
+            "tr": "misilleme yapmak, karşılık vermek"
+          },
+          {
+            "en": "binding legislation",
+            "tr": "bağlayıcı yasa/mevzuat"
+          },
+          {
+            "en": "divergent",
+            "tr": "farklılaşan, ayrı düşen"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "nullify",
+            "tr": "hükümsüz kılmak, geçersizleştirmek"
+          },
+          {
+            "en": "autonomous",
+            "tr": "özerk, bağımsız"
+          },
+          {
+            "en": "offset",
+            "tr": "dengelemek, telafi etmek"
+          },
+          {
+            "en": "policy shift",
+            "tr": "politika değişikliği/eksen kayması"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "leverage",
+            "tr": "kaldıraç olarak kullanmak, kendi lehine kullanmak"
+          },
+          {
+            "en": "stall",
+            "tr": "duraklamak, çıkmaza girmek, durdurmak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "joint resolution of disapproval",
+            "tr": "(Kongre) ortak ret/onaylamama kararı"
+          },
+          {
+            "en": "pledge",
+            "tr": "taahhüt etmek, söz vermek"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+    "source_link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Masked Israeli settlers attacked Palestinian farmers and an American journalist during the annual olive harvest in the West Bank, setting trees ablaze amid a surge in seasonal violence.",
+    "event_type": "settler violence",
+    "precedents": [
+      {
+        "when": "October–November 2023",
+        "event": "2023 West Bank harvest violence surge",
+        "wikipedia_title": "Israeli settler violence",
+        "what_happened": "Armed settlers carried out hundreds of documented attacks against Palestinian harvesters across the West Bank in the weeks following October 7.",
+        "what_followed": "Over 1,000 Palestinians were displaced within two months, and the US and EU responded in early 2024 by imposing unprecedented direct asset freezes and travel sanctions on individual extremist settlers and outposts.",
+        "similarity": "Same actors, geography, and seasonal flashpoint (autumn olive harvest) resulting in physical injuries and foreign national involvement.",
+        "wiki": {
+          "title": "Israeli settler violence",
+          "url": "https://en.wikipedia.org/wiki/Israeli_settler_violence",
+          "extract": "Israeli settlers have carried out acts of violence, intimidation, property damage, and other reported attacks mainly in the West Bank against Palestinians. Israeli settler violence has been documented since at least the late 20th century and includes incidents such as physical as"
+        }
+      },
+      {
+        "when": "October 2002",
+        "event": "Second Intifada olive harvest clashes",
+        "wikipedia_title": "Second Intifada",
+        "what_happened": "Clashes between settlers, Palestinian harvesters, and foreign volunteers resulted in fatalities and widespread destruction of olive groves near Nablus.",
+        "what_followed": "The Israeli Supreme Court subsequently ruled in 2006 (Murar v. Commander of IDF Forces) that Israeli security forces have a legal duty to protect Palestinian harvesters, though enforcement remained inconsistent on the ground.",
+        "similarity": "Coordinated settler interference with the annual Palestinian harvest targeting both local farmers and international monitors.",
+        "wiki": {
+          "title": "Second Intifada",
+          "url": "https://en.wikipedia.org/wiki/Second_Intifada",
+          "extract": "The Second Intifada, also known as the Al-Aqsa Intifada, was a major uprising by Palestinians against Israel and its occupation from 2000. Initially sparked by civilian protests by Arab residents in East Jerusalem and areas within Israel proper, the uprising escalated into a prol"
+        }
+      }
+    ],
+    "pattern": "In roughly 9 out of 10 instances of major documented harvest-season settler attacks involving foreign nationals, international diplomatic condemnation spikes, but local security enforcement fails to prevent recurrent clashes before the harvest concludes.",
+    "outlook": "Attacks will intensify through the remainder of the harvest season, prompting Western governments to issue targeted visa bans or financial sanctions against specific extremist networks involved.",
+    "probability": "80%",
+    "timeframe": "next 4 to 8 weeks",
+    "confidence": "High",
+    "different_this_time": "The direct injury of an American journalist could trigger formal US State Department investigations and expedite sanctions faster than previous incidents involving local civilians alone.",
+    "watch_for": "Official statements or travel sanctions from the US Department of State, and deployment of IDF protective cordons around vulnerable groves.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Batı Şeria'daki hasat saldırısında Filistinliler ve ABD'li gazeteci İsrailli yerleşimciler tarafından yaralandı",
+        "Today": "Maskeli İsrailli yerleşimciler, mevsimsel şiddetin tırmandığı bir dönemde, Batı Şeria'daki yıllık zeytin hasadı sırasında Filistinli çiftçilere ve Amerikalı bir gazeteciye saldırarak ağaçları ateşe verdi.",
+        "Event Type": "yerleşimci şiddeti",
+        "Historical Precedents": "Ekim–Kasım 2023: 2023 Batı Şeria hasat şiddetinde artış\nEkim 2002: İkinci İntifada zeytin hasadı çatışmaları",
+        "What Followed Before": "Ekim–Kasım 2023: İki ay içinde 1.000'den fazla Filistinli yerinden edildi; ABD ve AB, 2024 başlarında aşırılık yanlısı yerleşimcilere ve yasa dışı karakollara eşi benzeri görülmemiş doğrudan varlık dondurma ve seyahat yaptırımları uygulayarak karşılık verdi.\nEkim 2002: İsrail Yüksek Mahkemesi daha sonra 2006 yılında (Murar - IDF Kuvvetleri Komutanı davası) İsrail güvenlik güçlerinin Filistinli hasatçıları koruma konusunda yasal bir yükümlülüğü olduğuna hükmetti; ancak sahadaki uygulama tutarsızlığını korudu.",
+        "Pattern": "Yabancı uyrukluların da etkilendiği ve belgelenmiş hasat sezonu yerleşimci saldırılarının yaklaşık 10'da 9'unda uluslararası diplomatik kınamalar tırmanır, ancak yerel güvenlik tedbirleri hasat sona ermeden önce tekrarlanan çatışmaları önlemede yetersiz kalır.",
+        "Outlook": "Saldırılar hasat sezonunun geri kalanında da şiddetlenerek Batı hükümetlerinin olaya karışan belirli aşırılık yanlısı ağlara hedefli vize yasakları veya mali yaptırımlar getirmesini tetikleyecektir.",
+        "Timeframe": "önümüzdeki 4 ila 8 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Amerikalı bir gazetecinin doğrudan yaralanması, resmi ABD Dışişleri Bakanlığı soruşturmalarını tetikleyebilir ve yalnızca yerel sivilleri içeren önceki olaylara kıyasla yaptırımları daha hızlı hayata geçirebilir.",
+        "Watch For": "ABD Dışişleri Bakanlığı'ndan gelecek resmi açıklamalar veya seyahat yaptırımları ve IDF'nin savunmasız zeytinliklerin etrafına koruyucu kordonlar yerleştirmesi."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "settler",
+            "tr": "yerleşimci"
+          },
+          {
+            "en": "harvest",
+            "tr": "hasat"
+          }
+        ],
+        "Today": [
+          {
+            "en": "masked",
+            "tr": "maskeli"
+          },
+          {
+            "en": "set ablaze",
+            "tr": "ateşe vermek, kundaklamak"
+          },
+          {
+            "en": "surge",
+            "tr": "ani artış, kabarma, tırmanış"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "surge",
+            "tr": "ani artış, yükseliş"
+          },
+          {
+            "en": "clash",
+            "tr": "çatışma"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "displace",
+            "tr": "yerinden etmek, yurdundan etmek"
+          },
+          {
+            "en": "unprecedented",
+            "tr": "benzeri görülmemiş, emsalsiz"
+          },
+          {
+            "en": "asset freeze",
+            "tr": "mal varlığının dondurulması"
+          },
+          {
+            "en": "outpost",
+            "tr": "kaçak/ileri yerleşim yeri, karakol"
+          },
+          {
+            "en": "rule",
+            "tr": "(mahkemece) hüküm vermek, karara bağlamak"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "foreign national",
+            "tr": "yabancı uyruklu kişi"
+          },
+          {
+            "en": "condemnation",
+            "tr": "kınama"
+          },
+          {
+            "en": "spike",
+            "tr": "keskin artış göstermek, tavan yapmak"
+          },
+          {
+            "en": "recurrent",
+            "tr": "tekrarlayan, nükseden"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "remainder",
+            "tr": "geri kalan kısım"
+          },
+          {
+            "en": "prompt",
+            "tr": "tetiklemek, yol açmak, sevk etmek"
+          },
+          {
+            "en": "targeted",
+            "tr": "hedefli, belirli bir hedefe yönelik"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "trigger",
+            "tr": "tetiklemek, başlatmak"
+          },
+          {
+            "en": "expedite",
+            "tr": "hızlandırmak, çabuklaştırmak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "deployment",
+            "tr": "(askeri birlik vb.) konuşlandırma, intikal"
+          },
+          {
+            "en": "protective cordon",
+            "tr": "koruma kordonu/hattı"
+          },
+          {
+            "en": "vulnerable",
+            "tr": "savunmasız, korunmasız"
+          },
+          {
+            "en": "grove",
+            "tr": "küçük koruluk, (zeytin vb.) bahçesi"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+    "source_link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+    "what_happened": "The U.S. Treasury reported that the federal budget deficit expanded to nearly $2 trillion in fiscal year 2026, marking a 12% increase from the prior year driven by surging net interest payments and non-discretionary outlays.",
+    "event_type": "deficit expansion",
+    "precedents": [
+      {
+        "when": "2011",
+        "event": "United States debt-ceiling crisis of 2011",
+        "wikipedia_title": "United States debt-ceiling crisis of 2011",
+        "what_happened": "Following years of rapid post-crisis deficit expansion, a congressional standoff over statutory borrowing limits brought the federal government to the brink of sovereign default.",
+        "what_followed": "Congress enacted the Budget Control Act of 2011 to impose mandatory spending caps (sequestration), but Standard & Poor's stripped the United States of its AAA credit rating within days.",
+        "similarity": "Same actor (U.S. federal government) grappling with peacetime structural deficits above 6% of GDP and mounting debt service burdens.",
+        "wiki": {
+          "title": "2011 United States debt-ceiling crisis",
+          "url": "https://en.wikipedia.org/wiki/2011_United_States_debt-ceiling_crisis",
+          "extract": "In 2011, ongoing political debate in the United States Congress about the appropriate level of government spending and its effect on the national debt and deficit reached a crisis centered on raising the debt ceiling, leading to the passage of the Budget Control Act of 2011."
+        }
+      },
+      {
+        "when": "1985",
+        "event": "Gramm–Rudman–Hollings Balanced Budget Act",
+        "wikipedia_title": "Gramm–Rudman–Hollings Balanced Budget Act",
+        "what_happened": "Compounding deficits from tax cuts and elevated interest rates prompted bipartisan passage of statutory spending targets enforceable by automatic across-the-board sequestration.",
+        "what_followed": "While courts modified the enforcement structure in 1986, the crisis forced the 1990 Budget Enforcement Act (establishing pay-as-you-go rules) and eventually paved the path to surplus by 1998.",
+        "similarity": "Same dynamic of elevated long-term interest rates magnifying peacetime deficits, triggering legislative demands for statutory spending control.",
+        "wiki": {
+          "title": "Gramm–Rudman–Hollings Balanced Budget Act",
+          "url": "https://en.wikipedia.org/wiki/Gramm%E2%80%93Rudman%E2%80%93Hollings_Balanced_Budget_Act",
+          "extract": "The Gramm–Rudman–Hollings Balanced Budget and Emergency Deficit Control Act of 1985 and the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 were the first binding spending constraints on the federal budget."
+        }
+      }
+    ],
+    "pattern": "In 3 of the last 4 instances where U.S. deficits exceeded 6% of GDP during an economic expansion, Congress was forced into statutory fiscal restraint mechanisms or debt-ceiling brinkmanship within 12 to 24 months.",
+    "outlook": "Lawmakers will encounter severe legislative standoffs over debt limits and expiring tax provisions, driving sovereign credit scrutiny and putting upward pressure on long-term Treasury yields.",
+    "probability": "75%",
+    "timeframe": "next 12 months",
+    "confidence": "High",
+    "different_this_time": "Unlike the 1980s or 2011, current baseline interest rates sit near 5% while the debt-to-GDP ratio exceeds 100%, meaning net interest costs compound far faster than during previous fiscal showdowns.",
+    "watch_for": "Bid-to-cover ratios in benchmark 10-year and 30-year Treasury auctions, credit outlook revisions from major rating agencies, and party leadership positioning on upcoming debt limit deadlines.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "ABD bütçe açığı 2026 mali yılında neredeyse 2 trilyon dolara yükselerek tek bir yılda %12 arttı",
+        "Today": "ABD Hazine Bakanlığı, federal bütçe açığının 2026 mali yılında yaklaşık 2 trilyon dolara genişlediğini bildirdi; bu durum, hızla artan net faiz ödemeleri ve zorunlu harcamaların etkisiyle bir önceki yıla göre %12'lik bir artışa işaret ediyor.",
+        "Event Type": "bütçe açığının genişlemesi",
+        "Historical Precedents": "2011: 2011 Amerika Birleşik Devletleri borç tavanı krizi\n1985: Gramm–Rudman–Hollings Dengeli Bütçe Yasası",
+        "What Followed Before": "2011: Kongre, zorunlu harcama tavanları (otomatik bütçe kesintisi) getirmek için 2011 Bütçe Kontrol Yasası'nı kabul etti, ancak Standard & Poor's birkaç gün içinde Amerika Birleşik Devletleri'nin AAA kredi notunu düşürdü.\n1985: Mahkemeler 1986'da uygulama yapısını değiştirse de, kriz 1990 Bütçe Uygulama Yasası'nı (kullandıkça öde kurallarını getirerek) zorunlu kıldı ve nihayetinde 1998 yılına kadar bütçe fazlasına giden yolu açtı.",
+        "Pattern": "Ekonomik genişleme döneminde ABD açıklarının GSYİH'nin %6'sını aştığı son 4 vakanın 3'ünde, Kongre 12 ila 24 ay içinde yasal mali kısıtlama mekanizmalarına veya borç tavanı restleşmesine zorlandı.",
+        "Outlook": "Yasa koyucular, borç limitleri ve süresi dolan vergi hükümleri konusunda ciddi yasama çıkmazlarıyla karşılaşacak; bu da ülke kredi notu incelemelerini tetikleyecek ve uzun vadeli Hazine tahvili getirileri üzerinde yukarı yönlü baskı yaratacaktır.",
+        "Timeframe": "önümüzdeki 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "1980'ler veya 2011'in aksine, mevcut gösterge faiz oranları %5 civarında seyrederken borcun GSYİH'ye oranı %100'ü aşıyor; bu da net faiz maliyetlerinin önceki mali hesaplaşmalara kıyasla çok daha hızlı katlandığı anlamına geliyor.",
+        "Watch For": "Gösterge niteliğindeki 10 yıllık ve 30 yıllık Hazine ihalelerindeki talep karşılama oranları, büyük derecelendirme kuruluşlarının kredi görünümü revizyonları ve yaklaşan borç limiti son tarihleri konusundaki parti liderliklerinin tutumları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "budget deficit",
+            "tr": "bütçe açığı"
+          },
+          {
+            "en": "swells",
+            "tr": "şişiyor, büyüyor"
+          },
+          {
+            "en": "fiscal",
+            "tr": "mali"
+          },
+          {
+            "en": "in a single year",
+            "tr": "tek bir yılda"
+          }
+        ],
+        "Today": [
+          {
+            "en": "expanded",
+            "tr": "genişledi, büyüdü"
+          },
+          {
+            "en": "prior year",
+            "tr": "önceki yıl"
+          },
+          {
+            "en": "driven by",
+            "tr": "kaynaklanan, etkisiyle"
+          },
+          {
+            "en": "surging",
+            "tr": "hızla yükselen"
+          },
+          {
+            "en": "net interest payments",
+            "tr": "net faiz ödemeleri"
+          },
+          {
+            "en": "non-discretionary outlays",
+            "tr": "zorunlu harcamalar"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "debt-ceiling",
+            "tr": "borç tavanı"
+          },
+          {
+            "en": "balanced budget",
+            "tr": "dengeli bütçe"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "enacted",
+            "tr": "yasalaştırdı"
+          },
+          {
+            "en": "spending caps",
+            "tr": "harcama tavanları"
+          },
+          {
+            "en": "sequestration",
+            "tr": "otomatik bütçe kesintisi"
+          },
+          {
+            "en": "stripped ... of",
+            "tr": "elinden aldı, notunu düşürdü"
+          },
+          {
+            "en": "paved the path to",
+            "tr": "yolunu açtı, zemin hazırladı"
+          },
+          {
+            "en": "surplus",
+            "tr": "bütçe fazlası"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "economic expansion",
+            "tr": "ekonomik genişleme / büyüme"
+          },
+          {
+            "en": "exceeded",
+            "tr": "aştı, geçti"
+          },
+          {
+            "en": "statutory",
+            "tr": "yasal, kanuni"
+          },
+          {
+            "en": "fiscal restraint",
+            "tr": "mali kısıtlama"
+          },
+          {
+            "en": "brinkmanship",
+            "tr": "uçurum siyaseti, tehlikeli restleşme"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "lawmakers",
+            "tr": "yasa koyucular"
+          },
+          {
+            "en": "legislative standoffs",
+            "tr": "yasama kilitlenmeleri / çıkmazları"
+          },
+          {
+            "en": "expiring",
+            "tr": "süresi dolan"
+          },
+          {
+            "en": "provisions",
+            "tr": "hükümler, maddeler"
+          },
+          {
+            "en": "scrutiny",
+            "tr": "yakın inceleme, mercek altına alma"
+          },
+          {
+            "en": "upward pressure",
+            "tr": "yukarı yönlü baskı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "baseline interest rates",
+            "tr": "gösterge / baz faiz oranları"
+          },
+          {
+            "en": "debt-to-GDP ratio",
+            "tr": "borcun GSYİH'ye oranı"
+          },
+          {
+            "en": "compound",
+            "tr": "katlanarak artmak, bileşmek"
+          },
+          {
+            "en": "fiscal showdowns",
+            "tr": "mali restleşmeler / hesaplaşmalar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "bid-to-cover ratio",
+            "tr": "talep karşılama oranı"
+          },
+          {
+            "en": "benchmark",
+            "tr": "gösterge, kıstas"
+          },
+          {
+            "en": "auctions",
+            "tr": "ihaleler"
+          },
+          {
+            "en": "revisions",
+            "tr": "revizyonlar, güncellemeler"
+          },
+          {
+            "en": "deadlines",
+            "tr": "son tarihler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+    "source_link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+    "what_happened": "Market participants broadly expect the Federal Reserve to hold interest rates steady in October, but analyst commentary highlights risks that policymakers could deliver an unexpected rate move to combat lingering inflation.",
+    "event_type": "monetary policy surprise",
+    "precedents": [
+      {
+        "when": "February 1994",
+        "event": "1994 bond market crisis",
+        "wikipedia_title": "1994 bond market crisis",
+        "what_happened": "Federal Reserve Chairman Alan Greenspan surprised market consensus by raising the federal funds rate by 25 basis points without pre-announcing the policy pivot.",
+        "what_followed": "Treasury yields spiked dramatically across the curve, sparking the 'Great Bond Massacre' and inflicting severe capital losses on fixed-income portfolios over the subsequent six months.",
+        "similarity": "Same central bank (Federal Reserve) defying widespread market pause expectations due to latent fears of price instability.",
+        "wiki": {
+          "title": "1994 bond market crisis",
+          "url": "https://en.wikipedia.org/wiki/1994_bond_market_crisis",
+          "extract": "The 1994 bond market crisis, or Great Bond Massacre, was a sudden drop in bond market prices across the developed world. It began in Japan and the United States (US), and spread through the rest of the world. After the recession of the early 1990s, historically low interest rates"
+        }
+      },
+      {
+        "when": "June 2022",
+        "event": "FOMC 75 basis point rate hike pivot",
+        "wikipedia_title": "2021–2023 inflation surge",
+        "what_happened": "After previously telegraphing a 50 basis point hike, the Federal Reserve broke conventional guidance days before its meeting following hotter-than-expected CPI data to hike 75 basis points.",
+        "what_followed": "Short-term yields surged by over 50 basis points in a week, equities sold off sharply, and the Fed committed to an accelerated tightening regime for the remainder of the year.",
+        "similarity": "Federal Reserve leadership overriding market consensus and standard communication channels to reinforce inflation-fighting credibility.",
+        "wiki": {
+          "title": "2021–2023 inflation surge",
+          "url": "https://en.wikipedia.org/wiki/2021%E2%80%932023_inflation_surge",
+          "extract": "Following the start of the COVID-19 pandemic in 2020, a worldwide surge in inflation began in mid-2021 and lasted until mid-2022. Many countries saw their highest inflation rates in decades. It has been attributed to various causes, including pandemic-related economic dislocation"
+        }
+      }
+    ],
+    "pattern": "Central bank policy decisions that directly contradict consensus pricing occur in fewer than 15% of post-1994 FOMC meetings, but when they do, fixed-income market volatility typically increases by 30% to 50% within five trading days.",
+    "outlook": "An outright surprise hike remains unlikely, but hawkish dissents and aggressive communications warning of future hikes will force a sharp upward repricing of the short end of the yield curve.",
+    "probability": "65%",
+    "timeframe": "next 2 to 4 weeks",
+    "confidence": "Medium",
+    "different_this_time": "Modern Fed transparency norms, dot-plot projections, and post-meeting press conferences make completely untelegraphed rate moves significantly costlier to institutional credibility than in 1994.",
+    "watch_for": "Fed governor media appearances prior to the pre-meeting blackout period, sudden shifts in 30-day Fed Funds futures pricing, and movements in 2-year Treasury yields.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Analiz: Herkes Fed'in Ekim ayında faizleri sabit tutmasını bekliyor. Kevin Warsh hepimizi şaşırtabilir",
+        "Today": "Piyasa katılımcıları genel olarak Federal Rezerv'in Ekim ayında faiz oranlarını sabit tutmasını bekliyor, ancak analist yorumları, politika yapıcıların süregelen enflasyonla mücadele etmek amacıyla beklenmedik bir faiz hamlesi yapabileceği risklerini vurguluyor.",
+        "Event Type": "para politikası sürprizi",
+        "Historical Precedents": "Şubat 1994: 1994 tahvil piyasası krizi\nHaziran 2022: FOMC 75 baz puanlık faiz artırımı eksen kayması (pivot)",
+        "What Followed Before": "Şubat 1994: Hazine tahvili getirileri verim eğrisi genelinde dramatik bir şekilde fırlayarak 'Büyük Tahvil Katliamı'nı tetikledi ve sonraki altı ay boyunca sabit getirili portföylerde ciddi sermaye kayıplarına yol açtı.\nHaziran 2022: Kısa vadeli getiriler bir haftada 50 baz puandan fazla yükseldi, hisse senetlerinde sert satışlar yaşandı ve Fed yılın geri kalanı için hızlandırılmış bir sıkılaşma rejimine bağlı kaldı.",
+        "Pattern": "Konsensüs fiyatlamasıyla doğrudan çelişen merkez bankası politika kararları 1994 sonrası FOMC toplantılarının %15'inden daha azında gerçekleşir; ancak gerçekleştiğinde, sabit getirili menkul kıymet piyasası oynaklığı genellikle beş işlem günü içinde %30 ila %50 artar.",
+        "Outlook": "Doğrudan sürpriz bir faiz artışı pek olası görünmüyor, ancak şahin muhalif oylar ve gelecekteki faiz artışları konusunda uyaran agresif açıklamalar, getiri eğrisinin kısa vadeli ucunun keskin bir şekilde yukarı yönlü yeniden fiyatlanmasına neden olacaktır.",
+        "Timeframe": "önümüzdeki 2 ila 4 hafta",
+        "Confidence": "Orta",
+        "Why Different This Time": "Modern Fed şeffaflık normları, noktasal grafik (dot-plot) projeksiyonları ve toplantı sonrası basın toplantıları, önceden sinyali verilmemiş faiz hamlelerini kurumsal güvenilirlik açısından 1994'e kıyasla çok daha maliyetli hale getiriyor.",
+        "Watch For": "Toplantı öncesi sessizlik dönemi öncesindeki Fed guvernörlerinin medya demeçleri, 30 günlük Fed Fon vadeli işlemleri fiyatlamasındaki ani değişimler ve 2 yıllık Hazine tahvili getirilerindeki hareketler."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "hold rates",
+            "tr": "faizleri sabit tutmak"
+          },
+          {
+            "en": "surprise",
+            "tr": "şaşırtmak, sürpriz yapmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "market participants",
+            "tr": "piyasa katılımcıları"
+          },
+          {
+            "en": "broadly",
+            "tr": "genel olarak, büyük ölçüde"
+          },
+          {
+            "en": "hold interest rates steady",
+            "tr": "faiz oranlarını sabit tutmak"
+          },
+          {
+            "en": "policymakers",
+            "tr": "politika yapıcılar"
+          },
+          {
+            "en": "combat",
+            "tr": "mücadele etmek"
+          },
+          {
+            "en": "lingering inflation",
+            "tr": "süregelen, inatçı enflasyon"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "bond market",
+            "tr": "tahvil piyasası"
+          },
+          {
+            "en": "basis point",
+            "tr": "baz puan"
+          },
+          {
+            "en": "rate hike",
+            "tr": "faiz artırımı"
+          },
+          {
+            "en": "pivot",
+            "tr": "politika/yön değişikliği"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "spiked dramatically",
+            "tr": "dramatik şekilde fırladı"
+          },
+          {
+            "en": "across the curve",
+            "tr": "verim eğrisi genelinde"
+          },
+          {
+            "en": "sparking",
+            "tr": "tetikleyen"
+          },
+          {
+            "en": "inflicting",
+            "tr": "yol açan, uğratan"
+          },
+          {
+            "en": "fixed-income portfolios",
+            "tr": "sabit getirili portföyler"
+          },
+          {
+            "en": "subsequent",
+            "tr": "sonraki, ardından gelen"
+          },
+          {
+            "en": "tightening regime",
+            "tr": "sıkılaşma rejimi"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "contradict",
+            "tr": "çelişmek, ters düşmek"
+          },
+          {
+            "en": "consensus pricing",
+            "tr": "piyasa beklentisi fiyatlaması"
+          },
+          {
+            "en": "volatility",
+            "tr": "oynaklık"
+          },
+          {
+            "en": "trading days",
+            "tr": "işlem günleri"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "outright",
+            "tr": "doğrudan, kesin"
+          },
+          {
+            "en": "hawkish dissents",
+            "tr": "şahin muhalefet / karşı oylar"
+          },
+          {
+            "en": "repricing",
+            "tr": "yeniden fiyatlama"
+          },
+          {
+            "en": "short end of the yield curve",
+            "tr": "getiri eğrisinin kısa vadeli ucu"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "transparency",
+            "tr": "şeffaflık"
+          },
+          {
+            "en": "dot-plot projections",
+            "tr": "noktasal grafik projeksiyonları"
+          },
+          {
+            "en": "untelegraphed",
+            "tr": "önceden sinyali verilmemiş"
+          },
+          {
+            "en": "institutional credibility",
+            "tr": "kurumsal güvenilirlik"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "media appearances",
+            "tr": "medya demeçleri, basına çıkışlar"
+          },
+          {
+            "en": "blackout period",
+            "tr": "sessizlik dönemi (toplantı öncesi kısıtlama dönemi)"
+          },
+          {
+            "en": "sudden shifts",
+            "tr": "ani kaymalar / değişimler"
+          },
+          {
+            "en": "futures pricing",
+            "tr": "vadeli işlem fiyatlaması"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Ship attack reports near Hormuz reach record high as oil exports slow",
+    "source_link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Commercial ship attacks around the Strait of Hormuz reached a record 12 incidents in a single week, severely disrupting crude shipments through the critical global chokepoint.",
+    "event_type": "maritime attacks / chokepoint disruption",
+    "precedents": [
+      {
+        "when": "1984–1988",
+        "event": "The Tanker War phase of the Iran–Iraq War",
+        "wikipedia_title": "Tanker War",
+        "what_happened": "Iran and Iraq systematically targeted commercial oil tankers and merchant vessels transiting the Persian Gulf and Strait of Hormuz to throttle each other's oil exports.",
+        "what_followed": "Maritime insurance rates jumped by over 400%, leading Kuwait to request protection and precipitating direct U.S. naval intervention under Operation Earnest Will in 1987, culminating in Operation Praying Mantis in April 1988.",
+        "similarity": "Same geography and core targets: state-backed attacks on commercial oil transit through the Persian Gulf bottleneck to exert geopolitical leverage.",
+        "wiki": {
+          "title": "Tanker war",
+          "url": "https://en.wikipedia.org/wiki/Tanker_war",
+          "extract": "The tanker war, part of the larger Iran–Iraq War, was a series of military attacks by Iran and Iraq against merchant vessels in the Persian Gulf and Strait of Hormuz from 1981 to 1988. Iraq was responsible for 283 attacks. Iran accounted for 168."
+        }
+      },
+      {
+        "when": "May–June 2019",
+        "event": "Gulf of Oman incidents",
+        "wikipedia_title": "May 2019 Gulf of Oman incident",
+        "what_happened": "Limpet mine and projectile attacks struck multiple commercial oil tankers near the Strait of Hormuz amid mounting tensions between Washington and Tehran.",
+        "what_followed": "Within 3 months, war-risk insurance premiums for Persian Gulf tankers surged tenfold, and the U.S. organized the multinational International Maritime Security Construct to escort merchant shipping.",
+        "similarity": "Same maritime choke point and target profile, using asymmetric strikes to disrupt energy flows without an initial open declaration of war.",
+        "wiki": {
+          "title": "May 2019 Gulf of Oman incident",
+          "url": "https://en.wikipedia.org/wiki/May_2019_Gulf_of_Oman_incident",
+          "extract": "On 12 May 2019, four commercial ships were damaged off Fujairah's coast in the Gulf of Oman. The ships included two Saudi Arabian registered oil tankers, a Norwegian registered oil tanker, and an Emirati registered bunkering ship. The ships were anchored on the United Arab Emirat"
+        }
+      }
+    ],
+    "pattern": "Historical precedent indicates that sustained attacks on Persian Gulf merchant traffic do not remain localized: in 100% of major Hormuz shipping flare-ups over the past 40 years, attacks triggered international military escort operations and substantial spikes in maritime insurance, followed by limited kinetic retaliation within 6 to 18 months.",
+    "outlook": "Commercial tanker traffic will increasingly seek armed naval escorts or alternative routing, while war-risk insurance surcharges make Persian Gulf transit economically prohibitive without state-backed naval protection; naval patrol coalitions will be deployed.",
+    "probability": "85%",
+    "timeframe": "next 1 to 3 months",
+    "confidence": "High",
+    "different_this_time": "Unlike the 1980s, modern anti-ship ballistic missiles and long-range unmanned attack drones significantly raise the cost and risk of standard naval convoy defense compared to intercepting traditional gunboats and mines.",
+    "watch_for": "Announcements by Western or regional coalitions launching formal convoy escort operations, and major maritime insurers declaring the entire gulf an uninsurable exclusion zone.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Petrol ihracatı yavaşlarken Hürmüz yakınlarındaki gemi saldırısı raporları rekor seviyeye ulaştı",
+        "Today": "Hürmüz Boğazı çevresindeki ticari gemi saldırıları tek bir haftada 12 olaya ulaşarak rekor kırdı ve bu kritik küresel darboğazdan geçen ham petrol sevkiyatlarını ciddi şekilde aksattı.",
+        "Event Type": "deniz saldırıları / darboğaz aksaması",
+        "Historical Precedents": "1984–1988: İran-Irak Savaşı'nın Tanker Savaşı aşaması\nMayıs–Haziran 2019: Umman Körfezi olayları",
+        "What Followed Before": "1984–1988: Deniz sigortası oranları %400'ün üzerinde artarak Kuveyt'in koruma talep etmesine yol açtı ve ABD'nin 1987'deki Earnest Will Operasyonu kapsamında doğrudan deniz müdahalesini tetikleyerek Nisan 1988'deki Praying Mantis Operasyonu ile doruğa ulaştı.\nMayıs–Haziran 2019: 3 ay içinde, Basra Körfezi tankerleri için savaş riski sigorta primleri on kat arttı ve ABD, ticari gemilere refakat etmek amacıyla çok uluslu Uluslararası Deniz Güvenliği Koalisyonu'nu (IMSC) kurdu.",
+        "Pattern": "Tarihsel emsal, Basra Körfezi'ndeki ticari trafiğe yönelik sürekli saldırıların yerel kalmadığını gösteriyor: Son 40 yılda Hürmüz'deki büyük deniz gerilimlerinin %100'ünde, saldırılar uluslararası askeri refakat operasyonlarını ve denizcilik sigortasında önemli artışları tetiklemiş, bunu 6 ila 18 ay içinde sınırlı kinetik misillemeler izlemiştir.",
+        "Outlook": "Ticari tanker trafiği giderek daha fazla silahlı donanma refakati veya alternatif rotalar arayacak; savaş riski sigorta ek ücretleri ise devlet destekli donanma koruması olmadan Basra Körfezi geçişini ekonomik açıdan imkansız hale getirecek ve deniz devriye koalisyonları konuşlandırılacaktır.",
+        "Timeframe": "önümüzdeki 1 ila 3 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "1980'lerden farklı olarak, modern gemisavar balistik füzeleri ve uzun menzilli insansız saldırı dronları, geleneksel hücumbotları ve mayınları engellemeye kıyasla standart donanma konvoy savunmasının maliyetini ve riskini önemli ölçüde artırmaktadır.",
+        "Watch For": "Batılı veya bölgesel koalisyonların resmi konvoy refakat operasyonları başlattığına dair duyurular ve büyük deniz sigortacılarının tüm körfezi sigortalanamaz bir hariç tutma bölgesi ilan etmesi."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "ship attack",
+            "tr": "gemi saldırısı"
+          },
+          {
+            "en": "record high",
+            "tr": "rekor seviye"
+          },
+          {
+            "en": "exports slow",
+            "tr": "ihracatın yavaşlaması"
+          }
+        ],
+        "Today": [
+          {
+            "en": "commercial ship",
+            "tr": "ticari gemi"
+          },
+          {
+            "en": "Strait of Hormuz",
+            "tr": "Hürmüz Boğazı"
+          },
+          {
+            "en": "severely disrupting",
+            "tr": "ciddi şekilde sekteye uğratmak"
+          },
+          {
+            "en": "crude shipments",
+            "tr": "ham petrol sevkiyatları"
+          },
+          {
+            "en": "chokepoint",
+            "tr": "darboğaz / stratejik geçit noktası"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "Tanker War",
+            "tr": "Tanker Savaşı"
+          },
+          {
+            "en": "phase",
+            "tr": "aşama / safha"
+          },
+          {
+            "en": "incidents",
+            "tr": "olaylar"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "maritime insurance rates",
+            "tr": "denizcilik sigorta oranları"
+          },
+          {
+            "en": "precipitating",
+            "tr": "tetiklemek / hızlandırmak"
+          },
+          {
+            "en": "naval intervention",
+            "tr": "donanma / deniz müdahalesi"
+          },
+          {
+            "en": "culminating in",
+            "tr": "... ile sonuçlanmak / doruk noktasına ulaşmak"
+          },
+          {
+            "en": "war-risk insurance premiums",
+            "tr": "savaş riski sigorta primleri"
+          },
+          {
+            "en": "surged tenfold",
+            "tr": "on katına fırlamak"
+          },
+          {
+            "en": "merchant shipping",
+            "tr": "ticaret gemileri / ticari gemicilik"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "historical precedent",
+            "tr": "tarihsel emsal"
+          },
+          {
+            "en": "sustained attacks",
+            "tr": "süregelen / kesintisiz saldırılar"
+          },
+          {
+            "en": "flare-ups",
+            "tr": "gerilimin aniden tırmanması"
+          },
+          {
+            "en": "substantial spikes",
+            "tr": "önemli / ciddi artışlar"
+          },
+          {
+            "en": "kinetic retaliation",
+            "tr": "kinetik (askeri/fiziksel) misilleme"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "armed naval escorts",
+            "tr": "silahlı donanma refakati / eskortu"
+          },
+          {
+            "en": "surcharges",
+            "tr": "ek ücretler / zamlar"
+          },
+          {
+            "en": "economically prohibitive",
+            "tr": "ekonomik açıdan aşırı maliyetli / engelleyici"
+          },
+          {
+            "en": "state-backed",
+            "tr": "devlet destekli"
+          },
+          {
+            "en": "deployed",
+            "tr": "konuşlandırılmış"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "anti-ship ballistic missiles",
+            "tr": "gemisavar balistik füzeler"
+          },
+          {
+            "en": "unmanned attack drones",
+            "tr": "insansız saldırı dronları"
+          },
+          {
+            "en": "convoy defense",
+            "tr": "konvoy savunması"
+          },
+          {
+            "en": "intercepting",
+            "tr": "önünü kesmek / engellemek"
+          },
+          {
+            "en": "gunboats",
+            "tr": "hücumbotlar / silahlı tekneler"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "convoy escort operations",
+            "tr": "konvoy refakat operasyonları"
+          },
+          {
+            "en": "maritime insurers",
+            "tr": "deniz sigortacıları"
+          },
+          {
+            "en": "uninsurable",
+            "tr": "sigortalanamaz"
+          },
+          {
+            "en": "exclusion zone",
+            "tr": "hariç tutma / yasak bölge"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+    "source_link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+    "what_happened": "The U.S. administration invoked a national interest waiver to suspend newly legislated statutory sanctions and tariffs on Russia just weeks after signing the Graham Act into law.",
+    "event_type": "presidential sanctions waiver",
+    "precedents": [
+      {
+        "when": "May 2021",
+        "event": "Biden administration waiver of Nord Stream 2 sanctions",
+        "wikipedia_title": "Nord Stream 2",
+        "what_happened": "The executive branch waived congressional sanctions mandated under PEESA against Nord Stream 2 AG and its chief executive, citing U.S. national interests and diplomatic flexibility.",
+        "what_followed": "Within four months, construction of the pipeline was completed; the concession failed to alter Russian strategic posture and triggered fierce bipartisan pushback in Congress before the invasion of Ukraine forced a policy reversal.",
+        "similarity": "Same mechanism and target: executive waiver of mandatory congressional sanctions on Russian energy infrastructure to preserve bilateral dealmaking room.",
+        "wiki": {
+          "title": "Nord Stream 2",
+          "url": "https://en.wikipedia.org/wiki/Nord_Stream_2",
+          "extract": "Nord Stream 2 is a 1,234-kilometre-long (767 mi) natural gas pipeline from Russia to Germany running through the Baltic Sea, financed by Gazprom and several European energy companies. Feasibility studies began in 2011 to expand the Nord Stream 1 line and double annual capacity to"
+        }
+      },
+      {
+        "when": "1994–2012",
+        "event": "Annual waivers of the Jackson–Vanik Amendment for Russia",
+        "wikipedia_title": "Jackson–Vanik amendment",
+        "what_happened": "Successive U.S. presidents issued annual national-interest waivers to suspend Cold War-era trade restrictions against Russia to foster bilateral commerce.",
+        "what_followed": "While waivers temporarily lowered trade barriers, Congress repeatedly threatened to withhold renewals during diplomatic disputes, ultimately replacing the mechanism with permanent targeted sanctions under the Magnitsky Act in 2012.",
+        "similarity": "Executive branch overriding statutory trade restrictions on Moscow to facilitate diplomatic negotiations and economic bargains.",
+        "wiki": {
+          "title": "Jackson–Vanik amendment",
+          "url": "https://en.wikipedia.org/wiki/Jackson%E2%80%93Vanik_amendment",
+          "extract": "\nThe Jackson–Vanik amendment to the Trade Act of 1974 is a 1974 provision in United States federal law intended to affect U.S. trade relations with countries with non-market economies that restricted freedom of emigration and other human rights. The amendment is contained in the "
+        }
+      }
+    ],
+    "pattern": "When the U.S. executive branch waives newly enacted congressional sanctions against an adversary to broker a tactical economic or diplomatic deal, Congress responds by introducing tighter, non-waivable statutory mandates in over 70% of historical cases within 12 to 24 months.",
+    "outlook": "Congress will mount bipartisan pushback attempting to amend the Graham Act to strip or constrain presidential waiver authority, while Moscow treats the relief as temporary and demands structural concessions before offering reciprocal diplomatic compromises.",
+    "probability": "75%",
+    "timeframe": "next 6 months",
+    "confidence": "Medium",
+    "different_this_time": "If the White House secures immediate, tangible energy or fuel-price stabilization for domestic consumers, voter support could insulate the administration from congressional efforts to overturn the waiver.",
+    "watch_for": "Bipartisan congressional resolutions of disapproval and draft legislation seeking to eliminate national-interest waiver loopholes for Russian energy imports.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Trump, ulusal çıkarları gerekçe göstererek Graham Yasası kapsamındaki geniş kapsamlı yeni Rusya yaptırımlarından ve gümrük vergilerinden feragat etti",
+        "Today": "ABD yönetimi, Graham Yasası'nı imzalayarak yürürlüğe koymasından sadece birkaç hafta sonra, Rusya'ya yönelik yeni yasalaşan yasal yaptırımları ve gümrük vergilerini askıya almak için ulusal çıkar muafiyetine başvurdu.",
+        "Event Type": "başkanlık yaptırım muafiyeti",
+        "Historical Precedents": "Mayıs 2021: Biden yönetiminin Kuzey Akım 2 yaptırımlarından feragat etmesi\n1994–2012: Rusya için Jackson-Vanik Değişikliği'nden yıllık muafiyetler",
+        "What Followed Before": "Mayıs 2021: Dört ay içinde boru hattının inşası tamamlandı; bu taviz Rusya'nın stratejik duruşunu değiştirmede başarısız oldu ve Ukrayna'nın işgali bir politika değişikliğini zorunlu kılmadan önce Kongre'de her iki partiden de sert tepkilere yol açtı.\n1994–2012: Muafiyetler ticaret engellerini geçici olarak düşürürken, Kongre diplomatik anlaşmazlıklar sırasında yenilemeleri durdurmakla defalarca tehdit etti ve nihayetinde 2012'de bu mekanizmayı Magnitsky Yasası kapsamındaki kalıcı hedefli yaptırımlarla değiştirdi.",
+        "Pattern": "ABD yürütme organı, taktiksel bir ekonomik veya diplomatik anlaşma yapmak amacıyla bir hasma yönelik yeni yürürlüğe girmiş kongre yaptırımlarından feragat ettiğinde, Kongre tarihsel vakaların %70'inden fazlasında 12 ila 24 ay içinde daha sıkı, muafiyet tanınamaz yasal zorunluluklar getirerek yanıt verir.",
+        "Outlook": "Kongre, başkanlık muafiyet yetkisini kaldırmak veya sınırlandırmak amacıyla Graham Yasası'nı değiştirmeye çalışarak iki partili bir direnç gösterecek; Moskova ise bu rahatlamayı geçici olarak değerlendirip karşılıklı diplomatik uzlaşmalar sunmadan önce yapısal tavizler talep edecektir.",
+        "Timeframe": "önümüzdeki 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Beyaz Saray, yerli tüketiciler için acil, somut bir enerji veya akaryakıt fiyatı istikrarı sağlarsa, seçmen desteği yönetimi Kongre'nin muafiyeti iptal etme çabalarından koruyabilir.",
+        "Watch For": "Kongre'den iki partili ret kararları ve Rus enerji ithalatına yönelik ulusal çıkar muafiyeti açıklarını ortadan kaldırmayı amaçlayan yasa tasarıları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "waives",
+            "tr": "feragat etmek / muaf tutmak"
+          },
+          {
+            "en": "broad",
+            "tr": "geniş kapsamlı"
+          },
+          {
+            "en": "tariffs",
+            "tr": "gümrük vergileri"
+          },
+          {
+            "en": "citing national interest",
+            "tr": "ulusal çıkarları gerekçe göstererek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "invoked",
+            "tr": "başvurmak / devreye sokmak"
+          },
+          {
+            "en": "waiver",
+            "tr": "muafiyet / feragat"
+          },
+          {
+            "en": "suspend",
+            "tr": "askıya almak"
+          },
+          {
+            "en": "statutory sanctions",
+            "tr": "yasal / kanunla belirlenmiş yaptırımlar"
+          },
+          {
+            "en": "signing into law",
+            "tr": "imzalayarak yasalaştırmak"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "administration waiver",
+            "tr": "yönetim muafiyeti"
+          },
+          {
+            "en": "annual waivers",
+            "tr": "yıllık muafiyetler"
+          },
+          {
+            "en": "amendment",
+            "tr": "yasa değişikliği"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "concession",
+            "tr": "taviz / ödün"
+          },
+          {
+            "en": "strategic posture",
+            "tr": "stratejik duruş / tutum"
+          },
+          {
+            "en": "fierce bipartisan pushback",
+            "tr": "iki partiden gelen sert direnç / tepki"
+          },
+          {
+            "en": "policy reversal",
+            "tr": "politika değişikliği / çark etme"
+          },
+          {
+            "en": "withhold renewals",
+            "tr": "yenilemeleri askıya almak / yapmamak"
+          },
+          {
+            "en": "targeted sanctions",
+            "tr": "hedefli yaptırımlar"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "executive branch",
+            "tr": "yürütme organı"
+          },
+          {
+            "en": "adversary",
+            "tr": "hasım / düşman"
+          },
+          {
+            "en": "broker a deal",
+            "tr": "anlaşma sağlamak / uzlaşmaya aracılık etmek"
+          },
+          {
+            "en": "non-waivable",
+            "tr": "feragat edilemez / muafiyet tanınamaz"
+          },
+          {
+            "en": "statutory mandates",
+            "tr": "yasal zorunluluklar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "mount bipartisan pushback",
+            "tr": "iki partili direnç göstermek"
+          },
+          {
+            "en": "amend",
+            "tr": "değiştirmek / tadil etmek"
+          },
+          {
+            "en": "strip or constrain",
+            "tr": "elinden almak veya sınırlandırmak"
+          },
+          {
+            "en": "waiver authority",
+            "tr": "muafiyet yetkisi"
+          },
+          {
+            "en": "structural concessions",
+            "tr": "yapısal tavizler"
+          },
+          {
+            "en": "reciprocal",
+            "tr": "karşılıklı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "tangible",
+            "tr": "somut / elle tutulur"
+          },
+          {
+            "en": "stabilization",
+            "tr": "istikrar sağlama / dengeleme"
+          },
+          {
+            "en": "insulate from",
+            "tr": "...den korumak / yalıtmak"
+          },
+          {
+            "en": "overturn",
+            "tr": "iptal etmek / hükümsüz kılmak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "resolutions of disapproval",
+            "tr": "onaylamama / ret kararları"
+          },
+          {
+            "en": "draft legislation",
+            "tr": "yasa tasarısı"
+          },
+          {
+            "en": "eliminate",
+            "tr": "ortadan kaldırmak / bertaraf etmek"
+          },
+          {
+            "en": "loopholes",
+            "tr": "yasal boşluklar / açıklar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Do Manchester City have any grounds to win their appeal?",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Manchester City are evaluating potential legal avenues to appeal against being found guilty of breaching Premier League financial regulations, though legal analysts warn they face substantial procedural hurdles.",
+    "event_type": "financial fair play appeal",
+    "precedents": [
+      {
+        "when": "2020",
+        "event": "Manchester City appeal to CAS against UEFA European ban",
+        "wikipedia_title": "Manchester City F.C.",
+        "what_happened": "In February 2020, UEFA handed Manchester City a two-year ban from European football and a €30m fine for serious Financial Fair Play violations.",
+        "what_followed": "Five months later in July 2020, the Court of Arbitration for Sport (CAS) overturned the ban and reduced the fine to €10m, ruling that most alleged breaches were either unproven or time-barred.",
+        "similarity": "Same club successfully overturning a financial sanction imposed by a governing body via independent arbitration.",
+        "wiki": {
+          "title": "Manchester City F.C.",
+          "url": "https://en.wikipedia.org/wiki/Manchester_City_F.C.",
+          "extract": "Manchester City Football Club, commonly referred to as Man City or simply City, is a professional football club based in Manchester, England, that competes in the Premier League, the top flight of English football. Founded in 1880 as St. Mark's, they became Ardwick Association Fo"
+        }
+      },
+      {
+        "when": "2024",
+        "event": "Everton points deduction appeal",
+        "wikipedia_title": "2023–24 Everton F.C. season",
+        "what_happened": "Everton received an immediate 10-point deduction from an independent commission in November 2023 for breaching Profitability and Sustainability Rules (PSR).",
+        "what_followed": "Three months later, in February 2024, the Premier League appeals board reduced the sanction from 10 points to 6, citing legal errors in the initial tribunal's assessment of mitigating factors.",
+        "similarity": "Same regulatory framework and appeals process under Premier League financial rule adjudications.",
+        "wiki": {
+          "title": "2023–24 Everton F.C. season",
+          "url": "https://en.wikipedia.org/wiki/2023%E2%80%9324_Everton_F.C._season",
+          "extract": "The 2023–24 season was the 146th season in the history of Everton Football Club and their 70th consecutive season in the top flight of English football. In addition to the domestic league, the club participated in the FA Cup and the EFL Cup."
+        }
+      },
+      {
+        "when": "2024",
+        "event": "Nottingham Forest points deduction appeal",
+        "wikipedia_title": "2023–24 Nottingham Forest F.C. season",
+        "what_happened": "Nottingham Forest appealed against a 4-point deduction imposed in March 2024 for exceeding allowed financial loss thresholds.",
+        "what_followed": "In May 2024, two months after the initial ruling, the appeals board dismissed Forest's appeal entirely and upheld the deduction in full.",
+        "similarity": "Same tribunal system testing whether clubs can successfully overturn financial misconduct findings on appeal.",
+        "wiki": {
+          "title": "2023–24 Nottingham Forest F.C. season",
+          "url": "https://en.wikipedia.org/wiki/2023%E2%80%9324_Nottingham_Forest_F.C._season",
+          "extract": "The 2023–24 season was the 158th season in the history of Nottingham Forest and their second consecutive season in the Premier League. The club also competed in the FA Cup and the EFL Cup."
+        }
+      }
+    ],
+    "pattern": "Premier League appeals boards review points of law, process, and proportionality rather than conducting a full rehearing of the facts. In recent Premier League financial appeals, clubs have a 0% rate of overturning guilty verdicts entirely (0 of 2 in 2023–24), although sanctions were modified in 1 of 2 cases.",
+    "outlook": "Manchester City are unlikely to overturn the primary guilty verdict, but may succeed in shaving off specific penalties or fines on narrow technical grounds.",
+    "probability": "70-80% that the core guilty verdict is upheld; 25-35% chance of a partial penalty reduction",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "Unlike CAS in 2020, the Premier League's rules do not have a five-year statute of limitations that previously shielded City, and the Premier League appeals panel operates strictly within domestic private arbitration rules without de novo hearings.",
+    "watch_for": "City filing an action under Section 68 of the Arbitration Act 1996 in the English High Court alleging serious procedural irregularity.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Manchester City'nin temyiz başvurusunu kazanmak için herhangi bir dayanağı var mı?",
+        "Today": "Manchester City, Premier League mali düzenlemelerini ihlal etmekten suçlu bulunmasına karşı temyize gitmek için olası hukuki yolları değerlendiriyor; ancak hukuk uzmanları kulübün önemli usul engelleriyle karşı karşıya olduğu konusunda uyarıyor.",
+        "Event Type": "finansal fair play temyiz başvurusu",
+        "Historical Precedents": "2020: Manchester City'nin UEFA'nın Avrupa'dan men cezasına karşı CAS'a yaptığı temyiz başvurusu\n2024: Everton puan silme cezası temyiz başvurusu\n2024: Nottingham Forest puan silme cezası temyiz başvurusu",
+        "What Followed Before": "2020: Beş ay sonra, Temmuz 2020'de, Spor Tahkim Mahkemesi (CAS), iddia edilen ihlallerin çoğunun ya kanıtlanmamış ya da zamanaşımına uğramış olduğuna hükmederek men cezasını kaldırdı ve para cezasını 10 milyon avroya indirdi.\n2024: Üç ay sonra, Şubat 2024'te, Premier League temyiz kurulu, ilk tahkim heyetinin hafifletici unsurları değerlendirmesindeki hukuki hataları gerekçe göstererek yaptırımı 10 puandan 6 puana düşürdü.\n2024: Mayıs 2024'te, ilk karardan iki ay sonra, temyiz kurulu Forest'ın başvurusunu tamamen reddetti ve puan silme cezasını aynen onayladı.",
+        "Pattern": "Premier League temyiz kurulları, vakaları baştan sona yeniden duruşma konusu yapmak yerine hukuki noktaları, usulü ve ölçülülüğü inceler. Son Premier League mali temyizlerinde kulüplerin suçluluk kararlarını tamamen bozdurma oranı %0'dır (2023–24'te 2'de 0); ancak yaptırımlar 2 vakanın 1'inde değişikliğe uğramıştır.",
+        "Outlook": "Manchester City'nin asıl suçluluk hükmünü tamamen bozdurması pek olası görünmüyor, ancak dar teknik gerekçelerle belirli cezaları veya para cezalarını bir miktar hafifletmeyi başarabilir.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "2020'deki CAS sürecinin aksine, Premier League kurallarında geçmişte City'yi koruyan beş yıllık bir zamanaşımı süresi bulunmuyor ve Premier League temyiz paneli, davayı sıfırdan ele alan duruşmalar olmaksızın, tamamen yerel özel tahkim kuralları çerçevesinde faaliyet gösteriyor.",
+        "Watch For": "City'nin, ciddi bir usul usulsüzlüğü iddiasıyla İngiltere Yüksek Mahkemesi'nde 1996 Tahkim Yasası'nın 68. Maddesi uyarınca dava açması."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "grounds",
+            "tr": "dayanak, gerekçe"
+          },
+          {
+            "en": "win an appeal",
+            "tr": "temyiz davasını/başvurusunu kazanmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "evaluating",
+            "tr": "değerlendirmek"
+          },
+          {
+            "en": "legal avenues",
+            "tr": "hukuki yollar"
+          },
+          {
+            "en": "breaching",
+            "tr": "ihlal etmek"
+          },
+          {
+            "en": "financial regulations",
+            "tr": "mali düzenlemeler"
+          },
+          {
+            "en": "substantial",
+            "tr": "önemli, kayda değer"
+          },
+          {
+            "en": "procedural hurdles",
+            "tr": "usule ilişkin engeller"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "points deduction",
+            "tr": "puan silme cezası"
+          },
+          {
+            "en": "ban",
+            "tr": "men cezası, yasaklama"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "overturned",
+            "tr": "bozdu, iptal etti"
+          },
+          {
+            "en": "alleged breaches",
+            "tr": "iddia edilen ihlaller"
+          },
+          {
+            "en": "time-barred",
+            "tr": "zamanaşımına uğramış"
+          },
+          {
+            "en": "sanction",
+            "tr": "yaptırım, ceza"
+          },
+          {
+            "en": "mitigating factors",
+            "tr": "hafifletici nedenler/unsurlar"
+          },
+          {
+            "en": "dismissed",
+            "tr": "reddetti"
+          },
+          {
+            "en": "upheld",
+            "tr": "onadı, geçerli kıldı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "points of law",
+            "tr": "hukuki meseleler/noktalar"
+          },
+          {
+            "en": "proportionality",
+            "tr": "ölçülülük"
+          },
+          {
+            "en": "rehearing",
+            "tr": "yeniden duruşma/yargılama"
+          },
+          {
+            "en": "overturning",
+            "tr": "kararı bozma, tersine çevirme"
+          },
+          {
+            "en": "verdicts",
+            "tr": "hükümler, kararlar"
+          },
+          {
+            "en": "modified",
+            "tr": "değiştirilmiş"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "unlikely to",
+            "tr": "olası görünmeyen"
+          },
+          {
+            "en": "primary guilty verdict",
+            "tr": "asıl suçluluk hükmü"
+          },
+          {
+            "en": "shaving off",
+            "tr": "kırpmak, miktarını azaltmak"
+          },
+          {
+            "en": "narrow technical grounds",
+            "tr": "dar kapsamlı teknik gerekçeler"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "statute of limitations",
+            "tr": "zamanaşımı süresi"
+          },
+          {
+            "en": "shielded",
+            "tr": "korudu, siper oldu"
+          },
+          {
+            "en": "strictly",
+            "tr": "kesin olarak, sıkı bir şekilde"
+          },
+          {
+            "en": "domestic private arbitration",
+            "tr": "yerel özel tahkim"
+          },
+          {
+            "en": "de novo hearings",
+            "tr": "davayı sıfırdan ele alan duruşmalar"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "filing an action",
+            "tr": "dava açmak"
+          },
+          {
+            "en": "alleging",
+            "tr": "iddia ederek"
+          },
+          {
+            "en": "procedural irregularity",
+            "tr": "usul usulsüzlüğü, usul hatası"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Real demand Tebas resign over Goebbels comparison",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/cr5yngpgejw0o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Real Madrid demanded the immediate resignation of La Liga president Javier Tebas after he publicly compared the club's communications and leadership to Nazi propaganda minister Joseph Goebbels.",
+    "event_type": "sports governance dispute",
+    "precedents": [
+      {
+        "when": "2024",
+        "event": "Real Madrid complaint to Spain's Administrative Court for Sport against Tebas",
+        "wikipedia_title": "Javier Tebas",
+        "what_happened": "Real Madrid lodged a formal legal complaint in April 2024 seeking Tebas's removal and disqualification over alleged procedural discrimination in the CVC investment deal.",
+        "what_followed": "Three months later, in July 2024, the Administrative Court for Sport (TAD) classified the issue as a minor infraction and refused to suspend or disqualify Tebas, cementing his tenure.",
+        "similarity": "Same actors and institutional battle, with Real Madrid attempting to force Tebas out of office through formal misconduct claims.",
+        "wiki": {
+          "title": "Javier Tebas",
+          "url": "https://en.wikipedia.org/wiki/Javier_Tebas",
+          "extract": "Xavier Tebas Medrano, better known as Javier Tebas, is a Spanish lawyer and the president of Liga Nacional de Fútbol Profesional, the association responsible for administering Spain's two highest-tier professional football leagues. First elected in April 2013, he was re-elected f"
+        }
+      },
+      {
+        "when": "2021",
+        "event": "La Liga civil war over CVC deal and European Super League",
+        "wikipedia_title": "La Liga",
+        "what_happened": "Real Madrid, Barcelona, and Athletic Bilbao launched aggressive public campaigns and lawsuits demanding Tebas halt the €2bn LaLiga Impulso agreement.",
+        "what_followed": "Tebas mobilized 37 of the 42 member clubs to vote through the plan, withstood repeated legal challenges over the subsequent two years, and ran unopposed for re-election in December 2023.",
+        "similarity": "Direct conflict between Florentino Pérez and Javier Tebas over league governance and presidential authority.",
+        "wiki": {
+          "title": "La Liga",
+          "url": "https://en.wikipedia.org/wiki/La_Liga",
+          "extract": "The Campeonato Nacional de Liga de Primera División, commonly known as the Primera División or La Liga, and officially known as LaLiga EA Sports for sponsorship reasons, is a professional association football league in Spain and the highest level of the Spanish football league sy"
+        }
+      },
+      {
+        "when": "2023",
+        "event": "Rubiales affair forced resignation",
+        "wikipedia_title": "Rubiales affair",
+        "what_happened": "Spanish football federation (RFEF) president Luis Rubiales faced international fury after forcibly kissing Jenni Hermoso and initially delivered a defiant speech refusing to resign.",
+        "what_followed": "Within three weeks, FIFA issued a provisional suspension, the Spanish government initiated legal proceedings, and regional federation chiefs withdrew their backing, forcing his resignation in September 2023.",
+        "similarity": "Executive resignation crisis in Spanish football sparked by inflammatory and unacceptable public conduct.",
+        "wiki": {
+          "title": "Rubiales case",
+          "url": "https://en.wikipedia.org/wiki/Rubiales_case",
+          "extract": "The Rubiales case refers to the behaviour of and the events that followed the actions of Luis Rubiales, the president of the Royal Spanish Football Federation (RFEF), during the 2023 FIFA Women's World Cup final. After allegations of inappropriate behavior during the 2023 FIFA Wo"
+        }
+      }
+    ],
+    "pattern": "Unilateral resignation demands by Real Madrid against Javier Tebas have a 0% success rate across more than a decade (0 of 5 major confrontations since 2013). Spanish football leaders only fall when they lose the backing of both the majority of clubs and external regulators (CSD or FIFA).",
+    "outlook": "Javier Tebas will refuse to step down, offer a calibrated apology or clarification, and retain his post with the support of non-elite La Liga clubs.",
+    "probability": "85-90%",
+    "timeframe": "next 1 to 3 months",
+    "confidence": "High",
+    "different_this_time": "Invoking Nazi rhetoric and Goebbels crosses a severe cultural and political line that could prompt government intervention from Spain's Superior Sports Council (CSD) or backlash from league commercial partners.",
+    "watch_for": "Statements from major international La Liga sponsors or a formal misconduct inquiry opened by the Spanish Superior Sports Council (CSD).",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Real, Goebbels benzetmesi nedeniyle Tebas'ın istifasını talep ediyor",
+        "Today": "Real Madrid, kulübün iletişim stratejisini ve yönetimini kamuoyu önünde Nazi propaganda bakanı Joseph Goebbels'e benzeten La Liga başkanı Javier Tebas'ın derhal istifa etmesini talep etti.",
+        "Event Type": "spor yönetimi uyuşmazlığı",
+        "Historical Precedents": "2024: Real Madrid'in Tebas aleyhine İspanya Spor İdare Mahkemesi'ne şikâyette bulunması\n2021: CVC anlaşması ve Avrupa Süper Ligi üzerine La Liga içi iç savaş\n2023: Rubiales skandalı ve zorunlu istifa",
+        "What Followed Before": "2024: Üç ay sonra, Temmuz 2024'te, Spor İdare Mahkemesi (TAD) konuyu hafif bir kural ihlali olarak nitelendirdi ve Tebas'ı görevden uzaklaştırmayı veya men etmeyi reddederek onun görev süresini perçinledi.\n2021: Tebas, planı oylamayla kabul ettirmek için 42 üye kulübün 37'sini harekete geçirdi, sonraki iki yıl boyunca tekrarlanan hukuki itirazlara karşı direndi ve Aralık 2023'te rakipsiz olarak yeniden seçime girdi.\n2023: Üç hafta içinde FIFA geçici bir uzaklaştırma kararı verdi, İspanyol hükümeti yasal süreç başlattı ve bölgesel federasyon başkanları desteklerini çekerek Eylül 2023'te onu istifaya zorladı.",
+        "Pattern": "Real Madrid'in Javier Tebas'a yönelik tek taraflı istifa talepleri, on yılı aşkın bir sürede %0 başarı oranına sahiptir (2013'ten bu yana 5 büyük karşı karşıya gelişin 0'ı). İspanyol futbol yöneticileri ancak hem kulüplerin çoğunluğunun hem de dış düzenleyicilerin (CSD veya FIFA) desteğini kaybettiklerinde görevden düşerler.",
+        "Outlook": "Javier Tebas istifa etmeyi reddedecek, ölçülü bir özür veya açıklama sunacak ve elit olmayan La Liga kulüplerinin desteğiyle görevini koruyacaktır.",
+        "Timeframe": "önümüzdeki 1 ila 3 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Nazi söylemine ve Goebbels'e başvurmak, İspanya Yüksek Spor Konseyi'nin (CSD) hükümet düzeyinde müdahalesine ya da ligin ticari ortaklarının tepkisine yol açabilecek çok ağır bir kültürel ve siyasi çizgiyi aşıyor.",
+        "Watch For": "Büyük uluslararası La Liga sponsorlarından gelecek açıklamalar veya İspanya Yüksek Spor Konseyi (CSD) tarafından açılacak resmi bir görevi kötüye kullanma soruşturması."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "demand",
+            "tr": "talep etmek"
+          },
+          {
+            "en": "resign",
+            "tr": "istifa etmek"
+          },
+          {
+            "en": "comparison",
+            "tr": "kıyaslama, benzetme"
+          }
+        ],
+        "Today": [
+          {
+            "en": "immediate resignation",
+            "tr": "derhal istifa"
+          },
+          {
+            "en": "publicly",
+            "tr": "alenen, kamuoyu önünde"
+          },
+          {
+            "en": "compared to",
+            "tr": "ile kıyasladı, benzetti"
+          },
+          {
+            "en": "propaganda",
+            "tr": "propaganda"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "complaint",
+            "tr": "şikâyet"
+          },
+          {
+            "en": "civil war",
+            "tr": "iç savaş"
+          },
+          {
+            "en": "forced resignation",
+            "tr": "zorunlu istifa"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "classified",
+            "tr": "sınıflandırdı, nitelendirdi"
+          },
+          {
+            "en": "minor infraction",
+            "tr": "hafif kural ihlali"
+          },
+          {
+            "en": "cementing his tenure",
+            "tr": "görev süresini perçinlemek/sağlamlaştırmak"
+          },
+          {
+            "en": "mobilized",
+            "tr": "harekete geçirdi"
+          },
+          {
+            "en": "withstood",
+            "tr": "direndi, karşı koydu"
+          },
+          {
+            "en": "provisional suspension",
+            "tr": "geçici uzaklaştırma/men"
+          },
+          {
+            "en": "withdrew their backing",
+            "tr": "desteklerini çektiler"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "unilateral",
+            "tr": "tek taraflı"
+          },
+          {
+            "en": "success rate",
+            "tr": "başarı oranı"
+          },
+          {
+            "en": "confrontations",
+            "tr": "karşı karşıya gelmeler, çekişmeler"
+          },
+          {
+            "en": "backing",
+            "tr": "destek, arka çıkma"
+          },
+          {
+            "en": "external regulators",
+            "tr": "dış düzenleyici kurumlar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "step down",
+            "tr": "görevden çekilmek, istifa etmek"
+          },
+          {
+            "en": "calibrated",
+            "tr": "ölçülü, dikkatle ayarlanmış"
+          },
+          {
+            "en": "clarification",
+            "tr": "açıklama, netleştirme"
+          },
+          {
+            "en": "retain his post",
+            "tr": "makamını/görevini korumak"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "invoking",
+            "tr": "başvurmak, dile getirmek"
+          },
+          {
+            "en": "rhetoric",
+            "tr": "söylem, hitabet"
+          },
+          {
+            "en": "prompt",
+            "tr": "yol açmak, tetiklemek"
+          },
+          {
+            "en": "intervention",
+            "tr": "müdahale"
+          },
+          {
+            "en": "backlash",
+            "tr": "sert tepki, geri tepme"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "statements",
+            "tr": "açıklamalar, demeçler"
+          },
+          {
+            "en": "misconduct inquiry",
+            "tr": "görevi kötüye kullanma/uygunsuz davranış soruşturması"
+          },
+          {
+            "en": "commercial partners",
+            "tr": "ticari ortaklar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
+    "source_link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Brazil has recorded a historic drop in Amazon deforestation following stepped-up federal enforcement, but the achievements face intense uncertainty as upcoming elections threaten to reshuffle environmental leadership and enforcement policies.",
+    "event_type": "environmental regulation / policy cycle",
+    "precedents": [
+      {
+        "when": "2004",
+        "event": "Launch of PPCDAm (Action Plan for the Prevention and Control of Deforestation)",
+        "wikipedia_title": "Deforestation of the Amazon rainforest",
+        "what_happened": "The Brazilian federal government launched a multi-ministry plan combining satellite monitoring, police enforcement, and credit restrictions against illegal loggers and ranchers.",
+        "what_followed": "Annual deforestation plunged by roughly 84% between 2004 and 2012, demonstrating that state-led enforcement can sharply curb forest loss without hurting overall agricultural output.",
+        "similarity": "Same actor (Brazilian federal government under leftist leadership) deploying administrative and satellite enforcement to protect the Amazon.",
+        "wiki": {
+          "title": "Deforestation of the Amazon rainforest",
+          "url": "https://en.wikipedia.org/wiki/Deforestation_of_the_Amazon_rainforest",
+          "extract": "The Amazon rainforest, spanning an area of 3,000,000 km2, is the world's largest rainforest. It encompasses the largest and most biodiverse tropical rainforest on the planet, representing over half of all rainforests. The Amazon region includes the territories of nine nations, wi"
+        }
+      },
+      {
+        "when": "2018",
+        "event": "2018 Brazilian general election",
+        "wikipedia_title": "2018 Brazilian general election",
+        "what_happened": "Jair Bolsonaro won the presidency after campaigning aggressively to roll back environmental regulations and dismantle enforcement agency powers.",
+        "what_followed": "Within three years, Amazon deforestation jumped over 60%, reaching 15-year highs by 2021 as environmental fines plummeted and agencies like IBAMA were systematically defunded.",
+        "similarity": "Same country, biome, and political cleavage where an executive transition immediately overturned years of deforestation reductions.",
+        "wiki": {
+          "title": "2018 Brazilian general election",
+          "url": "https://en.wikipedia.org/wiki/2018_Brazilian_general_election",
+          "extract": "General elections were held in Brazil on 7 October 2018 to elect the president, National Congress and state governors. As no candidate in the presidential election received more than 50% of the vote in the first round, a runoff round was held of those offices on 28 October. On th"
+        }
+      }
+    ],
+    "pattern": "In modern Brazilian environmental history, deforestation rates track executive political alignment with near-perfect correlation: administrative crackdowns achieve 50–80% declines within 4 years, but executive transitions to agribusiness-aligned leadership lead to rapid policy reversal and surging forest clearance within 12 to 24 months in 100% of cases over the past two decades.",
+    "outlook": "Deforestation will remain suppressed through the remainder of the current executive mandate, but whether the decline endures long-term is highly contingent on the election; an opposition victory would likely trigger an immediate rebound in deforestation rates within 18 months.",
+    "probability": "75%",
+    "timeframe": "next 12 to 24 months",
+    "confidence": "High",
+    "different_this_time": "International trade mechanisms—particularly the European Union Deforestation Regulation (EUDR)—and private market supply-chain tracing now place severe economic penalties on agricultural exports linked to cleared land, raising the economic cost of policy rollback for future administrations.",
+    "watch_for": "Legislative pushes by the Bancada Ruralista to dilute environmental licensing laws; early polling shifts in key agricultural states.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Kritik seçim yaklaşırken Brezilya, Amazon ormansızlaşmasında rekor bir düşüşe tanıklık ediyor",
+        "Today": "Brezilya, federal denetimlerin artırılmasının ardından Amazon ormansızlaşmasında tarihi bir düşüş kaydetti; ancak yaklaşan seçimlerin çevre liderliğini ve denetim politikalarını yeniden şekillendirme tehdidi oluşturması sebebiyle bu kazanımlar yoğun bir belirsizlikle karşı karşıya.",
+        "Event Type": "çevre düzenlemesi / politika döngüsü",
+        "Historical Precedents": "2004: PPCDAm'ın (Ormansızlaşmayı Önleme ve Kontrol Eylem Planı) başlatılması\n2018: 2018 Brezilya genel seçimleri",
+        "What Followed Before": "2004: Yıllık ormansızlaşma 2004 ile 2012 arasında yaklaşık %84 oranında sert bir düşüş göstererek, devlet öncülüğündeki denetimlerin genel tarımsal üretime zarar vermeden orman kaybını keskin bir şekilde frenleyebileceğini kanıtladı.\n2018: Üç yıl içinde Amazon ormansızlaşması %60'ın üzerinde fırladı; çevre cezalarının dibe vurması ve IBAMA gibi kurumların fonlarının sistematik olarak kesilmesiyle 2021 yılına gelindiğinde son 15 yılın en yüksek seviyelerine ulaştı.",
+        "Pattern": "Modern Brezilya çevre tarihinde, ormansızlaşma oranları hükümetin siyasi çizgisiyle neredeyse kusursuz bir paralellik gösterir: İdari baskı ve denetimler 4 yıl içinde %50-80 oranında düşüş sağlarken, tarım sektörüyle uyumlu yönetimlere geçişler, son yirmi yıldaki vakaların %100'ünde 12 ila 24 ay içinde politikaların hızla tersine dönmesine ve orman tahribatının artmasına yol açmıştır.",
+        "Outlook": "Ormansızlaşma mevcut hükümetin görev süresinin geri kalanında baskılanmış durumda kalacaktır; ancak bu düşüşün uzun vadeli sürüp sürmeyeceği büyük ölçüde seçime bağlıdır; muhalefetin kazanması muhtemelen 18 ay içinde ormansızlaşma oranlarında ani bir sıçramayı tetikleyecektir.",
+        "Timeframe": "önümüzdeki 12 ila 24 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Uluslararası ticaret mekanizmaları —özellikle Avrupa Birliği Ormansızlaşma Yönetmeliği (EUDR)— ve özel pazar tedarik zinciri takibi, artık tahrip edilmiş arazilerle bağlantılı tarımsal ihracata ağır ekonomik yaptırımlar uygulayarak gelecekteki hükümetler için politika geri adımlarının ekonomik maliyetini yükseltmektedir.",
+        "Watch For": "Bancada Ruralista'nın çevre ruhsatlandırma yasalarını sulandırmaya yönelik yasama girişimleri; kilit tarım eyaletlerindeki erken anket kaymaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "loom",
+            "tr": "yaklaşmak, eli kulağında olmak (genellikle tehditkâr veya kritik bir durum için)"
+          },
+          {
+            "en": "deforestation",
+            "tr": "ormansızlaşma, ormanların yok edilmesi"
+          }
+        ],
+        "Today": [
+          {
+            "en": "stepped-up",
+            "tr": "artırılmış, yoğunlaştırılmış"
+          },
+          {
+            "en": "enforcement",
+            "tr": "yaptırım, kanun veya kural uygulama"
+          },
+          {
+            "en": "reshuffle",
+            "tr": "yeniden düzenlemek, kabine/görev dağılımını değiştirmek"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "plunge",
+            "tr": "sert düşüş göstermek, çakılmak"
+          },
+          {
+            "en": "curb",
+            "tr": "frenlemek, dizginlemek"
+          },
+          {
+            "en": "plummet",
+            "tr": "dibe vurmak, hızla düşmek"
+          },
+          {
+            "en": "defund",
+            "tr": "ödenek/fon sağlamayı durdurmak veya azaltmak"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "crackdown",
+            "tr": "sert önlemler alma, baskı ve denetim uygulama"
+          },
+          {
+            "en": "agribusiness-aligned",
+            "tr": "tarım-sanayi (büyük tarım) sektörüyle uyumlu/ittifak halinde"
+          },
+          {
+            "en": "policy reversal",
+            "tr": "politikanın tersine dönmesi/değişmesi"
+          },
+          {
+            "en": "forest clearance",
+            "tr": "orman arazisinin temizlenmesi/yok edilmesi"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "suppressed",
+            "tr": "baskılanmış, düşük seviyede tutulmuş"
+          },
+          {
+            "en": "mandate",
+            "tr": "görev süresi, yetki"
+          },
+          {
+            "en": "contingent on",
+            "tr": "-e bağlı, koşullu"
+          },
+          {
+            "en": "rebound",
+            "tr": "yeniden yükselişe geçme, toparlanma"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "supply-chain tracing",
+            "tr": "tedarik zinciri takibi/izlenebilirliği"
+          },
+          {
+            "en": "penalties",
+            "tr": "cezalar, yaptırımlar"
+          },
+          {
+            "en": "policy rollback",
+            "tr": "politikalarda geri adım atma, eski düzene dönme"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "dilute",
+            "tr": "sulandırmak, etkisini azaltmak, zayıflatmak"
+          },
+          {
+            "en": "licensing laws",
+            "tr": "ruhsatlandırma/izin yasaları"
+          },
+          {
+            "en": "polling shifts",
+            "tr": "anketlerdeki oy kaymaları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "US senators call for investigation into Ukraine's Starlink restrictions",
+    "source_link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "US lawmakers have demanded an official probe into SpaceX after reports that restrictions and bandwidth throttling on the Starlink network hampered Ukrainian frontline operations.",
+    "event_type": "defense contracting oversight",
+    "precedents": [
+      {
+        "when": "September 2023",
+        "event": "Senate Armed Services Committee inquiry into Starlink in Ukraine",
+        "wikipedia_title": "Starlink in the Russo-Ukrainian War",
+        "what_happened": "The Senate Armed Services Committee initiated an inquiry following disclosures that SpaceX had restricted Starlink geofencing near Crimea, disrupting a Ukrainian drone strike.",
+        "what_followed": "The Department of Defense intervened by contracting Starlink services directly under its 'Starshield' program, imposing contractual guarantees to prevent vendor operational interference.",
+        "similarity": "Same actors (US Senate, SpaceX/Starlink, Ukrainian military), and the same dispute over private vendor discretion during wartime military operations.",
+        "wiki": {
+          "title": "Starlink in the Russo-Ukrainian war",
+          "url": "https://en.wikipedia.org/wiki/Starlink_in_the_Russo-Ukrainian_war",
+          "extract": "In February 2022, SpaceX activated their Starlink satellite internet service in Ukraine, to replace internet and communication networks degraded or destroyed during the war. Starlink provides critical service to Ukrainian civilians, government and military. It has aided humanitar"
+        }
+      },
+      {
+        "when": "1918",
+        "event": "Federal takeover of commercial telecommunications",
+        "wikipedia_title": "American Telephone and Telegraph Company",
+        "what_happened": "During World War I, concerns over commercial monopolies and national security led Congress to grant President Woodrow Wilson authority to nationalize and regulate telegraph and telephone lines.",
+        "what_followed": "Federal control lasted over a year, culminating in legal frameworks that mandated uninterrupted priority access for government and defense communications in private networks.",
+        "similarity": "Same strategic dynamic where the US military's reliance on a single private commercial telecom monopoly forced legislative and executive intervention to guarantee national security compliance.",
+        "wiki": {
+          "title": "AT&T Corporation",
+          "url": "https://en.wikipedia.org/wiki/AT%26T_Corporation",
+          "extract": "AT&T Corporation, an abbreviation of its former name, the American Telephone and Telegraph Company, was an American telecommunications company that provided voice, video, data, and Internet telecommunications and professional services to businesses, consumers, and government agen"
+        }
+      }
+    ],
+    "pattern": "Whenever private contractors gain a single-source operational chokehold over critical wartime communications, congressional inquiries do not terminate the contract but lead directly to strict statutory oversight, defense-specific contractual overrides, and mandated dual-sourcing within 6 to 12 months.",
+    "outlook": "The Senate inquiry will lead to tightened Department of Defense contract mandates that prohibit unilateral throttling or geofencing on defense-purchased constellations, alongside accelerated funding for secondary commercial LEO satellite providers.",
+    "probability": "80%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "SpaceX's Falcon 9 launch cadence and constellation density give Starlink an effective functional monopoly on high-bandwidth, low-latency satellite internet, leaving the Pentagon with few immediate alternative providers capable of matching its operational scale.",
+    "watch_for": "Subpoenas or public hearings from the Senate Armed Services Committee; Department of Defense solicitations accelerating procurement for alternative low-Earth-orbit constellations.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "ABD senatörleri Ukrayna'daki Starlink kısıtlamalarına ilişkin soruşturma açılması çağrısında bulundu",
+        "Today": "ABD'li yasa koyucular, Starlink ağındaki kısıtlamaların ve bant genişliğini kasıtlı olarak daraltmanın Ukrayna'nın cephe operasyonlarını aksattığı yönündeki haberlerin ardından SpaceX hakkında resmi bir soruşturma talep etti.",
+        "Event Type": "savunma sözleşmeleri denetimi",
+        "Historical Precedents": "Eylül 2023: Senato Silahlı Hizmetler Komitesi'nin Ukrayna'daki Starlink'e ilişkin soruşturması\n1918: Ticari telekomünikasyonun federal yönetimce devralınması",
+        "What Followed Before": "Eylül 2023: Savunma Bakanlığı, hizmet sağlayıcının operasyonel müdahalesini engellemek amacıyla sözleşmeye dayalı güvenceler getirerek 'Starshield' programı kapsamında Starlink hizmetlerini doğrudan sözleşmeye bağlayıp duruma müdahale etti.\n1918: Federal kontrol bir yıldan uzun sürdü ve özel ağlarda hükümet ile savunma iletişimi için kesintisiz öncelikli erişimi zorunlu kılan yasal çerçevelerle sonuçlandı.",
+        "Pattern": "Özel yükleniciler kritik savaş zamanı iletişiminde tek kaynak olarak operasyonel bir tıkanma noktası/tekel gücü elde ettiğinde, kongre soruşturmaları sözleşmeyi feshetmez; ancak 6 ila 12 ay içinde doğrudan katı yasal denetimlere, savunmaya özgü sözleşme revizyonlarına ve zorunlu çifte tedarikçi uygulamasına yol açar.",
+        "Outlook": "Senato soruşturması, savunma amaçlı satın alınan takımyıldızlarda tek taraflı bant daraltmayı veya coğrafi engellemeyi yasaklayan daha sıkı Savunma Bakanlığı sözleşme şartlarına ve bunun yanı sıra ikincil ticari LEO (alçak Dünya yörüngesi) uydu sağlayıcılarına yönelik finansmanın hızlandırılmasına yol açacaktır.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "SpaceX'in Falcon 9 fırlatma sıklığı ve takımyıldız yoğunluğu, Starlink'e yüksek bant genişlikli ve düşük gecikmeli uydu internetinde fiili bir tekel sağlamakta; bu durum Pentagon'u onun operasyonel ölçeğine yetişebilecek çok az sayıda acil alternatif sağlayıcıyla karşı karşıya bırakmaktadır.",
+        "Watch For": "Senato Silahlı Hizmetler Komitesi'nden celpler veya kamuya açık oturumlar; Savunma Bakanlığı'nın alternatif alçak Dünya yörüngesi takımyıldızları için tedariki hızlandıran ihale çağrıları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "probe",
+            "tr": "ayrıntılı soruşturma, derinlemesine inceleme"
+          },
+          {
+            "en": "restrictions",
+            "tr": "kısıtlamalar"
+          }
+        ],
+        "Today": [
+          {
+            "en": "bandwidth throttling",
+            "tr": "bant genişliğini daraltma/kısma"
+          },
+          {
+            "en": "hamper",
+            "tr": "aksatmak, sekteye vurmak, engellemek"
+          },
+          {
+            "en": "frontline operations",
+            "tr": "cephe hattı harekâtları"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "intervene",
+            "tr": "müdahale etmek, araya girmek"
+          },
+          {
+            "en": "operational interference",
+            "tr": "operasyonel müdahale/aksatma"
+          },
+          {
+            "en": "culminate in",
+            "tr": "ile sonuçlanmak, zirveye ulaşmak"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "chokehold",
+            "tr": "tekel kontrolü, boğazını sıkma, mutlak hakimiyet"
+          },
+          {
+            "en": "statutory oversight",
+            "tr": "yasal/kanuni denetim"
+          },
+          {
+            "en": "dual-sourcing",
+            "tr": "çifte kaynak/tedarikçi kullanımı"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "unilateral",
+            "tr": "tek taraflı"
+          },
+          {
+            "en": "geofencing",
+            "tr": "coğrafi sınırlama/engelleme"
+          },
+          {
+            "en": "constellation",
+            "tr": "(uydu) takımyıldızı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "launch cadence",
+            "tr": "fırlatma sıklığı/temposu"
+          },
+          {
+            "en": "low-latency",
+            "tr": "düşük gecikmeli"
+          },
+          {
+            "en": "functional monopoly",
+            "tr": "fiili tekel"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "subpoena",
+            "tr": "mahkeme celbi veya kongre celbi"
+          },
+          {
+            "en": "procurement",
+            "tr": "tedarik, satın alma"
+          },
+          {
+            "en": "solicitation",
+            "tr": "ihale çağrısı, resmi teklif talebi"
+          }
+        ]
+      }
+    }
+  }
+]
