@@ -1,0 +1,2494 @@
+[
+  {
+    "headline": "Trump promised a swing district blitz. He's going to a lot of very red states",
+    "source_link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
+    "what_happened": "President Trump shifted his late-campaign travel schedule away from contested swing districts toward deep-red states he won comfortably in 2024, signaling that Republicans are forced onto defense weeks before the 2026 midterms.",
+    "event_type": "midterm campaign retreat",
+    "precedents": [
+      {
+        "when": "October-November 2018",
+        "event": "Trump's 2018 midterm base rally tour",
+        "wikipedia_title": "2018 United States House of Representatives elections",
+        "what_happened": "Facing hostile suburban polling, Trump concentrated his final midterm travel in deep-red rural territory and conservative states rather than suburban battlegrounds.",
+        "what_followed": "Republicans defended several rural Senate seats but lost 40 House seats and the majority to Democrats two weeks later.",
+        "similarity": "Same president retreating to base-heavy red territory to maximize turnout while abandoning purple swing districts.",
+        "wiki": {
+          "title": "2018 United States House of Representatives elections",
+          "url": "https://en.wikipedia.org/wiki/2018_United_States_House_of_Representatives_elections",
+          "extract": "The 2018 United States House of Representatives elections were held on November 6, 2018. The 2018 House elections were midterm elections that occurred during President Donald Trump's first term in office. Early voting took place in some states in the weeks preceding Election Day."
+        }
+      },
+      {
+        "when": "October 2010",
+        "event": "Barack Obama's 2010 midterm defensive tour",
+        "wikipedia_title": "2010 United States House of Representatives elections",
+        "what_happened": "President Obama shifted his late campaign stops to core Democratic bastions and college towns in blue states to stem base erosion.",
+        "what_followed": "Democrats were routed in moderate districts, suffering a historic net loss of 63 House seats and six Senate seats within two weeks.",
+        "similarity": "An incumbent administration playing defense in friendly turf due to toxic broader national polling.",
+        "wiki": {
+          "title": "2010 United States House of Representatives elections",
+          "url": "https://en.wikipedia.org/wiki/2010_United_States_House_of_Representatives_elections",
+          "extract": "The 2010 United States House of Representatives elections were held on November 2, 2010, as part of the 2010 midterm elections during President Barack Obama's first term in office. Voters of the 50 U.S. states chose 435 U.S. Representatives to serve in the 112th United States Con"
+        }
+      },
+      {
+        "when": "October 2006",
+        "event": "George W. Bush's 2006 midterm schedule contraction",
+        "wikipedia_title": "2006 United States House of Representatives elections",
+        "what_happened": "With his approval rating below 40%, President Bush avoided competitive districts and limited appearances strictly to deep-red conservative areas.",
+        "what_followed": "Democrats won control of both the House and the Senate, netting 30 House seats and 6 Senate seats.",
+        "similarity": "Incumbent president pulling back into safe partisan enclaves to prevent blowouts in nominally friendly seats.",
+        "wiki": {
+          "title": "2006 United States House of Representatives elections",
+          "url": "https://en.wikipedia.org/wiki/2006_United_States_House_of_Representatives_elections",
+          "extract": "The 2006 United States House of Representatives elections were held on November 7, 2006, to elect members to the United States House of Representatives. It took place in the middle of President George W. Bush's second term in office. All 435 seats of the House were up for electio"
+        }
+      }
+    ],
+    "pattern": "When an incumbent president spends the final three weeks of a midterm campaign shoring up nominally safe base states rather than expanding into swing districts, it reflects severe internal polling weakness; in 4 of the last 4 comparable midterm cycles (1994, 2006, 2010, 2018), this retreat preceded double-digit House seat losses.",
+    "outlook": "Republicans are likely to suffer a net loss of their House majority as swing-district suburban and independent voters break heavily toward Democrats.",
+    "probability": "80%",
+    "timeframe": "next 3 weeks",
+    "confidence": "High",
+    "different_this_time": "The Senate map may remain heavily tilted in Republicans' favor due to red-state geography, meaning base-mobilization travel could preserve Senate control even if the House is lost.",
+    "watch_for": "National Republican party committees canceling advertising reservations in contested purple districts to redirect emergency funds into tier-two red seats.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Trump, kritik seçim bölgelerine yönelik bir taarruz sözü vermişti. Ancak koyu Cumhuriyetçi birçok eyalete gidiyor",
+        "Today": "Başkan Trump, seçim kampanyasının son dönemindeki seyahat programını çekişmeli kritik bölgelerden uzaklaştırıp 2024'te rahatça kazandığı koyu Cumhuriyetçi eyaletlere kaydırdı; bu durum, Cumhuriyetçilerin 2026 ara seçimlerine haftalar kala savunmaya geçmek zorunda kaldığına işaret ediyor.",
+        "Event Type": "ara seçim kampanyasında geri çekilme",
+        "Historical Precedents": "Ekim-Kasım 2018: Trump'ın 2018 ara seçim taban mitingi turu\nEkim 2010: Barack Obama'nın 2010 ara seçim savunma turu\nEkim 2006: George W. Bush'un 2006 ara seçim programı daralması",
+        "What Followed Before": "Ekim-Kasım 2018: Cumhuriyetçiler kırsaldaki birkaç Senato sandalyesini korudu ancak iki hafta sonra 40 Temsilciler Meclisi sandalyesini ve çoğunluğu Demokratlara kaybetti.\nEkim 2010: Demokratlar ılımlı bölgelerde hezimete uğradı ve iki hafta içinde Temsilciler Meclisi'nde net 63, Senato'da ise altı sandalye kaybederek tarihi bir kayıp yaşadı.\nEkim 2006: Demokratlar hem Temsilciler Meclisi'nin hem de Senato'nun kontrolünü ele geçirdi; Temsilciler Meclisi'nde net 30, Senato'da 6 sandalye kazandı.",
+        "Pattern": "Görevdeki bir başkan, bir ara seçim kampanyasının son üç haftasını kritik bölgelere açılmak yerine sözde güvenli olan taban eyaletlerini tahkim etmeye harcadığında, bu durum kurum içi anketlerdeki ciddi zayıflığı yansıtır; son 4 benzer ara seçim döneminin 4'ünde de (1994, 2006, 2010, 2018) bu geri çekilme, Temsilciler Meclisi'nde çift haneli sandalye kayıplarından önce gerçekleşti.",
+        "Outlook": "Kritik banliyö bölgelerindeki ve bağımsız seçmenlerin ağırlıklı olarak Demokratlara yönelmesiyle Cumhuriyetçilerin Temsilciler Meclisi çoğunluğunu net bir kayıpla yitirmesi muhtemel.",
+        "Timeframe": "önümüzdeki 3 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Senato haritası, Cumhuriyetçi eyaletlerin coğrafyası nedeniyle Cumhuriyetçilerin lehine oldukça eğilimli kalabilir; bu da tabanı harekete geçirme amaçlı seyahatlerin, Temsilciler Meclisi kaybedilse bile Senato kontrolünü koruyabileceği anlamına gelir.",
+        "Watch For": "Ulusal Cumhuriyetçi parti komitelerinin, acil durum fonlarını ikinci kademe Cumhuriyetçi sandalyelere yönlendirmek amacıyla çekişmeli mor bölgelerdeki reklam rezervasyonlarını iptal etmesi."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "swing district",
+            "tr": "kararsız/çekişmeli seçim bölgesi"
+          },
+          {
+            "en": "blitz",
+            "tr": "yoğun taarruz/hızlı kampanya"
+          },
+          {
+            "en": "red states",
+            "tr": "Cumhuriyetçi eğilimli eyaletler"
+          }
+        ],
+        "Today": [
+          {
+            "en": "shift",
+            "tr": "kaydırmak, yönünü değiştirmek"
+          },
+          {
+            "en": "contested",
+            "tr": "çekişmeli, tartışmalı"
+          },
+          {
+            "en": "deep-red",
+            "tr": "koyu Cumhuriyetçi"
+          },
+          {
+            "en": "forced onto defense",
+            "tr": "savunmaya geçmek zorunda kalmak"
+          },
+          {
+            "en": "midterms",
+            "tr": "ara seçimler"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "retreat",
+            "tr": "geri çekilme"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "base rally",
+            "tr": "taban mitingi"
+          },
+          {
+            "en": "contraction",
+            "tr": "daralma, küçülme"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "routed",
+            "tr": "hezimete uğratılmış, dağıtılmış"
+          },
+          {
+            "en": "net loss",
+            "tr": "net kayıp"
+          },
+          {
+            "en": "netting",
+            "tr": "net kazanç elde etmek"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "incumbent",
+            "tr": "görevde bulunan"
+          },
+          {
+            "en": "shoring up",
+            "tr": "desteklemek, güçlendirmek"
+          },
+          {
+            "en": "nominally safe",
+            "tr": "sözde/kağıt üzerinde güvenli"
+          },
+          {
+            "en": "internal polling",
+            "tr": "parti içi anketler"
+          },
+          {
+            "en": "preceded",
+            "tr": "-den önce gelmek, habercisi olmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "suffer a net loss",
+            "tr": "net kayıp yaşamak"
+          },
+          {
+            "en": "break heavily toward",
+            "tr": "ağırlıklı olarak bir tarafa yönelmek"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "tilted in favor of",
+            "tr": "lehine eğilimli/eğimli"
+          },
+          {
+            "en": "preserve",
+            "tr": "korumak, muhafaza etmek"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "redirect",
+            "tr": "başka yöne aktarmak"
+          },
+          {
+            "en": "tier-two",
+            "tr": "ikinci kademe, ikincil önemde olan"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "source_link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "President Trump invoked executive waiver authorities to temporarily suspend statutory Russia sanctions recently approved by Congress, citing national security concerns amid escalating friction with Ukraine.",
+    "event_type": "executive sanctions waiver",
+    "precedents": [
+      {
+        "when": "January 2019",
+        "event": "Trump administration waiver on Rusal and EN+ sanctions",
+        "wikipedia_title": "Countering America's Adversaries Through Sanctions Act",
+        "what_happened": "The Trump administration exercised discretionary waiver authority to lift CAATSA sanctions on aluminum producer Rusal and companies tied to Russian oligarch Oleg Deripaska.",
+        "what_followed": "Congress revolted immediately: the House passed a bipartisan resolution of disapproval with 136 Republicans, and the Senate held a rare rebuke vote within weeks.",
+        "similarity": "Same president deploying executive discretion to relax sanctions on Russian entities against clear congressional legislative intent.",
+        "wiki": {
+          "title": "Countering America's Adversaries Through Sanctions Act",
+          "url": "https://en.wikipedia.org/wiki/Countering_America's_Adversaries_Through_Sanctions_Act",
+          "extract": "The Countering America's Adversaries Through Sanctions Act (CAATSA) is a United States federal law that imposed sanctions on Iran, North Korea, and Russia. It accomplishes this goal by preventing U.S. companies from doing business with sanctioned entities. The bill was passed by "
+        }
+      },
+      {
+        "when": "July 2012",
+        "event": "Obama administration NDAA Section 1245 sanctions waivers",
+        "wikipedia_title": "National Defense Authorization Act for Fiscal Year 2012",
+        "what_happened": "President Obama invoked national security waivers to shield multiple foreign crude purchasers from congressionally mandated sanctions against Iran.",
+        "what_followed": "A bipartisan congressional coalition introduced more restrictive follow-on legislation (ITRA and IFCA) that narrowed presidential waiver flexibilities within 12 months.",
+        "similarity": "Executive branch overriding congressional mandatory sanctions via national security waivers to pursue diplomatic flexibility.",
+        "wiki": {
+          "title": "National Defense Authorization Act for Fiscal Year 2012",
+          "url": "https://en.wikipedia.org/wiki/National_Defense_Authorization_Act_for_Fiscal_Year_2012",
+          "extract": "\nThe National Defense Authorization Act (NDAA) for Fiscal Year 2012 is a United States federal law which, among other things, specified the budget and expenditures of the United States Department of Defense. The bill passed the U.S. House on December 14, 2011 and passed the U.S. "
+        }
+      }
+    ],
+    "pattern": "When the White House uses national security waivers to circumvent newly passed statutory sanctions, Congress responds by introducing bipartisan resolutions of disapproval or writing stricter, non-waivable statutory mandates in over 75% of recorded instances.",
+    "outlook": "A bipartisan coalition of congressional defense hawks and Democrats will file a joint resolution of disapproval to overturn the waivers and propose new legislation stripping future waiver clauses.",
+    "probability": "75%",
+    "timeframe": "next 3 months",
+    "confidence": "Medium",
+    "different_this_time": "If the administration successfully leverages sanctions relief into a verifiable cease-fire or energy supply agreement accepted by European allies, congressional momentum to overturn the waivers could stall.",
+    "watch_for": "Senate Foreign Relations Committee members introducing a joint resolution of disapproval under the Congressional Review Act or drafting waiver-nullifying amendments.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Trump, Zelenski ile gerilim tırmanırken bazı Rusya yaptırımlarından muafiyet tanıdı",
+        "Today": "Başkan Trump, Ukrayna ile artan gerilimin ortasında ulusal güvenlik endişelerini gerekçe göstererek, yakın zamanda Kongre tarafından onaylanan yasal Rusya yaptırımlarını geçici olarak askıya almak için yürütmenin muafiyet yetkilerini devreye soktu.",
+        "Event Type": "yürütme yaptırım muafiyeti",
+        "Historical Precedents": "Ocak 2019: Trump yönetiminin Rusal ve EN+ yaptırımlarına ilişkin muafiyeti\nTemmuz 2012: Obama yönetiminin NDAA Madde 1245 yaptırım muafiyetleri",
+        "What Followed Before": "Ocak 2019: Kongre derhal ayaklandı: Temsilciler Meclisi, 136 Cumhuriyetçinin katılımıyla iki partili bir ret tasarısını kabul etti ve Senato haftalar içinde nadir görülen bir kınama oylaması gerçekleştirdi.\nTemmuz 2012: İki partili bir kongre koalisyonu, 12 ay içinde başkanın muafiyet esnekliklerini daraltan daha kısıtlayıcı takip yasalarını (ITRA ve IFCA) sundu.",
+        "Pattern": "Beyaz Saray, yeni kabul edilen yasal yaptırımları bertaraf etmek için ulusal güvenlik muafiyetlerini kullandığında, Kongre vakaların %75'inden fazlasında iki partili ret tasarıları sunarak veya daha katı, muafiyet tanınamaz yasal zorunluluklar kaleme alarak yanıt verir.",
+        "Outlook": "Kongre'deki savunma şahinleri ve Demokratlardan oluşan iki partili bir koalisyon, muafiyetleri geçersiz kılmak için ortak bir ret tasarısı sunacak ve gelecekteki muafiyet maddelerini kaldıran yeni bir yasa önerecektir.",
+        "Timeframe": "önümüzdeki 3 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Yönetim, yaptırım hafifletmesini Avrupalı müttefikler tarafından kabul gören doğrulanabilir bir ateşkes veya enerji tedarik anlaşmasına dönüştürmede başarılı olursa, Kongre'nin muafiyetleri geçersiz kılma yönündeki ivmesi duraklayabilir.",
+        "Watch For": "Senato Dış İlişkiler Komitesi üyelerinin Kongre İnceleme Yasası kapsamında ortak bir ret tasarısı sunması veya muafiyeti geçersiz kılan değişiklikler hazırlaması."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "waive",
+            "tr": "feragat etmek, muaf tutmak"
+          },
+          {
+            "en": "row",
+            "tr": "münakaşa, sürtüşme"
+          },
+          {
+            "en": "intensify",
+            "tr": "şiddetlenmek, tırmanmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "invoke",
+            "tr": "devreye sokmak, başvurmak"
+          },
+          {
+            "en": "waiver authorities",
+            "tr": "muafiyet yetkileri"
+          },
+          {
+            "en": "statutory",
+            "tr": "kanuni, yasal"
+          },
+          {
+            "en": "citing",
+            "tr": "gerekçe göstererek"
+          },
+          {
+            "en": "escalating friction",
+            "tr": "tırmanan sürtüşme/gerginlik"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "executive",
+            "tr": "yürütme, icra"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "revolt",
+            "tr": "başkaldırmak, ayaklanmak"
+          },
+          {
+            "en": "resolution of disapproval",
+            "tr": "ret/onaylamama kararı"
+          },
+          {
+            "en": "rebuke vote",
+            "tr": "kınama oylaması"
+          },
+          {
+            "en": "follow-on legislation",
+            "tr": "takip eden/ardıl mevzuat"
+          },
+          {
+            "en": "narrow",
+            "tr": "daraltmak, sınırlamak"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "circumvent",
+            "tr": "atlatmak, arkasından dolanmak"
+          },
+          {
+            "en": "non-waivable",
+            "tr": "muafiyet tanınamaz, vazgeçilemez"
+          },
+          {
+            "en": "statutory mandates",
+            "tr": "yasal zorunluluklar/talimatlar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "defense hawks",
+            "tr": "savunma şahinleri (sertlik yanlıları)"
+          },
+          {
+            "en": "file a joint resolution",
+            "tr": "ortak karar tasarısı sunmak"
+          },
+          {
+            "en": "overturn",
+            "tr": "hükümsüz kılmak, bozmak"
+          },
+          {
+            "en": "strip",
+            "tr": "ortadan kaldırmak, soymak/almak"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "leverage into",
+            "tr": "avantaja dönüştürerek elde etmek"
+          },
+          {
+            "en": "momentum",
+            "tr": "ivme, hız"
+          },
+          {
+            "en": "stall",
+            "tr": "duraksamak, sekteye uğramak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "drafting",
+            "tr": "taslak hazırlamak"
+          },
+          {
+            "en": "nullify",
+            "tr": "geçersiz kılmak, hükümsüzleştirmek"
+          },
+          {
+            "en": "amendment",
+            "tr": "yasa değişikliği önerisi"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Early voting begins across Massachusetts for 2026 general election",
+    "source_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUE9YMUI5R3l4VGcyekJqaFg5aUs2U3BxZzdMSU9uZHBNSDJlZThnUXAyUWkwakVMLUk0ZDhuc0RuT3VhQXh5VTlSOTRUWk5DZ2pZcFJIQjk4RU5jOWhwUVRyS0ItUUtTNGp4M01yejRhWXdiUi1nTUtNVm9ZTXhfVk5MTENqWUpsalRlTDNIaFQwa3BLREItamRDdkxPWkNGejVEaHQ1d2xFbTFCWEZhMldHSFpPdUtmaFd5d2htQjJGY2pYUXc?oc=5",
+    "what_happened": "In-person early voting launched across Massachusetts on Saturday for the 2026 midterm election, running for two weeks ahead of Election Day. Election officials are monitoring voter mobilization as early voting cements itself as a primary voting method statewide.",
+    "event_type": "early voting launch",
+    "precedents": [
+      {
+        "when": "2022",
+        "event": "Massachusetts 2022 midterm early voting rollout",
+        "wikipedia_title": "2022 Massachusetts general election",
+        "what_happened": "Massachusetts permanently codified no-excuse mail-in and expanded in-person early voting under the VOTES Act ahead of the 2022 midterms.",
+        "what_followed": "Over 45% of total statewide ballots were cast prior to Election Day, locking in established partisan advantages early and yielding a decisive Democratic sweep across statewide constitutional offices.",
+        "similarity": "Same state, identical midterm calendar, and under the same statutory framework (VOTES Act).",
+        "wiki": {
+          "title": "2022 Massachusetts elections",
+          "url": "https://en.wikipedia.org/wiki/2022_Massachusetts_elections",
+          "extract": "The 2022 Massachusetts general election was held on November 8, 2022, throughout Massachusetts. Primary elections were held on September 6, 2022."
+        }
+      },
+      {
+        "when": "2018",
+        "event": "Massachusetts 2018 midterm early voting debut",
+        "wikipedia_title": "2018 Massachusetts general election",
+        "what_happened": "Massachusetts implemented in-person early voting in a midterm cycle for the first time in state history.",
+        "what_followed": "Over 580,000 citizens voted early, driving total midterm turnout to a near-record 60%, with early balloting heavily skewing toward higher-propensity, suburban registered voters.",
+        "similarity": "Same jurisdiction and midterm environment testing voter appetite for advance voting.",
+        "wiki": {
+          "title": "2018 Massachusetts elections",
+          "url": "https://en.wikipedia.org/wiki/2018_Massachusetts_elections",
+          "extract": "The 2018 Massachusetts general election was held on November 6, 2018, throughout Massachusetts. Primary elections took place on September 4. Early voting took place from October 22 through November 2."
+        }
+      }
+    ],
+    "pattern": "Since Massachusetts adopted widespread early voting, advance ballots have accounted for 40% to 55% of the total vote in general elections. Early voting does not significantly alter partisan margins compared to late polling, but it raises the floor for turnout and diminishes the impact of late-breaking campaign developments in the final 10 days.",
+    "outlook": "Over 40% of Massachusetts general election ballots will be banked before Election Day, heavily insulating front-runners and limiting the closing window for insurgent candidates to shift the race.",
+    "probability": "85%",
+    "timeframe": "next 3 weeks",
+    "confidence": "High",
+    "different_this_time": "Voter fatigue, ballot question fatigue, or localized activist demonstrations (such as the 'No Kings' rallies) could slightly depress in-person early turnout in favor of standard mail-in ballots.",
+    "watch_for": "Secretary of the Commonwealth daily returns tracking early in-person ballot counts relative to 2022 levels.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "2026 genel seçimi için Massachusetts genelinde erken oy verme işlemi başladı",
+        "Today": "2026 ara seçimleri için Massachusetts genelinde şahsen erken oy verme işlemi Cumartesi günü başladı ve Seçim Günü'nden önce iki hafta sürecek. Seçim yetkilileri, erken oy vermenin eyalet genelinde birincil oy verme yöntemi olarak yerleşmesiyle birlikte seçmen hareketliliğini izliyor.",
+        "Event Type": "erken oy verme başlangıcı",
+        "Historical Precedents": "2022: Massachusetts 2022 ara seçimi erken oy verme uygulaması\n2018: Massachusetts 2018 ara seçimi erken oy verme başlangıcı",
+        "What Followed Before": "2022: Eyalet genelindeki toplam oyların %45'inden fazlası Seçim Günü'nden önce kullanıldı; bu durum kurulmuş olan partizan avantajlarını erkenden sabitledi ve eyalet çapındaki anayasal makamlarda kesin bir Demokrat zaferi sağladı.\n2018: 580.000'den fazla vatandaş erken oy kullanarak toplam ara seçim katılımını rekor seviyeye yakın bir oran olan %60'a çıkardı; erken oy pusulaları büyük ölçüde yüksek eğilimli, banliyölerde kayıtlı seçmenler lehine ağırlık kazandı.",
+        "Pattern": "Massachusetts yaygın erken oy vermeyi benimsediğinden beri, ön oylar genel seçimlerdeki toplam oyun %40 ila %55'ini oluşturdu. Erken oy verme, son anketlere kıyasla partizan marjlarını önemli ölçüde değiştirmez, ancak katılımın tabanını yükseltir ve son 10 gündeki son dakika kampanya gelişmelerinin etkisini azaltır.",
+        "Outlook": "Massachusetts genel seçim oylarının %40'ından fazlası Seçim Günü'nden önce garantiye alınmış olacak; bu durum önde gelen adayları büyük ölçüde koruyacak ve isyancı adayların yarışın yönünü değiştirmesi için kalan pencereyi sınırlayacaktır.",
+        "Timeframe": "önümüzdeki 3 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Seçmen yorgunluğu, oy pusulası soru yorgunluğu veya yerelleşmiş eylemci gösterileri ('Kral Yok' mitingleri gibi), standart posta yoluyla oy pusulaları lehine şahsen erken katılımı biraz baskılayabilir.",
+        "Watch For": "Birlik Sekreteri'nin (Secretary of the Commonwealth) 2022 seviyelerine göre erken şahsen oy pusulası sayımlarını takip eden günlük raporları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "general election",
+            "tr": "genel seçim"
+          }
+        ],
+        "Today": [
+          {
+            "en": "midterm election",
+            "tr": "ara seçim"
+          },
+          {
+            "en": "voter mobilization",
+            "tr": "seçmen hareketliliği / seferberliği"
+          },
+          {
+            "en": "cement",
+            "tr": "sağlamlaştırmak, yerleştirmek"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "rollout",
+            "tr": "uygulamaya koyma, sunum"
+          },
+          {
+            "en": "debut",
+            "tr": "ilk çıkış, başlangıç"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "ballots were cast",
+            "tr": "oylar kullanıldı"
+          },
+          {
+            "en": "partisan advantages",
+            "tr": "partizan avantajlar"
+          },
+          {
+            "en": "decisive sweep",
+            "tr": "kesin zafer / ezici üstünlük"
+          },
+          {
+            "en": "turnout",
+            "tr": "seçime katılım oranı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "advance ballots",
+            "tr": "önceden kullanılan oylar"
+          },
+          {
+            "en": "raise the floor",
+            "tr": "tabanı yükseltmek"
+          },
+          {
+            "en": "diminish",
+            "tr": "azaltmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "insulate",
+            "tr": "korumak, yalıtmak"
+          },
+          {
+            "en": "front-runners",
+            "tr": "önde gelen adaylar"
+          },
+          {
+            "en": "insurgent candidates",
+            "tr": "isyancı / muhalif adaylar"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "voter fatigue",
+            "tr": "seçmen yorgunluğu"
+          },
+          {
+            "en": "depress",
+            "tr": "baskılamak, düşürmek"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "returns",
+            "tr": "seçim sonuçları / raporları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Herald poll raises prospect of upset in Massachusetts gubernatorial race",
+    "source_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY3llV2pJS2ZFZjZNOW1Ja2J2eXdzc3BYWnVlbGVjQXhNNFRqVHhOeVJZVHQ1T19MdUVYbzA3ZzU3ZjBtX0FOUmFPaHFhNkE2dzlEd1psVElSbTRfeV9RUWQwR0JGMnJab2tJV2RXbWpybWw0Yk5rMzBlbUk4OVBYTldrdFhBaDNqRTMxQ2NZX3pyVGducVJqMXJHQzR6REpoZWdj?oc=5",
+    "what_happened": "A Boston Herald survey signaled potential electoral vulnerability for incumbent Governor Maura Healey against challenger Minogue, prompting debate over whether an upset is developing. Analysts are examining whether tightening poll numbers indicate genuine voter backlash or standard late-campaign narrowing.",
+    "event_type": "gubernatorial election polling",
+    "precedents": [
+      {
+        "when": "2010",
+        "event": "Deval Patrick re-election campaign",
+        "wikipedia_title": "2010 Massachusetts gubernatorial election",
+        "what_happened": "Incumbent Democratic Governor Deval Patrick saw polls tighten dramatically against Republican challenger Charlie Baker and independent Tim Cahill amid nationwide midterm backlash.",
+        "what_followed": "Patrick mobilized the core Democratic base in Greater Boston during the final three weeks, winning re-election comfortably by 6.4 percentage points (48.4% to 42.0%).",
+        "similarity": "Same state and office: an incumbent Democratic governor facing tightening midterm polling from an insurgent challenger.",
+        "wiki": {
+          "title": "2010 Massachusetts gubernatorial election",
+          "url": "https://en.wikipedia.org/wiki/2010_Massachusetts_gubernatorial_election",
+          "extract": "The 2010 Massachusetts gubernatorial election was held on November 2, 2010. Incumbent Democratic Governor Deval Patrick was re-elected to a second term."
+        }
+      },
+      {
+        "when": "2014",
+        "event": "Charlie Baker vs. Martha Coakley",
+        "wikipedia_title": "2014 Massachusetts gubernatorial election",
+        "what_happened": "Public polling showed Democrat Martha Coakley locked in a tight race with Republican Charlie Baker down the stretch of the open-seat contest.",
+        "what_followed": "Baker capitalized on independent voters and dissatisfaction with state agency mismanagement to edge Coakley by 1.9 percentage points on Election Day.",
+        "similarity": "Demonstrates that Massachusetts statewide races can produce upsets when center-right challengers consolidate independents against entrenched Democrats.",
+        "wiki": {
+          "title": "2014 Massachusetts gubernatorial election",
+          "url": "https://en.wikipedia.org/wiki/2014_Massachusetts_gubernatorial_election",
+          "extract": "The 2014 Massachusetts gubernatorial election took place on November 4, 2014, to elect the governor of Massachusetts, concurrently with the election of Massachusetts's Class II U.S. Senate seat, other elections to the United States Senate in other states, elections to the United "
+        }
+      }
+    ],
+    "pattern": "In modern Massachusetts gubernatorial history, incumbent Democratic governors targeted by tightening late polls have survived in 3 of 4 cases by leaning on the state's 3-to-1 Democratic registration advantage; upsets almost exclusively occur in open-seat races (e.g., 1990, 2002, 2014) rather than against sitting governors with organized party backing.",
+    "outlook": "Incumbent Maura Healey is likely to retain the governorship as the Democratic organization consolidates undecideds, though her final margin of victory will narrow substantially compared to 2022.",
+    "probability": "70%",
+    "timeframe": "next 3 weeks",
+    "confidence": "Medium",
+    "different_this_time": "Severe state budget strains, high cost-of-living concerns, and persistent Massachusetts MBTA transit headaches could mobilize independent voters at higher-than-historical rates for the challenger.",
+    "watch_for": "Suburban Boston polling numbers among self-identified unenrolled voters and emergency television ad spending by the incumbent campaign.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Herald anketi, Massachusetts valilik yarışında sürpriz ihtimalini artırıyor",
+        "Today": "Boston Herald'ın yaptığı bir araştırma, görevdeki Vali Maura Healey'nin rakibi Minogue karşısındaki potansiyel seçmen kırılganlığına işaret ederek bir sürprizin gelişmekte olup olmadığı konusunda tartışma başlattı. Analistler, daralan anket rakamlarının gerçek bir seçmen tepkisini mi yoksa standart bir kampanya sonu daralmasını mı gösterdiğini inceliyor.",
+        "Event Type": "valilik seçimi anketleri",
+        "Historical Precedents": "2010: Deval Patrick yeniden seçim kampanyası\n2014: Charlie Baker - Martha Coakley karşısında",
+        "What Followed Before": "2010: Patrick, son üç hafta içinde Greater Boston'daki çekirdek Demokrat tabanı harekete geçirerek 6,4 yüzde puanı farkla (%48,4'e karşılık %42,0) rahatça yeniden seçimi kazandı.\n2014: Baker, bağımsız seçmenlerden ve devlet kurumlarının kötü yönetiminden duyulan hoşnutsuzluktan yararlanarak Seçim Günü'nde Coakley'yi 1,9 yüzde puanı farkla geride bıraktı.",
+        "Pattern": "Modern Massachusetts valilik tarihinde, daralan son anketlerin hedefi olan görevdeki Demokrat valiler, eyaletin 3'e 1'lik Demokrat kayıt avantajına dayanarak 4 vakadan 3'ünde hayatta kalmıştır; sürprizler neredeyse sadece görevdeki parti destekli oturmuş valilere karşı değil, açık koltuk yarışlarında (örn. 1990, 2002, 2014) meydana gelir.",
+        "Outlook": "Görevdeki Maura Healey, Demokrat teşkilat kararsızları konsolide ettikçe valiliği koruması muhtemeldir, ancak nihai zafer marjı 2022'ye kıyasla büyük ölçüde daralacaktır.",
+        "Timeframe": "önümüzdeki 3 hafta",
+        "Confidence": "Orta",
+        "Why Different This Time": "Ciddi eyalet bütçe sıkıntıları, yüksek yaşam maliyeti endişeleri ve kalıcı Massachusetts MBTA toplu taşıma baş ağrıları, bağımsız seçmenleri rakip lehine tarihsel oranların üzerinde harekete geçirebilir.",
+        "Watch For": "Kendini kayıtsız (bağımsız) olarak tanımlayanlar arasındaki banliyö Boston anket rakamları ve görevdeki kampanyanın acil televizyon reklamı harcamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "upset",
+            "tr": "sürpriz sonuç / galibiyet"
+          },
+          {
+            "en": "gubernatorial race",
+            "tr": "valilik yarışı"
+          }
+        ],
+        "Today": [
+          {
+            "en": "vulnerability",
+            "tr": "kırılganlık, zayıflık"
+          },
+          {
+            "en": "incumbent",
+            "tr": "görevdeki (kişi)"
+          },
+          {
+            "en": "voter backlash",
+            "tr": "seçmen tepkisi"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "capitalized on",
+            "tr": "faydalandı, sermayeye dönüştürdü"
+          },
+          {
+            "en": "mismanagement",
+            "tr": "kötü yönetim"
+          },
+          {
+            "en": "edge",
+            "tr": "az farkla geçmek"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "open-seat races",
+            "tr": "açık koltuk yarışları (görevde kimsenin olmadığı)"
+          },
+          {
+            "en": "sitting governors",
+            "tr": "görevdeki valiler"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "retain",
+            "tr": "korumak, elinde tutmak"
+          },
+          {
+            "en": "consolidate",
+            "tr": "pekiştirmek, birleştirmek"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "budget strains",
+            "tr": "bütçe sıkıntıları"
+          },
+          {
+            "en": "cost-of-living",
+            "tr": "yaşam maliyeti"
+          },
+          {
+            "en": "persistent",
+            "tr": "kalıcı, inatçı"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "unenrolled voters",
+            "tr": "partiye kayıtlı olmayan seçmenler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+    "source_link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Nationwide demonstrations in France over living standards and education conditions escalated into destructive riots, resulting in widespread looting, arson, and approximately 1,800 arrests.",
+    "event_type": "civil unrest",
+    "precedents": [
+      {
+        "when": "November–December 2018",
+        "event": "Yellow vests movement protests in Paris",
+        "wikipedia_title": "Yellow vests protests",
+        "what_happened": "Cost-of-living protests escalated into violent clashes across Paris and other major cities, marked by vehicle fires, barricades, and mass arrests.",
+        "what_followed": "Within four weeks, the French government announced a €10 billion package including a minimum wage hike and the withdrawal of planned fuel tax increases.",
+        "similarity": "Same actors (French state and broad-based populist/student coalitions) and identical tactical patterns of urban property damage and rioting.",
+        "wiki": {
+          "title": "Yellow vests protests",
+          "url": "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+          "extract": "The yellow vest movement refers to those involved in a series of populist, grassroots weekly protests in France that began on 17 November 2018 and ended on 28 June 2020."
+        }
+      },
+      {
+        "when": "October–November 2005",
+        "event": "2005 French riots",
+        "wikipedia_title": "2005 French riots",
+        "what_happened": "Weeks of violent unrest, car burning, and clashes with police spread across Parisian suburbs and numerous French cities following youth deaths.",
+        "what_followed": "The French cabinet declared a three-week state of emergency and deployed tens of thousands of riot police, after which the unrest subsided and urban investment funds were pledged.",
+        "similarity": "Same actors (French interior ministry and youth rioters) involving large-scale vehicle arson and mass arrests across multiple cities.",
+        "wiki": {
+          "title": "2005 French riots",
+          "url": "https://en.wikipedia.org/wiki/2005_French_riots",
+          "extract": "The 2005 French riots was a three-week long period of civil disturbances that took place in the suburbs of Paris and other French cities in October and November 2005. These riots involved youth in violent attacks, outbreaks of arson of vehicles and public buildings."
+        }
+      },
+      {
+        "when": "May 1968",
+        "event": "May 68 civil unrest in France",
+        "wikipedia_title": "May 68",
+        "what_happened": "Student-led demonstrations against educational institutions merged with a massive general strike across France, leading to street battles with police.",
+        "what_followed": "The government negotiated the Grenelle agreements within three weeks to raise wages, and President Charles de Gaulle dissolved the National Assembly for snap elections.",
+        "similarity": "Same dynamic of student-led grievances fusing with wider economic discontent to threaten broader political stability.",
+        "wiki": {
+          "title": "May 68",
+          "url": "https://en.wikipedia.org/wiki/May_68",
+          "extract": "May 68 was a period of widespread protests, strikes, and civil unrest in France that began in May 1968 and became one of the most significant social uprisings in modern European history. Sparked by student demonstrations against university conditions and government repression, th"
+        }
+      }
+    ],
+    "pattern": "In major French protest cycles where student grievances combine with general cost-of-living discontent (e.g., 1968, 1986, 2006, 2018), governments make substantial policy or financial concessions within 3 to 6 weeks in roughly 75% of cases to detach moderates from radical rioters.",
+    "outlook": "The French executive will enforce heavy-handed policing and potential localized curfews while preparing targeted financial relief or policy compromises on education to fracture the protest coalition.",
+    "probability": "75%",
+    "timeframe": "next 2 to 4 weeks",
+    "confidence": "High",
+    "different_this_time": "France's fragmented legislature and high budget deficit severely restrict the executive's fiscal room to offer expensive subsidies or wage concessions without triggering a parliamentary vote of no confidence.",
+    "watch_for": "Whether major French trade unions call general strikes alongside student groups, and announcements of emergency security decrees by the Interior Ministry.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Paris sokaklarında protestoların isyan ve yağmaya dönüşmesinin ardından yanmış arabalar ve kırık camlar",
+        "Today": "Fransa'da yaşam standartları ve eğitim koşullarına karşı düzenlenen ülke çapındaki gösteriler yıkıcı isyanlara dönüştü; bu durum yaygın yağmalamalara, kundaklamalara ve yaklaşık 1.800 kişinin gözaltına alınmasına yol açtı.",
+        "Event Type": "sivil kargaşa",
+        "Historical Precedents": "Kasım–Aralık 2018: Paris'te Sarı Yelekliler hareketi protestoları\nEkim–Kasım 2005: 2005 Fransa banliyö isyanları\nMayıs 1968: Fransa'da Mayıs 68 sivil kargaşası",
+        "What Followed Before": "Kasım–Aralık 2018: Dört hafta içinde Fransız hükümeti, asgari ücret artışı ve planlanan akaryakıt vergisi zamlarının geri çekilmesini içeren 10 milyar avroluk bir paket açıkladı.\nEkim–Kasım 2005: Fransız kabinesi üç haftalık olağanüstü hal ilan etti ve on binlerce çevik kuvvet polisi görevlendirdi; bunun ardından huzursuzluk dindi ve kentsel yatırım fonları taahhüt edildi.\nMayıs 1968: Hükümet üç hafta içinde ücretleri artırmak için Grenelle anlaşmalarını müzakere etti ve Cumhurbaşkanı Charles de Gaulle erken seçimler için Ulusal Meclis'i feshetti.",
+        "Pattern": "Öğrenci şikayetlerinin genel hayat pahalılığı hoşnutsuzluğuyla birleştiği büyük Fransız protesto döngülerinde (örneğin 1968, 1986, 2006, 2018), hükümetler ılımlıları radikal isyancılardan koparmak amacıyla vakaların yaklaşık %75'inde 3 ila 6 hafta içinde önemli politika veya mali tavizler verir.",
+        "Outlook": "Fransız hükümeti, protesto koalisyonunu bölmek amacıyla eğitime yönelik hedefe odaklı mali yardım veya politika tavizleri hazırlarken, sert polis müdahaleleri uygulayacak ve potansiyel yerel sokağa çıkma yasakları getirecektir.",
+        "Timeframe": "önümüzdeki 2 ila 4 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Fransa'nın parçalanmış yasama organı ve yüksek bütçe açığı, mecliste bir gensoru önergesini tetiklemeden yürütmenin pahalı sübvansiyonlar veya ücret tavizleri sunma konusundaki mali alanını ciddi şekilde kısıtlıyor.",
+        "Watch For": "Büyük Fransız sendikalarının öğrenci gruplarıyla birlikte genel grev çağrısı yapıp yapmayacağı ve İçişleri Bakanlığı'nın olağanüstü güvenlik kararnameleri açıklamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "burnt out",
+            "tr": "tamamen yanmış, kül olmuş"
+          },
+          {
+            "en": "shattered",
+            "tr": "tuzla buz olmuş, parçalanmış"
+          },
+          {
+            "en": "riots",
+            "tr": "isyanlar, ayaklanmalar"
+          },
+          {
+            "en": "looting",
+            "tr": "yağmalama"
+          }
+        ],
+        "Today": [
+          {
+            "en": "escalated into",
+            "tr": "tırmanarak ... haline gelmek"
+          },
+          {
+            "en": "destructive",
+            "tr": "yıkıcı, tahrip edici"
+          },
+          {
+            "en": "widespread",
+            "tr": "yaygın"
+          },
+          {
+            "en": "arson",
+            "tr": "kundakçılık"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "civil unrest",
+            "tr": "sivil kargaşa, toplumsal huzursuzluk"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "minimum wage hike",
+            "tr": "asgari ücret artışı / zammı"
+          },
+          {
+            "en": "withdrawal",
+            "tr": "geri çekme, iptal etme"
+          },
+          {
+            "en": "riot police",
+            "tr": "çevik kuvvet polisi"
+          },
+          {
+            "en": "subsided",
+            "tr": "yatıştı, dindi"
+          },
+          {
+            "en": "pledged",
+            "tr": "taahhüt edildi, vadedildi"
+          },
+          {
+            "en": "dissolved",
+            "tr": "feshetti"
+          },
+          {
+            "en": "snap elections",
+            "tr": "erken seçimler"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "grievances",
+            "tr": "şikayetler, yakınmalar"
+          },
+          {
+            "en": "cost-of-living",
+            "tr": "hayat pahalılığı, yaşam maliyeti"
+          },
+          {
+            "en": "concessions",
+            "tr": "tavizler, ödünler"
+          },
+          {
+            "en": "detach",
+            "tr": "ayırmak, koparmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "executive",
+            "tr": "yürütme erki, hükümet"
+          },
+          {
+            "en": "heavy-handed",
+            "tr": "sert, aşırı baskıcı"
+          },
+          {
+            "en": "curfews",
+            "tr": "sokağa çıkma yasakları"
+          },
+          {
+            "en": "fracture",
+            "tr": "bölmek, parçalamak"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "fragmented legislature",
+            "tr": "bölünmüş / parçalı yasama organı"
+          },
+          {
+            "en": "budget deficit",
+            "tr": "bütçe açığı"
+          },
+          {
+            "en": "subsidies",
+            "tr": "sübvansiyonlar, mali destekler"
+          },
+          {
+            "en": "vote of no confidence",
+            "tr": "güvensizlik oyu, gensoru"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "trade unions",
+            "tr": "işçi sendikaları"
+          },
+          {
+            "en": "general strikes",
+            "tr": "genel grevler"
+          },
+          {
+            "en": "decrees",
+            "tr": "kararnameler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "source_link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "The US president temporarily waived several congressional sanctions on Moscow citing national security, while public friction with Ukrainian President Volodymyr Zelensky escalated.",
+    "event_type": "sanctions waiver",
+    "precedents": [
+      {
+        "when": "January 2019",
+        "event": "Trump administration lifts sanctions on Rusal and En+",
+        "wikipedia_title": "Countering America's Adversaries Through Sanctions Act",
+        "what_happened": "The US Department of the Treasury removed sanctions on major Russian aluminum companies tied to Oleg Deripaska after ownership restructuring.",
+        "what_followed": "Despite strong bipartisan opposition, a Senate resolution of disapproval failed by three votes, leaving the sanctions relief permanently in place.",
+        "similarity": "Same executive administration, same target country (Russia), and utilization of statutory waiver mechanisms against congressional intent.",
+        "wiki": {
+          "title": "Countering America's Adversaries Through Sanctions Act",
+          "url": "https://en.wikipedia.org/wiki/Countering_America's_Adversaries_Through_Sanctions_Act",
+          "extract": "The Countering America's Adversaries Through Sanctions Act (CAATSA) is a United States federal law that imposed sanctions on Iran, North Korea, and Russia. It accomplishes this goal by preventing U.S. companies from doing business with sanctioned entities. The bill was passed by "
+        }
+      },
+      {
+        "when": "July–September 2019",
+        "event": "Freeze of congressionally appropriated military aid to Ukraine",
+        "wikipedia_title": "Trump–Ukraine scandal",
+        "what_happened": "The Trump administration held up nearly $400 million in security assistance to Ukraine while demanding political concessions from Kyiv.",
+        "what_followed": "The freeze sparked intense congressional blowback, was released under bipartisan pressure after two months, and triggered Trump's first impeachment inquiry.",
+        "similarity": "Same key leaders (Donald Trump and Volodymyr Zelensky) and the use of executive prerogative over foreign policy instruments to pressure Ukraine.",
+        "wiki": {
+          "title": "2019 Trump–Ukraine scandal",
+          "url": "https://en.wikipedia.org/wiki/2019_Trump%E2%80%93Ukraine_scandal",
+          "extract": "The 2019 Trump–Ukraine political scandal arose primarily from the discovery of U.S. president Donald Trump's attempts to coerce Ukraine into investigating his political rival Joe Biden and thus potentially damage Biden's campaign for the 2020 Democratic Party presidential nominat"
+        }
+      }
+    ],
+    "pattern": "When a US president invokes national security waivers to dismantle bipartisan congressional sanctions against a strategic rival, Congress attempts legislative counter-measures in more than 70% of historical cases, but presidential vetoes preserve executive relief unless two-thirds supermajorities unite.",
+    "outlook": "Bipartisan leaders in Congress will introduce joint resolutions of disapproval or new legislation to constrain waiver powers, while the diplomatic rift between Washington and Kyiv widens further.",
+    "probability": "70%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "Medium",
+    "different_this_time": "If the president's party maintains strict legislative discipline in both the House and Senate, congressional opposition may remain rhetorical without reaching the floor for formal disapproval votes.",
+    "watch_for": "Statements from Republican foreign policy hawks in the Senate and reciprocal diplomatic gestures or energy concessions offered by the Kremlin.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Zelenski ile gerilim tırmanırken Trump, Rusya'ya yönelik birçok yaptırımı askıya aldı",
+        "Today": "ABD Başkanı, ulusal güvenliği gerekçe göstererek Moskova'ya yönelik Kongre onaylı çeşitli yaptırımları geçici olarak askıya alırken, Ukrayna Devlet Başkanı Volodimir Zelenski ile kamuoyu önündeki sürtüşme tırmandı.",
+        "Event Type": "yaptırım muafiyeti",
+        "Historical Precedents": "Ocak 2019: Trump yönetimi Rusal ve En+ üzerindeki yaptırımları kaldırdı\nTemmuz–Eylül 2019: Kongre tarafından tahsis edilen Ukrayna askeri yardımının dondurulması",
+        "What Followed Before": "Ocak 2019: Güçlü iki partili muhalefete rağmen, Senato'daki bir itiraz tasarısı üç oyla reddedildi ve yaptırım muafiyeti kalıcı olarak yürürlükte kaldı.\nTemmuz–Eylül 2019: Yardım dondurma kararı Kongre'de yoğun tepkiye yol açtı, iki partinin baskısıyla iki ay sonra serbest bırakıldı ve Trump'ın ilk azil soruşturmasını tetikledi.",
+        "Pattern": "Bir ABD başkanı stratejik bir rakibe karşı iki partili Kongre yaptırımlarını ortadan kaldırmak için ulusal güvenlik muafiyetlerine başvurduğunda, Kongre tarihsel vakaların %70'inden fazlasında yasal karşı tedbirler almaya çalışır; ancak üçte ikilik nitelikli çoğunluk birleşmedikçe başkanlık vetoları yürütmenin tanıdığı muafiyeti korur.",
+        "Outlook": "Kongre'deki iki partili liderler, muafiyet yetkilerini kısıtlamak için ortak itiraz tasarıları veya yeni yasalar sunacak; Washington ile Kiev arasındaki diplomatik çatlak ise daha da derinleşecek.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Eğer başkanın partisi hem Temsilciler Meclisi'nde hem de Senato'da katı bir yasama disiplini sağlarsa, Kongre muhalefeti resmi ret oylamaları için genel kurula gelmeden yalnızca sözde kalabilir.",
+        "Watch For": "Senato'daki Cumhuriyetçi dış politika şahinlerinin açıklamaları ve Kremlin tarafından sunulan karşılıklı diplomatik jestler veya enerji tavizleri."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "waives",
+            "tr": "feragat etmek, askıya almak/muaf tutmak"
+          },
+          {
+            "en": "row",
+            "tr": "ağız kavgası, gerginlik, sürtüşme"
+          },
+          {
+            "en": "intensifies",
+            "tr": "şiddetlenmek, tırmanmak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "citing",
+            "tr": "gerekçe göstererek, belirterek"
+          },
+          {
+            "en": "friction",
+            "tr": "sürtüşme, anlaşmazlık"
+          },
+          {
+            "en": "escalated",
+            "tr": "tırmandı, arttı"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "waiver",
+            "tr": "muafiyet, feragat"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "appropriated",
+            "tr": "ödenek olarak tahsis edilmiş"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "bipartisan",
+            "tr": "iki partili (ortak)"
+          },
+          {
+            "en": "resolution of disapproval",
+            "tr": "ret/itiraz karar tasarısı"
+          },
+          {
+            "en": "blowback",
+            "tr": "beklenmedik sert tepki, ters tepme"
+          },
+          {
+            "en": "impeachment inquiry",
+            "tr": "azil soruşturması"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "invokes",
+            "tr": "başvurmak, yürürlüğe koymak"
+          },
+          {
+            "en": "dismantle",
+            "tr": "ortadan kaldırmak, sökmek"
+          },
+          {
+            "en": "counter-measures",
+            "tr": "karşı önlemler/tedbirler"
+          },
+          {
+            "en": "supermajorities",
+            "tr": "nitelikli çoğunluklar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "constrain",
+            "tr": "kısıtlamak, sınırlamak"
+          },
+          {
+            "en": "rift",
+            "tr": "çatlak, ayrılık"
+          },
+          {
+            "en": "widens",
+            "tr": "genişliyor, derinleşiyor"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "legislative discipline",
+            "tr": "parti içi yasama disiplini"
+          },
+          {
+            "en": "rhetorical",
+            "tr": "yalnızca sözde kalan, retorik"
+          },
+          {
+            "en": "reach the floor",
+            "tr": "genel kurul oylamasına gelmek"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "hawks",
+            "tr": "şahinler (savaş yanlısı/sertlik yanlısı politikacılar)"
+          },
+          {
+            "en": "reciprocal",
+            "tr": "karşılıklı, mütekabil"
+          },
+          {
+            "en": "gestures",
+            "tr": "jestler, adımlar"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "3 Charts That Explain the Economy as Voters Head to the Polls",
+    "source_link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
+    "what_happened": "Voters prepare for midterm elections amid elevated inflation and solid consumer spending, with public sentiment heavily influenced by technological disruption and uneven economic indicators.",
+    "event_type": "midterm elections during high inflation",
+    "precedents": [
+      {
+        "when": "November 2022",
+        "event": "2022 United States midterms during generational inflation",
+        "wikipedia_title": "2022 United States elections",
+        "what_happened": "Voters went to the polls with annual consumer price inflation hovering above 7% despite resilient consumer spending and low unemployment.",
+        "what_followed": "The incumbent Democratic Party lost control of the House of Representatives within weeks, though historically strong job numbers helped avert a larger projected landslide.",
+        "similarity": "Same country, same economic paradox of high inflation juxtaposed with resilient labor markets and spending entering a midterm election.",
+        "wiki": {
+          "title": "2022 United States elections",
+          "url": "https://en.wikipedia.org/wiki/2022_United_States_elections",
+          "extract": "Elections were held in the United States on November 8, 2022. In these midterm elections, which occurred during incumbent Democratic president Joe Biden's term, all 435 seats in the U.S. House of Representatives and 35 of the 100 seats in the U.S. Senate were contested to determi"
+        }
+      },
+      {
+        "when": "November 1978",
+        "event": "1978 United States midterm elections under stagflation",
+        "wikipedia_title": "1978 United States House of Representatives elections",
+        "what_happened": "Voters faced rising inflation rates surpassing 8% despite sustained domestic consumption during Jimmy Carter's presidency.",
+        "what_followed": "The incumbent Democrats lost 15 House seats and 3 Senate seats, beginning a structural voter backlash against cost-of-living increases that culminated in the 1980 sweep.",
+        "similarity": "Same dynamic of incumbent party defending legislative control while persistent price pressures erode consumer confidence.",
+        "wiki": {
+          "title": "1978 United States House of Representatives elections",
+          "url": "https://en.wikipedia.org/wiki/1978_United_States_House_of_Representatives_elections",
+          "extract": "The 1978 United States House of Representatives elections was an election for the United States House of Representatives on November 7, 1978, to elect members to serve in the 96th United States Congress. They occurred in the middle of Democratic President Jimmy Carter's term, ami"
+        }
+      },
+      {
+        "when": "November 1982",
+        "event": "1982 United States midterm elections during economic turbulence",
+        "wikipedia_title": "1982 United States House of Representatives elections",
+        "what_happened": "Voters evaluated the White House's economic management following Federal Reserve tightening and economic disruption.",
+        "what_followed": "The incumbent Republican Party lost 26 seats in the House within days of the vote as dissatisfaction with economic adjustment costs peaked.",
+        "similarity": "Voters punishing the incumbent governing party for restrictive macroeconomic conditions despite early signs of structural growth.",
+        "wiki": {
+          "title": "1982 United States House of Representatives elections",
+          "url": "https://en.wikipedia.org/wiki/1982_United_States_House_of_Representatives_elections",
+          "extract": "The 1982 United States House of Representatives elections was an election for the United States House of Representatives held on November 2, 1982, to elect members to serve in the 98th United States Congress. They occurred in the middle of President Ronald Reagan's first term, wh"
+        }
+      }
+    ],
+    "pattern": "In 19 of the last 21 post-WWII midterms, the sitting president's party lost legislative seats; when headline inflation exceeds 4% at election time, the incumbent party loses control of at least one congressional chamber over 75% of the time.",
+    "outlook": "The governing party is likely to suffer net losses in the House of Representatives, constraining legislative priorities for the remainder of the presidential term.",
+    "probability": "75%",
+    "timeframe": "next 1 month",
+    "confidence": "High",
+    "different_this_time": "AI-driven capital expenditures and stock market performance have insulated retirement accounts and high-income spending, which could mute the severity of typical cost-of-living backlash.",
+    "watch_for": "Final October University of Michigan consumer sentiment prints and early voter turnout figures in suburban swing districts.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Seçmenler Sandık Başına Giderken Ekonomiyi Açıklayan 3 Grafik",
+        "Today": "Seçmenler, teknolojik aksamalar ve dengesiz ekonomik göstergelerin kamuoyu algısını büyük ölçüde etkilediği bir ortamda; yüksek enflasyon ve güçlü tüketici harcamaları eşliğinde ara seçimlere hazırlanıyor.",
+        "Event Type": "yüksek enflasyon döneminde ara seçimler",
+        "Historical Precedents": "Kasım 2022: Nesiller boyu görülmemiş enflasyon sürecindeki 2022 Amerika Birleşik Devletleri ara seçimleri\nKasım 1978: Stagflasyon altındaki 1978 Amerika Birleşik Devletleri ara seçimleri\nKasım 1982: Ekonomik çalkantı dönemindeki 1982 Amerika Birleşik Devletleri ara seçimleri",
+        "What Followed Before": "Kasım 2022: Görevdeki Demokrat Parti, haftalar içinde Temsilciler Meclisi'nin kontrolünü kaybetti; ancak tarihsel olarak güçlü istihdam verileri öngörülen daha büyük bir hezimetin önüne geçilmesine yardımcı oldu.\nKasım 1978: İktidardaki Demokratlar, Temsilciler Meclisi'nde 15, Senato'da ise 3 koltuk kaybetti ve 1980 seçim zaferiyle sonuçlanan, yaşam maliyetlerindeki artışlara yönelik yapısal seçmen tepkisi başladı.\nKasım 1982: İktidardaki Cumhuriyetçi Parti, ekonomik uyum maliyetlerine yönelik memnuniyetsizliğin zirveye ulaşmasıyla oylamadan birkaç gün sonra Temsilciler Meclisi'nde 26 sandalye kaybetti.",
+        "Pattern": "II. Dünya Savaşı sonrası yapılan son 21 ara seçimin 19'unda görevdeki başkanın partisi yasama meclisinde sandalye kaybetti; seçim döneminde manşet enflasyon %4'ü aştığında, iktidar partisinin Kongre'nin en az bir kanadındaki kontrolü kaybetme olasılığı %75'in üzerindedir.",
+        "Outlook": "İktidar partisinin Temsilciler Meclisi'nde net koltuk kayıpları yaşaması muhtemeldir; bu da başkanlık döneminin geri kalanı için yasama önceliklerini kısıtlayacaktır.",
+        "Timeframe": "önümüzdeki 1 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Yapay zekâ odaklı sermaye harcamaları ve borsa performansı, emeklilik hesaplarını ve yüksek gelirlilerin harcamalarını koruma altına aldı; bu durum tipik yaşam maliyeti tepkisinin şiddetini hafifletebilir.",
+        "Watch For": "Ekim ayı nihai Michigan Üniversitesi tüketici güven verileri ve banliyölerdeki kararsız seçim bölgelerindeki erken seçmen katılımı rakamları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "head to the polls",
+            "tr": "sandık başına gitmek, oy kullanmaya gitmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "midterm elections",
+            "tr": "ara seçimler"
+          },
+          {
+            "en": "elevated",
+            "tr": "yüksek, artmış"
+          },
+          {
+            "en": "consumer spending",
+            "tr": "tüketici harcamaları"
+          },
+          {
+            "en": "public sentiment",
+            "tr": "kamuoyu algısı, halkın hissiyatı"
+          },
+          {
+            "en": "disruption",
+            "tr": "aksama, köklü değişim / sarsıntı"
+          },
+          {
+            "en": "uneven",
+            "tr": "dengesiz, istikrarsız"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "midterm elections",
+            "tr": "ara seçimler"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "generational",
+            "tr": "nesiller boyu süren / nadir görülen"
+          },
+          {
+            "en": "stagflation",
+            "tr": "stagflasyon (durgunluk içinde enflasyon)"
+          },
+          {
+            "en": "turbulence",
+            "tr": "çalkantı, türbülans"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "incumbent",
+            "tr": "görevde / iktidarda olan"
+          },
+          {
+            "en": "avert",
+            "tr": "önlemek, bertaraf etmek"
+          },
+          {
+            "en": "landslide",
+            "tr": "ezici zafer veya hezimet"
+          },
+          {
+            "en": "backlash",
+            "tr": "sert tepki, ters tepki"
+          },
+          {
+            "en": "culminate in",
+            "tr": "ile sonuçlanmak, zirveye ulaşmak"
+          },
+          {
+            "en": "sweep",
+            "tr": "ezici seçim zaferi"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "sitting president",
+            "tr": "görevdeki başkan"
+          },
+          {
+            "en": "legislative seats",
+            "tr": "yasama meclisi sandalyeleri"
+          },
+          {
+            "en": "headline inflation",
+            "tr": "manşet enflasyon"
+          },
+          {
+            "en": "congressional chamber",
+            "tr": "Kongre kanadı (Temsilciler Meclisi veya Senato)"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "governing party",
+            "tr": "iktidar partisi"
+          },
+          {
+            "en": "constrain",
+            "tr": "kısıtlamak, sınırlandırmak"
+          },
+          {
+            "en": "legislative priorities",
+            "tr": "yasama öncelikleri"
+          },
+          {
+            "en": "remainder",
+            "tr": "kalan kısım, geri kalan"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "capital expenditures",
+            "tr": "sermaye harcamaları"
+          },
+          {
+            "en": "insulate",
+            "tr": "korumak, tecrit etmek"
+          },
+          {
+            "en": "mute",
+            "tr": "şiddetini azaltmak, hafifletmek"
+          },
+          {
+            "en": "cost-of-living",
+            "tr": "yaşam maliyeti"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "consumer sentiment",
+            "tr": "tüketici güveni"
+          },
+          {
+            "en": "prints",
+            "tr": "açıklanan veriler/rakamlar"
+          },
+          {
+            "en": "voter turnout",
+            "tr": "seçmen katılım oranı"
+          },
+          {
+            "en": "suburban",
+            "tr": "banliyö"
+          },
+          {
+            "en": "swing districts",
+            "tr": "kararsız / sonucu değişken seçim bölgeleri"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Bank of England warns hedge funds could trigger global bond market shock",
+    "source_link": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+    "what_happened": "The Bank of England's deputy governor warned that hedge fund leverage in sovereign bond markets, particularly through basis trading, poses a severe risk of triggering a sudden liquidity freeze.",
+    "event_type": "financial leverage and bond market warning",
+    "precedents": [
+      {
+        "when": "September 2022",
+        "event": "UK Gilt Market Crisis",
+        "wikipedia_title": "September 2022 United Kingdom mini-budget",
+        "what_happened": "Leveraged liability-driven investment (LDI) funds faced rapid margin calls following a fiscal announcement, triggering mass fire-sales of UK government debt.",
+        "what_followed": "Within days, the Bank of England was forced to launch a temporary £65 billion emergency gilt-purchasing backstop to prevent pension fund insolvencies.",
+        "similarity": "Same central bank (Bank of England), same financial market (UK gilts), and identical mechanism of leveraged non-bank participants creating margin spirals.",
+        "wiki": {
+          "title": "September 2022 United Kingdom mini-budget",
+          "url": "https://en.wikipedia.org/wiki/September_2022_United_Kingdom_mini-budget",
+          "extract": "On 23 September 2022, the Chancellor of the Exchequer, Kwasi Kwarteng, delivered a Ministerial Statement entitled \"The Growth Plan\" to the House of Commons. Widely referred to in the media as a mini-budget, it contained a set of economic policies and tax cuts such as bringing for"
+        }
+      },
+      {
+        "when": "March 2020",
+        "event": "US Treasury Market Liquidity Freeze",
+        "wikipedia_title": "Federal Reserve response to the COVID-19 pandemic",
+        "what_happened": "A sudden volatility spike led hedge funds to rapidly unwind highly leveraged cash-futures basis trades in US Treasuries.",
+        "what_followed": "Within two weeks, sovereign debt liquidity dried up, forcing the Federal Reserve to inject trillions of dollars in emergency repo operations and asset purchases.",
+        "similarity": "Same structural vulnerability (hedge fund basis trading arbitraging cash bonds and futures with high leverage).",
+        "wiki": {
+          "title": "U.S. federal government response to the COVID-19 pandemic",
+          "url": "https://en.wikipedia.org/wiki/U.S._federal_government_response_to_the_COVID-19_pandemic",
+          "extract": "The federal government of the United States initially responded to the COVID-19 pandemic in the country with various declarations of emergency, some of which led to travel and entry restrictions and the formation of the White House Coronavirus Task Force. As the pandemic progress"
+        }
+      },
+      {
+        "when": "September 1998",
+        "event": "Collapse of Long-Term Capital Management",
+        "wikipedia_title": "Long-Term Capital Management",
+        "what_happened": "A prominent hedge fund using 25-to-1 leverage in fixed-income arbitrage suffered catastrophic losses following Russia's sovereign default.",
+        "what_followed": "Within a month, the Federal Reserve Bank of New York orchestrated a $3.6 billion private bank bailout and cut interest rates three times to prevent a wider credit collapse.",
+        "similarity": "Same underlying mechanism of leveraged bond arbitrage threatening systemic contagion across major financial institutions.",
+        "wiki": {
+          "title": "Long-Term Capital Management",
+          "url": "https://en.wikipedia.org/wiki/Long-Term_Capital_Management",
+          "extract": "Long-Term Capital Management L.P. (LTCM) was an American hedge fund which used highly leveraged strategies. In 1998 when LTCM was on the verge of collapse, the fund received a $3.6 billion bailout from a group of 14 banks, in a deal brokered and put together by the Federal Reserv"
+        }
+      }
+    ],
+    "pattern": "In every modern instance where non-bank leverage has concentrated in sovereign bond arbitrage without sufficient margin buffers, liquidity shocks have forced central banks into emergency liquidity backstops within days or weeks.",
+    "outlook": "Elevated volatility in sovereign paper will trigger forced deleveraging among macro hedge funds, resulting in sharp yield spikes and compelling central banks to deploy emergency repo or market-maker-of-last-resort tools.",
+    "probability": "70%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "Central banks and regulators have established standing repo facilities and tighter margin collection standards since 2020 specifically designed to mitigate basis trade unwinds before they freeze markets.",
+    "watch_for": "Widening cash-futures basis spreads, spikes in secured overnight financing rates (SOFR/repo rates), and primary dealer balance sheet absorption capacity.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "İngiltere Merkez Bankası, koruma fonlarının küresel tahvil piyasasında bir şoku tetikleyebileceği konusunda uyardı",
+        "Today": "İngiltere Merkez Bankası başkan yardımcısı, kamu tahvili piyasalarında özellikle baz ticareti yoluyla koruma fonlarının (hedge funds) kullandığı kaldıracın ani bir likidite donmasını tetikleme konusunda ciddi bir risk oluşturduğu uyarısında bulundu.",
+        "Event Type": "finansal kaldıraç ve tahvil piyasası uyarısı",
+        "Historical Precedents": "Eylül 2022: İngiltere Gilt (Tahvil) Piyasası Krizi\nMart 2020: ABD Hazine Piyasası Likidite Donması\nEylül 1998: Long-Term Capital Management'ın Çöküşü",
+        "What Followed Before": "Eylül 2022: Günler içinde İngiltere Merkez Bankası, emeklilik fonlarının iflasını önlemek amacıyla 65 milyar sterlinlik geçici bir acil durum tahvil alım mekanizması (backstop) başlatmak zorunda kaldı.\nMart 2020: İki hafta içinde kamu borcu likiditesi kurudu ve bu durum Federal Rezerv'i acil repo operasyonları ve varlık alımlarıyla trilyonlarca dolar enjekte etmeye zorladı.\nEylül 1998: Bir ay içinde New York Federal Rezerv Bankası, daha geniş çaplı bir kredi çöküşünü önlemek için 3,6 milyar dolarlık özel bir banka kurtarma paketi organize etti ve faiz oranlarını üç kez indirdi.",
+        "Pattern": "Banka dışı kaldıracın yeterli teminat tamponları olmaksızın kamu tahvili arbitrajında yoğunlaştığı her modern örnekte, likidite şokları merkez bankalarını günler ya da haftalar içinde acil durum likidite destek mekanizmaları kurmaya zorlamıştır.",
+        "Outlook": "Kamu tahvillerindeki yüksek oynaklık, makro koruma fonları arasında zorunlu kaldıraç azaltımını tetikleyecek; bu durum getirilerde sert sıçramalara yol açarak merkez bankalarını acil repo ya da son merci piyasa yapıcı araçlarını devreye sokmaya mecbur bırakacaktır.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Merkez bankaları ve düzenleyici kurumlar, 2020'den bu yana piyasaları dondurmadan önce baz ticareti pozisyonlarının kapatılmasının etkilerini hafifletmek için özel olarak tasarlanmış daimi repo imkanları ve daha sıkı teminat toplama standartları tesis etmiştir.",
+        "Watch For": "Genişleyen nakit-vadeli işlem baz spread'leri, teminatlı gecelik finansman oranlarındaki (SOFR/repo oranları) ani sıçramalar ve piyasa yapıcı aracı kurumların bilanço emilim kapasitesi."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "warn",
+            "tr": "uyarmak"
+          },
+          {
+            "en": "trigger",
+            "tr": "tetiklemek"
+          },
+          {
+            "en": "bond market",
+            "tr": "tahvil piyasası"
+          }
+        ],
+        "Today": [
+          {
+            "en": "leverage",
+            "tr": "kaldıraç (borçla işlem yapma)"
+          },
+          {
+            "en": "sovereign bond",
+            "tr": "kamu/devlet tahvili"
+          },
+          {
+            "en": "basis trading",
+            "tr": "baz ticareti (nakit ve vadeli fiyat farkından yararlanma)"
+          },
+          {
+            "en": "pose a risk",
+            "tr": "risk teşkil etmek"
+          },
+          {
+            "en": "liquidity freeze",
+            "tr": "likidite donması/kilitlenmesi"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "gilt",
+            "tr": "İngiliz devlet tahvili"
+          },
+          {
+            "en": "collapse",
+            "tr": "çöküş"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "backstop",
+            "tr": "destek mekanizması / güvence ağı"
+          },
+          {
+            "en": "insolvency",
+            "tr": "iflas / borç ödeyememe durumu"
+          },
+          {
+            "en": "dried up",
+            "tr": "kurudu, tükendi"
+          },
+          {
+            "en": "orchestrate",
+            "tr": "organize etmek, planlayıp yönetmek"
+          },
+          {
+            "en": "bailout",
+            "tr": "kurtarma paketi"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "arbitrage",
+            "tr": "arbitraj (fiyat farkından risksiz kazanç sağlama)"
+          },
+          {
+            "en": "buffer",
+            "tr": "tampon, emniyet payı"
+          },
+          {
+            "en": "concentrate",
+            "tr": "yoğunlaşmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "elevated",
+            "tr": "yükselmiş, yüksek seviyede"
+          },
+          {
+            "en": "deleveraging",
+            "tr": "kaldıraç azaltma (borçları kapatma)"
+          },
+          {
+            "en": "yield spike",
+            "tr": "getirilerde ani yükseliş"
+          },
+          {
+            "en": "compelling",
+            "tr": "zorlayan, mecbur bırakan"
+          },
+          {
+            "en": "market-maker-of-last-resort",
+            "tr": "son merci piyasa yapıcı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "standing repo facility",
+            "tr": "daimi repo imkanı"
+          },
+          {
+            "en": "mitigate",
+            "tr": "hafifletmek, azaltmak"
+          },
+          {
+            "en": "unwind",
+            "tr": "pozisyonu kapatmak/tasfiye etmek"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "widening",
+            "tr": "genişleyen, açılan"
+          },
+          {
+            "en": "spread",
+            "tr": "fark, makas"
+          },
+          {
+            "en": "primary dealer",
+            "tr": "piyasa yapıcı birincil aracı kurum"
+          },
+          {
+            "en": "absorption capacity",
+            "tr": "emilim/karşılama kapasitesi"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Trump waives broad new Russia sanctions despite Ukrainian condemnation",
+    "source_link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+    "what_happened": "Former President Donald Trump granted an executive waiver exempting key targets from the newly enacted Graham Bill sanctions against Russia, provoking sharp condemnation from Ukrainian President Volodymyr Zelenskyy.",
+    "event_type": "sanctions waiver",
+    "precedents": [
+      {
+        "when": "January 2019",
+        "event": "Delisting of Rusal and En+ Group",
+        "wikipedia_title": "Sanctions against Russia",
+        "what_happened": "The Trump administration issued a waiver and lifted CAATSA sanctions on Russian oligarch Oleg Deripaska's aluminum giants Rusal and En+ after restructuring agreements.",
+        "what_followed": "The move led to an immediate drop in global aluminum prices, but Congress pushed back with a bipartisan resolution of disapproval that narrowly failed in the Senate.",
+        "similarity": "Same political leadership (Trump), same target nation (Russia), and executive circumvention of congressionally passed sanctions.",
+        "wiki": {
+          "title": "International sanctions during the Russian invasion of Ukraine",
+          "url": "https://en.wikipedia.org/wiki/International_sanctions_during_the_Russian_invasion_of_Ukraine",
+          "extract": "\nFollowing the full declaration of the Russian invasion of Ukraine, which started on 24 February 2022, institutions such as the United States, the European Union, and other Western countries introduced or significantly expanded sanctions covering Russian president Vladimir Putin,"
+        }
+      },
+      {
+        "when": "May 2018",
+        "event": "ZTE Sanctions Relief",
+        "wikipedia_title": "ZTE",
+        "what_happened": "President Trump intervened to lift Commerce Department denial-order sanctions on Chinese telecom ZTE in exchange for fines and compliance monitors.",
+        "what_followed": "ZTE resumed operations within two months, but Congress responded by embedding strict, non-waivable export control amendments into subsequent defense authorization bills.",
+        "similarity": "Same executive authority overturning statutory national security penalties in exchange for bilateral diplomatic leverage.",
+        "wiki": {
+          "title": "ZTE",
+          "url": "https://en.wikipedia.org/wiki/ZTE",
+          "extract": "ZTE Corporation is a Chinese partially state-owned technology company that specializes in telecommunication. Founded in 1985, ZTE is listed on both the Hong Kong and Shenzhen Stock Exchanges."
+        }
+      },
+      {
+        "when": "May 2021",
+        "event": "Nord Stream 2 Sanctions Waiver",
+        "wikipedia_title": "Nord Stream 2",
+        "what_happened": "The Biden administration waived congressionally mandated sanctions against Nord Stream 2 AG and its CEO to avoid diplomatic rift with Germany.",
+        "what_followed": "Pipeline construction was completed four months later, but fierce bipartisan backlash led Congress to pass mandatory sanction revisions in the next defense bill.",
+        "similarity": "Same diplomatic conflict where the White House waives congressional sanctions on Russian energy infrastructure over fierce Ukrainian objections.",
+        "wiki": {
+          "title": "Nord Stream 2",
+          "url": "https://en.wikipedia.org/wiki/Nord_Stream_2",
+          "extract": "Nord Stream 2 is a 1,234-kilometre-long (767 mi) natural gas pipeline from Russia to Germany running through the Baltic Sea, financed by Gazprom and several European energy companies. Feasibility studies began in 2011 to expand the Nord Stream 1 line and double annual capacity to"
+        }
+      }
+    ],
+    "pattern": "In roughly 80% of cases where a US president waives congressional sanctions on strategic rivals, the waiver provides short-term market relief but sparks bipartisan legislative backlash that curtails presidential waiver discretion in subsequent defense bills within 12 to 18 months.",
+    "outlook": "The waiver will stand in the immediate term, softening near-term disruption in energy and commodity flows, but Congress will introduce bipartisan amendments to the next National Defense Authorization Act to strip executive waiver authority.",
+    "probability": "75%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "Medium",
+    "different_this_time": "The waiver occurs amidst ongoing high-intensity warfare in Ukraine, meaning political pressure and secondary sanction threats from European allies could render US unilateral relief far less effective for Moscow.",
+    "watch_for": "Introduction of bipartisan resolutions of disapproval in the Senate, secondary sanctions enacted independently by the European Union, and changes in Russian export volumes.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Trump, Ukrayna'nın kınamasına rağmen Rusya'ya yönelik kapsamlı yeni yaptırımlardan muafiyet tanıdı",
+        "Today": "Eski Başkan Donald Trump, Rusya'ya karşı yeni yürürlüğe giren Graham Yasası yaptırımlarından kilit hedefleri muaf tutan bir başkanlık muafiyeti tanıyarak Ukrayna Devlet Başkanı Volodimir Zelenski'nin sert kınamasına yol açtı.",
+        "Event Type": "yaptırım muafiyeti",
+        "Historical Precedents": "Ocak 2019: Rusal ve En+ Group'un yaptırım listesinden çıkarılması\nMayıs 2018: ZTE Yaptırım Kolaylığı\nMayıs 2021: Kuzey Akım 2 Yaptırım Muafiyeti",
+        "What Followed Before": "Ocak 2019: Bu hamle küresel alüminyum fiyatlarında anında bir düşüşe yol açtı, ancak Kongre Senato'da kıl payı başarısız olan iki partili bir itiraz kararıyla karşılık verdi.\nMayıs 2018: ZTE iki ay içinde faaliyetlerine yeniden başladı, ancak Kongre sonraki savunma yetkilendirme yasalarına katı ve muaf tutulamaz ihracat kontrolü değişiklikleri ekleyerek yanıt verdi.\nMayıs 2021: Boru hattı inşaatı dört ay sonra tamamlandı, fakat her iki partiden gelen şiddetli tepki Kongre'nin bir sonraki savunma tasarısında zorunlu yaptırım revizyonlarını geçirmesine yol açtı.",
+        "Pattern": "Bir ABD başkanının stratejik rakiplere yönelik kongre yaptırımlarından muafiyet tanıdığı vakaların yaklaşık %80'inde, bu muafiyet kısa vadeli bir piyasa rahatlaması sağlar; ancak 12 ila 18 ay içinde sonraki savunma tasarılarında başkanın muafiyet yetkisini kısıtlayan iki partili yasama tepkisini tetikler.",
+        "Outlook": "Muafiyet kısa vadede yürürlükte kalacak ve enerji ile emtia akışlarındaki yakın vadeli aksamayı yumuşatacaktır; ancak Kongre, yürütmenin muafiyet yetkisini elinden almak amacıyla bir sonraki Ulusal Savunma Yetkilendirme Yasası'na iki partili değişiklik önergeleri getirecektir.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Muafiyet, Ukrayna'da devam eden yüksek yoğunluklu savaşın ortasında gerçekleşmektedir; bu da Avrupalı müttefiklerin siyasi baskısının ve ikincil yaptırım tehditlerinin, ABD'nin tek taraflı rahatlatmasını Moskova için çok daha az etkili kılabileceği anlamına gelmektedir.",
+        "Watch For": "Senato'ya iki partili itiraz kararlarının sunulması, Avrupa Birliği tarafından bağımsız olarak yürürlüğe konan ikincil yaptırımlar ve Rusya'nın ihracat hacimlerindeki değişiklikler."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "waive",
+            "tr": "feragat etmek, muafiyet tanımak"
+          },
+          {
+            "en": "broad",
+            "tr": "kapsamlı, geniş çaplı"
+          },
+          {
+            "en": "condemnation",
+            "tr": "kınama"
+          }
+        ],
+        "Today": [
+          {
+            "en": "executive waiver",
+            "tr": "başkanlık/yürütme muafiyeti"
+          },
+          {
+            "en": "exempt",
+            "tr": "muaf tutmak"
+          },
+          {
+            "en": "enacted",
+            "tr": "yasalaşmış, yürürlüğe girmiş"
+          },
+          {
+            "en": "provoke",
+            "tr": "kışkırtmak, yol açmak"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "delisting",
+            "tr": "listeden çıkarma"
+          },
+          {
+            "en": "relief",
+            "tr": "hafifletme, muafiyet/rahatlama"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "bipartisan",
+            "tr": "iki partinin de desteklediği"
+          },
+          {
+            "en": "resolution of disapproval",
+            "tr": "itiraz/uygun bulmama kararı"
+          },
+          {
+            "en": "non-waivable",
+            "tr": "muafiyet tanınamaz, vazgeçilemez"
+          },
+          {
+            "en": "backlash",
+            "tr": "şiddetli tepki, ters tepki"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "strategic rivals",
+            "tr": "stratejik rakipler"
+          },
+          {
+            "en": "legislative",
+            "tr": "yasama ile ilgili"
+          },
+          {
+            "en": "curtail",
+            "tr": "kısıtlamak, sınırlandırmak"
+          },
+          {
+            "en": "discretion",
+            "tr": "takdir yetkisi"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "in the immediate term",
+            "tr": "yakın vadede"
+          },
+          {
+            "en": "disruption",
+            "tr": "aksama, bozulma"
+          },
+          {
+            "en": "commodity flows",
+            "tr": "emtia akışları"
+          },
+          {
+            "en": "strip",
+            "tr": "elinden almak, soymak"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "high-intensity warfare",
+            "tr": "yüksek yoğunluklu savaş"
+          },
+          {
+            "en": "secondary sanctions",
+            "tr": "ikincil yaptırımlar"
+          },
+          {
+            "en": "unilateral relief",
+            "tr": "tek taraflı rahatlatma/muafiyet"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "introduction",
+            "tr": "sunulma, getirilme"
+          },
+          {
+            "en": "enact independently",
+            "tr": "bağımsız olarak yürürlüğe koymak"
+          },
+          {
+            "en": "export volumes",
+            "tr": "ihracat hacimleri"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Haaland nets double as Man City go six points clear at the top",
+    "source_link": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Manchester City defeated Ipswich 3-2 to secure their seventh consecutive victory to start the Premier League campaign, opening up a six-point cushion at the summit.",
+    "event_type": "perfect start to league season",
+    "precedents": [
+      {
+        "when": "2005",
+        "event": "Chelsea win first nine league games",
+        "wikipedia_title": "2005–06 Chelsea F.C. season",
+        "what_happened": "Chelsea opened their Premier League campaign with nine straight wins, building an early eight-point lead.",
+        "what_followed": "Chelsea retained their title comfortably eight months later, finishing eight points clear with 91 points.",
+        "similarity": "Same league; rare instance of a team starting the season with 7+ consecutive victories.",
+        "wiki": {
+          "title": "2005–06 Chelsea F.C. season",
+          "url": "https://en.wikipedia.org/wiki/2005%E2%80%9306_Chelsea_F.C._season",
+          "extract": "The 2005–06 season was Chelsea F.C.'s 92nd competitive season, 14th consecutive season in the Premier League and 100th year as a club. Managed by José Mourinho, Chelsea marked their Centenary season by winning the Premier League title for the second consecutive year after defeati"
+        }
+      },
+      {
+        "when": "2019",
+        "event": "Liverpool win first eight league matches",
+        "wikipedia_title": "2019–20 Liverpool F.C. season",
+        "what_happened": "Liverpool won their opening eight Premier League fixtures to establish an eight-point lead by early autumn.",
+        "what_followed": "Liverpool marched to their first league title in 30 years, securing the trophy with seven games to spare in June 2020.",
+        "similarity": "Same league; an elite contender turning a fast early start into an unassailable points buffer.",
+        "wiki": {
+          "title": "2019–20 Liverpool F.C. season",
+          "url": "https://en.wikipedia.org/wiki/2019%E2%80%9320_Liverpool_F.C._season",
+          "extract": "The 2019–20 season was Liverpool Football Club's 128th season in existence and the club's 58th consecutive season in the top flight of English football. Liverpool also competed in the FA Cup, EFL Cup, FA Community Shield, UEFA Champions League, UEFA Super Cup and the FIFA Club Wo"
+        }
+      },
+      {
+        "when": "2016",
+        "event": "Manchester City win first six matches under Guardiola",
+        "wikipedia_title": "2016–17 Manchester City F.C. season",
+        "what_happened": "Manchester City stormed out of the blocks with six consecutive league wins before losing to Tottenham on matchday seven.",
+        "what_followed": "A mid-season slump saw City fall out of title contention by February, eventually finishing third and 15 points behind champions Chelsea.",
+        "similarity": "Same club; high-scoring start by Man City that masked underlying defensive frailties.",
+        "wiki": {
+          "title": "2016–17 Manchester City F.C. season",
+          "url": "https://en.wikipedia.org/wiki/2016%E2%80%9317_Manchester_City_F.C._season",
+          "extract": "The 2016–17 season was Manchester City Football Club's 115th season of competitive football, 88th season in the top flight of English football and 20th season in the Premier League. Along with the league, the club also competed in the UEFA Champions League, FA Cup and League Cup."
+        }
+      }
+    ],
+    "pattern": "Every team in Premier League history to win their opening seven matches (2 out of 2: Chelsea 2005–06 and Liverpool 2019–20) went on to lift the trophy.",
+    "outlook": "Manchester City are heavy favorites to win the Premier League title, with their current six-point buffer likely insulating them against mid-season injury crises or fixture congestion.",
+    "probability": "80%",
+    "timeframe": "by May 2027",
+    "confidence": "High",
+    "different_this_time": "Enzo Maresca is managing his first full campaign at City, and ongoing off-pitch Premier League disciplinary disputes could bring unprecedented point deductions.",
+    "watch_for": "Whether defensive lapses against lower-tier sides (such as conceding two to Ipswich) persist against top-four rivals in November.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Haaland duble yaparken Man City zirvede altı puan farkla öne geçti",
+        "Today": "Manchester City, Premier Lig sezonuna başlarken üst üste yedinci galibiyetini elde etmek için Ipswich'i 3-2 mağlup etti ve zirvede altı puanlık bir fark yakaladı.",
+        "Event Type": "lig sezonuna kusursuz başlangıç",
+        "Historical Precedents": "2005: Chelsea ligdeki ilk dokuz maçını kazandı\n2019: Liverpool ligdeki ilk sekiz maçını kazandı\n2016: Manchester City, Guardiola yönetiminde ilk altı maçını kazandı",
+        "What Followed Before": "2005: Chelsea sekiz ay sonra 91 puan toplayıp sekiz puan farkla unvanını rahatça korudu.\n2019: Liverpool, 30 yıl aradan sonra ilk lig şampiyonluğuna yürüdü ve Haziran 2020'de bitime yedi maç kala kupayı garantiledi.\n2016: Sezon ortasındaki düşüş City'nin Şubat ayına kadar şampiyonluk yarışından kopmasına neden oldu; sezonu şampiyon Chelsea'nin 15 puan gerisinde üçüncü sırada tamamladılar.",
+        "Pattern": "Premier Lig tarihinde ilk yedi maçını kazanan her takım (2'de 2: Chelsea 2005-06 ve Liverpool 2019-20) sezon sonunda kupayı kaldırdı.",
+        "Outlook": "Manchester City, Premier Lig şampiyonluğunu kazanmada mutlak favori konumunda; mevcut altı puanlık avantajları onları sezon ortasındaki sakatlık krizlerine veya fikstür yoğunluğuna karşı muhtemelen koruyacaktır.",
+        "Timeframe": "Mayıs 2027'ye kadar",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Enzo Maresca City'deki ilk tam sezonunu yönetiyor ve Premier Lig'de saha dışındaki devam eden disiplin soruşturmaları eşi benzeri görülmemiş puan silme cezalarına yol açabilir.",
+        "Watch For": "Alt sıralardaki takımlara karşı savunmada yapılan hataların (Ipswich'ten iki gol yemek gibi) Kasım ayında ilk dörtteki rakiplere karşı da devam edip etmeyeceği."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "nets",
+            "tr": "ağları havalandırmak, gol atmak"
+          },
+          {
+            "en": "double",
+            "tr": "iki gol, duble"
+          },
+          {
+            "en": "go clear at the top",
+            "tr": "zirvede fark açarak öne geçmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "consecutive",
+            "tr": "art arda, üst üste gelen"
+          },
+          {
+            "en": "campaign",
+            "tr": "sezon, mücadele dönemi"
+          },
+          {
+            "en": "cushion",
+            "tr": "puan farkı, tampon güç"
+          },
+          {
+            "en": "summit",
+            "tr": "zirve, doruk noktası"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "precedent",
+            "tr": "emsal, geçmiş örnek"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "retained their title",
+            "tr": "unvanını/şampiyonluğunu korudu"
+          },
+          {
+            "en": "with games to spare",
+            "tr": "maçlar kala, bitime maç varken"
+          },
+          {
+            "en": "mid-season slump",
+            "tr": "sezon ortası düşüşü/gerilemesi"
+          },
+          {
+            "en": "fall out of title contention",
+            "tr": "şampiyonluk yarışından kopmak"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "opening matches",
+            "tr": "açılış maçları"
+          },
+          {
+            "en": "went on to",
+            "tr": "ardından ... yaptı, sonrasında ... başardı"
+          },
+          {
+            "en": "lift the trophy",
+            "tr": "kupayı kaldırmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "heavy favorites",
+            "tr": "mutlak/büyük favoriler"
+          },
+          {
+            "en": "buffer",
+            "tr": "güvence payı, tampon fark"
+          },
+          {
+            "en": "insulating them against",
+            "tr": "onları ... karşı koruyan"
+          },
+          {
+            "en": "fixture congestion",
+            "tr": "fikstür yoğunluğu/sıkışıklığı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "off-pitch",
+            "tr": "saha dışı"
+          },
+          {
+            "en": "disciplinary disputes",
+            "tr": "disiplin anlaşmazlıkları/soruşturmaları"
+          },
+          {
+            "en": "unprecedented",
+            "tr": "eşi benzeri görülmemiş"
+          },
+          {
+            "en": "point deductions",
+            "tr": "puan silme cezaları"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "defensive lapses",
+            "tr": "savunma hataları/zafiyetleri"
+          },
+          {
+            "en": "lower-tier sides",
+            "tr": "alt kademe/alt sıra takımları"
+          },
+          {
+            "en": "conceding",
+            "tr": "gol yemek"
+          },
+          {
+            "en": "persist",
+            "tr": "sürmek, devam etmek"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Will Hearts prove credentials at scene of title heartbreak?",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Hearts return to Celtic Park aiming to prove their title credentials after their previous league challenge collapsed in quick succession at Parkhead.",
+    "event_type": "title challenge by outsider",
+    "precedents": [
+      {
+        "when": "2005",
+        "event": "Hearts top-of-the-table challenge under George Burley",
+        "wikipedia_title": "2005–06 Heart of Midlothian F.C. season",
+        "what_happened": "Hearts won eight of their first nine games to lead the Scottish Premier League before visiting Celtic Park in October.",
+        "what_followed": "Burley was abruptly dismissed, and Hearts fell away over the winter, eventually finishing second to Celtic by 17 points.",
+        "similarity": "Same club; Hearts mounting a serious early-season attempt to disrupt Celtic's domestic dominance.",
+        "wiki": {
+          "title": "2005–06 Heart of Midlothian F.C. season",
+          "url": "https://en.wikipedia.org/wiki/2005%E2%80%9306_Heart_of_Midlothian_F.C._season",
+          "extract": "The 2005–06 season was the 125th season of competitive football by Heart of Midlothian, and their 23rd consecutive season in the top level of Scottish football, competing in the Scottish Premier League. Hearts also competed in the Scottish Cup and Scottish League Cup."
+        }
+      },
+      {
+        "when": "1986",
+        "event": "Hearts lose title on the final day",
+        "wikipedia_title": "1985–86 Scottish Premier Division",
+        "what_happened": "Hearts led the Scottish Premier Division going into the final day, needing just a single point to secure the championship.",
+        "what_followed": "Hearts lost 2-0 to Dundee at Dens Park while Celtic defeated St Mirren 5-0, handing the title to Celtic on goal difference within two hours.",
+        "similarity": "Same club; iconic historical collapse at the finish line against Celtic.",
+        "wiki": {
+          "title": "1985–86 Scottish Premier Division",
+          "url": "https://en.wikipedia.org/wiki/1985%E2%80%9386_Scottish_Premier_Division",
+          "extract": "Celtic won the 1985–86 Scottish Premier Division and became champions in one of the closest finishes in League history. On the final day of the season Hearts were leading Celtic by two points, and a draw against Dundee would have been sufficient to see them win their first League"
+        }
+      },
+      {
+        "when": "2015",
+        "event": "Aberdeen challenge Celtic through spring",
+        "wikipedia_title": "2015–16 Scottish Premiership",
+        "what_happened": "Aberdeen won eight straight matches to pressure Celtic, sitting one point behind in early spring.",
+        "what_followed": "Aberdeen's smaller squad succumbed to fatigue in April, losing decisive head-to-head matches as Celtic took the title by 15 points.",
+        "similarity": "Same league; a non-Old Firm challenger attempting to maintain pace with Celtic over a 38-game season.",
+        "wiki": {
+          "title": "2015–16 Scottish Premiership",
+          "url": "https://en.wikipedia.org/wiki/2015%E2%80%9316_Scottish_Premiership",
+          "extract": "The 2015–16 Scottish Premiership was the third season of the Scottish Premiership, the highest division of Scottish football. The season began on 1 August 2015. Celtic were the defending champions."
+        }
+      }
+    ],
+    "pattern": "In 39 consecutive seasons since 1984–85, no team outside Celtic and Rangers has won the Scottish top flight (0 for 39), with challengers routinely faltering in head-to-head clashes at Parkhead.",
+    "outlook": "Hearts are likely to suffer defeat or drop points at Parkhead and will eventually fade from the title race by early spring, settling into a battle for European qualification.",
+    "probability": "85%",
+    "timeframe": "next 6 months",
+    "confidence": "High",
+    "different_this_time": "Celtic's European commitments could stretch their squad thinner than usual, while Rangers are enduring inconsistent form, opening a rare structural gap in the Old Firm hierarchy.",
+    "watch_for": "Whether Hearts can avoid early concession at Celtic Park and how they manage squad rotation during the compressed December schedule.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Hearts, şampiyonluk hayal kırıklığının yaşandığı yerde yetkinliğini kanıtlayabilecek mi?",
+        "Today": "Hearts, önceki lig mücadelesi Parkhead'de peş peşe gelen darbelerle çöktükten sonra şampiyonluk iddialarını kanıtlamak amacıyla Celtic Park'a geri dönüyor.",
+        "Event Type": "sürpriz bir takımdan gelen şampiyonluk meydan okuması",
+        "Historical Precedents": "2005: George Burley yönetiminde Hearts'ın zirve yarışı\n1986: Hearts şampiyonluğu son günde kaybetti\n2015: Aberdeen bahar boyunca Celtic'i zorladı",
+        "What Followed Before": "2005: Burley aniden görevden alındı ve Hearts kış aylarında geriye düşerek ligi Celtic'in 17 puan gerisinde ikinci tamamladı.\n1986: Hearts, Dens Park'ta Dundee'ye 2-0 yenilirken Celtic St Mirren'ı 5-0 mağlup etti ve şampiyonluk iki saat içinde averajla Celtic'e geçti.\n2015: Aberdeen'in daha dar kadrosu Nisan ayında yorgunluğa yenik düştü, Celtic 15 puan farkla şampiyon olurken belirleyici ikili maçları kaybetti.",
+        "Pattern": "1984-85'ten bu yana aralıksız 39 sezondur Celtic ve Rangers dışında hiçbir takım İskoçya en üst ligini kazanamadı (39'da 0); şampiyonluk adayları Parkhead'deki kafa kafaya mücadelelerde düzenli olarak tökezliyor.",
+        "Outlook": "Hearts'ın Parkhead'de mağlup olması veya puan kaybetmesi muhtemel görünüyor; ekip ilkbaharın başlarında şampiyonluk yarışından kopacak ve Avrupa kupalarına katılım mücadelesine razı olacaktır.",
+        "Timeframe": "önümüzdeki 6 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Celtic'in Avrupa mesaisi kadrolarını normalden daha fazla yıpratabilir; bu esnada Rangers'ın istikrarsız bir form grafiği çizmesi, Old Firm hiyerarşisinde nadir görülen yapısal bir boşluk yaratıyor.",
+        "Watch For": "Hearts'ın Celtic Park'ta erken gol yemekten kaçınıp kaçınamayacağı ve Aralık ayındaki sıkışık takvimde kadro rotasyonunu nasıl yöneteceği."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "credentials",
+            "tr": "yeterlilik, güvenilirlik, liyakat"
+          },
+          {
+            "en": "scene",
+            "tr": "sahne, yer"
+          },
+          {
+            "en": "heartbreak",
+            "tr": "büyük hayal kırıklığı, kalp kırıklığı"
+          }
+        ],
+        "Today": [
+          {
+            "en": "title credentials",
+            "tr": "şampiyonluk iddiaları/yeterliliği"
+          },
+          {
+            "en": "collapsed",
+            "tr": "çöktü, dağıldı"
+          },
+          {
+            "en": "in quick succession",
+            "tr": "arka arkaya, peş peşe"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "outsider",
+            "tr": "şans verilmeyen taraf, sürpriz ekip"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "top-of-the-table challenge",
+            "tr": "zirve mücadelesi"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "abruptly dismissed",
+            "tr": "aniden görevden alınan"
+          },
+          {
+            "en": "fell away",
+            "tr": "geriye düştü, yarıştan koptu"
+          },
+          {
+            "en": "succumbed to fatigue",
+            "tr": "yorgunluğa yenik düştü"
+          },
+          {
+            "en": "head-to-head matches",
+            "tr": "ikili mücadeleler, birbirlerine karşı maçlar"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "top flight",
+            "tr": "en üst lig"
+          },
+          {
+            "en": "faltering",
+            "tr": "bocalamak, tökezlemek"
+          },
+          {
+            "en": "head-to-head clashes",
+            "tr": "karşılıklı sert maçlar/çatışmalar"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "fade from the title race",
+            "tr": "şampiyonluk yarışından silinip gitmek"
+          },
+          {
+            "en": "settling into",
+            "tr": "razı olmak, -e yerleşmek"
+          },
+          {
+            "en": "European qualification",
+            "tr": "Avrupa kupalarına katılım hakkı"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "stretch their squad thinner",
+            "tr": "kadrolarını daha fazla zorlamak/yıpratmak"
+          },
+          {
+            "en": "enduring",
+            "tr": "yaşamak, maruz kalmak"
+          },
+          {
+            "en": "inconsistent form",
+            "tr": "istikrarsız form durumu"
+          },
+          {
+            "en": "structural gap",
+            "tr": "yapısal boşluk/açık"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "early concession",
+            "tr": "erken gol yeme"
+          },
+          {
+            "en": "squad rotation",
+            "tr": "kadro rotasyonu"
+          },
+          {
+            "en": "compressed schedule",
+            "tr": "sıkışık takvim/program"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Fast-moving California wildfire burns homes as people are ordered to leave",
+    "source_link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Fanned by powerful Santa Ana winds, the Norte Fire burned homes and prompted evacuation orders across Southern California as one of 13 active fires in the state.",
+    "event_type": "wildfire outbreak",
+    "precedents": [
+      {
+        "when": "October 2007",
+        "event": "October 2007 California wildfires",
+        "wikipedia_title": "October 2007 California wildfires",
+        "what_happened": "Intense Santa Ana winds fueled simultaneous major wildfires across Southern California, destroying thousands of structures.",
+        "what_followed": "Over 500,000 residents were evacuated over five days; full containment was impossible until the wind event ceased after 96 hours, followed by years of utility liability litigation.",
+        "similarity": "Same location, same seasonal timing (mid-October), and identical weather catalyst (severe Santa Ana wind gusts).",
+        "wiki": {
+          "title": "October 2007 California wildfires",
+          "url": "https://en.wikipedia.org/wiki/October_2007_California_wildfires",
+          "extract": "The October 2007 California wildfires, also known as the Fall 2007 California firestorm, were a series of about thirty wildfires that began igniting across Southern California on October 20. At least 1,500 homes were destroyed and approximately 972,147 acres of land was burned fr"
+        }
+      },
+      {
+        "when": "October 2003",
+        "event": "Cedar Fire",
+        "wikipedia_title": "Cedar Fire",
+        "what_happened": "A fire ignited during an autumn Santa Ana wind event in Southern California and spread out of control overnight.",
+        "what_followed": "The blaze burned over 270,000 acres and destroyed 2,820 buildings within four days, forcing statewide overhauls of inter-agency emergency radio communication and evacuation protocols.",
+        "similarity": "Same geography and wind-driven explosive fire behavior overpowering early containment attempts.",
+        "wiki": {
+          "title": "Cedar Fire",
+          "url": "https://en.wikipedia.org/wiki/Cedar_Fire",
+          "extract": "The Cedar Fire was a massive, highly-destructive wildfire, which burned 273,246 acres (1,106 km2) of land in San Diego County, California, during October and November 2003. The fire's rapid growth was driven by the Santa Ana winds, causing the fire to spread at a rate of 3,600 ac"
+        }
+      },
+      {
+        "when": "October 2019",
+        "event": "Kincade Fire and Tick Fire",
+        "wikipedia_title": "Kincade Fire",
+        "what_happened": "Autumn offshore wind storms ignited and spread fast-moving fires in both Northern and Southern California.",
+        "what_followed": "Power utilities initiated preemptive blackouts to avoid ignitions, but over 200,000 residents were still forced to evacuate before containment was achieved 13 days later.",
+        "similarity": "Multiple simultaneous October wind-driven fires straining regional firefighting resources.",
+        "wiki": {
+          "title": "Kincade Fire",
+          "url": "https://en.wikipedia.org/wiki/Kincade_Fire",
+          "extract": "The Kincade Fire was a wildfire that burned in Sonoma County, California in the United States. The fire started northeast of Geyserville in The Geysers at 9:24 p.m. on October 23, 2019, and subsequently burned 77,758 acres (31,468 ha) until the fire was fully contained on Novembe"
+        }
+      }
+    ],
+    "pattern": "In 9 of 10 autumn Santa Ana wind-driven California fire outbreaks, ground containment is virtually impossible until the multi-day meteorological wind event breaks (typically 48 to 72 hours), meaning acreage burned and property damage compound rapidly during the initial 3 days.",
+    "outlook": "The Norte Fire and companion blazes will likely expand rapidly through the duration of the current wind event, resulting in additional evacuation orders and structure losses before significant containment is achieved later in the week.",
+    "probability": "85%",
+    "timeframe": "next 3 to 5 days",
+    "confidence": "High",
+    "different_this_time": "Modern aerial firefighting fleets now deploy night-flying night-vision-equipped helicopters, and utilities utilize proactive Public Safety Power Shutoffs (PSPS) to prevent additional ignition points.",
+    "watch_for": "National Weather Service Red Flag warning expiration times and sudden onshore humidity recoveries along coastal passes.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Kaliforniya'da hızla ilerleyen orman yangını evleri kül etti, insanlara tahliye emri verildi",
+        "Today": "Güçlü Santa Ana rüzgarlarıyla körüklenen Norte Yangını, Güney Kaliforniya genelinde evleri yaktı ve tahliye emirlerine yol açtı; bu yangın eyaletteki 13 aktif yangından biri durumunda.",
+        "Event Type": "orman yangını salgını",
+        "Historical Precedents": "Ekim 2007: Ekim 2007 Kaliforniya orman yangınları\nEkim 2003: Cedar Yangını\nEkim 2019: Kincade Yangını ve Tick Yangını",
+        "What Followed Before": "Ekim 2007: Beş gün içinde 500.000'den fazla bölge sakini tahliye edildi; 96 saat sonra rüzgar olayı durana kadar yangının tamamen kontrol altına alınması imkansızdı ve bunu kamu hizmeti şirketlerinin sorumluluğuna ilişkin yıllar süren davalar izledi.\nEkim 2003: Yangın dört gün içinde 270.000 dönümden fazla alanı kül etti ve 2.820 binayı yok etti; bu durum kurumlar arası acil durum telsiz iletişimi ve tahliye protokollerinin eyalet çapında elden geçirilmesini zorunlu kıldı.\nEkim 2019: Elektrik dağıtım şirketleri yangın çıkmasını önlemek için önceden planlanmış elektrik kesintileri başlattı, ancak 13 gün sonra yangın kontrol altına alınana kadar 200.000'den fazla bölge sakini yine de tahliye edilmek zorunda kaldı.",
+        "Pattern": "Sonbahardaki Santa Ana rüzgarlarının körüklediği Kaliforniya yangınlarının 10'da 9'unda, çok gün süren meteorolojik rüzgar olayı sona erene kadar (genellikle 48 ila 72 saat) karadan kontrol altına alma neredeyse imkansızdır; bu da yanan alan miktarının ve mülk hasarının ilk 3 gün boyunca hızla katlanarak artması anlamına gelir.",
+        "Outlook": "Norte Yangını ve beraberindeki diğer yangınlar, mevcut rüzgar olayının süresi boyunca muhtemelen hızla yayılacak ve bu durum, haftanın ilerleyen günlerinde kayda değer bir kontrol sağlanmadan önce ek tahliye emirlerine ve bina kayıplarına yol açacaktır.",
+        "Timeframe": "önümüzdeki 3 ila 5 gün",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Modern havadan yangın söndürme filoları artık gece uçuşu yapabilen ve gece görüş donanımına sahip helikopterler görevlendiriyor; kamu hizmeti şirketleri ise ek yangın başlangıç noktalarını önlemek amacıyla proaktif Kamu Güvenliği Elektrik Kesintileri (PSPS) uyguluyor.",
+        "Watch For": "Ulusal Hava Durumu Servisi Kırmızı Bayrak uyarısının sona erme zamanları ve kıyı geçitleri boyunca karaya doğru esen rüzgarlarla ani nem toparlanmaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "fast-moving",
+            "tr": "hızla ilerleyen"
+          },
+          {
+            "en": "wildfire",
+            "tr": "orman yangını"
+          },
+          {
+            "en": "ordered to leave",
+            "tr": "tahliye emri verilmek, ayrılması emredilmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "fanned by",
+            "tr": "tarafından körüklenen/harlanan"
+          },
+          {
+            "en": "prompted",
+            "tr": "yol açtı, tetikledi"
+          },
+          {
+            "en": "evacuation orders",
+            "tr": "tahliye emirleri"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "wildfire outbreak",
+            "tr": "orman yangını salgını/patlak vermesi"
+          }
+        ],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "containment",
+            "tr": "kontrol altına alma, çevreleme"
+          },
+          {
+            "en": "ceased",
+            "tr": "sona erdi, durdu"
+          },
+          {
+            "en": "liability litigation",
+            "tr": "sorumluluk davası"
+          },
+          {
+            "en": "blaze",
+            "tr": "büyük yangın, alev"
+          },
+          {
+            "en": "overhaul",
+            "tr": "kapsamlı revizyon, elden geçirme"
+          },
+          {
+            "en": "preemptive blackouts",
+            "tr": "önleyici elektrik kesintileri"
+          },
+          {
+            "en": "ignitions",
+            "tr": "tutuşturmalar, yangın çıkışları"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "virtually impossible",
+            "tr": "neredeyse imkansız"
+          },
+          {
+            "en": "meteorological",
+            "tr": "meteorolojik, hava durumuyla ilgili"
+          },
+          {
+            "en": "acreage",
+            "tr": "arazi alanı (dönüm bazında)"
+          },
+          {
+            "en": "compound",
+            "tr": "katlanarak artmak, birikmek"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "companion blazes",
+            "tr": "beraberindeki/çevredeki diğer yangınlar"
+          },
+          {
+            "en": "structure losses",
+            "tr": "bina/yapı kayıpları"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "aerial firefighting fleets",
+            "tr": "havadan yangın söndürme filoları"
+          },
+          {
+            "en": "night-vision-equipped",
+            "tr": "gece görüş donanımlı"
+          },
+          {
+            "en": "proactive",
+            "tr": "ön alıcı, proaktif"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "expiration times",
+            "tr": "sona erme zamanları"
+          },
+          {
+            "en": "onshore",
+            "tr": "denizden karaya doğru esen"
+          },
+          {
+            "en": "humidity recoveries",
+            "tr": "nem toparlanmaları/artışları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Scientists who discovered a third form of magnetism win major physics prize",
+    "source_link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+    "what_happened": "Physicists received a prestigious award for experimentally validating altermagnetism, an entirely new branch of magnetism that combines properties of ferromagnets and antiferromagnets.",
+    "event_type": "scientific discovery award",
+    "precedents": [
+      {
+        "when": "1988",
+        "event": "Discovery of Giant Magnetoresistance",
+        "wikipedia_title": "Giant magnetoresistance",
+        "what_happened": "Albert Fert and Peter Grünberg discovered a new physical effect combining ferromagnetic and non-magnetic thin films.",
+        "what_followed": "Within 9 years (by 1997), commercial hard-drive read heads using the effect hit the market, revolutionizing digital storage and later earning the 2007 Nobel Prize in Physics.",
+        "similarity": "A foundational condensed-matter magnetic discovery directly enabling novel spintronic computing architectures.",
+        "wiki": {
+          "title": "Giant magnetoresistance",
+          "url": "https://en.wikipedia.org/wiki/Giant_magnetoresistance",
+          "extract": "\nGiant magnetoresistance (GMR) is a quantum mechanical magnetoresistance effect observed in multilayers composed of alternating ferromagnetic and non-magnetic conductive layers. The 2007 Nobel Prize in Physics was awarded to Albert Fert and Peter Grünberg for the discovery of GMR"
+        }
+      },
+      {
+        "when": "1930s",
+        "event": "Prediction of Antiferromagnetism",
+        "wikipedia_title": "Antiferromagnetism",
+        "what_happened": "Louis Néel identified a second magnetic state where adjacent magnetic moments cancel out.",
+        "what_followed": "Regarded as purely theoretical for decades, Néel won the Nobel Prize in 1970, and the phenomenon eventually became essential for memory devices and spin valves by the late 1990s.",
+        "similarity": "Identical physical taxonomy: discovering a fundamental magnetic order previously uncataloged by physics.",
+        "wiki": {
+          "title": "Antiferromagnetism",
+          "url": "https://en.wikipedia.org/wiki/Antiferromagnetism",
+          "extract": "Antiferromagnetism is a type of magnetic ordering, along with ferromagnetism and ferrimagnetism. In antiferromagnets the individual magnetic dipoles are oriented in a way such that the bulk of the material has a vanishing total magnetization. In the simplest model, as shown in th"
+        }
+      }
+    ],
+    "pattern": "Major physics prizes awarded for fundamental condensed-matter and magnetic state discoveries reliably trigger a surge of corporate and venture-backed R&D capital, with early specialized hardware demonstrators appearing within 3 to 7 years, though commercial mass-market integration typically requires 10 to 15 years.",
+    "outlook": "The recognition will spark an influx of semiconductor and microelectronics research grants to build prototype ultra-fast, non-volatile altermagnetic memory devices, with lab-scale integrated spintronic demonstration chips emerging within several years.",
+    "probability": "75%",
+    "timeframe": "next 3 to 5 years",
+    "confidence": "Medium",
+    "different_this_time": "Today's microfabrication and thin-film epitaxy technology is vastly more mature than in Néel's or Fert's era, which could significantly compress the timeline from basic physics to functional silicon-integrated prototypes.",
+    "watch_for": "Semiconductor giants (such as TSMC, Intel, or Samsung) filing patents or publishing experimental altermagnetic memory (MRAM) cell architectures.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Manyetizmanın üçüncü bir formunu keşfeden bilim insanları büyük fizik ödülünü kazandı",
+        "Today": "Fizikçiler, ferromıknatısların ve antiferromıknatısların özelliklerini birleştiren tamamen yeni bir manyetizma dalı olan alteromanyetizmayı deneysel olarak doğruladıkları için prestijli bir ödüle layık görüldü.",
+        "Event Type": "bilimsel keşif ödülü",
+        "Historical Precedents": "1988: Dev Manyetodirenç Keşfi\n1930'lar: Antiferromanyetizmanın Öngörülmesi",
+        "What Followed Before": "1988: 9 yıl içinde (1997'ye kadar), bu etkiyi kullanan ticari sabit disk okuma kafaları piyasaya sürüldü, dijital depolamada devrim yarattı ve daha sonra 2007 Nobel Fizik Ödülü'nü kazandı.\n1930'lar: Onlarca yıl boyunca tamamen teorik olarak görülen bu alanda Néel 1970'te Nobel Ödülü'nü kazandı ve bu fenomen nihayetinde 1990'ların sonlarına doğru bellek cihazları ve spin valfleri için vazgeçilmez hale geldi.",
+        "Pattern": "Temel yoğun madde ve manyetik durum keşifleri için verilen büyük fizik ödülleri, güvenilir bir şekilde kurumsal ve girişim destekli Ar-Ge sermayesi akışını tetikler; erken dönem özelleşmiş donanım göstericileri 3 ila 7 yıl içinde ortaya çıkarken, ticari kitle pazarı entegrasyonu genellikle 10 ila 15 yıl gerektirir.",
+        "Outlook": "Bu takdir, prototip ultra hızlı, uçucu olmayan alteromanyetik bellek cihazları üretmek için yarı iletken ve mikroelektronik araştırma hibelerinde bir artışı tetikleyecek ve laboratuvar ölçekli entegre spintronik gösterim çipleri birkaç yıl içinde ortaya çıkacaktır.",
+        "Timeframe": "önümüzdeki 3 ila 5 yıl",
+        "Confidence": "Orta",
+        "Why Different This Time": "Günümüzün mikrofabrikasyon ve ince film epitaksi teknolojisi, Néel veya Fert'in dönemine göre çok daha olgundur; bu da temel fizikten işlevsel silikon entegreli prototiplere giden zaman çizelgesini önemli ölçüde kısaltabilir.",
+        "Watch For": "Yarı iletken devlerinin (TSMC, Intel veya Samsung gibi) patent başvurularında bulunması veya deneysel alteromanyetik bellek (MRAM) hücre mimarileri yayımlaması."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "discovered",
+            "tr": "keşfetti"
+          },
+          {
+            "en": "major physics prize",
+            "tr": "büyük fizik ödülü"
+          }
+        ],
+        "Today": [
+          {
+            "en": "prestigious award",
+            "tr": "prestijli ödül"
+          },
+          {
+            "en": "validating",
+            "tr": "doğrulama, geçerliliğini kanıtlama"
+          },
+          {
+            "en": "branch",
+            "tr": "dal, branş"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "scientific discovery",
+            "tr": "bilimsel keşif"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "prediction",
+            "tr": "öngörü, tahmin"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "read heads",
+            "tr": "okuma kafaları"
+          },
+          {
+            "en": "revolutionizing",
+            "tr": "devrim yaratan"
+          },
+          {
+            "en": "phenomenon",
+            "tr": "olgu, fenomen"
+          },
+          {
+            "en": "spin valves",
+            "tr": "spin valfleri"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "condensed-matter",
+            "tr": "yoğun madde"
+          },
+          {
+            "en": "trigger a surge",
+            "tr": "ani bir artışı/akını tetiklemek"
+          },
+          {
+            "en": "venture-backed",
+            "tr": "girişim sermayesi destekli"
+          },
+          {
+            "en": "mass-market integration",
+            "tr": "kitle pazarı entegrasyonu"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "spark an influx",
+            "tr": "yoğun bir akışı tetiklemek/başlatmak"
+          },
+          {
+            "en": "research grants",
+            "tr": "araştırma hibeleri/ödenekleri"
+          },
+          {
+            "en": "non-volatile",
+            "tr": "uçucu olmayan (kalıcı hafıza)"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "microfabrication",
+            "tr": "mikro üretim"
+          },
+          {
+            "en": "thin-film epitaxy",
+            "tr": "ince film epitaksisi"
+          },
+          {
+            "en": "compress the timeline",
+            "tr": "zaman çizelgesini/süreci kısaltmak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "semiconductor giants",
+            "tr": "yarı iletken devleri"
+          },
+          {
+            "en": "filing patents",
+            "tr": "patent başvurusunda bulunmak"
+          },
+          {
+            "en": "cell architectures",
+            "tr": "hücre mimarileri"
+          }
+        ]
+      }
+    }
+  }
+]
