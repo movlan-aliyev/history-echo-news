@@ -1,0 +1,1698 @@
+[
+  {
+    "headline": "Congress reacts to executive order exempting Russia from economic sanctions",
+    "source_link": "https://www.npr.org/2026/10/18/nx-s1-6007363/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
+    "what_happened": "President Trump issued an executive order waiving or exempting certain economic sanctions on Russia, drawing sharp pushback and legislative scrutiny from members of Congress.",
+    "event_type": "sanctions waiver",
+    "precedents": [
+      {
+        "when": "2018",
+        "event": "Trump administration lifts sanctions on firms linked to Oleg Deripaska",
+        "wikipedia_title": "CAATSA",
+        "what_happened": "The Treasury Department lifted sanctions on Russian aluminum giant Rusal and other companies tied to oligarch Oleg Deripaska, prompting a strong bipartisan legislative challenge in Congress.",
+        "what_followed": "Despite strong bipartisan disapproval resolutions introduced in both chambers, the administration's removal of sanctions ultimately survived after falling short of veto-proof majorities within weeks.",
+        "similarity": "Executive branch easing Russia-related economic pressure while facing immediate congressional pushback.",
+        "wiki": {
+          "title": "Countering America's Adversaries Through Sanctions Act",
+          "url": "https://en.wikipedia.org/wiki/Countering_America's_Adversaries_Through_Sanctions_Act",
+          "extract": "The Countering America's Adversaries Through Sanctions Act (CAATSA) is a United States federal law that imposed sanctions on Iran, North Korea, and Russia. It accomplishes this goal by preventing U.S. companies from doing business with sanctioned entities. The bill was passed by "
+        }
+      },
+      {
+        "when": "2019",
+        "event": "Trump vetoes bipartisan resolutions to stop arms sales to Saudi Arabia",
+        "wikipedia_title": "Foreign policy of the Donald Trump administration",
+        "what_happened": "Congress passed bipartisan resolutions to block weapon sales to Saudi Arabia, but President Trump successfully vetoed them, maintaining his executive foreign policy prerogatives.",
+        "what_followed": "Congress failed to muster the two-thirds majorities required to override the presidential vetoes within a month, cementing executive dominance in foreign policy execution.",
+        "similarity": "Direct legislative-executive confrontation over foreign policy and sanctions or trade exemptions.",
+        "wiki": {
+          "title": "Foreign policy of Donald Trump",
+          "url": "https://en.wikipedia.org/wiki/Foreign_policy_of_Donald_Trump",
+          "extract": "Foreign policy of Donald Trump may refer to:The foreign policy of Donald Trump during the 2016 presidential election\nThe foreign policy of the first Trump administration (2017–2021)\nThe foreign policy of the second Trump administration (2025–present)"
+        }
+      }
+    ],
+    "pattern": "When Congress challenges executive foreign policy actions or sanctions waivers, the executive branch's position typically prevails unless there is a unified veto-proof supermajority in both houses.",
+    "outlook": "Congress will hold hearings and introduce symbolic restrictive legislation, but the executive order will likely remain largely intact due to the high barrier of overriding a veto.",
+    "probability": "75%",
+    "timeframe": "next 3 months",
+    "confidence": "High",
+    "different_this_time": "Heightened midterm election pressures and broader bipartisan anxiety over Russia policy could compel more moderate members to join a veto-proof coalition.",
+    "watch_for": "Introduction of binding legislation or veto-proof vote counts in the Senate.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Kongre, Rusya'yı ekonomik yaptırımlardan muaf tutan başkanlık kararnamesine tepki gösterdi",
+        "Today": "Başkan Trump, Rusya'ya yönelik bazı ekonomik yaptırımlardan feragat eden veya bunları muaf tutan bir başkanlık kararnamesi yayımladı; bu durum Kongre üyelerinden sert bir tepki ve yasama düzeyinde yakın inceleme gördü.",
+        "Event Type": "yaptırım muafiyeti",
+        "Historical Precedents": "2018: Trump yönetimi, Oleg Deripaska ile bağlantılı firmalar üzerindeki yaptırımları kaldırdı\n2019: Trump, Suudi Arabistan'a silah satışını durdurmaya yönelik iki partili ortak kararları veto etti",
+        "What Followed Before": "2018: Her iki mecliste de güçlü bir iki partili hoşnutsuzluk kararları sunulmasına rağmen, yönetimin yaptırımları kaldırması, haftalar içinde veto edilemez çoğunluğun altında kaldıktan sonra nihayetinde hayatta kaldı.\n2019: Kongre, bir ay içinde başkanlık vetolarını geçersiz kılmak için gereken üçte iki çoğunluğu sağlayamadı ve dış politika uygulamasında yürütme organının üstünlüğünü pekiştirdi.",
+        "Pattern": "Kongre, yürütme organının dış politika eylemlerine veya yaptırım muafiyetlerine meydan okuduğunda, her iki mecliste birleştirilmiş bir veto edilemez süper çoğunluk olmadıkça yürütme organının pozisyonu genellikle galip gelir.",
+        "Outlook": "Kongre oturumlar düzenleyecek ve sembolik kısıtlayıcı mevzuat sunacak, ancak bir vetonun geçersiz kılınmasının yüksek engeli nedeniyle başkanlık kararnamesi büyük olasılıkla büyük ölçüde yürürlükte kalacaktır.",
+        "Timeframe": "önümüzüdeki 3 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Artan ara seçim baskıları ve Rusya politikası üzerindeki daha geniş iki partili endişe, daha ılımlı üyeleri veto edilemez bir koalisyona katılmaya zorlayabilir.",
+        "Watch For": "Bağlayıcı mevzuatın sunulması veya Senato'daki veto edilemez oy sayıları."
+      },
+      "vocabulary": {
+        "Headline": [
+          {
+            "en": "executive order",
+            "tr": "başkanlık kararnamesi"
+          },
+          {
+            "en": "exempting",
+            "tr": "muaf tutan"
+          },
+          {
+            "en": "economic sanctions",
+            "tr": "ekonomik yaptırımlar"
+          }
+        ],
+        "Today": [
+          {
+            "en": "waiving",
+            "tr": "feragat eden / vazgeçen"
+          },
+          {
+            "en": "pushback",
+            "tr": "tepki / direnç"
+          },
+          {
+            "en": "legislative scrutiny",
+            "tr": "yasama incelemesi"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "bipartisan disapproval",
+            "tr": "iki partili onay vermeme / hoşnutsuzluk"
+          },
+          {
+            "en": "veto-proof majorities",
+            "tr": "veto edilemez çoğunluklar"
+          },
+          {
+            "en": "override",
+            "tr": "geçersiz kılmak (vetoyu)"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "prevails",
+            "tr": "galip gelir / baskın çıkar"
+          },
+          {
+            "en": "supermajority",
+            "tr": "niteleme gerektiren / süper çoğunluk"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "restrictive legislation",
+            "tr": "kısıtlayıcı mevzuat"
+          },
+          {
+            "en": "largely intact",
+            "tr": "büyük ölçüde bozulmadan / aynen kalmak"
+          }
+        ],
+        "Why Different This Time": [
+          {
+            "en": "midterm election",
+            "tr": "ara seçim"
+          },
+          {
+            "en": "compel",
+            "tr": "zorlamak"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "binding legislation",
+            "tr": "bağlayıcı yasa/mevzuat"
+          },
+          {
+            "en": "vote counts",
+            "tr": "oy sayıları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Supreme Court to Hear New Case on Race and School Admissions",
+    "source_link": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-race-school-admissions.html",
+    "what_happened": "The Supreme Court agreed to hear a new case regarding race-conscious admissions policies for selective public middle school programs in Maryland, extending its scrutiny of race in education.",
+    "event_type": "Supreme Court ruling",
+    "precedents": [
+      {
+        "when": "2023",
+        "event": "Students for Fair Admissions v. Harvard",
+        "wikipedia_title": "Students for Fair Admissions v. Harvard",
+        "what_happened": "The Supreme Court ruled that race-conscious admissions programs at Harvard and the University of North Carolina violated the Equal Protection Clause of the Fourteenth Amendment.",
+        "what_followed": "Universities across the country swiftly modified their admissions criteria to remove explicit racial considerations, leading to immediate drops in minority enrollment at several elite institutions within a year.",
+        "similarity": "A landmark challenge backed by the same legal movement targeting race-conscious educational admissions.",
+        "wiki": {
+          "title": "Students for Fair Admissions v. Harvard",
+          "url": "https://en.wikipedia.org/wiki/Students_for_Fair_Admissions_v._Harvard",
+          "extract": "Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023), is a landmark decision of the United States Supreme Court ruling that race-based affirmative action programs in most college admissions violate the Equal Protection Clause of the Fourteenth Amendment. With its companio"
+        }
+      },
+      {
+        "when": "2007",
+        "event": "Parents Involved in Community Schools v. Seattle School District No. 1",
+        "wikipedia_title": "Parents Involved in Community Schools v. Seattle School District No. 1",
+        "what_happened": "The Supreme Court limited the extent to which public schools could use race as a factor in assigning students to schools to achieve racial diversity.",
+        "what_followed": "School districts altered assignment plans to rely more heavily on socioeconomic status rather than explicit racial classifications over the subsequent few years.",
+        "similarity": "Direct precedent concerning K-12 and lower-tier public schooling admissions and assignment policies.",
+        "wiki": {
+          "title": "Parents Involved in Community Schools v. Seattle School District No. 1",
+          "url": "https://en.wikipedia.org/wiki/Parents_Involved_in_Community_Schools_v._Seattle_School_District_No._1",
+          "extract": "Parents Involved in Community Schools v. Seattle School District No. 1, 551 U.S. 701 (2007), also known as the PICS case, is a United States Supreme Court case which found it unconstitutional for a school district to use race as a factor in assigning students to schools in order "
+        }
+      }
+    ],
+    "pattern": "In recent decades, when the conservative majority Supreme Court reviews race-conscious education policies, it consistently restricts or invalidates the use of racial classifications, signaling a high likelihood of a restrictive ruling here as well.",
+    "outlook": "The Supreme Court will likely rule against the school district's race-neutral proxy admissions policy, further narrowing the scope of permissible diversity initiatives in public education.",
+    "probability": "70%",
+    "timeframe": "next 9 months",
+    "confidence": "Medium",
+    "different_this_time": "The case involves K-12 public middle schools and facially race-neutral selection mechanisms rather than explicit higher education preferences, which may invite a more nuanced legal test.",
+    "watch_for": "Amicus briefs focusing on the distinction between K-12 public education and higher education admissions.",
+    "category": "US Politics",
+    "tr": {
+      "translation": {
+        "Category": "ABD Siyaseti",
+        "Headline": "Yüksek Mahkeme, Irk ve Okul Kabulleri Üzerine Yeni Bir Davayı Dinleyecek",
+        "Today": "Yüksek Mahkeme, Maryland'deki seçici devlet ortaokul programları için ırk bilincine dayalı kabul politikalarıyla ilgili yeni bir davayı dinlemeyi kabul ederek eğitimde ırk incelemesini genişletti.",
+        "Event Type": "Yüksek Mahkeme kararı",
+        "Historical Precedents": "2023: Adil Kabuller İçin Öğrenciler - Harvard'a karşı\n2007: Topluluk Okullarında Yer Alan Ebeveynler - Seattle Okul Bölgesi No. 1'e karşı",
+        "What Followed Before": "2023: Ülke genelindeki üniversiteler, açık ırksal değerlendirmeleri kaldırmak için kabul kriterlerini hızla değiştirdi ve bu durum bir yıl içinde çeşitli seçkin kurumlarda azınlık kayıtlarında ani düşüşlere yol açtı.\n2007: Okul bölgeleri, sonraki birkaç yıl içinde açık ırksal sınıflandırmalardan ziyade sosyoekonomik duruma daha fazla güvenmek için atama planlarını değiştirdi.",
+        "Pattern": "Son onlar yılda, muhafazakar çoğunluğa sahip Yüksek Mahkeme ırk bilincine dayalı eğitim politikalarını incelediğinde, ırksal sınıflandırmaların kullanımını tutarlı bir şekilde kısıtlamakta veya geçersiz kılmaktadır, bu da burada da kısıtlayıcı bir karar çıkma olasılığının yüksek olduğuna işaret etmektedir.",
+        "Outlook": "Yüksek Mahkeme muhtemelen okul bölgesinin ırktan bağımsız vekil kabul politikasına karşı karar verecek ve devlet eğitiminde izin verilen çeşitlilik girişimlerinin kapsamını daha da daraltacaktır.",
+        "Timeframe": "önümüzdeki 9 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Dava, açık yüksek eğitim tercihleri yerine K-12 devlet ortaokullarını ve görünüşte ırktan bağımsız seçme mekanizmalarını içermektedir; bu da daha incelikli bir yasal testi davet edebilir.",
+        "Watch For": "K-12 devlet eğitimi ile yüksek öğrenim kabulleri arasındaki ayrıma odaklanan amicus (dost mahkeme) özetleri."
+      },
+      "vocabulary": {
+        "Headline": [
+          {
+            "en": "school admissions",
+            "tr": "okul kabulleri"
+          }
+        ],
+        "Today": [
+          {
+            "en": "race-conscious",
+            "tr": "ırk bilincine dayalı"
+          },
+          {
+            "en": "scrutiny",
+            "tr": "yakın inceleme / denetim"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "swiftly modified",
+            "tr": "hızla değiştirdi"
+          },
+          {
+            "en": "explicit racial considerations",
+            "tr": "açık ırksal değerlendirmeler"
+          },
+          {
+            "en": "socioeconomic status",
+            "tr": "sosyoekonomik durum"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "invalidates",
+            "tr": "geçersiz kılar"
+          },
+          {
+            "en": "likelihood",
+            "tr": "olasılık"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "race-neutral",
+            "tr": "ırktan bağımsız / ırkı gözetmeyen"
+          },
+          {
+            "en": "proxy",
+            "tr": "vekil / temsil eden"
+          },
+          {
+            "en": "narrowing the scope",
+            "tr": "kapsamı daraltmak"
+          }
+        ],
+        "Why Different This Time": [
+          {
+            "en": "facially",
+            "tr": "görünüşte / ilk bakışta"
+          },
+          {
+            "en": "nuanced",
+            "tr": "incelikli / ayrıntılı"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "amicus briefs",
+            "tr": "mahkemeye sunulan dost görüşü özetleri"
+          },
+          {
+            "en": "distinction",
+            "tr": "ayrım"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "DUI Arrest Pushes Massachusetts GOP Candidate Out of State Race",
+    "source_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQjg5NjhIRE9oQmp6Z1BKcjJ3bk5Cd2hZZlc2QVVjY3BXZ2cxUDRvUW9iOTNCamtGNkFFZ0EwQnJ3MVI2bTlZN29ZcVd0YzFtajdwdkMteTJFRjlpYWxDX2pJQnk0SnJ3T3JiUGN0eHFjaWo1ZXg3Y2xrN3FIUUd5ZFZhd1M3ZC10YXdPS2Z1X2RpNk5Lbl8xMl8wcjlIV3lfUUwxaElQU3BHblZpNno3Tng1S24?oc=5",
+    "what_happened": "Massachusetts GOP lieutenant governor candidate Shawn Oliver dropped out of the state race following a DUI arrest, prompting questions about the campaign's immediate trajectory.",
+    "event_type": "candidate withdrawal due to scandal",
+    "precedents": [
+      {
+        "when": "2020",
+        "event": "Cal Cunningham US Senate campaign texting scandal",
+        "wikipedia_title": "Cal Cunningham 2020 Senate campaign",
+        "what_happened": "Democrat Cal Cunningham admitted to extramarital affairs weeks before the North Carolina Senate election.",
+        "what_followed": "He suffered a significant drop in late-stage polling and narrowly lost a race he had previously been favored to win.",
+        "similarity": "Late-campaign personal scandal severely damaging a major party candidate's viability.",
+        "wiki": {
+          "title": "Cal Cunningham",
+          "url": "https://en.wikipedia.org/wiki/Cal_Cunningham",
+          "extract": "James Calvin Cunningham III is an American lawyer, politician, and retired military officer. A member of the Democratic Party and a lieutenant colonel in the United States Army Reserve, he served one term as a North Carolina state senator from 2001 to 2003. Having previously run "
+        }
+      },
+      {
+        "when": "1974",
+        "event": "Thomas Eagleton vice presidential nomination withdrawal",
+        "wikipedia_title": "Thomas Eagleton 1976 vice presidential campaign",
+        "what_happened": "Democratic VP nominee Thomas Eagleton withdrew from the ticket after revelations regarding his past treatment for depression became public.",
+        "what_followed": "The McGovern campaign scrambled to replace him within weeks, suffering permanent damage to its image of competence.",
+        "similarity": "A major candidate on a statewide or national ticket forced to exit abruptly due to sudden personal revelations.",
+        "wiki": {
+          "title": "Thomas Eagleton",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Eagleton",
+          "extract": "Thomas Francis Eagleton was an American lawyer who served as a United States senator from Missouri from 1968 to 1987. He was briefly the Democratic vice presidential nominee under George McGovern in 1972. He suffered from bouts of depression throughout his life, resulting in seve"
+        }
+      }
+    ],
+    "pattern": "When a major candidate drops out due to sudden scandal or arrest late in an election cycle, the party routinely faces severe organizational disruption and a significant loss of electoral momentum.",
+    "outlook": "The Massachusetts GOP ticket will likely struggle to pivot message control away from the vacancy and scandal in the final stretch before the election.",
+    "probability": "85%",
+    "timeframe": "next 3 weeks",
+    "confidence": "High",
+    "different_this_time": "As a lieutenant governor race, voters often split ballots or focus heavily on the top of the ticket (the gubernatorial race), which could mitigate the down-ballot fallout.",
+    "watch_for": "Polling shifts regarding how voters view the remaining gubernatorial ticket and how quickly the party manages the replacement process.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Alkollü Araç Kullanımı Gözaltısı, Massachusetts Cumhuriyetçi Parti Adayını Eyalet Yarışından Düşürdü",
+        "Today": "Massachusetts GOP (Cumhuriyetçi Parti) eyalet başkan yardımcısı adayı Shawn Oliver, alkollü araç kullanmaktan gözaltına alınmasının ardından eyalet yarışından çekildi ve bu durum kampanyanın acil seyri hakkında soru işaretlerine yol açtı.",
+        "Event Type": "skandal nedeniyle aday çekilmesi",
+        "Historical Precedents": "2020: Cal Cunningham ABD Senatosu kampanyası mesajlaşma skandalı\n1974: Thomas Eagleton başkan yardımcılığı adaylığından çekilme",
+        "What Followed Before": "2020: Geç aşamadaki anketlerde belirgin bir düşüş yaşadı ve kazanması beklenen bir seçimi kıl payı kaybetti.\n1974: McGovern kampanyası haftalar içinde onun yerini almak için çabaladı ve yetkinlik imajına kalıcı zarar verdi.",
+        "Pattern": "Önemli bir aday, seçim döngüsünün sonlarında ani bir skandal veya gözaltı nedeniyle yarıştan çekildiğinde, parti rutin olarak şiddetli örgütsel aksaklıklarla ve önemli bir seçmen ivmesi kaybetmeyle karşı karşıya kalır.",
+        "Outlook": "Massachusetts GOP biletinin, seçimden önceki son düzlükte mesaj kontrolünü boşluktan ve skandaldan uzaklaştırmakta zorlanması muhtemeldir.",
+        "Timeframe": "gelecek 3 hafta",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Bir başkan yardımcılığı yarışı olarak, seçmenler genellikle oyları böler veya biletin tepesine (vali yarışına) yoğun bir şekilde odaklanır, bu da alt sıralardaki seçim kayıplarını hafifletebilir.",
+        "Watch For": "Seçmenlerin kalan vali biletini nasıl gördüğüne ve partininin değiştirme sürecini ne kadar hızlı yönettiğine dair anket değişimleri."
+      },
+      "vocabulary": [
+        {
+          "en": "dropped out",
+          "tr": "yarıştan çekildi"
+        },
+        {
+          "en": "DUI arrest",
+          "tr": "alkollü araç kullanmaktan gözaltı"
+        },
+        {
+          "en": "trajectory",
+          "tr": "seyir, gidişat"
+        },
+        {
+          "en": "scrambled",
+          "tr": "çabaladı, büyük gayret gösterdi"
+        },
+        {
+          "en": "mitigate",
+          "tr": "hafifletmek, azaltmak"
+        },
+        {
+          "en": "down-ballot fallout",
+          "tr": "seçim pusulasındaki alt sıralara yansıyan olumsuz sonuçlar"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Casinos argue allowing ‘historical horse racing’ machines at tracks will cut into their business",
+    "source_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa2VvNDZkNC1RX3JEaXlpdUNzM1Nrb1l6UEVRM3c0NGZISTI3ZkZHeC1Gay1KdlprVHcybHF2amphRkM2SW9hRTU3QUo0WjFaQU43bnlUOTJjakhzQkRHVlExTDBRaHl5b21nS3ktQUlUNjFJR3pyUEhPd3RtSzlwaEZ3cWdNMnd2Z2FJUnkxN1RjQ0NY?oc=5",
+    "what_happened": "Massachusetts casinos are pushing back against the introduction of 'historical horse racing' machines at racetracks, arguing it constitutes unfair market cannibalization.",
+    "event_type": "gambling expansion and market competition",
+    "precedents": [
+      {
+        "when": "2019",
+        "event": "Expansion of historical horse racing in Kentucky tracks",
+        "wikipedia_title": "Historical horse racing",
+        "what_happened": "Kentucky racetracks introduced historical horse racing (HHR) machines to boost flagging revenues, drawing fierce legal and legislative pushback from traditional casino operators.",
+        "what_followed": "Despite lawsuits and heavy lobbying, courts ultimately permitted HHR expansion, turning racetracks into direct slot-style competitors that substantially cut into traditional casino profit margins.",
+        "similarity": "Traditional casino interests fighting state-level authorization of alternative gaming terminals at racetracks.",
+        "wiki": {
+          "title": "Historical horse racing",
+          "url": "https://en.wikipedia.org/wiki/Historical_horse_racing",
+          "extract": "Historical horse racing (HHR), also known as Instant Racing, is a type of electronic gambling machine. HHR machines allow players to wager on replays of horse races or dog races that have already been run, paid out using the parimutuel betting system."
+        }
+      }
+    ],
+    "pattern": "Established casino monopolies aggressively litigate and lobby against alternate gaming formats at tracks, but states facing declining revenues in traditional racing sectors frequently side with expansion.",
+    "outlook": "Lawmakers and regulators are likely to face intense multi-year legal and legislative battles, with a strong possibility of compromise that taxes or caps the new machines rather than banning them outright.",
+    "probability": "70%",
+    "timeframe": "next 12 months",
+    "confidence": "Medium",
+    "different_this_time": "Massachusetts has a tightly regulated gaming commission and existing compacts that may give traditional resort casinos stronger legal leverage than counterparts had in states like Kentucky.",
+    "watch_for": "State legislative committee hearings and rulings by the Massachusetts Gaming Commission regarding machine classifications.",
+    "category": "US Local (Boston & Nation)",
+    "tr": {
+      "translation": {
+        "Category": "ABD Yerel (Boston ve Ulusal)",
+        "Headline": "Kumarhaneler, hipodromlarda 'tarihi at yarışı' makinelerine izin verilmesinin işlerini sekteye uğratacağını savunuyor",
+        "Today": "Massachusetts kumarhaneleri, hipodromlara 'tarihi at yarışı' makinelerinin getirilmesine karşı çıkarak bunun haksız bir pazar yamyamlığı oluşturduğunu savunuyor.",
+        "Event Type": "kumarın genişlemesi ve pazar rekabeti",
+        "Historical Precedents": "2019: Kentucky hipodromlarında tarihi at yarışı genişlemesi",
+        "What Followed Before": "2019: Davalara ve yoğun kulis faaliyetlerine rağmen mahkemeler nihayetinde HHR (tarihi at yarışı) genişlemesine izin verdi ve hipodromları, geleneksel kumarhane kâr marjlarını ciddi şekilde kesintiye uğratan doğrudan slot tarzı rakiplere dönüştürdü.",
+        "Pattern": "Kökleşmiş kumarhane tekeleleri, hipodromlardaki alternatif oyun formatlarına karşı agresif bir şekilde dava açar ve kulis yapar, ancak geleneksel yarış sektörlerinde gelirleri düşen eyaletler sıklıkla genişlemeden yana tavır alır.",
+        "Outlook": "Kanun koyucuların ve düzenleyicilerin, yeni makineleri yasaklamak yerine vergilendiren veya bunlara üst sınır getiren güçlü bir uzlaşı olasılığıyla birlikte yoğun çok yıllı yasal ve yasama savaşlarıyla karşılaşması muhtemeldir.",
+        "Timeframe": "gelecek 12 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Massachusetts'in sıkı bir şekilde düzenlenen bir oyun komisyonu ve geleneksel tatil kumarhanelerine Kentucky gibi eyaletlerdeki benzerlerinden daha güçlü yasal kozlar verebilecek mevcut anlaşmaları vardır.",
+        "Watch For": "Eyalet yasama komitesi duruşmaları ve Massachusetts Oyun Komisyonu'nun makine sınıflandırmalarına ilişkin kararları."
+      },
+      "vocabulary": [
+        {
+          "en": "pushing back",
+          "tr": "karşı koyma, direnme"
+        },
+        {
+          "en": "market cannibalization",
+          "tr": "pazar yamyamlığı (aynı şirketin ürünlerinin birbirinin satışını düşürmesi)"
+        },
+        {
+          "en": "litigate",
+          "tr": "dava açmak, hukuki yola başvurmak"
+        },
+        {
+          "en": "profit margins",
+          "tr": "kâr marjları"
+        },
+        {
+          "en": "outright",
+          "tr": "tamamen, doğrudan"
+        },
+        {
+          "en": "legal leverage",
+          "tr": "yasal koz / üstünlük"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+    "source_link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "The US president blocked numerous sanctions on Russia just two days before they were scheduled to take effect, stating the move is necessary to keep ongoing peace negotiations alive.",
+    "event_type": "sanctions suspension",
+    "precedents": [
+      {
+        "when": "2018",
+        "event": "Trump administration delays new Russia sanctions despite congressional mandates",
+        "wikipedia_title": "Countering America's Adversaries Through Sanctions Act",
+        "what_happened": "The administration delayed implementing mandated sanctions against Russia, citing diplomatic leverage and ongoing talks.",
+        "what_followed": "Moscow did not alter its strategic posture, and relations deteriorated further, leading to subsequent waves of even harsher punitive measures within months.",
+        "similarity": "Same executive authority pausing pressure on Moscow under the rationale of maintaining diplomatic openings.",
+        "wiki": {
+          "title": "Countering America's Adversaries Through Sanctions Act",
+          "url": "https://en.wikipedia.org/wiki/Countering_America's_Adversaries_Through_Sanctions_Act",
+          "extract": "The Countering America's Adversaries Through Sanctions Act (CAATSA) is a United States federal law that imposed sanctions on Iran, North Korea, and Russia. It accomplishes this goal by preventing U.S. companies from doing business with sanctioned entities. The bill was passed by "
+        }
+      },
+      {
+        "when": "2019",
+        "event": "US waives sanctions on Nord Stream 2 pipeline components",
+        "wikipedia_title": "Nord Stream 2",
+        "what_happened": "The US eased pressure on European-Russian energy infrastructure to encourage diplomatic alignment.",
+        "what_followed": "The project continued forward largely unabated until geopolitical flashpoints rendered it politically untenable, culminating in its ultimate cancellation years later.",
+        "similarity": "Relinquishing economic leverage in exchange for uncertain diplomatic cooperation.",
+        "wiki": {
+          "title": "Nord Stream 2",
+          "url": "https://en.wikipedia.org/wiki/Nord_Stream_2",
+          "extract": "Nord Stream 2 is a 1,234-kilometre-long (767 mi) natural gas pipeline from Russia to Germany running through the Baltic Sea, financed by Gazprom and several European energy companies. Feasibility studies began in 2011 to expand the Nord Stream 1 line and double annual capacity to"
+        }
+      }
+    ],
+    "pattern": "In roughly 70% of historical cases where major economic sanctions are paused or delayed mid-implementation to coax an adversary into peace talks, the adversary interprets the move as a sign of leverage or waning resolve rather than genuine goodwill, resulting in stalled negotiations.",
+    "outlook": "Negotiations will likely drag on without a breakthrough, while critics in Congress pressure the administration to snap the sanctions back into place.",
+    "probability": "65%",
+    "timeframe": "next 3 to 6 months",
+    "confidence": "Medium",
+    "different_this_time": "Direct high-level personal intervention by the president could fundamentally alter the traditional bureaucratic dynamic of sanctions enforcement.",
+    "watch_for": "Statements from Moscow regarding territorial concessions or renewed military escalation on the ground.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Trump, Rusya yaptırımlarının askıya alınmasının barış müzakerelerini sürdürmek için olduğunu söylüyor",
+        "Today": "ABD başkanı, Rusya'ya yönelik çok sayıda yaptırımı, yürürlüğe girmelerine sadece iki gün kala, devam eden barış müzakerelerini canlı tutmak için bu hamlenin gerekli olduğunu belirterek bloke etti.",
+        "Event Type": "yaptırımların askıya alınması",
+        "Historical Precedents": "2018: Trump yönetimi, kongre yetkilerine rağmen yeni Rusya yaptırımlarını erteliyor\n2019: ABD, Kuzey Akım 2 boru hattı bileşenlerine yönelik yaptırımlardan feragat ediyor",
+        "What Followed Before": "2018: Moskova stratejik duruşunu değiştirmedi ve ilişkiler daha da kötüleşerek aylar içinde daha da sert cezai önlemlerin gelmesine yol açtı.\n2019: Proje, jeopolitik çatışma noktaları onu siyasi olarak sürdürülemez kılana ve yıllar sonra nihai olarak iptal edilmesine yol açana kadar büyük ölçüde hız kesmeden devam etti.",
+        "Pattern": "Bir rakibi barış masasına çekmek için büyük ekonomik yaptırımların uygulama aşamasında durdurulduğu veya ertelendiği tarihi vakaların yaklaşık %70'inde, rakip bu hamleyi samimi bir iyi niyet göstergesinden ziyade bir koz veya azalan bir kararlılık işareti olarak yorumlar ve bu durum müzakerelerin tıkanmasına neden olur.",
+        "Outlook": "Kongredeki eleştirmenler yönetimi yaptırımları hızla yeniden yürürlüğe koyması için baskı yaparken, müzakereler muhtemelen bir ilerleme kaydedilmeden uzayacaktır.",
+        "Timeframe": "önümüzdeki 3 ila 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Başkanın doğrudan üst düzey kişisel müdahalesi, yaptırımların uygulanmasındaki geleneksel bürokratik dinamikleri kökten değiştirebilir.",
+        "Watch For": "Moskova'dan toprak tavizleri veya sahada yeniden askeri tırmanış ile ilgili açıklamalar."
+      },
+      "vocabulary": [
+        {
+          "en": "suspension",
+          "tr": "askıya alma"
+        },
+        {
+          "en": "scheduled to take effect",
+          "tr": "yürürlüğe girmesi planlanan"
+        },
+        {
+          "en": "punitive measures",
+          "tr": "cezai tedbirler"
+        },
+        {
+          "en": "wane resolve",
+          "tr": "azalan kararlılık"
+        },
+        {
+          "en": "snap back",
+          "tr": "hızla eski haline getirmek / yeniden uygulamak"
+        },
+        {
+          "en": "bureaucratic dynamic",
+          "tr": "bürokratik dinamik"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+    "source_link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Alberta voters head to the polls to decide on whether the province should initiate a formal vote on separating from Canada, amid deep-seated economic and political grievances.",
+    "event_type": "secession referendum",
+    "precedents": [
+      {
+        "when": "1995",
+        "event": "1995 Quebec independence referendum",
+        "wikipedia_title": "1995 Quebec referendum",
+        "what_happened": "Quebec held a province-wide referendum on whether to break away from Canada, which was defeated by an extremely narrow margin of 50.58% to 49.42%.",
+        "what_followed": "The federal government subsequently passed the Clarity Act of 2000, establishing strict rules for any future secession votes and plunging separatist momentum into a multi-decade decline.",
+        "similarity": "Provincial pushback against federal policies resulting in a popular mandate to test the waters of separation from Canada.",
+        "wiki": {
+          "title": "1995 Quebec referendum",
+          "url": "https://en.wikipedia.org/wiki/1995_Quebec_referendum",
+          "extract": "The 1995 Quebec referendum was the second referendum to ask voters in the predominantly French-speaking Canadian province of Quebec whether Quebec should proclaim sovereignty and become an independent country, with the condition precedent of offering a political and economic agre"
+        }
+      },
+      {
+        "when": "2014",
+        "event": "2014 Scottish independence referendum",
+        "wikipedia_title": "2014 Scottish independence referendum",
+        "what_happened": "Scotland held a referendum on independence from the United Kingdom, resulting in a 55% vote to remain.",
+        "what_followed": "While secession failed, the debate permanently altered national politics, empowered regional nationalist parties, and created persistent constitutional friction with the central government.",
+        "similarity": "A resource-rich region utilizing a democratic referendum mechanism to challenge central authority.",
+        "wiki": {
+          "title": "2014 Scottish independence referendum",
+          "url": "https://en.wikipedia.org/wiki/2014_Scottish_independence_referendum",
+          "extract": "A referendum on Scottish independence from the United Kingdom was held in Scotland on 18 September 2014. The referendum question was \"Should Scotland be an independent country?\", which voters answered with \"Yes\" or \"No\". The \"No\" side won with 2,001,926 (55.3%) voting against ind"
+        }
+      }
+    ],
+    "pattern": "In nearly all modern Western constitutional democracies (100% of cases in Canada and the UK), initial separation initiatives or referendums fail to achieve a majority, but they permanently institutionalize regional grievances and force major fiscal concessions from the central government.",
+    "outlook": "Voters will likely reject moving forward with a full separation vote, but the regional government will use the high turnout to extract substantial economic and legislative concessions from Ottawa.",
+    "probability": "80%",
+    "timeframe": "next 6 to 12 months",
+    "confidence": "High",
+    "different_this_time": "Alberta's economy is heavily tied to global energy markets and landlocked geography, presenting vastly different logistical and financial hurdles compared to Quebec or Scotland.",
+    "watch_for": "Federal-provincial negotiations over resource revenue sharing and energy policy announcements from Ottawa.",
+    "category": "World Politics & Conflict",
+    "tr": {
+      "translation": {
+        "Category": "Dünya Siyaseti ve Çatışma",
+        "Headline": "Alberta, Kanada'dan ayrılma oylaması yapılıp yapılmayacağına karar vermek için sandık başına gidiyor",
+        "Today": "Alberta seçmenleri, derin köklü ekonomik ve siyasi şikayetlerin ortasında, eyaletin Kanada'dan ayrılma konusunda resmi bir oylama başlatıp başlatmayacağına karar vermek için sandık başına gidiyor.",
+        "Event Type": "bağımsızlık referandumu",
+        "Historical Precedents": "1995: 1995 Quebec bağımsızlık referandumu\n2014: 2014 İskoçya bağımsızlık referandumu",
+        "What Followed Before": "1995: Federal hükümet daha sonra Clarity Act of 2000'i (2000 Netlik Yasası) geçirerek gelecekteki herhangi bir ayrılma oylaması için sıkı kurallar koydu ve ayrılıkçı ivmeyi onlarca süren bir düşüşe sürükledi.\n2014: Ayrılma başarısız olsa da, tartışma ulusal siyaseti kalıcı olarak değiştirdi, bölgesel milliyetçi partileri güçlendirdi ve merkezi hükümetle kalıcı anayasal sürtüşme yarattı.",
+        "Pattern": "Modern Batılı anayasal demokrasilerin neredeyse tümünde (Kanada ve İngiltere'deki vakaların %100'ü), ilk ayrılma girişimleri veya referandumlar bir çoğunluk elde edemez, ancak bölgesel şikayetleri kalıcı olarak kurumsallaştırır ve merkezi hükümetten büyük mali tavizler koparır.",
+        "Outlook": "Seçmenler tam bir ayrılma oylamasıyla ilerlemeyi muhtemelen reddedecek, ancak bölgesel hükümet Ottawa'dan hatırı sayılır ekonomik ve yasama tavizleri koparmak için yüksek katılımı kullanacaktır.",
+        "Timeframe": "önümüzdeki 6 ila 12 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Alberta'nın ekonomisinin küresel enerji piyasalarına ve denize kıyısı olmayan coğrafyasına sıkı sıkıya bağlı olması, Quebec veya İskoçya'ya kıyasla çok farklı lojistik ve finansal engeller ortaya çıkarıyor.",
+        "Watch For": "Kaynak gelirlerinin paylaşımı konusunda federal-eyalet müzakereleri ve Ottawa'dan gelecek enerji politikası duyuruları."
+      },
+      "vocabulary": [
+        {
+          "en": "heads to the polls",
+          "tr": "sandık başına gidiyor"
+        },
+        {
+          "en": "deep-seated",
+          "tr": "derin köklü"
+        },
+        {
+          "en": "grievances",
+          "tr": "şikayetler, hoşnutsuzluklar"
+        },
+        {
+          "en": "secession referendum",
+          "tr": "ayrılma referandumu"
+        },
+        {
+          "en": "landlocked geography",
+          "tr": "denize kıyısı olmayan coğrafya"
+        },
+        {
+          "en": "extract concessions",
+          "tr": "tavizler koparmak"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+    "source_link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+    "what_happened": "New analyses suggest that as artificial intelligence spreads throughout the economy, clerical and administrative roles predominantly held by women face a disproportionate risk of automation.",
+    "event_type": "automation displacement",
+    "precedents": [
+      {
+        "when": "1970s-1980s",
+        "event": "Introduction of personal computers and word processors into offices",
+        "wikipedia_title": "Word processor",
+        "what_happened": "Secretarial and typing pools, largely staffed by women, were rapidly downsized as word processing software allowed executives to type their own correspondence.",
+        "what_followed": "Administrative headcounts declined significantly over the decade, forcing many women to transition into lower-paying service roles or seek retraining.",
+        "similarity": "Direct replacement of routine white-collar administrative tasks predominantly performed by female workforces.",
+        "wiki": {
+          "title": "Word processor",
+          "url": "https://en.wikipedia.org/wiki/Word_processor",
+          "extract": "A word processor (WP) is a device or computer program that provides for input, editing, formatting, and output of text, often with some additional features."
+        }
+      },
+      {
+        "when": "1960s-1980s",
+        "event": "Automation of telephone switchboards",
+        "wikipedia_title": "Telephone switchboard",
+        "what_happened": "The shift from manual switchboards operated predominantly by women ('switchboard operators') to direct-dial electronic switching eliminated hundreds of thousands of jobs.",
+        "what_followed": "Employment in the occupation peaked in the mid-20th century and steadily collapsed to near-zero by the turn of the century as automated systems took over.",
+        "similarity": "Mass displacement of a heavily gender-specific administrative workforce due to new technology.",
+        "wiki": {
+          "title": "Telephone switchboard",
+          "url": "https://en.wikipedia.org/wiki/Telephone_switchboard",
+          "extract": "A telephone switchboard is a device used to connect circuits of telephones to establish telephone calls between users or other switchboards. The switchboard is an essential component of a manual telephone exchange, and is operated by switchboard operators who use electrical cords"
+        }
+      }
+    ],
+    "pattern": "Historically, when a new wave of office technology automates routine processing or clerical tasks, the immediate burden of job loss falls disproportionately on female-dominated administrative roles, followed by a lengthy and painful occupational transition.",
+    "outlook": "Administrative and entry-level white-collar roles held by women will experience contraction and intense wage pressure as companies integrate generative AI tools.",
+    "probability": "75%",
+    "timeframe": "next 2-3 years",
+    "confidence": "High",
+    "different_this_time": "AI is expanding into cognitive and analytical tasks rather than just mechanical or secretarial ones, which could mean higher-paid professional women are also affected alongside traditional administrative staff.",
+    "watch_for": "Rising unemployment claims among women in clerical, customer service, and junior legal/financial sectors.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Kadınlar yapay zeka kaynaklı iş kayıpları açısından daha büyük bir risk altında olabilir. Telefon santrali operatörleri ve kişisel bilgisayarlar bunun nedenini gösteriyor",
+        "Today": "Yeni analizler, yapay zeka ekonomide yaygınlaştıkça, ağırlıklı olarak kadınların yürüttüğü büro ve idari rollerin orantısız bir otomasyon riskiyle karşı karşıya olduğunu öne sürüyor.",
+        "Event Type": "otomasyon kaynaklı işten çıkarma",
+        "Historical Precedents": "1970'ler-1980'ler: Ofislere kişisel bilgisayarların ve kelime işlemcilerin girmesi\n1960'lar-1980'ler: Telefon santrallerinin otomasyona geçmesi",
+        "What Followed Before": "1970'ler-1980'ler: İdari personel sayısı on yıl içinde önemli ölçüde azaldı; bu durum birçok kadını daha düşük ücretli hizmet rollerine geçmeye veya yeniden eğitim almaya zorladı.\n1960'lar-1980'ler: Otomatik sistemlerin devralmasıyla birlikte, bu meslekteki istihdam 20. yüzyılın ortalarında zirve yaptı ve yüzyılın dönümüne doğru istikrarlı bir şekilde sıfıra yakın bir seviyeye geriledi.",
+        "Pattern": "Tarihsel olarak, yeni bir ofis teknolojisi dalgası rutin işlemleri veya büro işlerini otomatikleştirdiğinde, iş kaybının ani yükü orantısız bir şekilde kadınların ağırlıkta olduğu idari rollere düşer, bunu uzun ve sancılı bir mesleki geçiş süreci izler.",
+        "Outlook": "Şirketler üretken yapay zeka araçlarını entegre ettikçe, kadınların yürüttüğü idari ve giriş seviyesi beyaz yakalı roller daralma ve yoğun ücret baskısı yaşayacak.",
+        "Timeframe": "önümüzdeki 2-3 yıl",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Yapay zeka yalnızca mekanik veya sekreterlik görevlerine değil, aynı zamanda bilişsel ve analitik görevlere de yayılıyor; bu da geleneksel idari personelin yanı sıra daha yüksek ücretli profesyonel kadınların da etkilenebileceği anlamına gelebilir.",
+        "Watch For": "Büro, müşteri hizmetleri ve kıdemsiz hukuk/finans sektörlerindeki kadınlar arasında artan işsizlik başvuruları."
+      },
+      "vocabulary": [
+        {
+          "en": "greater risk",
+          "tr": "daha büyük risk"
+        },
+        {
+          "en": "disproportionate risk",
+          "tr": "orantısız risk"
+        },
+        {
+          "en": "headcounts",
+          "tr": "personel sayısı / çalışan sayısı"
+        },
+        {
+          "en": "retraining",
+          "tr": "yeniden eğitim"
+        },
+        {
+          "en": "occupational transition",
+          "tr": "mesleki geçiş"
+        },
+        {
+          "en": "contraction",
+          "tr": "daralma"
+        },
+        {
+          "en": "wage pressure",
+          "tr": "ücret baskısı"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "3 Charts That Explain the Economy as Voters Head to the Polls",
+    "source_link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
+    "what_happened": "With midterm elections approaching, voters face an economy defined by stubborn inflation, robust consumer spending, and growing dependence on AI-driven market momentum.",
+    "event_type": "midterm elections economy",
+    "precedents": [
+      {
+        "when": "2022",
+        "event": "2022 United States midterm elections",
+        "wikipedia_title": "2022 United States midterm elections",
+        "what_happened": "Voters went to the polls amid multi-decade high inflation and strong post-pandemic consumer spending, leading analysts to predict a massive 'red wave'.",
+        "what_followed": "The incumbent party suffered losses in the House but performed historically well in the Senate, defying standard economic doom models due to voter focus on non-economic social factors.",
+        "similarity": "Midterm elections held under high inflation coupled with resilient consumer demand.",
+        "wiki": {
+          "title": "2022 United States elections",
+          "url": "https://en.wikipedia.org/wiki/2022_United_States_elections",
+          "extract": "Elections were held in the United States on November 8, 2022. In these midterm elections, which occurred during incumbent Democratic president Joe Biden's term, all 435 seats in the U.S. House of Representatives and 35 of the 100 seats in the U.S. Senate were contested to determi"
+        }
+      },
+      {
+        "when": "2010",
+        "event": "2010 United States midterm elections",
+        "wikipedia_title": "2010 United States midterm elections",
+        "what_happened": "Voters punished the governing party heavily during a sluggish economic recovery following the Great Recession, driven by voter anxiety over the cost of living and job markets.",
+        "what_followed": "The incumbent party lost 63 seats in the House of Representatives in what was termed a 'shellacking', leading to years of legislative gridlock.",
+        "similarity": "Midterm backlash against the incumbent party driven by economic anxiety and cost-of-living pressures.",
+        "wiki": {
+          "title": "2010 United States elections",
+          "url": "https://en.wikipedia.org/wiki/2010_United_States_elections",
+          "extract": "Elections were held in the United States on November 2, 2010, in the middle of Democratic President Barack Obama's first term. Republicans ended unified Democratic control of Congress and the presidency by winning a majority in the House of Representatives and gained seats in the"
+        }
+      }
+    ],
+    "pattern": "In 4 out of 5 midterm elections featuring high inflation and cost-of-living concerns, the incumbent party loses significant ground in Congress, regardless of headline GDP growth or strong consumer spending metrics.",
+    "outlook": "The governing party is likely to face a challenging election outcome in legislative races as persistent inflation outweighs positive consumer spending data in voters' minds.",
+    "probability": "65%",
+    "timeframe": "next month",
+    "confidence": "Medium",
+    "different_this_time": "Unusually strong nominal wage growth and specialized issues like artificial intelligence and reproductive rights are competing heavily with standard inflation grievances.",
+    "watch_for": "Late-breaking consumer sentiment indexes and voter turnout patterns among suburban demographics.",
+    "category": "US Economy",
+    "tr": {
+      "translation": {
+        "Category": "ABD Ekonomisi",
+        "Headline": "Seçmenler Sandık Başına Giderken Ekonomiyi Açıklayan 3 Grafik",
+        "Today": "Ara seçimler yaklaşırken seçmenler; kalıcı enflasyon, güçlü tüketici harcamaları ve yapay zeka destekli piyasa ivmesine artan bağımlılıkla tanımlanan bir ekonomiyle karşı karşıya.",
+        "Event Type": "ara seçimler ekonomisi",
+        "Historical Precedents": "2022: 2022 Amerika Birleşik Devletleri ara seçimleri\n2010: 2010 Amerika Birleşik Devletleri ara seçimleri",
+        "What Followed Before": "2022: İktidardaki parti Temsilciler Meclisi'nde sandalye kaybetti ancak seçmenlerin ekonomik olmayan sosyal faktörlere odaklanması sayesinde standart ekonomik felaket senaryolarına meydan okuyarak Senato'da tarihe geçecek kadar iyi bir performans sergiledi.\n2010: İktidardaki parti, 'hezimet' olarak adlandırılan sonuçla Temsilciler Meclisi'nde 63 sandalye kaybetti ve bu durum yıll süren yasama tıkanıklığına yol açtı.",
+        "Pattern": "Yüksek enflasyon ve geçim sıkıntısının yaşandığı 5 ara seçimden 4'ünde, manşet GSYH büyümesine veya güçlü tüketici harcamaları verilerine bakılmaksızın, iktidar partisi Kongre'de ciddi ölçüde zemin kaybeder.",
+        "Outlook": "Yönetimdeki parti, kalıcı enflasyonun seçmenlerin zihninde olumlu tüketici harcamaları verilerini geride bırakması nedeniyle yasama yarışlarında zorlu bir seçim sonucuyla karşılaşması muhtemel.",
+        "Timeframe": "önümüzdeki ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Alışılmadık derecede güçlü nominal ücret artışı ile yapay zeka ve üreme hakları gibi özel konular, standart enflasyon şikayetleriyle yoğun bir şekilde rekabet ediyor.",
+        "Watch For": "Son açıklanan tüketici eğilim endeksleri ve banliyö demografisindeki seçmen katılım kalıpları."
+      },
+      "vocabulary": [
+        {
+          "en": "stubborn inflation",
+          "tr": "kalıcı/inatçı enflasyon"
+        },
+        {
+          "en": "robust consumer spending",
+          "tr": "güçlü tüketici harcamaları"
+        },
+        {
+          "en": "incumbent party",
+          "tr": "iktidardaki parti"
+        },
+        {
+          "en": "shellacking",
+          "tr": "hezimet / ağır yenilgi"
+        },
+        {
+          "en": "legislative gridlock",
+          "tr": "yasama tıkanıklığı"
+        },
+        {
+          "en": "grievances",
+          "tr": "şikayetler / hoşnutsuzluklar"
+        },
+        {
+          "en": "voter turnout",
+          "tr": "seçmen katılımı"
+        }
+      ]
+    }
+  },
+  {
+    "headline": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+    "source_link": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
+    "what_happened": "France is experiencing its worst unrest in years as citizens protest government spending cuts and austerity measures, triggering fears over the country's debt crisis and causing French stocks, bonds, and the euro to fall.",
+    "event_type": "debt crisis and austerity protests",
+    "precedents": [
+      {
+        "when": "2018-2019",
+        "event": "Yellow vests movement",
+        "wikipedia_title": "Yellow vests movement",
+        "what_happened": "Demonstrations began across France in November 2018 initially over fuel price hikes, evolving into a broader protest against living costs and taxes on the working class.",
+        "what_followed": "The French government suspended and later cancelled the planned fuel tax hikes, and President Emmanuel Macron announced emergency economic measures totaling billions of euros to appease protesters, while public debt temporarily widened.",
+        "similarity": "Same country, same executive leadership facing popular backlash against government fiscal policies perceived as unfair to ordinary citizens.",
+        "wiki": {
+          "title": "Yellow vests protests",
+          "url": "https://en.wikipedia.org/wiki/Yellow_vests_protests",
+          "extract": "The yellow vest movement refers to those involved in a series of populist, grassroots weekly protests in France that began on 17 November 2018 and ended on 28 June 2020."
+        }
+      },
+      {
+        "when": "2023",
+        "event": "2023 French pension reform protests",
+        "wikipedia_title": "2023 French pension reform protests",
+        "what_happened": "Mass strikes and widespread civil unrest broke out across France following the government's use of constitutional powers to force through a controversial increase in the retirement age.",
+        "what_followed": "Despite months of intense disruption and deep public anger, the pension reform ultimately went into effect, but it left the executive branch severely weakened politically and triggered ongoing fiscal scrutiny from credit rating agencies.",
+        "similarity": "Same governance structure, where fiscal tightening and reform initiatives trigger nationwide unrest and bond market nervousness.",
+        "wiki": {
+          "title": "2023 French pension reform strikes",
+          "url": "https://en.wikipedia.org/wiki/2023_French_pension_reform_strikes",
+          "extract": "A series of protests began in France on 19 January 2023 with a demonstration of over one million people nationwide, organised by opponents of the pension reform bill proposed by the Borne government to increase the retirement age from 62 to 64."
+        }
+      }
+    ],
+    "pattern": "In approximately 80% of major French fiscal protest cycles over the past decade, intense street unrest forces the government to soften or delay implementation timelines, which subsequently causes credit rating agencies and bond markets to penalize French sovereign debt.",
+    "outlook": "The French government will likely offer targeted spending concessions or delay certain austerity measures to quell the unrest, leading to sustained pressure on French bond yields and widening spreads relative to German bunds.",
+    "probability": "75%",
+    "timeframe": "next 3 months",
+    "confidence": "High",
+    "different_this_time": "The sovereign debt and deficit backdrop across the broader Eurozone is tighter now, leaving Paris with far less fiscal room to maneuver than during previous protest waves.",
+    "watch_for": "Comments from credit rating agencies regarding France's debt outlook and any emergency fiscal revisions announced by President Macron.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "Hükümet harcamalarını dizginleme girişimleri vatandaşın öfkesiyle karşılaşırken, Fransa son yılların en şiddetli huzursuzluğuyla sarsıldı",
+        "Today": "Vatandaşların hükümetin harcama kesintilerini ve kemer sıkma önlemlerini protesto etmesi, ülkenin borç krizine dair endişeleri tetiklerken ve Fransız hisse senetleri, tahvilleri ile euronun düşmesine yol açarken, Fransa son yılların en şiddetli huzursuzluğunu yaşıyor.",
+        "Event Type": "borç krizi ve kemer sıkma protestoları",
+        "Historical Precedents": "2018-2019: Sarı yelekliler hareketi\n2023: 2023 Fransa emeklilik reformu protestoları",
+        "What Followed Before": "2018-2019: Fransız hükümeti planlanan akaryakıt vergisi artışlarını önce askıya aldı, ardından iptal etti; Cumhurbaşkanı Emmanuel Macron protestocuları yatıştırmak için milyarlarca euro tutarında acil ekonomik önlemler açıkladı, ancak bu süreçte kamu borcu geçici olarak arttı.\n2023: Aylarca süren yoğun aksamalara ve derin toplumsal öfkeye rağmen emeklilik reformu nihayetinde yürürlüğe girdi; fakat yürütme organını siyasi açıdan ciddi şekilde zayıflattı ve kredi derecelendirme kuruluşlarının süregelen mali denetimini tetikledi.",
+        "Pattern": "Son on yıldaki büyük Fransız mali protesto dalgalarının yaklaşık %80'inde, sokaklardaki yoğun huzursuzluk hükümeti uygulama takvimlerini yumuşatmaya veya ertelemeye zorladı; bu durum da akabinde kredi derecelendirme kuruluşlarının ve tahvil piyasalarının Fransız kamu borcunu cezalandırmasına yol açtı.",
+        "Outlook": "Fransız hükümeti, huzursuzluğu yatıştırmak için muhtemelen hedefe yönelik harcama tavizleri sunacak ya da belirli kemer sıkma önlemlerini erteleyecektir; bu da Fransız tahvil faizleri üzerinde sürekli bir baskıya ve Alman devlet tahvillerine (bunds) kıyasla makasın açılmasına neden olacaktır.",
+        "Timeframe": "gelecek 3 ay",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Daha geniş Euro Bölgesi genelindeki kamu borcu ve bütçe açığı tablosu artık daha sıkışık, bu da Paris'e önceki protesto dalgalarına kıyasla manevra yapacak çok daha az mali alan bırakıyor.",
+        "Watch For": "Kredi derecelendirme kuruluşlarından Fransa'nın borç görünümüne ilişkin gelecek açıklamalar ve Cumhurbaşkanı Macron tarafından duyurulacak olası acil mali revizyonlar."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "rein in",
+            "tr": "dizginlemek, kontrol altına almak"
+          },
+          {
+            "en": "spending",
+            "tr": "harcama"
+          },
+          {
+            "en": "ire",
+            "tr": "öfke, hiddet"
+          },
+          {
+            "en": "unrest",
+            "tr": "huzursuzluk, kargaşa"
+          }
+        ],
+        "Today": [
+          {
+            "en": "austerity measures",
+            "tr": "kemer sıkma önlemleri"
+          },
+          {
+            "en": "trigger",
+            "tr": "tetiklemek"
+          },
+          {
+            "en": "debt crisis",
+            "tr": "borç krizi"
+          },
+          {
+            "en": "bonds",
+            "tr": "tahviller"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "suspend",
+            "tr": "askıya almak"
+          },
+          {
+            "en": "fuel tax hikes",
+            "tr": "akaryakıt vergisi artışları"
+          },
+          {
+            "en": "appease",
+            "tr": "yatıştırmak, teskin etmek"
+          },
+          {
+            "en": "went into effect",
+            "tr": "yürürlüğe girdi"
+          },
+          {
+            "en": "executive branch",
+            "tr": "yürütme organı"
+          },
+          {
+            "en": "fiscal scrutiny",
+            "tr": "mali denetim / inceleme"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "implementation timelines",
+            "tr": "uygulama takvimleri"
+          },
+          {
+            "en": "subsequently",
+            "tr": "sonradan, akabinde"
+          },
+          {
+            "en": "penalize",
+            "tr": "cezalandırmak"
+          },
+          {
+            "en": "sovereign debt",
+            "tr": "kamu/devlet borcu"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "targeted",
+            "tr": "hedefe yönelik"
+          },
+          {
+            "en": "concessions",
+            "tr": "tavizler"
+          },
+          {
+            "en": "quell",
+            "tr": "bastırmak, yatıştırmak"
+          },
+          {
+            "en": "sustained",
+            "tr": "sürekli, kesintisiz"
+          },
+          {
+            "en": "bond yields",
+            "tr": "tahvil getirileri / faizleri"
+          },
+          {
+            "en": "widening spreads",
+            "tr": "açılan getiri farkları/makasları"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "backdrop",
+            "tr": "arka plan, genel ortam"
+          },
+          {
+            "en": "deficit",
+            "tr": "bütçe açığı"
+          },
+          {
+            "en": "room to maneuver",
+            "tr": "manevra alanı"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "credit rating agencies",
+            "tr": "kredi derecelendirme kuruluşları"
+          },
+          {
+            "en": "revisions",
+            "tr": "revizyonlar, düzeltmeler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+    "source_link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+    "what_happened": "Saudi Arabia has postponed its flagship Future Investment Initiative (FII) conference to 2027 following an escalation of missile and drone attacks by Iran-backed Houthi militants targeting the kingdom.",
+    "event_type": "geopolitical escalation and economic event postponement",
+    "precedents": [
+      {
+        "when": "2019",
+        "event": "Abqaiq–Khurais attack",
+        "wikipedia_title": "Abqaiq–Khurais attack",
+        "what_happened": "Drones and missiles struck critical Saudi oil processing facilities at Abqaiq and Khurais, temporarily halving the country's oil production.",
+        "what_followed": "Global oil prices spiked dramatically overnight, and Saudi Arabia accelerated regional diplomatic outreach while increasing domestic security and defense postures to reassure foreign investors.",
+        "similarity": "Same regional aggressors targeting Saudi critical infrastructure and high-profile economic hubs, forcing a security and economic recalibration.",
+        "wiki": {
+          "title": "Abqaiq–Khurais attack",
+          "url": "https://en.wikipedia.org/wiki/Abqaiq%E2%80%93Khurais_attack",
+          "extract": "On 14 September 2019, drones were used to attack oil processing facilities at Abqaiq and Khurais in eastern Saudi Arabia. The facilities were operated by Saudi Aramco, the country's state-owned oil company. The Houthi movement in Yemen claimed responsibility, tying it to events s"
+        }
+      },
+      {
+        "when": "2018",
+        "event": "Future Investment Initiative 2018 boycott",
+        "wikipedia_title": "Future Investment Initiative",
+        "what_happened": "Major international executives and political leaders pulled out of Saudi Arabia's flagship investment conference following geopolitical controversies.",
+        "what_followed": "The conference proceeded on a scaled-back basis, but Riyadh adjusted its foreign engagement strategy and relied more heavily on domestic capital and non-Western partnerships before fully normalizing high-level attendance in subsequent years.",
+        "similarity": "High-profile disruption or postponement of Saudi Arabia's premier economic showcase due to sudden geopolitical shocks.",
+        "wiki": {
+          "title": "Future Investment Initiative Institute",
+          "url": "https://en.wikipedia.org/wiki/Future_Investment_Initiative_Institute",
+          "extract": "The Future Investment Initiative Institute, or FII Institute, is a non-profit organisation run by the Public Investment Fund, Saudi Arabia's main sovereign wealth fund. The Future Investment Initiative was announced in September 2017 by Saudi Arabia's Public Investment Fund, to \""
+        }
+      }
+    ],
+    "pattern": "When regional security threats disrupt high-profile Saudi economic events, Riyadh typically responds by prioritizing immediate security stabilization and regional deterrence before rescheduling economic showcases, often resulting in temporary caution among foreign direct investors.",
+    "outlook": "Foreign direct investment sentiment toward Saudi Arabia will experience a short-term cooling period as international executives reassess security risks, while regional defense spending will remain elevated.",
+    "probability": "70%",
+    "timeframe": "next 6 months",
+    "confidence": "Medium",
+    "different_this_time": "Saudi Arabia's Vision 2026/2030 economic diversification projects are much larger and more advanced now than during past security shocks, creating a stronger baseline need to maintain foreign capital flows despite conflict.",
+    "watch_for": "Shifts in regional diplomatic engagement between Riyadh and Iran, or changes in air defense intercept rates over the kingdom.",
+    "category": "Global Economy & Markets",
+    "tr": {
+      "translation": {
+        "Category": "Küresel Ekonomi ve Piyasalar",
+        "Headline": "İran destekli Husilerin krallığa yönelik saldırılarını tırmandırmasıyla Suudi Arabistan büyük yatırımcı konferansını 2027'ye erteledi",
+        "Today": "Suudi Arabistan, İran destekli Husi militanlarının krallığı hedef alan füze ve İHA saldırılarını tırmandırmasının ardından prestijli Gelecek Yatırım Girişimi (FII) konferansını 2027'ye erteledi.",
+        "Event Type": "jeopolitik gerilim artışı ve ekonomik etkinlik ertelemesi",
+        "Historical Precedents": "2019: Abkayk-Hureys saldırısı\n2018: Gelecek Yatırım Girişimi 2018 boykotu",
+        "What Followed Before": "2019: Küresel petrol fiyatları bir gecede dramatik biçimde fırladı; Suudi Arabistan, yabancı yatırımcılara güvence vermek adına bir yandan bölgesel diplomatik temaslarını hızlandırırken diğer yandan yurt içi güvenlik ve savunma tedbirlerini artırdı.\n2018: Konferans küçültülmüş bir ölçekte gerçekleştirildi; ancak Riyad, ilerleyen yıllarda üst düzey katılımı tamamen normale döndürmeden önce dış temas stratejisini yeniden ayarladı ve yerli sermaye ile Batı dışı ortaklıklara daha fazla dayandı.",
+        "Pattern": "Bölgesel güvenlik tehditleri üst düzey Suudi ekonomik etkinliklerini aksattığında, Riyad genellikle ekonomik vitrinleri yeniden planlamadan önce acil güvenlik istikrarını ve bölgesel caydırıcılığı önceliklendirerek yanıt verir; bu da çoğunlukla doğrudan yabancı yatırımcılar arasında geçici bir temkine yol açar.",
+        "Outlook": "Uluslararası yöneticilerin güvenlik risklerini yeniden değerlendirmesiyle birlikte Suudi Arabistan'a yönelik doğrudan yabancı yatırım algısı kısa vadeli bir soğuma dönemi yaşayacak, bölgesel savunma harcamaları ise yüksek seviyelerde kalacaktır.",
+        "Timeframe": "gelecek 6 ay",
+        "Confidence": "Orta",
+        "Why Different This Time": "Suudi Arabistan'ın Vizyon 2026/2030 ekonomik çeşitlendirme projeleri artık geçmişteki güvenlik şoklarına kıyasla çok daha büyük ve ileri bir aşamada; bu da çatışmaya rağmen yabancı sermaye akışını sürdürmeye yönelik daha güçlü bir temel ihtiyaç yaratıyor.",
+        "Watch For": "Riyad ile İran arasındaki bölgesel diplomatik temaslardaki değişimler veya krallık üzerindeki hava savunma engelleme oranlarındaki farklılaşmalar."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "postpone",
+            "tr": "ertelemek"
+          },
+          {
+            "en": "Iran-backed",
+            "tr": "İran destekli"
+          },
+          {
+            "en": "escalate",
+            "tr": "tırmandırmak, şiddetlendirmek"
+          }
+        ],
+        "Today": [
+          {
+            "en": "flagship",
+            "tr": "amiral gemisi, en önemli/prestijli"
+          },
+          {
+            "en": "drone",
+            "tr": "insansız hava aracı (İHA)"
+          },
+          {
+            "en": "militants",
+            "tr": "militanlar"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "spiked dramatically",
+            "tr": "dramatik bir şekilde fırladı"
+          },
+          {
+            "en": "outreach",
+            "tr": "temas, uzanma"
+          },
+          {
+            "en": "reassure",
+            "tr": "güvence vermek, içini rahatlatmak"
+          },
+          {
+            "en": "scaled-back",
+            "tr": "küçültülmüş, ölçeği daraltılmış"
+          },
+          {
+            "en": "relied on",
+            "tr": "güvendi, dayandı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "high-profile",
+            "tr": "üst düzey, dikkat çeken"
+          },
+          {
+            "en": "prioritizing",
+            "tr": "önceliklendirme"
+          },
+          {
+            "en": "deterrence",
+            "tr": "caydırıcılık"
+          },
+          {
+            "en": "rescheduling",
+            "tr": "yeniden planlamak/ertelemek"
+          },
+          {
+            "en": "caution",
+            "tr": "temkin, dikkat"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "foreign direct investment",
+            "tr": "doğrudan yabancı yatırım"
+          },
+          {
+            "en": "sentiment",
+            "tr": "hava, algı, duyarlılık"
+          },
+          {
+            "en": "reassess",
+            "tr": "yeniden değerlendirmek"
+          },
+          {
+            "en": "elevated",
+            "tr": "yüksek, artmış"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "diversification",
+            "tr": "çeşitlendirme"
+          },
+          {
+            "en": "baseline need",
+            "tr": "temel ihtiyaç"
+          },
+          {
+            "en": "capital flows",
+            "tr": "sermaye akışları"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "diplomatic engagement",
+            "tr": "diplomatik temas/ilişki"
+          },
+          {
+            "en": "intercept rates",
+            "tr": "havada engelleme/yok etme oranları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Michael Carrick's Manchester United extended their winless run to six games after drawing 1-1 against Leeds United.",
+    "event_type": "winless run",
+    "precedents": [
+      {
+        "when": "2021",
+        "event": "Ole Gunnar Solskjaer's final matches at Manchester United",
+        "wikipedia_title": "Ole Gunnar Solskjaer",
+        "what_happened": "Solskjaer oversaw a dismal run of form including heavy defeats to Liverpool and Watford, leading to intense pressure.",
+        "what_followed": "He was sacked within days of the Watford defeat as the winless and poor performance spiral became irreversible.",
+        "similarity": "Same club experiencing an extended winless sequence under mounting media scrutiny.",
+        "wiki": {
+          "title": "Ole Gunnar Solskjær",
+          "url": "https://en.wikipedia.org/wiki/Ole_Gunnar_Solskj%C3%A6r",
+          "extract": "Ole Gunnar Solskjær is a Norwegian professional football manager and former player, who was most recently manager of Beşiktaş. He spent the majority of his playing career with Manchester United and made 67 appearances for the Norway national team."
+        }
+      },
+      {
+        "when": "2022",
+        "event": "Steven Gerrard sacked by Aston Villa",
+        "wikipedia_title": "Steven Gerrard",
+        "what_happened": "Gerrard failed to arrest a slump in form, culminating in a 3-0 defeat to Fulham that left Villa hovering above the relegation zone.",
+        "what_followed": "He was dismissed less than two hours after the full-time whistle.",
+        "similarity": "A manager struggling to find a win with a squad underperforming relative to expectations.",
+        "wiki": {
+          "title": "Steven Gerrard",
+          "url": "https://en.wikipedia.org/wiki/Steven_Gerrard",
+          "extract": "Steven George Gerrard is an English professional football manager and a former player who most recently managed Saudi Pro League club Al Ettifaq. Widely regarded as one of the greatest midfielders of all time and one of Liverpool's greatest ever players, Gerrard spent the majorit"
+        }
+      }
+    ],
+    "pattern": "In elite club football, when a manager stretches a winless run to six or more matches despite heavy investment, boards typically pull the trigger within the week to appease fans and salvage the season.",
+    "outlook": "Michael Carrick is facing imminent dismissal if he fails to secure a decisive victory in the next fixture.",
+    "probability": "75%",
+    "timeframe": "next 14 days",
+    "confidence": "High",
+    "different_this_time": "Carrick's deep club legend status and potential reluctance from the hierarchy to admit another managerial mistake quickly.",
+    "watch_for": "Reports of emergency board meetings or public statements of 'full support' from executives.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Mbeumo, Carrick'e teselli sunarken Man Utd'nin galibiyet hasreti devam ediyor",
+        "Today": "Michael Carrick'in Manchester United'ı, Leeds United ile 1-1 berabere kalarak galibiyet hasretini altı maça çıkardı.",
+        "Event Type": "galibiyet hasreti",
+        "Historical Precedents": "2021: Ole Gunnar Solskjaer'in Manchester United'daki son maçları\n2022: Steven Gerrard'ın Aston Villa tarafından görevden alınması",
+        "What Followed Before": "2021: Galibiyet alamama ve kötü gidişat sarmalı geri dönüştürülemez hale geldiği için Watford mağlubiyetinden birkaç gün sonra görevden alındı.\n2022: Maçın bitiş düdüğünden iki saatten kısa bir süre sonra görevine son verildi.",
+        "Pattern": "Elit kulüp futbolunda, bir teknik direktör ağır yatırımlara rağmen galibiyetsiz seriyi altı veya daha fazla maça çıkardığında, yönetim kurulu taraftarları yatıştırmak ve sezonu kurtarmak için genellikle bir hafta içinde görevden alma kararı alır.",
+        "Outlook": "Michael Carrick, bir sonraki maçta kesin bir galibiyet alamazsa yaklaşan bir görevden alma tehlikesiyle karşı karşıya.",
+        "Timeframe": "önümüzüdeki 14 gün",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Carrick'in kulüpteki derin efsane statüsü ve yönetim kademesinin bir başka teknik direktör hatasını hızlıca kabul etmekteki olası çekincesi.",
+        "Watch For": "Acil yönetim kurulu toplantısı haberleri veya yöneticilerden gelen 'tam destek' kamuoyu açıklamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "solace",
+            "tr": "teselli"
+          },
+          {
+            "en": "winless run",
+            "tr": "galibiyetsiz serisi / galibiyet hasreti"
+          }
+        ],
+        "Today": [
+          {
+            "en": "extended",
+            "tr": "uzattı"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [
+          {
+            "en": "sacked",
+            "tr": "kovuldu / görevden alındı"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "dismissed",
+            "tr": "görevden alındı"
+          },
+          {
+            "en": "spiral",
+            "tr": "sarmal"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "pull the trigger",
+            "tr": "tetik çekmek (karar vermek, uygulamaya koymak)"
+          },
+          {
+            "en": "appease",
+            "tr": "yatıştırmak"
+          },
+          {
+            "en": "salvage",
+            "tr": "kurtarmak"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "imminent dismissal",
+            "tr": "yaklaşan görevden alınma"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "reluctance",
+            "tr": "çekince, isteksizlik"
+          },
+          {
+            "en": "hierarchy",
+            "tr": "yönetim kademesi, hiyerarşi"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "executives",
+            "tr": "üst düzey yöneticiler"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Sage feels 'shame' at Palace thrashing with future in doubt",
+    "source_link": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss",
+    "what_happened": "Crystal Palace manager Pierre Sage expressed deep shame following a 5-0 thrashing by Brighton, leaving his future at Selhurst Park in serious doubt.",
+    "event_type": "manager sacked",
+    "precedents": [
+      {
+        "when": "2022",
+        "event": "Scott Parker sacked by Bournemouth",
+        "wikipedia_title": "Scott Parker",
+        "what_happened": "Parker suffered a 9-0 defeat to Liverpool and openly criticized the club's squad limitations in the Premier League.",
+        "what_followed": "He was sacked just days later, becoming the first Premier League managerial departure of that season.",
+        "similarity": "A manager suffering a heavy, morale-crushing defeat away to a rival and speaking candidly about despair or limitations.",
+        "wiki": {
+          "title": "Scott Parker",
+          "url": "https://en.wikipedia.org/wiki/Scott_Parker",
+          "extract": "Scott Matthew Parker is an English professional football manager and former player who was most recently the head coach of Premier League club Burnley."
+        }
+      },
+      {
+        "when": "2023",
+        "event": "Patrick Vieira sacked by Crystal Palace",
+        "wikipedia_title": "Patrick Vieira",
+        "what_happened": "Vieira oversaw a winless run stretching into double figures culminating in a slide down the Premier League table.",
+        "what_followed": "He was dismissed in March to prevent a relegation slide, despite having achieved stability previously.",
+        "similarity": "Same club (Crystal Palace) pulling the trigger swiftly after a severe downturn in performance and confidence.",
+        "wiki": {
+          "title": "Patrick Vieira",
+          "url": "https://en.wikipedia.org/wiki/Patrick_Vieira",
+          "extract": "Patrick Paul Vieira is a French professional football manager and former player who is the head coach of the Senegal national team. Widely regarded as among the best players of his generation and one of the greatest midfielders of all time, he was named in the FIFA 100 of the gre"
+        }
+      }
+    ],
+    "pattern": "Heavy away defeats by five goals or more coupled with a manager expressing public despair or 'shame' typically precede an immediate dismissal in 8 out of 10 Premier League cases.",
+    "outlook": "Pierre Sage will likely be relieved of his duties before the next weekend fixture.",
+    "probability": "80%",
+    "timeframe": "next 7 days",
+    "confidence": "High",
+    "different_this_time": "Palace's historical patience with managers and potential lack of an immediate, agreed-upon successor.",
+    "watch_for": "Cancellation of pre-match press conferences or unusual silence from the club's sporting director.",
+    "category": "Soccer",
+    "tr": {
+      "translation": {
+        "Category": "Futbol",
+        "Headline": "Sage, Palace bozgununda geleceği belirsizken 'utanç' duyuyor",
+        "Today": "Crystal Palace teknik direktörü Pierre Sage, Brighton karşısında alınan 5-0'lık bozgunun ardından derin bir utanç ifade etti ve Selhurst Park'taki geleceğini ciddi bir belirsizliğe sürükledi.",
+        "Event Type": "teknik direktörün görevden alınması",
+        "Historical Precedents": "2022: Scott Parker'ın Bournemouth tarafından görevden alınması\n2023: Patrick Vieira'nın Crystal Palace tarafından görevden alınması",
+        "What Followed Before": "2022: O sezon Premier Lig'de görevden ayrılan ilk teknik direktör olarak sadece birkaç gün sonra kovuldu.\n2023: Daha önce istikrar sağlamış olmasına rağmen küme düşme hattına kaymayı önlemek için Mart ayında görevine son verildi.",
+        "Pattern": "Beş veya daha fazla golle kaybedilen ağır deplasman mağlubiyetleri, teknik direktörün halka açık bir şekilde umutsuzluk veya 'utanç' ifade etmesiyle birleştiğinde, 10 Premier Lig vakaından 8'inde genellikle derhal görevden alınmanın öncüsü olur.",
+        "Outlook": "Pierre Sage muhtemelen bir sonraki hafta sonu maçından önce görevinden alınacaktır.",
+        "Timeframe": "önümüzdeki 7 gün",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Palace'ın teknik direktörlere karşı tarihi sabrı ve üzerinde anlaşmaya varılmış acil bir halefin bulunmayışı.",
+        "Watch For": "Maç öncesi basın toplantılarının iptal edilmesi veya kulübün sportif direktöründen gelen olağan dışı sessizlik."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "thrashing",
+            "tr": "ağır yenilgi, bozgun"
+          },
+          {
+            "en": "in doubt",
+            "tr": "belirsiz"
+          }
+        ],
+        "Today": [
+          {
+            "en": "expressed",
+            "tr": "ifade etti"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "departure",
+            "tr": "ayrılış"
+          },
+          {
+            "en": "relegation slide",
+            "tr": "küme düşme hattına gerileme"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "coupled with",
+            "tr": "-le birleştiğinde, -in yanı sıra"
+          },
+          {
+            "en": "despair",
+            "tr": "umutsuzluk"
+          },
+          {
+            "en": "precede",
+            "tr": "öncesinde gelmek"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "relieved of his duties",
+            "tr": "görevinden alınmak"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "successor",
+            "tr": "halef, yerine gelen kişi"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "unusual silence",
+            "tr": "olağan dışı sessizlik"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Mission set to blast off for Mars to grab a piece of its moon",
+    "source_link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+    "what_happened": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+    "event_type": "sample return mission",
+    "precedents": [
+      {
+        "when": "2020",
+        "event": "Hayabusa2 asteroid sample return",
+        "wikipedia_title": "Hayabusa2",
+        "what_happened": "JAXA's Hayabusa2 spacecraft successfully collected samples from asteroid Ryugu and returned them to Earth in a sealed capsule.",
+        "what_followed": "The capsule landed safely in the Australian outback in December 2020, yielding pristine extraterrestrial material that was distributed globally for analysis over the following years.",
+        "similarity": "Same type of complex robotic sample-return architecture targeting a small body.",
+        "wiki": {
+          "title": "Hayabusa2",
+          "url": "https://en.wikipedia.org/wiki/Hayabusa2",
+          "extract": "Hayabusa2  is an asteroid sample-return mission operated by the Japanese state space agency JAXA. It is a successor to the Hayabusa mission, which returned asteroid samples for the first time in June 2010. Hayabusa2 was launched on 3 December 2014 and rendezvoused in space with n"
+        }
+      },
+      {
+        "when": "2020",
+        "event": "Chang'e 5 lunar sample return",
+        "wikipedia_title": "Chang'e 5",
+        "what_happened": "China's Chang'e 5 mission successfully landed on the Moon, collected lunar samples, and returned them to Earth.",
+        "what_followed": "The return capsule successfully landed in Inner Mongolia in December 2020, leading to major scientific discoveries regarding lunar volcanism published within 12 months.",
+        "similarity": "Complex multi-stage automated rendezvous, extraction, and return sequence.",
+        "wiki": {
+          "title": "Chang'e 5",
+          "url": "https://en.wikipedia.org/wiki/Chang'e_5",
+          "extract": "Chang'e 5 was the fifth lunar exploration mission in the Chinese Lunar Exploration Program of CNSA, and China's first lunar sample-return mission. The spacecraft pair launched on 23 November 2020, atop a Long March 5 rocket from Wenchang Space Launch Site on Hainan Island, landed"
+        }
+      }
+    ],
+    "pattern": "In successful robotic sample return missions over the last decade, spacecraft have consistently managed the transit and collection phases, resulting in successful delivery of extraterrestrial material to Earth labs.",
+    "outlook": "The mission will successfully transit to the Martian system and attempt sample acquisition, though mechanical complexities during surface operations introduce potential delays.",
+    "probability": "75%",
+    "timeframe": "next 3-5 years",
+    "confidence": "Medium",
+    "different_this_time": "Targeting a Martian moon rather than an asteroid or the Moon introduces new gravitational dynamics and communication lag challenges.",
+    "watch_for": "Successful launch milestones and mid-course correction maneuvers.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Mars uydusundan parça koparmak için fırlatmaya hazırlanan görev",
+        "Today": "Bir uzay aracı, Mars uydusundan 10 gram tozu Dünya'ya geri getirmek üzere iddialı bir göreve başlamaya hazırlanıyor.",
+        "Event Type": "örnek getirme görevi",
+        "Historical Precedents": "2020: Hayabusa2 asteroit örnek getirme görevi\n2020: Chang'e 5 ay örnek getirme görevi",
+        "What Followed Before": "2020: Kapsül, Aralık 2020'de Avustralya'nın iç kesimlerine güvenli bir şekilde iniş yaptı ve sonraki yıllarda analiz için küresel olarak dağıtılan bozulmamış dünya dışı materyal sağladı.\n2020: Dönüş kapsülü, Aralık 2020'de İç Moğolistan'a başarıyla indi ve 12 ay içinde yayınlanan ay volkanizmasıyla ilgili önemli bilimsel keşiflere yol açtı.",
+        "Pattern": "Son on yıldaki başarılı robotik örnek getirme görevlerinde, uzay araçları geçiş ve toplama aşamalarını istikrarlı bir şekilde yöneterek dünya dışı materyalin Dünya laboratuvarlarına başarıyla teslim edilmesini sağlamıştır.",
+        "Outlook": "Görev Mars sistemine başarıyla geçiş yapacak ve örnek alımı deneyecektir, ancak yüzey operasyonları sırasındaki mekanik karmaşıklıklar potansiyel gecikmelere neden olmaktadır.",
+        "Timeframe": "önümüzdeki 3-5 yıl",
+        "Confidence": "Orta",
+        "Why Different This Time": "Bir asteroit veya Ay yerine bir Mars uydusunu hedeflemek, yeni yerçekimi dinamikleri ve iletişim gecikmesi zorlukları ortaya çıkarıyor.",
+        "Watch For": "Başarılı fırlatma dönüm noktaları ve rota düzeltme manevraları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "blast off",
+            "tr": "fırlatılmak, uzaya hareket etmek"
+          },
+          {
+            "en": "grab",
+            "tr": "kapmak, almak"
+          }
+        ],
+        "Today": [
+          {
+            "en": "spacecraft",
+            "tr": "uzay aracı"
+          },
+          {
+            "en": "ambitious",
+            "tr": "iddialı"
+          },
+          {
+            "en": "dust",
+            "tr": "toz"
+          }
+        ],
+        "Event Type": [
+          {
+            "en": "sample return",
+            "tr": "örnek getirme"
+          }
+        ],
+        "Historical Precedents": [
+          {
+            "en": "asteroid",
+            "tr": "asteroit"
+          },
+          {
+            "en": "lunar",
+            "tr": "aya ait, lunar"
+          }
+        ],
+        "What Followed Before": [
+          {
+            "en": "capsule",
+            "tr": "kapsül"
+          },
+          {
+            "en": "pristine",
+            "tr": "bozulmamış, saf"
+          },
+          {
+            "en": "extraterrestrial",
+            "tr": "dünya dışı"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "consistently",
+            "tr": "istikrarlı bir şekilde"
+          },
+          {
+            "en": "transit",
+            "tr": "geçiş, seyahat"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "acquisition",
+            "tr": "elde etme, edinme"
+          },
+          {
+            "en": "complexities",
+            "tr": "karmaşıklıklar"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "gravitational dynamics",
+            "tr": "yerçekimi dinamikleri"
+          },
+          {
+            "en": "communication lag",
+            "tr": "iletişim gecikmesi"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "milestones",
+            "tr": "dönüm noktaları"
+          },
+          {
+            "en": "correction maneuvers",
+            "tr": "düzeltme manevraları"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "headline": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+    "source_link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
+    "what_happened": "A discovery in tiny algae led to a Nobel Prize-winning breakthrough that allows scientists to switch brain cells on and off using light (optogenetics).",
+    "event_type": "scientific breakthrough award",
+    "precedents": [
+      {
+        "when": "2020",
+        "event": "Nobel Prize in Chemistry awarded for CRISPR",
+        "wikipedia_title": "2020 Nobel Prize in Chemistry",
+        "what_happened": "Emmanuelle Charpentier and Jennifer Doudna were awarded the Nobel Prize for the development of a method for genome editing (CRISPR-Cas9).",
+        "what_followed": "Following the prize, funding accelerated dramatically, leading to the first clinical approvals for sickle cell disease treatments within three years.",
+        "similarity": "Basic biochemical tools discovered in microbes translating into revolutionary technological platforms recognized by the Nobel committee.",
+        "wiki": {
+          "title": "Nobel Prize in Chemistry",
+          "url": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Chemistry",
+          "extract": "The Nobel Prize in Chemistry is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of chemistry. It is one of the five Nobel Prizes established by the will of Alfred Nobel in 1895, awarded for outstanding contributions in chemistry, phys"
+        }
+      },
+      {
+        "when": "2008",
+        "event": "Nobel Prize in Chemistry awarded for Green Fluorescent Protein",
+        "wikipedia_title": "2008 Nobel Prize in Chemistry",
+        "what_happened": "Osamu Shimomura, Martin Chalfie, and Roger Y. Tsien won the Nobel Prize for the discovery and development of green fluorescent protein (GFP).",
+        "what_followed": "GFP became a foundational staple in cellular and molecular biology worldwide, fundamentally transforming how scientists visualize biological processes in real time.",
+        "similarity": "A natural biological marker/tool discovered in marine or microbial life that unlocked decades of subsequent neurological and cellular research.",
+        "wiki": {
+          "title": "Nobel Prize in Chemistry",
+          "url": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Chemistry",
+          "extract": "The Nobel Prize in Chemistry is awarded annually by the Royal Swedish Academy of Sciences to scientists in the various fields of chemistry. It is one of the five Nobel Prizes established by the will of Alfred Nobel in 1895, awarded for outstanding contributions in chemistry, phys"
+        }
+      }
+    ],
+    "pattern": "When foundational biological tools win major scientific prizes, institutional funding and commercial interest surge, dramatically accelerating their translation from academic labs into advanced therapeutic and diagnostic applications within 3 to 5 years.",
+    "outlook": "Optogenetics will see expanded clinical trial pipelines targeting neurological disorders and vision restoration.",
+    "probability": "85%",
+    "timeframe": "next 3-5 years",
+    "confidence": "High",
+    "different_this_time": "Optogenetics requires genetic modification of human neural tissue, facing a higher regulatory hurdle than optical imaging tools like GFP.",
+    "watch_for": "New clinical trial phases involving human neural interfaces.",
+    "category": "Science & Technology",
+    "tr": {
+      "translation": {
+        "Category": "Bilim ve Teknoloji",
+        "Headline": "Bilim insanları beyin hücrelerini ışıkla kontrol ettikleri için 2006 Nobel Ödülü'nü kazandı",
+        "Today": "Minik alglerdeki bir keşif, bilim insanlarının beyin hücrelerini ışık kullanarak açıp kapatmasını sağlayan Nobel Ödüllü bir çığıra (optogenetik) yol açtı.",
+        "Event Type": "bilimsel çığır açma ödülü",
+        "Historical Precedents": "2020: CRISPR için verilen Nobel Kimya Ödülü\n2008: Yeşil Floresan Protein için verilen Nobel Kimya Ödülü",
+        "What Followed Before": "2020: Ödülün ardından fonlama dramatik bir şekilde hızlandı ve üç yıl içinde orak hücre hastalığı tedavileri için ilk klinik onaylara yol açtı.\n2008: GFP, dünya çapında hücresel ve moleküler biyolojinin temel bir demirbaşı haline geldi ve bilim insanlarının biyolojik süreçleri gerçek zamanlı olarak görselleştirme biçimini temelde dönüştürdü.",
+        "Pattern": "Temel biyolojik araçlar büyük bilimsel ödüller kazandığında, kurumsal fonlama ve ticari ilgi artarak akademik laboratuvarlardaki bulguların gelişmiş terapötik ve teşhis uygulamalarına dönüşümünü 3 ila 5 yıl içinde dramatik bir şekilde hızlandırır.",
+        "Outlook": "Optogenetik, nörolojik bozuklukları ve görme restorasyonunu hedefleyen genişletilmiş klinik araştırma hatları görecek.",
+        "Timeframe": "önümüzdeki 3-5 yıl",
+        "Confidence": "Yüksek",
+        "Why Different This Time": "Optogenetik, insan sinir dokusunun genetik olarak modifiye edilmesini gerektirir ve GFP gibi optik görüntüleme araçlarına göre daha yüksek bir düzenleyici engelle karşı karşıyadır.",
+        "Watch For": "İnsan sinir arayüzlerini içeren yeni klinik deneme aşamaları."
+      },
+      "vocabulary": {
+        "Category": [],
+        "Headline": [
+          {
+            "en": "breakthrough",
+            "tr": "çığır açan gelişme"
+          },
+          {
+            "en": "brain cells",
+            "tr": "beyin hücreleri"
+          }
+        ],
+        "Today": [
+          {
+            "en": "algae",
+            "tr": "algler, su yosunu"
+          },
+          {
+            "en": "optogenetics",
+            "tr": "optogenetik"
+          }
+        ],
+        "Event Type": [],
+        "Historical Precedents": [],
+        "What Followed Before": [
+          {
+            "en": "accelerated",
+            "tr": "hızlandı"
+          },
+          {
+            "en": "clinical approvals",
+            "tr": "klinik onaylar"
+          },
+          {
+            "en": "foundational staple",
+            "tr": "temel unsur, demirbaş"
+          }
+        ],
+        "Pattern": [
+          {
+            "en": "surge",
+            "tr": "hızla artmak, dalgalanma"
+          },
+          {
+            "en": "therapeutic",
+            "tr": "terapötik, tedavi edici"
+          }
+        ],
+        "Outlook": [
+          {
+            "en": "neurological disorders",
+            "tr": "nörolojik bozukluklar"
+          },
+          {
+            "en": "restoration",
+            "tr": "eski haline getirme, restorasyon"
+          }
+        ],
+        "Timeframe": [],
+        "Confidence": [],
+        "Why Different This Time": [
+          {
+            "en": "genetic modification",
+            "tr": "genetik modifikasyon"
+          },
+          {
+            "en": "regulatory hurdle",
+            "tr": "düzenleyici engel"
+          }
+        ],
+        "Watch For": [
+          {
+            "en": "neural interfaces",
+            "tr": "sinirsel arayüzler"
+          }
+        ]
+      }
+    }
+  }
+]
